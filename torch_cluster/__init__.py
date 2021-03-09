@@ -23,6 +23,7 @@ if torch.cuda.is_available():  # pragma: no cover
         major, minor = int(str(cuda_version)[0]), int(str(cuda_version)[2])
     else:
         major, minor = int(str(cuda_version)[0:2]), int(str(cuda_version)[3])
+    """
     t_major, t_minor = [int(x) for x in torch.version.cuda.split('.')]
 
     if t_major != major:
@@ -32,6 +33,7 @@ if torch.cuda.is_available():  # pragma: no cover
             f'{t_major}.{t_minor} and torch_cluster has CUDA version '
             f'{major}.{minor}. Please reinstall the torch_cluster that '
             f'matches your PyTorch install.')
+    """
 
 from .graclus import graclus_cluster  # noqa
 from .grid import grid_cluster  # noqa
