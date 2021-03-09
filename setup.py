@@ -19,6 +19,7 @@ if os.getenv('FORCE_ONLY_CUDA', '0') == '1':
 if os.getenv('FORCE_ONLY_CPU', '0') == '1':
     suffices = ['cpu']
 
+print(suffices)
 BUILD_DOCS = os.getenv('BUILD_DOCS', '0') == '1'
 
 
@@ -47,7 +48,7 @@ def get_extensions():
             define_macros += [('WITH_CUDA', None)]
             nvcc_flags = os.getenv('NVCC_FLAGS', '')
             nvcc_flags = [] if nvcc_flags == '' else nvcc_flags.split(' ')
-            nvcc_flags += ['-arch=sm_35', '--expt-relaxed-constexpr', '-O2']
+            nvcc_flags += ['-arch=sm_35', '-O2', "-I/opt/rocm/include/rocrand","-I/opt/rocm/include/hiprand"]
             extra_compile_args['nvcc'] = nvcc_flags
 
         name = main.split(os.sep)[-1][:-4]
