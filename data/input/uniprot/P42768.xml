@@ -1,0 +1,2457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1995-11-01" modified="2020-10-07" version="234">
+<accession>P42768</accession>
+<accession>Q9BU11</accession>
+<accession>Q9UNJ9</accession>
+<name>WASP_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Wiskott-Aldrich syndrome protein</fullName>
+<shortName>WASp</shortName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">WAS</name>
+<name type="synonym">IMD2</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Cell" volume="78" first="635" last="644">
+<title>Isolation of a novel gene mutated in Wiskott-Aldrich syndrome.</title>
+<authorList>
+<person name="Derry J.M.J."/>
+<person name="Ochs H.D."/>
+<person name="Francke U."/>
+</authorList>
+<dbReference type="PubMed" id="8069912"/>
+<dbReference type="DOI" id="10.1016/0092-8674(94)90528-2"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA]</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<source>
+<tissue>T-cell</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1994" name="Cell" volume="79" first="923" last="923">
+<authorList>
+<person name="Derry J.M.J."/>
+<person name="Ochs H.D."/>
+<person name="Francke U."/>
+</authorList>
+<dbReference type="PubMed" id="8001129"/>
+</citation>
+<scope>ERRATUM OF PUBMED:8069912</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1995" name="Proc. Natl. Acad. Sci. U.S.A." volume="92" first="4706" last="4710">
+<title>Identification of mutations in the Wiskott-Aldrich syndrome gene and characterization of a polymorphic dinucleotide repeat at DXS6940, adjacent to the disease gene.</title>
+<authorList>
+<person name="Kwan S.-P."/>
+<person name="Hagemann T.L."/>
+<person name="Radtke B.E."/>
+<person name="Blaese R.M."/>
+<person name="Rosen F.S."/>
+</authorList>
+<dbReference type="PubMed" id="7753869"/>
+<dbReference type="DOI" id="10.1073/pnas.92.10.4706"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>VARIANTS WAS TRP-43; MET-45; LEU-58; LYS-133 AND THR-134</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1999" name="Biochem. Biophys. Res. Commun." volume="256" first="104" last="109">
+<title>The identification and characterization of two promoters and the complete genomic sequence for the Wiskott-Aldrich syndrome gene.</title>
+<authorList>
+<person name="Hagemann T.L."/>
+<person name="Kwan S.-P."/>
+</authorList>
+<dbReference type="PubMed" id="10066431"/>
+<dbReference type="DOI" id="10.1006/bbrc.1999.0292"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2005" name="Nature" volume="434" first="325" last="337">
+<title>The DNA sequence of the human X chromosome.</title>
+<authorList>
+<person name="Ross M.T."/>
+<person name="Grafham D.V."/>
+<person name="Coffey A.J."/>
+<person name="Scherer S."/>
+<person name="McLay K."/>
+<person name="Muzny D."/>
+<person name="Platzer M."/>
+<person name="Howell G.R."/>
+<person name="Burrows C."/>
+<person name="Bird C.P."/>
+<person name="Frankish A."/>
+<person name="Lovell F.L."/>
+<person name="Howe K.L."/>
+<person name="Ashurst J.L."/>
+<person name="Fulton R.S."/>
+<person name="Sudbrak R."/>
+<person name="Wen G."/>
+<person name="Jones M.C."/>
+<person name="Hurles M.E."/>
+<person name="Andrews T.D."/>
+<person name="Scott C.E."/>
+<person name="Searle S."/>
+<person name="Ramser J."/>
+<person name="Whittaker A."/>
+<person name="Deadman R."/>
+<person name="Carter N.P."/>
+<person name="Hunt S.E."/>
+<person name="Chen R."/>
+<person name="Cree A."/>
+<person name="Gunaratne P."/>
+<person name="Havlak P."/>
+<person name="Hodgson A."/>
+<person name="Metzker M.L."/>
+<person name="Richards S."/>
+<person name="Scott G."/>
+<person name="Steffen D."/>
+<person name="Sodergren E."/>
+<person name="Wheeler D.A."/>
+<person name="Worley K.C."/>
+<person name="Ainscough R."/>
+<person name="Ambrose K.D."/>
+<person name="Ansari-Lari M.A."/>
+<person name="Aradhya S."/>
+<person name="Ashwell R.I."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Ballabio A."/>
+<person name="Banerjee R."/>
+<person name="Barker G.E."/>
+<person name="Barlow K.F."/>
+<person name="Barrett I.P."/>
+<person name="Bates K.N."/>
+<person name="Beare D.M."/>
+<person name="Beasley H."/>
+<person name="Beasley O."/>
+<person name="Beck A."/>
+<person name="Bethel G."/>
+<person name="Blechschmidt K."/>
+<person name="Brady N."/>
+<person name="Bray-Allen S."/>
+<person name="Bridgeman A.M."/>
+<person name="Brown A.J."/>
+<person name="Brown M.J."/>
+<person name="Bonnin D."/>
+<person name="Bruford E.A."/>
+<person name="Buhay C."/>
+<person name="Burch P."/>
+<person name="Burford D."/>
+<person name="Burgess J."/>
+<person name="Burrill W."/>
+<person name="Burton J."/>
+<person name="Bye J.M."/>
+<person name="Carder C."/>
+<person name="Carrel L."/>
+<person name="Chako J."/>
+<person name="Chapman J.C."/>
+<person name="Chavez D."/>
+<person name="Chen E."/>
+<person name="Chen G."/>
+<person name="Chen Y."/>
+<person name="Chen Z."/>
+<person name="Chinault C."/>
+<person name="Ciccodicola A."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Clerc-Blankenburg K."/>
+<person name="Clifford K."/>
+<person name="Cobley V."/>
+<person name="Cole C.G."/>
+<person name="Conquer J.S."/>
+<person name="Corby N."/>
+<person name="Connor R.E."/>
+<person name="David R."/>
+<person name="Davies J."/>
+<person name="Davis C."/>
+<person name="Davis J."/>
+<person name="Delgado O."/>
+<person name="Deshazo D."/>
+<person name="Dhami P."/>
+<person name="Ding Y."/>
+<person name="Dinh H."/>
+<person name="Dodsworth S."/>
+<person name="Draper H."/>
+<person name="Dugan-Rocha S."/>
+<person name="Dunham A."/>
+<person name="Dunn M."/>
+<person name="Durbin K.J."/>
+<person name="Dutta I."/>
+<person name="Eades T."/>
+<person name="Ellwood M."/>
+<person name="Emery-Cohen A."/>
+<person name="Errington H."/>
+<person name="Evans K.L."/>
+<person name="Faulkner L."/>
+<person name="Francis F."/>
+<person name="Frankland J."/>
+<person name="Fraser A.E."/>
+<person name="Galgoczy P."/>
+<person name="Gilbert J."/>
+<person name="Gill R."/>
+<person name="Gloeckner G."/>
+<person name="Gregory S.G."/>
+<person name="Gribble S."/>
+<person name="Griffiths C."/>
+<person name="Grocock R."/>
+<person name="Gu Y."/>
+<person name="Gwilliam R."/>
+<person name="Hamilton C."/>
+<person name="Hart E.A."/>
+<person name="Hawes A."/>
+<person name="Heath P.D."/>
+<person name="Heitmann K."/>
+<person name="Hennig S."/>
+<person name="Hernandez J."/>
+<person name="Hinzmann B."/>
+<person name="Ho S."/>
+<person name="Hoffs M."/>
+<person name="Howden P.J."/>
+<person name="Huckle E.J."/>
+<person name="Hume J."/>
+<person name="Hunt P.J."/>
+<person name="Hunt A.R."/>
+<person name="Isherwood J."/>
+<person name="Jacob L."/>
+<person name="Johnson D."/>
+<person name="Jones S."/>
+<person name="de Jong P.J."/>
+<person name="Joseph S.S."/>
+<person name="Keenan S."/>
+<person name="Kelly S."/>
+<person name="Kershaw J.K."/>
+<person name="Khan Z."/>
+<person name="Kioschis P."/>
+<person name="Klages S."/>
+<person name="Knights A.J."/>
+<person name="Kosiura A."/>
+<person name="Kovar-Smith C."/>
+<person name="Laird G.K."/>
+<person name="Langford C."/>
+<person name="Lawlor S."/>
+<person name="Leversha M."/>
+<person name="Lewis L."/>
+<person name="Liu W."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Loulseged H."/>
+<person name="Loveland J.E."/>
+<person name="Lovell J.D."/>
+<person name="Lozado R."/>
+<person name="Lu J."/>
+<person name="Lyne R."/>
+<person name="Ma J."/>
+<person name="Maheshwari M."/>
+<person name="Matthews L.H."/>
+<person name="McDowall J."/>
+<person name="McLaren S."/>
+<person name="McMurray A."/>
+<person name="Meidl P."/>
+<person name="Meitinger T."/>
+<person name="Milne S."/>
+<person name="Miner G."/>
+<person name="Mistry S.L."/>
+<person name="Morgan M."/>
+<person name="Morris S."/>
+<person name="Mueller I."/>
+<person name="Mullikin J.C."/>
+<person name="Nguyen N."/>
+<person name="Nordsiek G."/>
+<person name="Nyakatura G."/>
+<person name="O'dell C.N."/>
+<person name="Okwuonu G."/>
+<person name="Palmer S."/>
+<person name="Pandian R."/>
+<person name="Parker D."/>
+<person name="Parrish J."/>
+<person name="Pasternak S."/>
+<person name="Patel D."/>
+<person name="Pearce A.V."/>
+<person name="Pearson D.M."/>
+<person name="Pelan S.E."/>
+<person name="Perez L."/>
+<person name="Porter K.M."/>
+<person name="Ramsey Y."/>
+<person name="Reichwald K."/>
+<person name="Rhodes S."/>
+<person name="Ridler K.A."/>
+<person name="Schlessinger D."/>
+<person name="Schueler M.G."/>
+<person name="Sehra H.K."/>
+<person name="Shaw-Smith C."/>
+<person name="Shen H."/>
+<person name="Sheridan E.M."/>
+<person name="Shownkeen R."/>
+<person name="Skuce C.D."/>
+<person name="Smith M.L."/>
+<person name="Sotheran E.C."/>
+<person name="Steingruber H.E."/>
+<person name="Steward C.A."/>
+<person name="Storey R."/>
+<person name="Swann R.M."/>
+<person name="Swarbreck D."/>
+<person name="Tabor P.E."/>
+<person name="Taudien S."/>
+<person name="Taylor T."/>
+<person name="Teague B."/>
+<person name="Thomas K."/>
+<person name="Thorpe A."/>
+<person name="Timms K."/>
+<person name="Tracey A."/>
+<person name="Trevanion S."/>
+<person name="Tromans A.C."/>
+<person name="d'Urso M."/>
+<person name="Verduzco D."/>
+<person name="Villasana D."/>
+<person name="Waldron L."/>
+<person name="Wall M."/>
+<person name="Wang Q."/>
+<person name="Warren J."/>
+<person name="Warry G.L."/>
+<person name="Wei X."/>
+<person name="West A."/>
+<person name="Whitehead S.L."/>
+<person name="Whiteley M.N."/>
+<person name="Wilkinson J.E."/>
+<person name="Willey D.L."/>
+<person name="Williams G."/>
+<person name="Williams L."/>
+<person name="Williamson A."/>
+<person name="Williamson H."/>
+<person name="Wilming L."/>
+<person name="Woodmansey R.L."/>
+<person name="Wray P.W."/>
+<person name="Yen J."/>
+<person name="Zhang J."/>
+<person name="Zhou J."/>
+<person name="Zoghbi H."/>
+<person name="Zorilla S."/>
+<person name="Buck D."/>
+<person name="Reinhardt R."/>
+<person name="Poustka A."/>
+<person name="Rosenthal A."/>
+<person name="Lehrach H."/>
+<person name="Meindl A."/>
+<person name="Minx P.J."/>
+<person name="Hillier L.W."/>
+<person name="Willard H.F."/>
+<person name="Wilson R.K."/>
+<person name="Waterston R.H."/>
+<person name="Rice C.M."/>
+<person name="Vaudin M."/>
+<person name="Coulson A."/>
+<person name="Nelson D.L."/>
+<person name="Weinstock G."/>
+<person name="Sulston J.E."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Gibbs R.A."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+<person name="Bentley D.R."/>
+</authorList>
+<dbReference type="PubMed" id="15772651"/>
+<dbReference type="DOI" id="10.1038/nature03440"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Lymph</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2003" name="Nat. Biotechnol." volume="21" first="566" last="569">
+<title>Exploring proteomes and analyzing protein processing by mass spectrometric identification of sorted N-terminal peptides.</title>
+<authorList>
+<person name="Gevaert K."/>
+<person name="Goethals M."/>
+<person name="Martens L."/>
+<person name="Van Damme J."/>
+<person name="Staes A."/>
+<person name="Thomas G.R."/>
+<person name="Vandekerckhove J."/>
+</authorList>
+<dbReference type="PubMed" id="12665801"/>
+<dbReference type="DOI" id="10.1038/nbt810"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 2-13</scope>
+<source>
+<tissue>Platelet</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1996" name="Cell" volume="84" first="723" last="734">
+<title>Wiskott-Aldrich syndrome protein, a novel effector for the GTPase CDC42Hs, is implicated in actin polymerization.</title>
+<authorList>
+<person name="Symons M."/>
+<person name="Derry J.M."/>
+<person name="Karlak B."/>
+<person name="Jiang S."/>
+<person name="Lemahieu V."/>
+<person name="Mccormick F."/>
+<person name="Francke U."/>
+<person name="Abo A."/>
+</authorList>
+<dbReference type="PubMed" id="8625410"/>
+<dbReference type="DOI" id="10.1016/s0092-8674(00)81050-8"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1996" name="Proc. Natl. Acad. Sci. U.S.A." volume="93" first="5615" last="5618">
+<title>Direct interaction of the Wiskott-Aldrich syndrome protein with the GTPase Cdc42.</title>
+<authorList>
+<person name="Kolluri R."/>
+<person name="Tolias K.F."/>
+<person name="Carpenter C.L."/>
+<person name="Rosen F.S."/>
+<person name="Kirchhausen T."/>
+</authorList>
+<dbReference type="PubMed" id="8643625"/>
+<dbReference type="DOI" id="10.1073/pnas.93.11.5615"/>
+</citation>
+<scope>INTERACTION WITH CDC42</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1997" name="Proc. Natl. Acad. Sci. U.S.A." volume="94" first="14671" last="14676">
+<title>WIP, a protein associated with Wiskott-Aldrich syndrome protein, induces actin polymerization and redistribution in lymphoid cells.</title>
+<authorList>
+<person name="Ramesh N."/>
+<person name="Anton I.M."/>
+<person name="Hartwig J.H."/>
+<person name="Geha R.S."/>
+</authorList>
+<dbReference type="PubMed" id="9405671"/>
+<dbReference type="DOI" id="10.1073/pnas.94.26.14671"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH WIP</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="45115" last="45121">
+<title>Phosphorylation of tyrosine 291 enhances the ability of WASp to stimulate actin polymerization and filopodium formation. Wiskott-Aldrich Syndrome protein.</title>
+<authorList>
+<person name="Cory G.O."/>
+<person name="Garg R."/>
+<person name="Cramer R."/>
+<person name="Ridley A.J."/>
+</authorList>
+<dbReference type="PubMed" id="12235133"/>
+<dbReference type="DOI" id="10.1074/jbc.m203346200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>PHOSPHORYLATION AT TYR-291 BY HCK</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<scope>INTERACTION WITH HCK</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2003" name="Mol. Cell" volume="11" first="1229" last="1239">
+<title>Phosphorylation of the WASP-VCA domain increases its affinity for the Arp2/3 complex and enhances actin polymerization by WASP.</title>
+<authorList>
+<person name="Cory G.O.C."/>
+<person name="Cramer R."/>
+<person name="Blanchoin L."/>
+<person name="Ridley A.J."/>
+</authorList>
+<dbReference type="PubMed" id="12769847"/>
+<dbReference type="DOI" id="10.1016/s1097-2765(03)00172-2"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>PHOSPHORYLATION AT SER-483 AND SER-484</scope>
+<scope>INTERACTION WITH THE ARP2/3 COMPLEX</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2004" name="J. Exp. Med." volume="199" first="99" last="112">
+<title>Fyn and PTP-PEST-mediated regulation of Wiskott-Aldrich syndrome protein (WASp) tyrosine phosphorylation is required for coupling T cell antigen receptor engagement to WASp effector function and T cell activation.</title>
+<authorList>
+<person name="Badour K."/>
+<person name="Zhang J."/>
+<person name="Shi F."/>
+<person name="Leng Y."/>
+<person name="Collins M."/>
+<person name="Siminovitch K.A."/>
+</authorList>
+<dbReference type="PubMed" id="14707117"/>
+<dbReference type="DOI" id="10.1084/jem.20030976"/>
+</citation>
+<scope>PHOSPHORYLATION AT TYR-291 BY FYN</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2005" name="Nat. Biotechnol." volume="23" first="94" last="101">
+<title>Immunoaffinity profiling of tyrosine phosphorylation in cancer cells.</title>
+<authorList>
+<person name="Rush J."/>
+<person name="Moritz A."/>
+<person name="Lee K.A."/>
+<person name="Guo A."/>
+<person name="Goss V.L."/>
+<person name="Spek E.J."/>
+<person name="Zhang H."/>
+<person name="Zha X.-M."/>
+<person name="Polakiewicz R.D."/>
+<person name="Comb M.J."/>
+</authorList>
+<dbReference type="PubMed" id="15592455"/>
+<dbReference type="DOI" id="10.1038/nbt1046"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT TYR-291</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2008" name="J. Proteome Res." volume="7" first="526" last="534">
+<title>Phosphoproteome of resting human platelets.</title>
+<authorList>
+<person name="Zahedi R.P."/>
+<person name="Lewandrowski U."/>
+<person name="Wiesner J."/>
+<person name="Wortelkamp S."/>
+<person name="Moebius J."/>
+<person name="Schuetz C."/>
+<person name="Walter U."/>
+<person name="Gambaryan S."/>
+<person name="Sickmann A."/>
+</authorList>
+<dbReference type="PubMed" id="18088087"/>
+<dbReference type="DOI" id="10.1021/pr0704130"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT TYR-291; SER-483 AND SER-484</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Platelet</tissue>
+</source>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2009" name="Sci. Signal." volume="2" first="RA46" last="RA46">
+<title>Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions.</title>
+<authorList>
+<person name="Mayya V."/>
+<person name="Lundgren D.H."/>
+<person name="Hwang S.-I."/>
+<person name="Rezaul K."/>
+<person name="Wu L."/>
+<person name="Eng J.K."/>
+<person name="Rodionov V."/>
+<person name="Han D.K."/>
+</authorList>
+<dbReference type="PubMed" id="19690332"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000007"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT TYR-291 AND SER-483</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Leukemic T-cell</tissue>
+</source>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2010" name="Sci. Transl. Med." volume="2" first="37RA44" last="37RA44">
+<title>Nuclear role of WASp in the pathogenesis of dysregulated TH1 immunity in human Wiskott-Aldrich syndrome.</title>
+<authorList>
+<person name="Taylor M.D."/>
+<person name="Sadhukhan S."/>
+<person name="Kottangada P."/>
+<person name="Ramgopal A."/>
+<person name="Sarkar K."/>
+<person name="D'Silva S."/>
+<person name="Selvakumar A."/>
+<person name="Candotti F."/>
+<person name="Vyas Y.M."/>
+</authorList>
+<dbReference type="PubMed" id="20574068"/>
+<dbReference type="DOI" id="10.1126/scitranslmed.3000813"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INVOLVEMENT IN WAS</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+<dbReference type="DOI" id="10.1021/pr300630k"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-221</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+<dbReference type="DOI" id="10.1002/pmic.201400617"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2018" name="Nature" volume="559" first="61" last="66">
+<title>Nuclear ARP2/3 drives DNA break clustering for homology-directed repair.</title>
+<authorList>
+<person name="Schrank B.R."/>
+<person name="Aparicio T."/>
+<person name="Li Y."/>
+<person name="Chang W."/>
+<person name="Chait B.T."/>
+<person name="Gundersen G.G."/>
+<person name="Gottesman M.E."/>
+<person name="Gautier J."/>
+</authorList>
+<dbReference type="PubMed" id="29925947"/>
+<dbReference type="DOI" id="10.1038/s41586-018-0237-5"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="1999" name="Nature" volume="399" first="379" last="383">
+<title>Structure of Cdc42 in complex with the GTPase-binding domain of the 'Wiskott-Aldrich syndrome' protein.</title>
+<authorList>
+<person name="Abdul-Manan N."/>
+<person name="Aghazadeh B."/>
+<person name="Liu G.A."/>
+<person name="Majumdar A."/>
+<person name="Ouerfelli O."/>
+<person name="Siminovitch K.A."/>
+<person name="Rosen M.K."/>
+</authorList>
+<dbReference type="PubMed" id="10360578"/>
+<dbReference type="DOI" id="10.1038/20726"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 230-288 IN COMPLEX WITH CDC42</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2000" name="Nature" volume="404" first="151" last="158">
+<title>Autoinhibition and activation mechanisms of the Wiskott-Aldrich syndrome protein.</title>
+<authorList>
+<person name="Kim A.S."/>
+<person name="Kakalis L.T."/>
+<person name="Abdul-Manan N."/>
+<person name="Liu G.A."/>
+<person name="Rosen M.K."/>
+</authorList>
+<dbReference type="PubMed" id="10724160"/>
+<dbReference type="DOI" id="10.1038/35004513"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 242-492</scope>
+<scope>CONFORMATION CHANGE</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2004" name="Nat. Struct. Mol. Biol." volume="11" first="747" last="755">
+<title>Chemical inhibition of N-WASP by stabilization of a native autoinhibited conformation.</title>
+<authorList>
+<person name="Peterson J.R."/>
+<person name="Bickford L.C."/>
+<person name="Morgan D."/>
+<person name="Kim A.S."/>
+<person name="Ouerfelli O."/>
+<person name="Kirschner M.W."/>
+<person name="Rosen M.K."/>
+</authorList>
+<dbReference type="PubMed" id="15235593"/>
+<dbReference type="DOI" id="10.1038/nsmb796"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 242-310 IN COMPLEX WITH WISKOSTATIN</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2005" name="Proc. Natl. Acad. Sci. U.S.A." volume="102" first="16644" last="16649">
+<title>Actin-bound structures of Wiskott-Aldrich syndrome protein (WASP)-homology domain 2 and the implications for filament assembly.</title>
+<authorList>
+<person name="Chereau D."/>
+<person name="Kerff F."/>
+<person name="Graceffa P."/>
+<person name="Grabarek Z."/>
+<person name="Langsetmo K."/>
+<person name="Dominguez R."/>
+</authorList>
+<dbReference type="PubMed" id="16275905"/>
+<dbReference type="DOI" id="10.1073/pnas.0507021102"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.08 ANGSTROMS) OF 430-458 IN COMPLEX WITH ACTIN</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2007" name="J. Biol. Chem." volume="282" first="14309" last="14315">
+<title>A hydrophobic pocket in the active site of glycolytic aldolase mediates interactions with Wiskott-Aldrich syndrome protein.</title>
+<authorList>
+<person name="St-Jean M."/>
+<person name="Izard T."/>
+<person name="Sygusch J."/>
+</authorList>
+<dbReference type="PubMed" id="17329259"/>
+<dbReference type="DOI" id="10.1074/jbc.m611505200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.05 ANGSTROMS) OF 488-502 IN COMPLEX WITH ALDOA</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2008" name="Nature" volume="454" first="1009" last="1013">
+<title>Structural mechanism of WASP activation by the enterohaemorrhagic E. coli effector EspF(U).</title>
+<authorList>
+<person name="Cheng H.C."/>
+<person name="Skehan B.M."/>
+<person name="Campellone K.G."/>
+<person name="Leong J.M."/>
+<person name="Rosen M.K."/>
+</authorList>
+<dbReference type="PubMed" id="18650809"/>
+<dbReference type="DOI" id="10.1038/nature07160"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 242-310</scope>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH E.COLI ESPF(U)</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="1995" name="Hum. Mol. Genet." volume="4" first="1119" last="1126">
+<title>Identification of WASP mutations in patients with Wiskott-Aldrich syndrome and isolated thrombocytopenia reveals allelic heterogeneity at the WAS locus.</title>
+<authorList>
+<person name="Kolluri R."/>
+<person name="Shehabeldin A."/>
+<person name="Peacocke M."/>
+<person name="Lamhonwah A.-M."/>
+<person name="Teichert-Kuliszewska K."/>
+<person name="Weissman S.M."/>
+<person name="Siminovitch K.A."/>
+</authorList>
+<dbReference type="PubMed" id="8528198"/>
+<dbReference type="DOI" id="10.1093/hmg/4.7.1119"/>
+</citation>
+<scope>VARIANTS WAS HIS-30 DEL; LYS-31; MET-75; PRO-82; CYS-86; HIS-86; CYS-97; LYS-133 AND GLU-476</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="1995" name="Hum. Mol. Genet." volume="4" first="1127" last="1135">
+<title>WASP gene mutations in Wiskott-Aldrich syndrome and X-linked thrombocytopenia.</title>
+<authorList>
+<person name="Derry J.M.J."/>
+<person name="Kerns J.A."/>
+<person name="Weinberg K.I."/>
+<person name="Ochs H.D."/>
+<person name="Volpini V."/>
+<person name="Estivill X."/>
+<person name="Walker A.P."/>
+<person name="Francke U."/>
+</authorList>
+<dbReference type="PubMed" id="8528199"/>
+<dbReference type="DOI" id="10.1093/hmg/4.7.1127"/>
+</citation>
+<scope>VARIANTS THC1 PHE-27; ILE-48 AND LYS-477</scope>
+<scope>VARIANTS WAS MET-75; LEU-86; HIS-86; LYS-131 AND CYS-187</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="1995" name="Nat. Genet." volume="9" first="414" last="417">
+<title>X-linked thrombocytopenia and Wiskott-Aldrich syndrome are allelic diseases with mutations in the WASP gene.</title>
+<authorList>
+<person name="Villa A."/>
+<person name="Notarangelo L."/>
+<person name="Macchi P."/>
+<person name="Mantuano E."/>
+<person name="Cavagni G."/>
+<person name="Brugnoni D."/>
+<person name="Strina D."/>
+<person name="Patrosso M.C."/>
+<person name="Ramenghi U."/>
+<person name="Sacco M.G."/>
+<person name="Ugazio A."/>
+<person name="Vezzoni P."/>
+</authorList>
+<dbReference type="PubMed" id="7795648"/>
+<dbReference type="DOI" id="10.1038/ng0495-414"/>
+</citation>
+<scope>VARIANTS THC1 VAL-56 AND GLU-236</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="1996" name="Hum. Genet." volume="98" first="68" last="76">
+<title>Wiskott-Aldrich syndrome: no strict genotype-phenotype correlations but clustering of missense mutations in the amino-terminal part of the WASP gene product.</title>
+<authorList>
+<person name="Schindelhauer D."/>
+<person name="Weiss M."/>
+<person name="Hellebrand H."/>
+<person name="Golla A."/>
+<person name="Hergersberg M."/>
+<person name="Seger R."/>
+<person name="Belohradsky B.H."/>
+<person name="Meindl A."/>
+</authorList>
+<dbReference type="PubMed" id="8682510"/>
+<dbReference type="DOI" id="10.1007/s004390050162"/>
+</citation>
+<scope>VARIANT WAS HIS-86</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="1997" name="J. Immunol." volume="158" first="4021" last="4025">
+<title>Variable expression of WASP in B cell lines of Wiskott-Aldrich syndrome patients.</title>
+<authorList>
+<person name="Remold-O'Donnell E."/>
+<person name="Cooley J."/>
+<person name="Shcherbina A."/>
+<person name="Hagemann T.L."/>
+<person name="Kwan S.-P."/>
+<person name="Kenney D.M."/>
+<person name="Rosen F.S."/>
+</authorList>
+<dbReference type="PubMed" id="9126958"/>
+</citation>
+<scope>VARIANTS WAS TRP-43; MET-45; MET-75 AND CYS-86</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="1997" name="Pediatr. Res." volume="41" first="535" last="540">
+<title>Mutation analysis of five Japanese families with Wiskott-Aldrich syndrome and determination of the family members' carrier status using three different methods.</title>
+<authorList>
+<person name="Ariga T."/>
+<person name="Yamada M."/>
+<person name="Sakiyama Y."/>
+</authorList>
+<dbReference type="PubMed" id="9098856"/>
+<dbReference type="DOI" id="10.1203/00006450-199704000-00013"/>
+</citation>
+<scope>VARIANTS WAS LYS-31 AND MET-45</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="1998" name="Clin. Immunol. Immunopathol." volume="88" first="22" last="27">
+<title>Absence of expression of the Wiskott-Aldrich syndrome protein in peripheral blood cells of Wiskott-Aldrich syndrome patients.</title>
+<authorList>
+<person name="MacCarthy-Morrogh L."/>
+<person name="Gaspar H.B."/>
+<person name="Wang Y.-C."/>
+<person name="Katz F."/>
+<person name="Thompson L."/>
+<person name="Layton M."/>
+<person name="Jones A.M."/>
+<person name="Kinnon C."/>
+</authorList>
+<dbReference type="PubMed" id="9683546"/>
+<dbReference type="DOI" id="10.1006/clin.1998.4557"/>
+</citation>
+<scope>VARIANTS WAS MET-75; LEU-84; ASP-89 AND LYS-133</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="1998" name="J. Pathol." volume="185" first="99" last="107">
+<title>Defective actin polymerization in EBV-transformed B-cell lines from patients with the Wiskott-Aldrich syndrome.</title>
+<authorList>
+<person name="Facchetti F."/>
+<person name="Blanzuoli L."/>
+<person name="Vermi W."/>
+<person name="Notarangelo L.D."/>
+<person name="Giliani S."/>
+<person name="Fiorini M."/>
+<person name="Fasth A."/>
+<person name="Stewart D.M."/>
+<person name="Nelson D.L."/>
+</authorList>
+<dbReference type="PubMed" id="9713366"/>
+<dbReference type="DOI" id="10.1002/(sici)1096-9896(199805)185:1&lt;99::aid-path48&gt;3.0.co;2-l"/>
+</citation>
+<scope>VARIANT WAS VAL-56</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="1998" name="N. Engl. J. Med." volume="338" first="291" last="295">
+<title>X-linked Wiskott-Aldrich syndrome in a girl.</title>
+<authorList>
+<person name="Parolini O."/>
+<person name="Ressmann G."/>
+<person name="Haas O.A."/>
+<person name="Pawlowsky J."/>
+<person name="Gadner H."/>
+<person name="Knapp W."/>
+<person name="Holter W."/>
+</authorList>
+<dbReference type="PubMed" id="9445409"/>
+<dbReference type="DOI" id="10.1056/nejm199801293380504"/>
+</citation>
+<scope>VARIANT WAS LYS-133</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="2001" name="Br. J. Haematol." volume="112" first="76" last="80">
+<title>Missense C168T in the Wiskott-Aldrich Syndrome protein gene is a common mutation in X-linked thrombocytopenia.</title>
+<authorList>
+<person name="Ho L.L."/>
+<person name="Ayling J."/>
+<person name="Prosser I."/>
+<person name="Kronenberg H."/>
+<person name="Iland H."/>
+<person name="Joshua D."/>
+</authorList>
+<dbReference type="PubMed" id="11167787"/>
+<dbReference type="DOI" id="10.1046/j.1365-2141.2001.02465.x"/>
+</citation>
+<scope>VARIANT THC1 MET-45</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="2001" name="Nat. Genet." volume="27" first="313" last="317">
+<title>Constitutively activating mutation in WASP causes X-linked severe congenital neutropenia.</title>
+<authorList>
+<person name="Devriendt K."/>
+<person name="Kim A.S."/>
+<person name="Mathijs G."/>
+<person name="Frints S.G.M."/>
+<person name="Schwartz M."/>
+<person name="Van Den Oord J.J."/>
+<person name="Verhoef G.E.G."/>
+<person name="Boogaerts M.A."/>
+<person name="Fryns J.-P."/>
+<person name="You D."/>
+<person name="Rosen M.K."/>
+<person name="Vandenberghe P."/>
+</authorList>
+<dbReference type="PubMed" id="11242115"/>
+<dbReference type="DOI" id="10.1038/85886"/>
+</citation>
+<scope>VARIANT XLN PRO-270</scope>
+<scope>CHARACTERIZATION OF VARIANT XLN PRO-270</scope>
+</reference>
+<reference key="40">
+<citation type="journal article" date="1999" name="Hum. Mutat." volume="14" first="54" last="66">
+<title>Novel mutations in the Wiskott-Aldrich syndrome protein gene and their effects on transcriptional, translational, and clinical phenotypes.</title>
+<authorList>
+<person name="Lemahieu V."/>
+<person name="Gastier J.M."/>
+<person name="Francke U."/>
+</authorList>
+<dbReference type="PubMed" id="10447259"/>
+<dbReference type="DOI" id="10.1002/(sici)1098-1004(1999)14:1&lt;54::aid-humu7&gt;3.0.co;2-e"/>
+</citation>
+<scope>VARIANTS WAS ARG-73; CYS-86 AND LYS-133</scope>
+<scope>VARIANTS THC1 MET-75 AND CYS-83</scope>
+</reference>
+<reference key="41">
+<citation type="journal article" date="2002" name="Blood" volume="99" first="2268" last="2269">
+<title>Missense mutations of the WASP gene cause intermittent X-linked thrombocytopenia.</title>
+<authorList>
+<person name="Notarangelo L.D."/>
+<person name="Mazza C."/>
+<person name="Giliani S."/>
+<person name="D'Aria C."/>
+<person name="Gandellini F."/>
+<person name="Ravelli C."/>
+<person name="Locatelli M.G."/>
+<person name="Nelson D.L."/>
+<person name="Ochs H.D."/>
+<person name="Notarangelo L.D."/>
+</authorList>
+<dbReference type="PubMed" id="11877312"/>
+<dbReference type="DOI" id="10.1182/blood.v99.6.2268"/>
+</citation>
+<scope>VARIANTS THC1 ARG-58 AND ASN-481</scope>
+</reference>
+<reference key="42">
+<citation type="journal article" date="2002" name="Hum. Mutat." volume="19" first="186" last="187">
+<title>Wiskott-Aldrich syndrome in Argentina: 17 unique, including nine novel, mutations.</title>
+<authorList>
+<person name="El-Hakeh J."/>
+<person name="Rosenzweig S."/>
+<person name="Oleastro M."/>
+<person name="Basack N."/>
+<person name="Berozdnik L."/>
+<person name="Molina F."/>
+<person name="Rivas E.M."/>
+<person name="Zelazko M."/>
+<person name="Danielian S."/>
+</authorList>
+<dbReference type="PubMed" id="11793485"/>
+<dbReference type="DOI" id="10.1002/humu.9013"/>
+</citation>
+<scope>VARIANTS WAS HIS-52 AND TRP-70</scope>
+</reference>
+<reference key="43">
+<citation type="journal article" date="2014" name="Pediatr. Blood Cancer" volume="61" first="746" last="748">
+<title>Intermittent X-linked thrombocytopenia with a novel WAS gene mutation.</title>
+<authorList>
+<person name="Wada T."/>
+<person name="Itoh M."/>
+<person name="Maeba H."/>
+<person name="Toma T."/>
+<person name="Niida Y."/>
+<person name="Saikawa Y."/>
+<person name="Yachie A."/>
+</authorList>
+<dbReference type="PubMed" id="24115682"/>
+<dbReference type="DOI" id="10.1002/pbc.24787"/>
+</citation>
+<scope>VARIANT THR-56</scope>
+</reference>
+<reference key="44">
+<citation type="journal article" date="2016" name="J. Med. Genet." volume="53" first="138" last="144">
+<title>Homozygous missense mutation in the LMAN2L gene segregates with intellectual disability in a large consanguineous Pakistani family.</title>
+<authorList>
+<person name="Rafiullah R."/>
+<person name="Aslamkhan M."/>
+<person name="Paramasivam N."/>
+<person name="Thiel C."/>
+<person name="Mustafa G."/>
+<person name="Wiemann S."/>
+<person name="Schlesner M."/>
+<person name="Wade R.C."/>
+<person name="Rappold G.A."/>
+<person name="Berkel S."/>
+</authorList>
+<dbReference type="PubMed" id="26566883"/>
+<dbReference type="DOI" id="10.1136/jmedgenet-2015-103179"/>
+</citation>
+<scope>VARIANT LYS-131</scope>
+</reference>
+<comment type="function">
+<text evidence="18 20 23 25 26 29 35 40">Effector protein for Rho-type GTPases that regulates actin filament reorganization via its interaction with the Arp2/3 complex (PubMed:12235133, PubMed:12769847, PubMed:16275905). Important for efficient actin polymerization (PubMed:8625410, PubMed:12235133, PubMed:16275905). Possible regulator of lymphocyte and platelet function (PubMed:9405671). Mediates actin filament reorganization and the formation of actin pedestals upon infection by pathogenic bacteria (PubMed:18650809). In addition to its role in the cytoplasmic cytoskeleton, also promotes actin polymerization in the nucleus, thereby regulating gene transcription and repair of damaged DNA (PubMed:20574068). Promotes homologous recombination (HR) repair in response to DNA damage by promoting nuclear actin polymerization, leading to drive motility of double-strand breaks (DSBs) (PubMed:29925947).</text>
+</comment>
+<comment type="subunit">
+<text evidence="8 12 18 20 22 24 36 40">Binds the Arp2/3 complex (PubMed:12769847). Interacts with CDC42, RAC, NCK, HCK, FYN, SRC kinase FGR, BTK, ABL1, PSTPIP1, WIP, and to the p85 subunit of PLC-gamma (PubMed:8643625, PubMed:9405671, PubMed:12235133, PubMed:10360578, PubMed:15235593). Interacts (via C-terminus) with ALDOA (PubMed:17329259). Interacts with NCK1 (via SH3 domains) (By similarity). Interacts with FCHSD2 (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="25">(Microbial infection) Interacts with E.coli effector protein EspF(U).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-346375">
+<id>P42768</id>
+</interactant>
+<interactant intactId="EBI-742038">
+<id>Q9P2A4</id>
+<label>ABI3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-346375">
+<id>P42768</id>
+</interactant>
+<interactant intactId="EBI-743771">
+<id>Q92624</id>
+<label>APPBP2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-346375">
+<id>P42768</id>
+</interactant>
+<interactant intactId="EBI-624835">
+<id>Q06187</id>
+<label>BTK</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-346375">
+<id>P42768</id>
+</interactant>
+<interactant intactId="EBI-81752">
+<id>P60953</id>
+<label>CDC42</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>12</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-346375">
+<id>P42768</id>
+</interactant>
+<interactant intactId="EBI-351886">
+<id>Q14247</id>
+<label>CTTN</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-346375">
+<id>P42768</id>
+</interactant>
+<interactant intactId="EBI-346340">
+<id>P08631</id>
+<label>HCK</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>9</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-346375">
+<id>P42768</id>
+</interactant>
+<interactant intactId="EBI-713635">
+<id>O43639</id>
+<label>NCK2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-346375">
+<id>P42768</id>
+</interactant>
+<interactant intactId="EBI-2481535">
+<id>Q8WV41</id>
+<label>SNX33</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-346375">
+<id>P42768</id>
+</interactant>
+<interactant intactId="EBI-77848">
+<id>Q9Y5X1</id>
+<label>SNX9</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-346375">
+<id>P42768</id>
+</interactant>
+<interactant intactId="EBI-311323">
+<id>O94875</id>
+<label>SORBS2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-346375">
+<id>P42768</id>
+</interactant>
+<interactant intactId="EBI-7353612">
+<id>P57075-2</id>
+<label>UBASH3A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-346375">
+<id>P42768</id>
+</interactant>
+<interactant intactId="EBI-346375">
+<id>P42768</id>
+<label>WAS</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-346375">
+<id>P42768</id>
+</interactant>
+<interactant intactId="EBI-346356">
+<id>O43516</id>
+<label>WIPF1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>21</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-346375">
+<id>P42768</id>
+</interactant>
+<interactant intactId="EBI-12052927">
+<id>O43516-4</id>
+<label>WIPF1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-346375">
+<id>P42768</id>
+</interactant>
+<interactant intactId="EBI-10039462">
+<id>P0DJ89</id>
+<label>espF(U)</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-346375">
+<id>P42768</id>
+</interactant>
+<interactant intactId="EBI-6248894">
+<id>P08103</id>
+<label>Hck</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="35">Cytoplasm</location>
+<location evidence="35">Cytoskeleton</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="26 29">Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="32">Expressed predominantly in the thymus. Also found, to a much lesser extent, in the spleen.</text>
+</comment>
+<comment type="domain">
+<text>The WH1 (Wasp homology 1) domain may bind a Pro-rich ligand.</text>
+</comment>
+<comment type="domain">
+<text>The CRIB (Cdc42/Rac-interactive-binding) region binds to the C-terminal WH2 domain in the autoinhibited state of the protein. Binding of Rho-type GTPases to the CRIB induces a conformation change and leads to activation.</text>
+</comment>
+<comment type="PTM">
+<text evidence="18 20 21">Phosphorylated at Tyr-291 by FYN and HCK, inducing WAS effector activity after TCR engagement. Phosphorylation at Tyr-291 enhances WAS activity in promoting actin polymerization and filopodia formation.</text>
+</comment>
+<comment type="disease" evidence="13 16 26 30 33 34 37 38 39 41 42 43">
+<disease id="DI-01147">
+<name>Wiskott-Aldrich syndrome</name>
+<acronym>WAS</acronym>
+<description>An X-linked recessive immunodeficiency characterized by eczema, thrombocytopenia, recurrent infections, and bloody diarrhea. Death usually occurs before age 10.</description>
+<dbReference type="MIM" id="301000"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="13 14 17 31 34">
+<disease id="DI-01098">
+<name>Thrombocytopenia 1</name>
+<acronym>THC1</acronym>
+<description>Thrombocytopenia is defined by a decrease in the number of platelets in circulating blood, resulting in the potential for increased bleeding and decreased ability for clotting.</description>
+<dbReference type="MIM" id="313900"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="15">
+<disease id="DI-02457">
+<name>Neutropenia, severe congenital, X-linked</name>
+<acronym>XLN</acronym>
+<description>A disorder of hematopoiesis characterized by maturation arrest of granulopoiesis at the level of promyelocytes with peripheral blood absolute neutrophil counts below 0.5 x 10(9)/l and early onset of severe bacterial infections.</description>
+<dbReference type="MIM" id="300299"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="sequence caution" evidence="44">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAH02961" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="44">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAH02961" version="1"/>
+</conflict>
+<text>Extended N-terminus.</text>
+</comment>
+<comment type="online information" name="WASbase">
+<link uri="http://structure.bmc.lu.se/idbase/WASbase/"/>
+<text>WAS mutation db</text>
+</comment>
+<comment type="online information" name="WASPbase">
+<link uri="http://pidj.rcai.riken.jp/waspbase/"/>
+<text>WAS mutation db</text>
+</comment>
+<comment type="online information" name="Wikipedia">
+<link uri="https://en.wikipedia.org/wiki/Wiskott-Aldrich_syndrome_protein"/>
+<text>Wiskott-Aldrich syndrome protein entry</text>
+</comment>
+<comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+<link uri="http://atlasgeneticsoncology.org/Genes/WASID42801chXp11.html"/>
+</comment>
+<dbReference type="EMBL" id="U12707">
+<property type="protein sequence ID" value="AAA62663.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U18935">
+<property type="protein sequence ID" value="AAA60381.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U19927">
+<property type="protein sequence ID" value="AAC50140.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF115549">
+<property type="protein sequence ID" value="AAD26691.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF196970">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC002961">
+<property type="protein sequence ID" value="AAH02961.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC012738">
+<property type="protein sequence ID" value="AAH12738.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS14303.1"/>
+<dbReference type="PIR" id="A54747">
+<property type="entry name" value="A55197"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000368.1">
+<property type="nucleotide sequence ID" value="NM_000377.2"/>
+</dbReference>
+<dbReference type="PDB" id="1CEE">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=230-288"/>
+</dbReference>
+<dbReference type="PDB" id="1EJ5">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=242-310, A=461-492"/>
+</dbReference>
+<dbReference type="PDB" id="1T84">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=242-310, A=461-492"/>
+</dbReference>
+<dbReference type="PDB" id="2A3Z">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.08"/>
+<property type="chains" value="C=430-458"/>
+</dbReference>
+<dbReference type="PDB" id="2K42">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=242-310"/>
+</dbReference>
+<dbReference type="PDB" id="2OT0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.05"/>
+<property type="chains" value="E/F/G/H=488-502"/>
+</dbReference>
+<dbReference type="PDBsum" id="1CEE"/>
+<dbReference type="PDBsum" id="1EJ5"/>
+<dbReference type="PDBsum" id="1T84"/>
+<dbReference type="PDBsum" id="2A3Z"/>
+<dbReference type="PDBsum" id="2K42"/>
+<dbReference type="PDBsum" id="2OT0"/>
+<dbReference type="BMRB" id="P42768"/>
+<dbReference type="SMR" id="P42768"/>
+<dbReference type="BioGRID" id="113293">
+<property type="interactions" value="75"/>
+</dbReference>
+<dbReference type="CORUM" id="P42768"/>
+<dbReference type="DIP" id="DIP-431N"/>
+<dbReference type="ELM" id="P42768"/>
+<dbReference type="IntAct" id="P42768">
+<property type="interactions" value="48"/>
+</dbReference>
+<dbReference type="MINT" id="P42768"/>
+<dbReference type="STRING" id="9606.ENSP00000365891"/>
+<dbReference type="DrugBank" id="DB01731">
+<property type="generic name" value="(S)-wiskostatin"/>
+</dbReference>
+<dbReference type="iPTMnet" id="P42768"/>
+<dbReference type="PhosphoSitePlus" id="P42768"/>
+<dbReference type="BioMuta" id="WAS"/>
+<dbReference type="EPD" id="P42768"/>
+<dbReference type="jPOST" id="P42768"/>
+<dbReference type="MassIVE" id="P42768"/>
+<dbReference type="MaxQB" id="P42768"/>
+<dbReference type="PaxDb" id="P42768"/>
+<dbReference type="PeptideAtlas" id="P42768"/>
+<dbReference type="PRIDE" id="P42768"/>
+<dbReference type="ProteomicsDB" id="55550"/>
+<dbReference type="Antibodypedia" id="701">
+<property type="antibodies" value="486 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="7454"/>
+<dbReference type="Ensembl" id="ENST00000376701">
+<property type="protein sequence ID" value="ENSP00000365891"/>
+<property type="gene ID" value="ENSG00000015285"/>
+</dbReference>
+<dbReference type="GeneID" id="7454"/>
+<dbReference type="KEGG" id="hsa:7454"/>
+<dbReference type="UCSC" id="uc004dkm.5">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="7454"/>
+<dbReference type="DisGeNET" id="7454"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000015285.10"/>
+<dbReference type="GeneCards" id="WAS"/>
+<dbReference type="GeneReviews" id="WAS"/>
+<dbReference type="HGNC" id="HGNC:12731">
+<property type="gene designation" value="WAS"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000015285">
+<property type="expression patterns" value="Tissue enhanced (bone marrow, lymphoid tissue)"/>
+</dbReference>
+<dbReference type="MalaCards" id="WAS"/>
+<dbReference type="MIM" id="300299">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="300392">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="301000">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="313900">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P42768"/>
+<dbReference type="OpenTargets" id="ENSG00000015285"/>
+<dbReference type="Orphanet" id="906">
+<property type="disease" value="Wiskott-Aldrich syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="86788">
+<property type="disease" value="X-linked severe congenital neutropenia"/>
+</dbReference>
+<dbReference type="Orphanet" id="852">
+<property type="disease" value="X-linked thrombocytopenia with normal platelets"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA37342"/>
+<dbReference type="eggNOG" id="KOG3671">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00730000110895"/>
+<dbReference type="HOGENOM" id="CLU_015385_3_2_1"/>
+<dbReference type="InParanoid" id="P42768"/>
+<dbReference type="KO" id="K05747"/>
+<dbReference type="OMA" id="NRQEKKQ"/>
+<dbReference type="OrthoDB" id="1407277at2759"/>
+<dbReference type="PhylomeDB" id="P42768"/>
+<dbReference type="TreeFam" id="TF316736"/>
+<dbReference type="PathwayCommons" id="P42768"/>
+<dbReference type="Reactome" id="R-HSA-202433">
+<property type="pathway name" value="Generation of second messenger molecules"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2029482">
+<property type="pathway name" value="Regulation of actin dynamics for phagocytic cup formation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5663213">
+<property type="pathway name" value="RHO GTPases Activate WASPs and WAVEs"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9664422">
+<property type="pathway name" value="FCGR3A-mediated phagocytosis"/>
+</dbReference>
+<dbReference type="SIGNOR" id="P42768"/>
+<dbReference type="BioGRID-ORCS" id="7454">
+<property type="hits" value="13 hits in 501 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="WAS">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P42768"/>
+<dbReference type="GeneWiki" id="Wiskott%E2%80%93Aldrich_syndrome_protein"/>
+<dbReference type="GenomeRNAi" id="7454"/>
+<dbReference type="Pharos" id="P42768">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P42768"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome X"/>
+</dbReference>
+<dbReference type="RNAct" id="P42768">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000015285">
+<property type="expression patterns" value="Expressed in blood and 214 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="P42768">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P42768">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015629">
+<property type="term" value="C:actin cytoskeleton"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005884">
+<property type="term" value="C:actin filament"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005911">
+<property type="term" value="C:cell-cell junction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045335">
+<property type="term" value="C:phagocytic vesicle"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035861">
+<property type="term" value="C:site of double-strand break"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0012506">
+<property type="term" value="C:vesicle membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003779">
+<property type="term" value="F:actin binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030695">
+<property type="term" value="F:GTPase regulator activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043274">
+<property type="term" value="F:phospholipase binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019901">
+<property type="term" value="F:protein kinase binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048365">
+<property type="term" value="F:Rac GTPase binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017124">
+<property type="term" value="F:SH3 domain binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031267">
+<property type="term" value="F:small GTPase binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030041">
+<property type="term" value="P:actin filament polymerization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030048">
+<property type="term" value="P:actin filament-based movement"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008154">
+<property type="term" value="P:actin polymerization or depolymerization"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007596">
+<property type="term" value="P:blood coagulation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032488">
+<property type="term" value="P:Cdc42 protein signal transduction"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071346">
+<property type="term" value="P:cellular response to interferon-gamma"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006952">
+<property type="term" value="P:defense response"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016197">
+<property type="term" value="P:endosomal transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008544">
+<property type="term" value="P:epidermis development"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0038096">
+<property type="term" value="P:Fc-gamma receptor signaling pathway involved in phagocytosis"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006955">
+<property type="term" value="P:immune response"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="HGNC-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000146">
+<property type="term" value="P:negative regulation of cell motility"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051497">
+<property type="term" value="P:negative regulation of stress fiber assembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000601">
+<property type="term" value="P:positive regulation of Arp2/3 complex-mediated actin nucleation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905168">
+<property type="term" value="P:positive regulation of double-strand break repair via homologous recombination"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0065003">
+<property type="term" value="P:protein-containing complex assembly"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008064">
+<property type="term" value="P:regulation of actin polymerization or depolymerization"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010591">
+<property type="term" value="P:regulation of lamellipodium assembly"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051492">
+<property type="term" value="P:regulation of stress fiber assembly"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002625">
+<property type="term" value="P:regulation of T cell antigen processing and presentation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042110">
+<property type="term" value="P:T cell activation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050852">
+<property type="term" value="P:T cell receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="CDD" id="cd01205">
+<property type="entry name" value="EVH1_WASP-like"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="DisProt" id="DP01171"/>
+<dbReference type="Gene3D" id="2.30.29.30">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.90.810.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="IDEAL" id="IID00269"/>
+<dbReference type="InterPro" id="IPR000095">
+<property type="entry name" value="CRIB_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036936">
+<property type="entry name" value="CRIB_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011993">
+<property type="entry name" value="PH-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027641">
+<property type="entry name" value="WASP"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011026">
+<property type="entry name" value="WASP_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033927">
+<property type="entry name" value="WASPfam_EVH1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000697">
+<property type="entry name" value="WH1/EVH1_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003124">
+<property type="entry name" value="WH2_dom"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR23202:SF35">
+<property type="entry name" value="PTHR23202:SF35"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00786">
+<property type="entry name" value="PBD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00568">
+<property type="entry name" value="WH1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02205">
+<property type="entry name" value="WH2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00285">
+<property type="entry name" value="PBD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00461">
+<property type="entry name" value="WH1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00246">
+<property type="entry name" value="WH2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47912">
+<property type="entry name" value="SSF47912"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50108">
+<property type="entry name" value="CRIB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50229">
+<property type="entry name" value="WH1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51082">
+<property type="entry name" value="WH2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<feature type="initiator methionine" description="Removed" evidence="19">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Wiskott-Aldrich syndrome protein" id="PRO_0000188990">
+<location>
+<begin position="2"/>
+<end position="502"/>
+</location>
+</feature>
+<feature type="domain" description="WH1" evidence="11">
+<location>
+<begin position="39"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="domain" description="CRIB" evidence="9">
+<location>
+<begin position="238"/>
+<end position="251"/>
+</location>
+</feature>
+<feature type="repeat" description="GRSGPLPPXP motif 1">
+<location>
+<begin position="337"/>
+<end position="346"/>
+</location>
+</feature>
+<feature type="repeat" description="GRSGPLPPXP motif 2">
+<location>
+<begin position="376"/>
+<end position="385"/>
+</location>
+</feature>
+<feature type="domain" description="WH2" evidence="10">
+<location>
+<begin position="430"/>
+<end position="447"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Pro">
+<location>
+<begin position="160"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Pro">
+<location>
+<begin position="312"/>
+<end position="319"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Pro">
+<location>
+<begin position="351"/>
+<end position="356"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Pro">
+<location>
+<begin position="359"/>
+<end position="362"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Pro">
+<location>
+<begin position="367"/>
+<end position="373"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Pro">
+<location>
+<begin position="380"/>
+<end position="386"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Pro">
+<location>
+<begin position="391"/>
+<end position="404"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Asp/Glu-rich (acidic)">
+<location>
+<begin position="485"/>
+<end position="502"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="7">
+<location>
+<position position="221"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by FYN and HCK" evidence="4 5 6 18 21">
+<location>
+<position position="291"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by CK2" evidence="5 6 20">
+<location>
+<position position="483"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by CK2" evidence="5 20">
+<location>
+<position position="484"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In THC1." id="VAR_005823" evidence="34">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="27"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In THC1." id="VAR_005824" evidence="33">
+<location>
+<position position="30"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS; dbSNP:rs1557006239." id="VAR_005825" evidence="33 38">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="31"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS; moderate form." id="VAR_008105" evidence="30 39">
+<original>C</original>
+<variation>W</variation>
+<location>
+<position position="43"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS and THC1; dbSNP:rs132630273." id="VAR_008106" evidence="14 30 38 39">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="45"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In THC1." id="VAR_005826" evidence="34">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="48"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS." id="VAR_012710" evidence="16">
+<original>Q</original>
+<variation>H</variation>
+<location>
+<position position="52"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in a patient with THC1; unknown pathological significance." id="VAR_074020" evidence="27">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="56"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In THC1; dbSNP:rs132630269." id="VAR_005827" evidence="31 43">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="56"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS." id="VAR_022806" evidence="30">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="58"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In THC1; dbSNP:rs132630275." id="VAR_033255" evidence="17">
+<original>P</original>
+<variation>R</variation>
+<location>
+<position position="58"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS." id="VAR_012711" evidence="16">
+<original>G</original>
+<variation>W</variation>
+<location>
+<position position="70"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS; severe form." id="VAR_008107" evidence="13">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In THC1; dbSNP:rs782290433." id="VAR_005828" evidence="13 33 34 39 42">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="75"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS; attenuated form; dbSNP:rs132630272." id="VAR_005829" evidence="33">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="82"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In THC1." id="VAR_008108" evidence="13">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="83"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS; severe form." id="VAR_008109" evidence="42">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="84"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS." id="VAR_005832" evidence="13 33 39">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="86"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS; dbSNP:rs132630268." id="VAR_005830" evidence="33 34 37">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="86"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS; dbSNP:rs132630268." id="VAR_005831" evidence="34">
+<original>R</original>
+<variation>L</variation>
+<location>
+<position position="86"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS; mild form; dbSNP:rs139857045." id="VAR_008110" evidence="42">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="89"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS; attenuated form." id="VAR_005833" evidence="33">
+<original>W</original>
+<variation>C</variation>
+<location>
+<position position="97"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS; found in a patient with MRT52; dbSNP:rs146220228." id="VAR_005834" evidence="28 34">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="131"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS; severe form." id="VAR_005835" evidence="13 30 33 41 42">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="133"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS." id="VAR_022807" evidence="30">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="134"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS." id="VAR_005836" evidence="34">
+<original>G</original>
+<variation>C</variation>
+<location>
+<position position="187"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In THC1." id="VAR_005837" evidence="31">
+<original>A</original>
+<variation>E</variation>
+<location>
+<position position="236"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XLN; a constitutively activating mutation; dbSNP:rs132630274." id="VAR_033256" evidence="15">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="270"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In WAS." id="VAR_005838" evidence="33">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="476"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In THC1." id="VAR_005839" evidence="34">
+<original>R</original>
+<variation>K</variation>
+<location>
+<position position="477"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In THC1; dbSNP:rs132630276." id="VAR_033257" evidence="17">
+<original>I</original>
+<variation>N</variation>
+<location>
+<position position="481"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AAD26691." ref="4" evidence="44">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="332"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="235"/>
+<end position="237"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="245"/>
+<end position="250"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="254"/>
+<end position="256"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="260"/>
+<end position="262"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="265"/>
+<end position="271"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="272"/>
+<end position="275"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="278"/>
+<end position="281"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="284"/>
+<end position="296"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="299"/>
+<end position="309"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="432"/>
+<end position="440"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1CEE"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1EJ5"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2A3Z"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="15592455"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="18088087"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19690332"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P70315"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00057"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00406"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00410"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10360578"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10447259"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11167787"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11242115"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11793485"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11877312"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12235133"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12665801"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12769847"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14707117"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15235593"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16275905"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17329259"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18650809"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20574068"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24115682"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26566883"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="29925947"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7753869"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7795648"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8069912"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8528198"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8528199"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8625410"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8643625"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8682510"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9098856"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9126958"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9405671"/>
+</source>
+</evidence>
+<evidence key="41" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9445409"/>
+</source>
+</evidence>
+<evidence key="42" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9683546"/>
+</source>
+</evidence>
+<evidence key="43" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9713366"/>
+</source>
+</evidence>
+<evidence key="44" type="ECO:0000305"/>
+<sequence length="502" mass="52913" checksum="7228428672B7CB78" modified="2007-01-23" version="4">MSGGPMGGRPGGRGAPAVQQNIPSTLLQDHENQRLFEMLGRKCLTLATAVVQLYLALPPGAEHWTKEHCGAVCFVKDNPQKSYFIRLYGLQAGRLLWEQELYSQLVYSTPTPFFHTFAGDDCQAGLNFADEDEAQAFRALVQEKIQKRNQRQSGDRRQLPPPPTPANEERRGGLPPLPLHPGGDQGGPPVGPLSLGLATVDIQNPDITSSRYRGLPAPGPSPADKKRSGKKKISKADIGAPSGFKHVSHVGWDPQNGFDVNNLDPDLRSLFSRAGISEAQLTDAETSKLIYDFIEDQGGLEAVRQEMRRQEPLPPPPPPSRGGNQLPRPPIVGGNKGRSGPLPPVPLGIAPPPPTPRGPPPPGRGGPPPPPPPATGRSGPLPPPPPGAGGPPMPPPPPPPPPPPSSGNGPAPPPLPPALVPAGGLAPGGGRGALLDQIRQGIQLNKTPGAPESSALQPPPQSSEGLVGALMHVMQKRSRAIHSSDEGEDQAGDEDEDDEWDD</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

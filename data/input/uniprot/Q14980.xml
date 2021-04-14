@@ -1,0 +1,2914 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2004-07-19" modified="2020-10-07" version="190">
+<accession>Q14980</accession>
+<accession>H0YH75</accession>
+<accession>Q14981</accession>
+<accession>Q9BTE9</accession>
+<name>NUMA1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="65">Nuclear mitotic apparatus protein 1</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="61">Nuclear matrix protein-22</fullName>
+<shortName evidence="61">NMP-22</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="55 56">Nuclear mitotic apparatus protein</fullName>
+<shortName evidence="55 56">NuMA protein</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="59">SP-H antigen</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="65">NUMA1</name>
+<name type="synonym" evidence="61">NMP22</name>
+<name type="synonym" evidence="55">NUMA</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1992" name="J. Cell Biol." volume="116" first="1303" last="1317">
+<title>NuMA: an unusually long coiled-coil related protein in the mammalian nucleus.</title>
+<authorList>
+<person name="Yang C.H."/>
+<person name="Lambie E.J."/>
+<person name="Snyder M."/>
+</authorList>
+<dbReference type="PubMed" id="1541630"/>
+<dbReference type="DOI" id="10.1083/jcb.116.6.1303"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1992" name="J. Cell Biol." volume="116" first="1395" last="1408">
+<title>Primary structure of NuMA, an intranuclear protein that defines a novel pathway for segregation of proteins at mitosis.</title>
+<authorList>
+<person name="Compton D.A."/>
+<person name="Szilak I."/>
+<person name="Cleveland D.W."/>
+</authorList>
+<dbReference type="PubMed" id="1541636"/>
+<dbReference type="DOI" id="10.1083/jcb.116.6.1395"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2)</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1993" name="J. Cell Sci." volume="105" first="589" last="600">
+<title>Primary structure and microtubule-interacting domain of the SP-H antigen: a mitotic map located at the spindle pole characterized as a homologous protein to NuMA.</title>
+<authorList>
+<person name="Maekawa T."/>
+<person name="Kuriyama R."/>
+</authorList>
+<dbReference type="PubMed" id="8408288"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="497" last="500">
+<title>Human chromosome 11 DNA sequence and analysis including novel gene identification.</title>
+<authorList>
+<person name="Taylor T.D."/>
+<person name="Noguchi H."/>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Kuroki Y."/>
+<person name="Dewar K."/>
+<person name="Lloyd C."/>
+<person name="Itoh T."/>
+<person name="Takeda T."/>
+<person name="Kim D.-W."/>
+<person name="She X."/>
+<person name="Barlow K.F."/>
+<person name="Bloom T."/>
+<person name="Bruford E."/>
+<person name="Chang J.L."/>
+<person name="Cuomo C.A."/>
+<person name="Eichler E."/>
+<person name="FitzGerald M.G."/>
+<person name="Jaffe D.B."/>
+<person name="LaButti K."/>
+<person name="Nicol R."/>
+<person name="Park H.-S."/>
+<person name="Seaman C."/>
+<person name="Sougnez C."/>
+<person name="Yang X."/>
+<person name="Zimmer A.R."/>
+<person name="Zody M.C."/>
+<person name="Birren B.W."/>
+<person name="Nusbaum C."/>
+<person name="Fujiyama A."/>
+<person name="Hattori M."/>
+<person name="Rogers J."/>
+<person name="Lander E.S."/>
+<person name="Sakaki Y."/>
+</authorList>
+<dbReference type="PubMed" id="16554811"/>
+<dbReference type="DOI" id="10.1038/nature04632"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 5)</scope>
+<source>
+<tissue>Lung</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1993" name="J. Cell Sci." volume="104" first="249" last="260">
+<title>Nuclear proteins of the bovine esophageal epithelium. II. The NuMA gene gives rise to multiple mRNAs and gene products reactive with monoclonal antibody W1.</title>
+<authorList>
+<person name="Tang T.K."/>
+<person name="Tang C.J."/>
+<person name="Chen Y.L."/>
+<person name="Wu C.W."/>
+</authorList>
+<dbReference type="PubMed" id="8505359"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 1576-2115 (ISOFORM 1)</scope>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 975-1776 (ISOFORM 3)</scope>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 610-1763 (ISOFORM 4)</scope>
+<scope>ALTERNATIVE SPLICING</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1994" name="J. Cell Sci." volume="107" first="1389" last="1402">
+<title>Nuclear mitotic apparatus protein (NuMA): spindle association, nuclear targeting and differential subcellular localization of various NuMA isoforms.</title>
+<authorList>
+<person name="Tang T.K."/>
+<person name="Tang C.J."/>
+<person name="Chao Y.J."/>
+<person name="Wu C.W."/>
+</authorList>
+<dbReference type="PubMed" id="7962183"/>
+</citation>
+<scope>SUBCELLULAR LOCATION (ISOFORMS 3 AND 4)</scope>
+<scope>ALTERNATIVE SPLICING (ISOFORMS 3 AND 4)</scope>
+<scope>MUTAGENESIS OF ARG-1984 AND LYS-1988</scope>
+<scope>NUCLEAR LOCALIZATION SIGNAL</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1995" name="J. Cell Sci." volume="108" first="621" last="633">
+<title>Mutation of the predicted p34cdc2 phosphorylation sites in NuMA impair the assembly of the mitotic spindle and block mitosis.</title>
+<authorList>
+<person name="Compton D.A."/>
+<person name="Luo C."/>
+</authorList>
+<dbReference type="PubMed" id="7769006"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION AT THR-2015; THR-2055; SER-2087 AND THR-2106</scope>
+<scope>MUTAGENESIS OF THR-2015; THR-2055; SER-2087 AND THR-2106</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1998" name="Urology" volume="52" first="398" last="402">
+<title>Sensitivity and specificity of NMP-22, telomerase, and BTA in the detection of human bladder cancer.</title>
+<authorList>
+<person name="Landman J."/>
+<person name="Chang Y."/>
+<person name="Kavaler E."/>
+<person name="Droller M.J."/>
+<person name="Liu B.C."/>
+</authorList>
+<dbReference type="PubMed" id="9730450"/>
+<dbReference type="DOI" id="10.1016/s0090-4295(98)00219-2"/>
+</citation>
+<scope>USE IN DIAGNOSTIC TESTS</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2000" name="J. Cell Biol." volume="149" first="851" last="862">
+<title>Formation of spindle poles by dynein/dynactin-dependent transport of NuMA.</title>
+<authorList>
+<person name="Merdes A."/>
+<person name="Heald R."/>
+<person name="Samejima K."/>
+<person name="Earnshaw W.C."/>
+<person name="Cleveland D.W."/>
+</authorList>
+<dbReference type="PubMed" id="10811826"/>
+<dbReference type="DOI" id="10.1083/jcb.149.4.851"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>ASSOCIATION WITH THE DYNEIN-DYNACTIN COMPLEX</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2001" name="Cell" volume="104" first="95" last="106">
+<title>Importin beta is a mitotic target of the small GTPase Ran in spindle assembly.</title>
+<authorList>
+<person name="Nachury M.V."/>
+<person name="Maresca T.J."/>
+<person name="Salmon W.C."/>
+<person name="Waterman-Storer C.M."/>
+<person name="Heald R."/>
+<person name="Weis K."/>
+</authorList>
+<dbReference type="PubMed" id="11163243"/>
+<dbReference type="DOI" id="10.1016/s0092-8674(01)00194-5"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH THE IMPORTIN ALPHA/IMPORTIN BETA RECEPTOR</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2001" name="Nat. Cell Biol." volume="3" first="1069" last="1075">
+<title>A mammalian partner of inscuteable binds NuMA and regulates mitotic spindle organization.</title>
+<authorList>
+<person name="Du Q."/>
+<person name="Stukenberg P.T."/>
+<person name="Macara I.G."/>
+</authorList>
+<dbReference type="PubMed" id="11781568"/>
+<dbReference type="DOI" id="10.1038/ncb1201-1069"/>
+</citation>
+<scope>INTERACTION WITH GPSM2</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2001" name="Science" volume="291" first="653" last="656">
+<title>Role of importin-beta in coupling Ran to downstream targets in microtubule assembly.</title>
+<authorList>
+<person name="Wiese C."/>
+<person name="Wilde A."/>
+<person name="Moore M.S."/>
+<person name="Adam S.A."/>
+<person name="Merdes A."/>
+<person name="Zheng Y."/>
+</authorList>
+<dbReference type="PubMed" id="11229403"/>
+<dbReference type="DOI" id="10.1126/science.1057661"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH KPNB1</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2002" name="Curr. Biol." volume="12" first="1928" last="1933">
+<title>LGN blocks the ability of NuMA to bind and stabilize microtubules. A mechanism for mitotic spindle assembly regulation.</title>
+<authorList>
+<person name="Du Q."/>
+<person name="Taylor L."/>
+<person name="Compton D.A."/>
+<person name="Macara I.G."/>
+</authorList>
+<dbReference type="PubMed" id="12445386"/>
+<dbReference type="DOI" id="10.1016/s0960-9822(02)01298-8"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH GPSM2 AND MICROTUBULES</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DOMAINS</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="31887" last="31892">
+<title>Identification of a tankyrase-binding motif shared by IRAP, TAB182, and human TRF1 but not mouse TRF1. NuMA contains this RXXPDG motif and is a novel tankyrase partner.</title>
+<authorList>
+<person name="Sbodio J.I."/>
+<person name="Chi N.W."/>
+</authorList>
+<dbReference type="PubMed" id="12080061"/>
+<dbReference type="DOI" id="10.1074/jbc.m203916200"/>
+</citation>
+<scope>INTERACTION WITH TNKS AND TNKS2</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2002" name="J. Cell Sci." volume="115" first="1815" last="1824">
+<title>Direct binding of NuMA to tubulin is mediated by a novel sequence motif in the tail domain that bundles and stabilizes microtubules.</title>
+<authorList>
+<person name="Haren L."/>
+<person name="Merdes A."/>
+</authorList>
+<dbReference type="PubMed" id="11956313"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH TUBULIN AND MICROTUBULES</scope>
+<scope>TUBULIN-BINDING DOMAIN</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2005" name="Biochem. J." volume="391" first="177" last="184">
+<title>NuMA is a major acceptor of poly(ADP-ribosyl)ation by tankyrase 1 in mitosis.</title>
+<authorList>
+<person name="Chang W."/>
+<person name="Dynek J.N."/>
+<person name="Smith S."/>
+</authorList>
+<dbReference type="PubMed" id="16076287"/>
+<dbReference type="DOI" id="10.1042/bj20050885"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ADP-RIBOSYLATION</scope>
+<scope>INTERACTION WITH TNKS</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2005" name="Nat. Biotechnol." volume="23" first="94" last="101">
+<title>Immunoaffinity profiling of tyrosine phosphorylation in cancer cells.</title>
+<authorList>
+<person name="Rush J."/>
+<person name="Moritz A."/>
+<person name="Lee K.A."/>
+<person name="Guo A."/>
+<person name="Goss V.L."/>
+<person name="Spek E.J."/>
+<person name="Zhang H."/>
+<person name="Zha X.-M."/>
+<person name="Polakiewicz R.D."/>
+<person name="Comb M.J."/>
+</authorList>
+<dbReference type="PubMed" id="15592455"/>
+<dbReference type="DOI" id="10.1038/nbt1046"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2006" name="Cell" volume="127" first="635" last="648">
+<title>Global, in vivo, and site-specific phosphorylation dynamics in signaling networks.</title>
+<authorList>
+<person name="Olsen J.V."/>
+<person name="Blagoev B."/>
+<person name="Gnad F."/>
+<person name="Macek B."/>
+<person name="Kumar C."/>
+<person name="Mortensen P."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="17081983"/>
+<dbReference type="DOI" id="10.1016/j.cell.2006.09.026"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1757</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2006" name="Nat. Biotechnol." volume="24" first="1285" last="1292">
+<title>A probability-based approach for high-throughput protein phosphorylation analysis and site localization.</title>
+<authorList>
+<person name="Beausoleil S.A."/>
+<person name="Villen J."/>
+<person name="Gerber S.A."/>
+<person name="Rush J."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="16964243"/>
+<dbReference type="DOI" id="10.1038/nbt1240"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1757; SER-1769; THR-1776; SER-1840 AND THR-2106</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2006" name="Proc. Natl. Acad. Sci. U.S.A." volume="103" first="19783" last="19787">
+<title>Rae1 interaction with NuMA is required for bipolar spindle formation.</title>
+<authorList>
+<person name="Wong R.W."/>
+<person name="Blobel G."/>
+<person name="Coutavas E."/>
+</authorList>
+<dbReference type="PubMed" id="17172455"/>
+<dbReference type="DOI" id="10.1073/pnas.0609582104"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH DYNEIN-DYNACTIN COMPLEX AND RAE1</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2007" name="J. Proteome Res." volume="6" first="4150" last="4162">
+<title>Improved titanium dioxide enrichment of phosphopeptides from HeLa cells and high confident phosphopeptide identification by cross-validation of MS/MS and MS/MS/MS spectra.</title>
+<authorList>
+<person name="Yu L.R."/>
+<person name="Zhu Z."/>
+<person name="Chan K.C."/>
+<person name="Issaq H.J."/>
+<person name="Dimitrov D.S."/>
+<person name="Veenstra T.D."/>
+</authorList>
+<dbReference type="PubMed" id="17924679"/>
+<dbReference type="DOI" id="10.1021/pr070152u"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-2077</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2007" name="Science" volume="316" first="1160" last="1166">
+<title>ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage.</title>
+<authorList>
+<person name="Matsuoka S."/>
+<person name="Ballif B.A."/>
+<person name="Smogorzewska A."/>
+<person name="McDonald E.R. III"/>
+<person name="Hurov K.E."/>
+<person name="Luo J."/>
+<person name="Bakalarski C.E."/>
+<person name="Zhao Z."/>
+<person name="Solimini N."/>
+<person name="Lerenthal Y."/>
+<person name="Shiloh Y."/>
+<person name="Gygi S.P."/>
+<person name="Elledge S.J."/>
+</authorList>
+<dbReference type="PubMed" id="17525332"/>
+<dbReference type="DOI" id="10.1126/science.1140321"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-388; SER-395; SER-820; SER-1601; SER-1757 AND SER-1760</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Embryonic kidney</tissue>
+</source>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2008" name="J. Proteome Res." volume="7" first="1346" last="1351">
+<title>Combining protein-based IMAC, peptide-based IMAC, and MudPIT for efficient phosphoproteomic analysis.</title>
+<authorList>
+<person name="Cantin G.T."/>
+<person name="Yi W."/>
+<person name="Lu B."/>
+<person name="Park S.K."/>
+<person name="Xu T."/>
+<person name="Lee J.-D."/>
+<person name="Yates J.R. III"/>
+</authorList>
+<dbReference type="PubMed" id="18220336"/>
+<dbReference type="DOI" id="10.1021/pr0705441"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1757</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2008" name="J. Proteome Res." volume="7" first="5167" last="5176">
+<title>Phosphorylation analysis of primary human T lymphocytes using sequential IMAC and titanium oxide enrichment.</title>
+<authorList>
+<person name="Carrascal M."/>
+<person name="Ovelleiro D."/>
+<person name="Casas V."/>
+<person name="Gay M."/>
+<person name="Abian J."/>
+</authorList>
+<dbReference type="PubMed" id="19367720"/>
+<dbReference type="DOI" id="10.1021/pr800500r"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1757</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>T-cell</tissue>
+</source>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="10762" last="10767">
+<title>A quantitative atlas of mitotic phosphorylation.</title>
+<authorList>
+<person name="Dephoure N."/>
+<person name="Zhou C."/>
+<person name="Villen J."/>
+<person name="Beausoleil S.A."/>
+<person name="Bakalarski C.E."/>
+<person name="Elledge S.J."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="18669648"/>
+<dbReference type="DOI" id="10.1073/pnas.0805139105"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-169; SER-203; THR-211; SER-1721; SER-1724; SER-1728; SER-1757; SER-1769; SER-1772; TYR-1774; THR-1776; SER-1788; SER-1789; SER-1792; SER-1800; THR-1804; SER-1830; SER-1833; SER-1834; TYR-1836; SER-1840; SER-1862; SER-1887; SER-1969; SER-1991 AND THR-2000</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2009" name="Anal. Chem." volume="81" first="4493" last="4501">
+<title>Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach.</title>
+<authorList>
+<person name="Gauci S."/>
+<person name="Helbig A.O."/>
+<person name="Slijper M."/>
+<person name="Krijgsveld J."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="19413330"/>
+<dbReference type="DOI" id="10.1021/ac9004309"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2009" name="J. Cell Biol." volume="184" first="677" last="690">
+<title>Requirements for NuMA in maintenance and establishment of mammalian spindle poles.</title>
+<authorList>
+<person name="Silk A.D."/>
+<person name="Holland A.J."/>
+<person name="Cleveland D.W."/>
+</authorList>
+<dbReference type="PubMed" id="19255246"/>
+<dbReference type="DOI" id="10.1083/jcb.200810091"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2009" name="Sci. Signal." volume="2" first="RA46" last="RA46">
+<title>Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions.</title>
+<authorList>
+<person name="Mayya V."/>
+<person name="Lundgren D.H."/>
+<person name="Hwang S.-I."/>
+<person name="Rezaul K."/>
+<person name="Wu L."/>
+<person name="Eng J.K."/>
+<person name="Rodionov V."/>
+<person name="Han D.K."/>
+</authorList>
+<dbReference type="PubMed" id="19690332"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000007"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-203; SER-1225; SER-1757; SER-1769; THR-1776; SER-1788 AND SER-1800</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Leukemic T-cell</tissue>
+</source>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2009" name="Science" volume="325" first="834" last="840">
+<title>Lysine acetylation targets protein complexes and co-regulates major cellular functions.</title>
+<authorList>
+<person name="Choudhary C."/>
+<person name="Kumar C."/>
+<person name="Gnad F."/>
+<person name="Nielsen M.L."/>
+<person name="Rehman M."/>
+<person name="Walther T.C."/>
+<person name="Olsen J.V."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="19608861"/>
+<dbReference type="DOI" id="10.1126/science.1175371"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-379; LYS-891 AND LYS-1511</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2010" name="Sci. Signal." volume="3" first="RA2" last="RA2">
+<title>Extensive crosstalk between O-GlcNAcylation and phosphorylation regulates cytokinesis.</title>
+<authorList>
+<person name="Wang Z."/>
+<person name="Udeshi N.D."/>
+<person name="Slawson C."/>
+<person name="Compton P.D."/>
+<person name="Sakabe K."/>
+<person name="Cheung W.D."/>
+<person name="Shabanowitz J."/>
+<person name="Hunt D.F."/>
+<person name="Hart G.W."/>
+</authorList>
+<dbReference type="PubMed" id="20068230"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000526"/>
+</citation>
+<scope>GLYCOSYLATION AT SER-1844</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="2010" name="Sci. Signal." volume="3" first="RA3" last="RA3">
+<title>Quantitative phosphoproteomics reveals widespread full phosphorylation site occupancy during mitosis.</title>
+<authorList>
+<person name="Olsen J.V."/>
+<person name="Vermeulen M."/>
+<person name="Santamaria A."/>
+<person name="Kumar C."/>
+<person name="Miller M.L."/>
+<person name="Jensen L.J."/>
+<person name="Gnad F."/>
+<person name="Cox J."/>
+<person name="Jensen T.S."/>
+<person name="Nigg E.A."/>
+<person name="Brunak S."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="20068231"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000475"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-169; SER-203; THR-211; SER-271; SER-1187; SER-1225; SER-1757; SER-1769; SER-1830; SER-1862; SER-1969; SER-1991; THR-2000 AND SER-2003</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="34">
+<citation type="journal article" date="2010" name="Trends Cell Biol." volume="20" first="214" last="222">
+<title>NuMA after 30 years: the matrix revisited.</title>
+<authorList>
+<person name="Radulescu A.E."/>
+<person name="Cleveland D.W."/>
+</authorList>
+<dbReference type="PubMed" id="20137953"/>
+<dbReference type="DOI" id="10.1016/j.tcb.2010.01.003"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="2011" name="Sci. Signal." volume="4" first="RS3" last="RS3">
+<title>System-wide temporal characterization of the proteome and phosphoproteome of human embryonic stem cell differentiation.</title>
+<authorList>
+<person name="Rigbolt K.T."/>
+<person name="Prokhorova T.A."/>
+<person name="Akimov V."/>
+<person name="Henningsen J."/>
+<person name="Johansen P.T."/>
+<person name="Kratchmarova I."/>
+<person name="Kassem M."/>
+<person name="Mann M."/>
+<person name="Olsen J.V."/>
+<person name="Blagoev B."/>
+</authorList>
+<dbReference type="PubMed" id="21406692"/>
+<dbReference type="DOI" id="10.1126/scisignal.2001570"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1757</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="2012" name="J. Cell Biol." volume="199" first="97" last="110">
+<title>Cortical dynein is critical for proper spindle positioning in human cells.</title>
+<authorList>
+<person name="Kotak S."/>
+<person name="Busso C."/>
+<person name="Goenczy P."/>
+</authorList>
+<dbReference type="PubMed" id="23027904"/>
+<dbReference type="DOI" id="10.1083/jcb.201203166"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH DYNEIN-DYNACTIN COMPLEX</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="2012" name="Nat. Cell Biol." volume="14" first="311" last="317">
+<title>Chromosome- and spindle-pole-derived signals generate an intrinsic code for spindle position and orientation.</title>
+<authorList>
+<person name="Kiyomitsu T."/>
+<person name="Cheeseman I.M."/>
+</authorList>
+<dbReference type="PubMed" id="22327364"/>
+<dbReference type="DOI" id="10.1038/ncb2440"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH GPSM2</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION AT THR-1047; SER-1769; SER-1772; SER-1789 AND SER-1834 BY PLK1</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="2012" name="Proc. Natl. Acad. Sci. U.S.A." volume="109" first="12449" last="12454">
+<title>N-terminal acetylome analyses and functional insights of the N-terminal acetyltransferase NatB.</title>
+<authorList>
+<person name="Van Damme P."/>
+<person name="Lasa M."/>
+<person name="Polevoda B."/>
+<person name="Gazquez C."/>
+<person name="Elosegui-Artola A."/>
+<person name="Kim D.S."/>
+<person name="De Juan-Pardo E."/>
+<person name="Demeyer K."/>
+<person name="Hole K."/>
+<person name="Larrea E."/>
+<person name="Timmerman E."/>
+<person name="Prieto J."/>
+<person name="Arnesen T."/>
+<person name="Sherman F."/>
+<person name="Gevaert K."/>
+<person name="Aldabe R."/>
+</authorList>
+<dbReference type="PubMed" id="22814378"/>
+<dbReference type="DOI" id="10.1073/pnas.1210303109"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="40">
+<citation type="journal article" date="2013" name="Cell" volume="154" first="391" last="402">
+<title>Cortical dynein and asymmetric membrane elongation coordinately position the spindle in anaphase.</title>
+<authorList>
+<person name="Kiyomitsu T."/>
+<person name="Cheeseman I.M."/>
+</authorList>
+<dbReference type="PubMed" id="23870127"/>
+<dbReference type="DOI" id="10.1016/j.cell.2013.06.010"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH EPB41 AND EPB41L2</scope>
+<scope>PROBABLE PHOSPHORYLATION AT THR-2015; THR-2055 AND SER-2087 BY CDK1</scope>
+<scope>MUTAGENESIS OF THR-2015; THR-2055 AND SER-2087</scope>
+</reference>
+<reference key="41">
+<citation type="journal article" date="2013" name="EMBO J." volume="32" first="2517" last="2529">
+<title>NuMA phosphorylation by CDK1 couples mitotic progression with cortical dynein function.</title>
+<authorList>
+<person name="Kotak S."/>
+<person name="Busso C."/>
+<person name="Goenczy P."/>
+</authorList>
+<dbReference type="PubMed" id="23921553"/>
+<dbReference type="DOI" id="10.1038/emboj.2013.172"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>PHOSPHORYLATION AT THR-2015; THR-2055; SER-2087 AND THR-2106</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<scope>MUTAGENESIS OF THR-2055</scope>
+</reference>
+<reference key="42">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+<dbReference type="DOI" id="10.1021/pr300630k"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-169; SER-271; SER-1757; SER-1769; SER-1830; SER-1834; SER-1840; SER-1844; SER-1862; SER-1887; SER-1969; SER-1991; THR-2000; SER-2047; THR-2055 AND SER-2062</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="43">
+<citation type="journal article" date="2013" name="Mol. Biol. Cell" volume="24" first="3651" last="3662">
+<title>NuMA localization, stability, and function in spindle orientation involve 4.1 and Cdk1 interactions.</title>
+<authorList>
+<person name="Seldin L."/>
+<person name="Poulson N.D."/>
+<person name="Foote H.P."/>
+<person name="Lechler T."/>
+</authorList>
+<dbReference type="PubMed" id="24109598"/>
+<dbReference type="DOI" id="10.1091/mbc.e13-05-0277"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH GPSM2</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF THR-2055</scope>
+</reference>
+<reference key="44">
+<citation type="journal article" date="2014" name="EMBO J." volume="33" first="1815" last="1830">
+<title>NuMA interacts with phosphoinositides and links the mitotic spindle with the plasma membrane.</title>
+<authorList>
+<person name="Kotak S."/>
+<person name="Busso C."/>
+<person name="Goenczy P."/>
+</authorList>
+<dbReference type="PubMed" id="24996901"/>
+<dbReference type="DOI" id="10.15252/embj.201488147"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH EPB41 AND EPB41L2</scope>
+<scope>PHOSPHATIDYLINOSITOL-BINDING</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF THR-2055</scope>
+</reference>
+<reference key="45">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-162; THR-163; SER-169; SER-271; SER-1225; SER-1757 AND SER-1788</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="46">
+<citation type="journal article" date="2014" name="Mol. Biol. Cell" volume="25" first="606" last="619">
+<title>Cell cycle-regulated membrane binding of NuMA contributes to efficient anaphase chromosome separation.</title>
+<authorList>
+<person name="Zheng Z."/>
+<person name="Wan Q."/>
+<person name="Meixiong G."/>
+<person name="Du Q."/>
+</authorList>
+<dbReference type="PubMed" id="24371089"/>
+<dbReference type="DOI" id="10.1091/mbc.e13-08-0474"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION AT THR-2055</scope>
+<scope>DOMAIN</scope>
+<scope>PHOSPHATIDYLINOSITOL-BINDING</scope>
+<scope>MUTAGENESIS OF THR-2055</scope>
+</reference>
+<reference key="47">
+<citation type="journal article" date="2014" name="Nat. Struct. Mol. Biol." volume="21" first="927" last="936">
+<title>Uncovering global SUMOylation signaling networks in a site-specific manner.</title>
+<authorList>
+<person name="Hendriks I.A."/>
+<person name="D'Souza R.C."/>
+<person name="Yang B."/>
+<person name="Verlaan-de Vries M."/>
+<person name="Mann M."/>
+<person name="Vertegaal A.C."/>
+</authorList>
+<dbReference type="PubMed" id="25218447"/>
+<dbReference type="DOI" id="10.1038/nsmb.2890"/>
+</citation>
+<scope>SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-1766</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="48">
+<citation type="journal article" date="2014" name="Proc. Natl. Acad. Sci. U.S.A." volume="111" first="12432" last="12437">
+<title>Mapping of SUMO sites and analysis of SUMOylation changes induced by external stimuli.</title>
+<authorList>
+<person name="Impens F."/>
+<person name="Radoshevich L."/>
+<person name="Cossart P."/>
+<person name="Ribet D."/>
+</authorList>
+<dbReference type="PubMed" id="25114211"/>
+<dbReference type="DOI" id="10.1073/pnas.1413825111"/>
+</citation>
+<scope>SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-1766</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="49">
+<citation type="journal article" date="2015" name="Cell Rep." volume="10" first="1778" last="1791">
+<title>SUMO-2 orchestrates chromatin modifiers in response to DNA damage.</title>
+<authorList>
+<person name="Hendriks I.A."/>
+<person name="Treffers L.W."/>
+<person name="Verlaan-de Vries M."/>
+<person name="Olsen J.V."/>
+<person name="Vertegaal A.C."/>
+</authorList>
+<dbReference type="PubMed" id="25772364"/>
+<dbReference type="DOI" id="10.1016/j.celrep.2015.02.033"/>
+</citation>
+<scope>SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-1766</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="50">
+<citation type="journal article" date="2015" name="J. Cell Biol." volume="210" first="209" last="224">
+<title>The deubiquitinating enzyme complex BRISC is required for proper mitotic spindle assembly in mammalian cells.</title>
+<authorList>
+<person name="Yan K."/>
+<person name="Li L."/>
+<person name="Wang X."/>
+<person name="Hong R."/>
+<person name="Zhang Y."/>
+<person name="Yang H."/>
+<person name="Lin M."/>
+<person name="Zhang S."/>
+<person name="He Q."/>
+<person name="Zheng D."/>
+<person name="Tang J."/>
+<person name="Yin Y."/>
+<person name="Shao G."/>
+</authorList>
+<dbReference type="PubMed" id="26195665"/>
+<dbReference type="DOI" id="10.1083/jcb.201503039"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>UBIQUITINATION</scope>
+<scope>INTERACTION WITH ABRAXAS2; KPNB1 AND DYNEIN-DYNACTIN COMPLEX</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="51">
+<citation type="journal article" date="2015" name="Mol. Biol. Cell" volume="26" first="1225" last="1237">
+<title>CENP-32 is required to maintain centrosomal dominance in bipolar spindle assembly.</title>
+<authorList>
+<person name="Ohta S."/>
+<person name="Wood L."/>
+<person name="Toramoto I."/>
+<person name="Yagyu K."/>
+<person name="Fukagawa T."/>
+<person name="Earnshaw W.C."/>
+</authorList>
+<dbReference type="PubMed" id="25657325"/>
+<dbReference type="DOI" id="10.1091/mbc.e14-09-1366"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="52">
+<citation type="journal article" date="2015" name="PLoS ONE" volume="10" first="E0142798" last="E0142798">
+<title>Polyglutamylated tubulin binding protein C1orf96/CSAP is involved in microtubule stabilization in mitotic spindles.</title>
+<authorList>
+<person name="Ohta S."/>
+<person name="Hamada M."/>
+<person name="Sato N."/>
+<person name="Toramoto I."/>
+</authorList>
+<dbReference type="PubMed" id="26562023"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0142798"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="53">
+<citation type="journal article" date="2016" name="Dev. Cell" volume="36" first="50" last="62">
+<title>SAPCD2 controls spindle orientation and asymmetric divisions by negatively regulating the Galphai-LGN-NuMA ternary complex.</title>
+<authorList>
+<person name="Chiu C.W."/>
+<person name="Monat C."/>
+<person name="Robitaille M."/>
+<person name="Lacomme M."/>
+<person name="Daulat A.M."/>
+<person name="Macleod G."/>
+<person name="McNeill H."/>
+<person name="Cayouette M."/>
+<person name="Angers S."/>
+</authorList>
+<dbReference type="PubMed" id="26766442"/>
+<dbReference type="DOI" id="10.1016/j.devcel.2015.12.016"/>
+</citation>
+<scope>IDENTIFICATION IN A SPINDLE ORIENTATION COMPLEX</scope>
+</reference>
+<reference key="54">
+<citation type="journal article" date="2016" name="Elife" volume="5">
+<title>NuMA-microtubule interactions are critical for spindle orientation and the morphogenesis of diverse epidermal structures.</title>
+<authorList>
+<person name="Seldin L."/>
+<person name="Muroyama A."/>
+<person name="Lechler T."/>
+</authorList>
+<dbReference type="PubMed" id="26765568"/>
+<dbReference type="DOI" id="10.7554/elife.12504"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH MICROTUBULES</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DOMAIN</scope>
+<scope>NUCLEAR LOCALIZATION SIGNAL</scope>
+</reference>
+<reference key="55">
+<citation type="journal article" date="2016" name="J. Biol. Chem." volume="291" first="20055" last="20067">
+<title>Nuclear mitotic apparatus (NuMA) interacts with and regulates astrin at the mitotic spindle.</title>
+<authorList>
+<person name="Chu X."/>
+<person name="Chen X."/>
+<person name="Wan Q."/>
+<person name="Zheng Z."/>
+<person name="Du Q."/>
+</authorList>
+<dbReference type="PubMed" id="27462074"/>
+<dbReference type="DOI" id="10.1074/jbc.m116.724831"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH GPSM2 AND SPAG5</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="56">
+<citation type="journal article" date="2017" name="Nat. Struct. Mol. Biol." volume="24" first="325" last="336">
+<title>Site-specific mapping of the human SUMO proteome reveals co-modification with phosphorylation.</title>
+<authorList>
+<person name="Hendriks I.A."/>
+<person name="Lyon D."/>
+<person name="Young C."/>
+<person name="Jensen L.J."/>
+<person name="Vertegaal A.C."/>
+<person name="Nielsen M.L."/>
+</authorList>
+<dbReference type="PubMed" id="28112733"/>
+<dbReference type="DOI" id="10.1038/nsmb.3366"/>
+</citation>
+<scope>SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-1699; LYS-1766 AND LYS-1822</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="57">
+<citation type="journal article" date="1999" name="EMBO J." volume="18" first="1689" last="1700">
+<title>Self assembly of NuMA: multiarm oligomers as structural units of a nuclear lattice.</title>
+<authorList>
+<person name="Harborth J."/>
+<person name="Wang J."/>
+<person name="Gueth-Hallonet C."/>
+<person name="Weber K."/>
+<person name="Osborn M."/>
+</authorList>
+<dbReference type="PubMed" id="10075938"/>
+<dbReference type="DOI" id="10.1093/emboj/18.6.1689"/>
+</citation>
+<scope>ELECTRON MICROSCOPY</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PUTATIVE STRUCTURAL FUNCTION</scope>
+</reference>
+<reference key="58">
+<citation type="journal article" date="2011" name="Mol. Cell" volume="43" first="418" last="431">
+<title>LGN/mInsc and LGN/NuMA complex structures suggest distinct functions in asymmetric cell division for the Par3/mInsc/LGN and Galphai/LGN/NuMA pathways.</title>
+<authorList>
+<person name="Zhu J."/>
+<person name="Wen W."/>
+<person name="Zheng Z."/>
+<person name="Shang Y."/>
+<person name="Wei Z."/>
+<person name="Xiao Z."/>
+<person name="Pan Z."/>
+<person name="Du Q."/>
+<person name="Wang W."/>
+<person name="Zhang M."/>
+</authorList>
+<dbReference type="PubMed" id="21816348"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2011.07.011"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 1899-1926 IN COMPLEX WITH GPSM2</scope>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH GPSM2</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF GLU-1910</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="59">
+<citation type="journal article" date="2015" name="Mol. Biol. Cell" volume="26" first="3424" last="3438">
+<title>The nucleoporin ALADIN regulates Aurora A localization to ensure robust mitotic spindle formation.</title>
+<authorList>
+<person name="Carvalhal S."/>
+<person name="Ribeiro S.A."/>
+<person name="Arocena M."/>
+<person name="Kasciukovic T."/>
+<person name="Temme A."/>
+<person name="Koehler K."/>
+<person name="Huebner A."/>
+<person name="Griffis E.R."/>
+</authorList>
+<dbReference type="PubMed" id="26246606"/>
+<dbReference type="DOI" id="10.1091/mbc.e15-02-0113"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<comment type="function">
+<text evidence="21 25 26 28 30 33 34 35 38 39 40 41 42 43 44 45 46 49 51 52 63 64">Microtubule (MT)-binding protein that plays a role in the formation and maintenance of the spindle poles and the alignement and the segregation of chromosomes during mitotic cell division (PubMed:7769006, PubMed:17172455, PubMed:19255246, PubMed:24996901, PubMed:26195665, PubMed:27462074). Functions to tether the minus ends of MTs at the spindle poles, which is critical for the establishment and maintenance of the spindle poles (PubMed:12445386, PubMed:11956313). Plays a role in the establishment of the mitotic spindle orientation during metaphase and elongation during anaphase in a dynein-dynactin-dependent manner (PubMed:23870127, PubMed:24109598, PubMed:24996901, PubMed:26765568). In metaphase, part of a ternary complex composed of GPSM2 and G(i) alpha proteins, that regulates the recruitment and anchorage of the dynein-dynactin complex in the mitotic cell cortex regions situated above the two spindle poles, and hence regulates the correct oritentation of the mitotic spindle (PubMed:23027904, PubMed:22327364, PubMed:23921553). During anaphase, mediates the recruitment and accumulation of the dynein-dynactin complex at the cell membrane of the polar cortical region through direct association with phosphatidylinositol 4,5-bisphosphate (PI(4,5)P2), and hence participates in the regulation of the spindle elongation and chromosome segregation (PubMed:22327364, PubMed:23921553, PubMed:24996901, PubMed:24371089). Binds also to other polyanionic phosphoinositides, such as phosphatidylinositol 3-phosphate (PIP), lysophosphatidic acid (LPA) and phosphatidylinositol triphosphate (PIP3), in vitro (PubMed:24996901, PubMed:24371089). Also required for proper orientation of the mitotic spindle during asymmetric cell divisions (PubMed:21816348). Plays a role in mitotic MT aster assembly (PubMed:11163243, PubMed:11229403, PubMed:12445386). Involved in anastral spindle assembly (PubMed:25657325). Positively regulates TNKS protein localization to spindle poles in mitosis (PubMed:16076287). Highly abundant component of the nuclear matrix where it may serve a non-mitotic structural role, occupies the majority of the nuclear volume (PubMed:10075938). Required for epidermal differentiation and hair follicle morphogenesis (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="23 24 25 26 27 28 29 30 33 34 37 38 39 40 42 44 46 49 50 51">Homodimer (PubMed:10075938). Also forms multiarm oligomers by association of C-terminal tail domains, oligomers may further assemble to form a hexagonal nuclear lattice-like network (PubMed:10075938). Associates with the dynein-dynactin complex; this association promotes the transport and accumulation of NUMA1 at the mitotic spindle poles that is inhibited by the BRISC complex in a PLK1-dependent manner (PubMed:10811826, PubMed:17172455, PubMed:23027904, PubMed:22327364, PubMed:26195665). Part of a spindle orientation complex at least composed of GNAI1, GPSM2 and NUMA1 (PubMed:26766442). Interacts (via C-terminus) with microtubules (MTs); this interaction is direct and promotes both MT bundle formation and stability in a dynein-dynactin complex- and CDK1-independent manner (PubMed:12445386, PubMed:11956313, PubMed:26765568). Interacts with EPB41 and EPB41L2; these interactions are negatively regulated by CDK1 during metaphase and are important for anaphase-specific localization of NUMA1 in symmetrically dividing cells (PubMed:23870127, PubMed:24996901). Interacts (via C-terminus) with GPSM2 (via TPR repeats); this interaction is direct, prevented by competitive binding of INSC, is inhibited in a PLK1-dependent manner, blocks the association of NUMA1 with MTs and inhibits NUMA1-induced MT bundle formation, prevents the association of NUMA1 with SPAG5, induces mitotic spindle pole localization of GPSM2, both metaphase cell cortex localization of NUMA1 and mitotic spindle organization (PubMed:11781568, PubMed:12445386, PubMed:22327364, PubMed:24109598, PubMed:27462074, PubMed:21816348). Does not interact with GPSM2 during anaphase (PubMed:23870127). Interacts (via C-terminus) with the nuclear importin alpha/importin beta receptor; this interaction is inhibited by RanGTP (PubMed:11163243). Interacts (via C-terminus) with KPNB1; this interaction is inhibited by RanGTP and the BRISC complex (PubMed:11229403, PubMed:26195665). Interacts with ABRAXAS2 and the BRISC complex; these interactions regulate mitotic spindle assembly (PubMed:26195665). Interacts (via N-terminal end of the coiled-coil domain) with RAE1; this interaction promotes mitotic spindle formation (PubMed:17172455). Interacts (via C-terminus) with SPAG5 (via C-terminus); this interaction promotes the recruitment of SPAG5 to the MTs at spindle poles in a dynein-dynactin-dependent manner and regulates mitotic spindle organization and proper chromosome alignment during mitosis (PubMed:27462074). Interacts with TNKS; this interaction occurs at the onset of mitosis (PubMed:12080061, PubMed:16076287). Interacts with TNKS2 (PubMed:12080061). Interacts with tubulin (PubMed:11956313).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-521611">
+<id>Q14980</id>
+</interactant>
+<interactant intactId="EBI-2808286">
+<id>Q2TAC2</id>
+<label>CCDC57</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-521611">
+<id>Q14980</id>
+</interactant>
+<interactant intactId="EBI-10172181">
+<id>Q53SE7</id>
+<label>FLJ13057</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-521611">
+<id>Q14980</id>
+</interactant>
+<interactant intactId="EBI-618639">
+<id>P63096</id>
+<label>GNAI1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-521611">
+<id>Q14980</id>
+</interactant>
+<interactant intactId="EBI-618655">
+<id>P81274</id>
+<label>GPSM2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-521611">
+<id>Q14980</id>
+</interactant>
+<interactant intactId="EBI-724495">
+<id>P78406</id>
+<label>RAE1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-521611">
+<id>Q14980</id>
+</interactant>
+<interactant intactId="EBI-750109">
+<id>Q9NYB0</id>
+<label>TERF2IP</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-10981450">
+<id>Q14980-2</id>
+</interactant>
+<interactant intactId="EBI-7575403">
+<id>Q8VDU0</id>
+<label>Gpsm2</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="31 41 51">Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="24">Nucleus</location>
+<location evidence="24">Nucleoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="23 28 32 53">Nucleus matrix</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="31">Chromosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="28 30 49">Cytoplasm</location>
+<location evidence="28 30 49">Cytoskeleton</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="24 31 32 45 48 49">Cytoplasm</location>
+<location evidence="24 31 32 45 48 49">Cytoskeleton</location>
+<location evidence="24 31 32 45 48 49">Microtubule organizing center</location>
+<location evidence="24 31 32 45 48 49">Centrosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="24 27 28 30 31 32 33 37 38 40 41 42 44 45 46 47 48 51 52 53">Cytoplasm</location>
+<location evidence="24 27 28 30 31 32 33 37 38 40 41 42 44 45 46 47 48 51 52 53">Cytoskeleton</location>
+<location evidence="24 27 28 30 31 32 33 37 38 40 41 42 44 45 46 47 48 51 52 53">Spindle pole</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="37 38 40 41 42 44">Cytoplasm</location>
+<location evidence="37 38 40 41 42 44">Cell cortex</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="43 44">Cell membrane</location>
+<topology evidence="43 44">Lipid-anchor</topology>
+<orientation evidence="43 44">Cytoplasmic side</orientation>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="21">Lateral cell membrane</location>
+</subcellularLocation>
+<text evidence="21 24 27 30 31 32 33 37 38 40 41 42 43 44 46 47 48 49 51">Mitotic cell cycle-dependent shuttling protein that relocalizes from the interphase nucleus to the spindle poles and cell cortex (PubMed:1541636, PubMed:10811826). The localization to the spindle poles is regulated by AAAS (PubMed:26246606). In interphase, resides in the nuclear matrix (PubMed:1541630, PubMed:1541636, PubMed:23921553). In prophase, restricted to the interchromatin or condensed chromosome space (PubMed:10811826). In prometaphase, after nuclear envelope disassembly, forms aggregates both in the spindle midzone and at duplicated centrosomes and astral microtubules (MTs) of the bipolar spindle apparatus (PubMed:10811826). Translocates from the spindle midzone towards the spindle poles along spindle fibers in a MT- and dynein-dynactin-dependent manner until the anaphase onset (PubMed:1541636, PubMed:10811826). In metaphase, recruited to the polar cortical region in a GPSM2- and GNAI1-dependent manner (PubMed:23870127, PubMed:24109598, PubMed:24996901). Excluded from the metaphase equatorial cortical region in a RanGTP-dependent manner (PubMed:22327364, PubMed:23870127). Phosphorylation on Thr-2055 by CDK1 results in its localization at spindle poles in metaphase, but not at the cell cortex (PubMed:23921553). In anaphase, recruited and anchored at the cell membrane of the polar cortical region in a EPB41-, EPB41L2-, phosphatidylinositol-dependent and GPSM2- and G(i) alpha proteins-independent manner (PubMed:23870127, PubMed:24996901, PubMed:24109598, PubMed:24371089). Excluded from the anaphase equatorial region of the cell cortex in a RACGAP1- and KIF23-dependent and RanGTP-independent manner (PubMed:24996901). Associated with astral MTs emanating from the spindle poles during anaphase (PubMed:12445386, PubMed:24996901). Nonphosphorylated Thr-2055 localizes at the cell cortex, weakly during metaphase and more prominently during anaphase in a phosphatase PPP2CA-dependent manner (PubMed:23921553). As mitosis progresses it reassociates with telophase chromosomes very early during nuclear reformation, before substantial accumulation of lamins on chromosomal surfaces is evident (PubMed:1541636). Localizes to the tips of cortical MTs in prometaphase (PubMed:26765568). Localizes along MTs and specifically to both MT plus and minus ends (PubMed:26765568). Accumulates also at MT tips near the cell periphery (PubMed:26765568). Colocalizes with GPSM2 at mitotic spindle poles during mitosis (PubMed:11781568, PubMed:21816348). Colocalizes with SPAG5 at mitotic spindle at prometaphase and at mitotic spindle poles at metaphase and anaphase (PubMed:27462074). Colocalizes with ABRO1 at mitotic spindle poles (PubMed:26195665). Colocalized with TNKS from prophase through to anaphase in mitosis (PubMed:16076287). Colocalizes with tubulin alpha (PubMed:12445386). CCSAP is essential for its centrosomal localization (PubMed:26562023). In horizontally retinal progenitor dividing cells, localized to the lateral cortical region (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform 3</molecule>
+<subcellularLocation>
+<location evidence="53">Cytoplasm</location>
+<location evidence="53">Cytosol</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="53">Cytoplasm</location>
+<location evidence="53">Cytoskeleton</location>
+<location evidence="53">Microtubule organizing center</location>
+<location evidence="53">Centrosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="53">Cytoplasm</location>
+<location evidence="53">Cytoskeleton</location>
+<location evidence="53">Spindle pole</location>
+</subcellularLocation>
+<text evidence="53">During interphase, mainly clustered at the centrosomal region in the cytosol. After entry into mitosis, detected at mitotic spindle poles.</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform 4</molecule>
+<subcellularLocation>
+<location evidence="53">Cytoplasm</location>
+<location evidence="53">Cytosol</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="53">Cytoplasm</location>
+<location evidence="53">Cytoskeleton</location>
+<location evidence="53">Microtubule organizing center</location>
+<location evidence="53">Centrosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="53">Cytoplasm</location>
+<location evidence="53">Cytoskeleton</location>
+<location evidence="53">Spindle pole</location>
+</subcellularLocation>
+<text evidence="53">During interphase, mainly clustered at the centrosomal region in the cytosol. After entry into mitosis, detected at mitotic spindle poles.</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q14980-1</id>
+<name>1</name>
+<name>Numa-1</name>
+<name>p230</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q14980-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_012910"/>
+</isoform>
+<isoform>
+<id>Q14980-3</id>
+<name>3</name>
+<name evidence="58">Numa-m</name>
+<name>p195</name>
+<sequence type="described" ref="VSP_044378"/>
+</isoform>
+<isoform>
+<id>Q14980-4</id>
+<name>4</name>
+<name evidence="58">Numa-s</name>
+<name>p194</name>
+<sequence type="described" ref="VSP_044379"/>
+</isoform>
+<isoform>
+<id>Q14980-5</id>
+<name>5</name>
+<sequence type="described" ref="VSP_054146"/>
+</isoform>
+</comment>
+<comment type="domain">
+<text evidence="28 42">The C-terminal tubulin-binding domain mediates direct binding to microtubules, independently of dynein-dynactin complex, and induces their bundling and stabilization (PubMed:11956313). The 4.1-binding domain is necessary for its cortical stability and spindle orientation (PubMed:24109598).</text>
+</comment>
+<comment type="PTM">
+<text evidence="38 40 41 43 52">Phosphorylation and dephosphorylation on Thr-2055 regulates the extent of cortical NUMA1 and the dynein-dynactin complex localization during mitotic metaphase and anaphase (PubMed:23921553). In metaphase, phosphorylation on Thr-2055 occurs in a kinase CDK1-dependent manner; this phosphorylation maintains low levels of cortical dynein-dynactin complex at metaphase, and hence proper spindle positioning (PubMed:7769006, PubMed:23921553, PubMed:24371089). In anaphase, dephosphorylated on Thr-2055 by phosphatase PPP2CA; this dephosphorylation stimulates its membrane association and with the dynein-dynactin complex its enrichment at the cell cortex, and hence robust spindle elongation (PubMed:23921553, PubMed:24371089). Probably also phosphorylated on Thr-2015 and Ser-2087 by CDK1; these phosphorylations may regulate its cell cortex recruitment during metaphase and anaphase (PubMed:23870127). Phosphorylated on Thr-1047, Ser-1769, Ser-1772, Ser-1789 and Ser-1834 by PLK1; these phosphorylations induce cortical dynein-dynactin complex dissociation from the NUMA1-GPSM2 complex and negatively regulates cortical dynein-dynactin complex localization (PubMed:22327364).</text>
+</comment>
+<comment type="PTM">
+<text evidence="33">ADP-ribosylated by TNKS at the onset of mitosis; ADP-ribosylation is not required for its localization to spindle poles (PubMed:16076287).</text>
+</comment>
+<comment type="PTM">
+<text evidence="36">O-glycosylated during cytokinesis at sites identical or close to phosphorylation sites, this interferes with the phosphorylation status (PubMed:20068230).</text>
+</comment>
+<comment type="PTM">
+<text evidence="46">Ubiquitinated with 'Lys-63'-linked polyubiquitin chains. Deubiquitination by the BRISC complex is important for the incorporation of NUMA1 into mitotic spindle poles and normal spindle pole function, probably by modulating interactions between NUMA1, dynein-dynactin complex and importin-beta.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="54">Also known as nuclear matrix protein-22/NMP-22/NMP22, an antigen used in diagnostic tests of bladder cancer.</text>
+</comment>
+<comment type="sequence caution" evidence="62">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="CAA77670" version="1"/>
+</conflict>
+</comment>
+<comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+<link uri="http://atlasgeneticsoncology.org/Genes/NUMAID119.html"/>
+</comment>
+<dbReference type="EMBL" id="Z14227">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z14228">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z14229">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z11583">
+<property type="protein sequence ID" value="CAA77669.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z11584">
+<property type="protein sequence ID" value="CAA77670.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AP002490">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471076">
+<property type="protein sequence ID" value="EAW74826.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC004165">
+<property type="protein sequence ID" value="AAH04165.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS31633.1">
+<molecule id="Q14980-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS66156.1">
+<molecule id="Q14980-2"/>
+</dbReference>
+<dbReference type="PIR" id="A42184">
+<property type="entry name" value="A42184"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001273490.1">
+<molecule id="Q14980-2"/>
+<property type="nucleotide sequence ID" value="NM_001286561.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_006176.2">
+<molecule id="Q14980-1"/>
+<property type="nucleotide sequence ID" value="NM_006185.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_006718627.1">
+<molecule id="Q14980-1"/>
+<property type="nucleotide sequence ID" value="XM_006718564.1"/>
+</dbReference>
+<dbReference type="PDB" id="3RO2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="B=1899-1926"/>
+</dbReference>
+<dbReference type="PDB" id="5GXW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.39"/>
+<property type="chains" value="B=1984-2010"/>
+</dbReference>
+<dbReference type="PDB" id="6HC2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="4.31"/>
+<property type="chains" value="B/D/F/H/J/L/N/P/R/T/V/X=1860-1928"/>
+</dbReference>
+<dbReference type="PDB" id="6QJA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.54"/>
+<property type="chains" value="A/B/C/D=1-153"/>
+</dbReference>
+<dbReference type="PDBsum" id="3RO2"/>
+<dbReference type="PDBsum" id="5GXW"/>
+<dbReference type="PDBsum" id="6HC2"/>
+<dbReference type="PDBsum" id="6QJA"/>
+<dbReference type="SMR" id="Q14980"/>
+<dbReference type="BioGRID" id="110980">
+<property type="interactions" value="145"/>
+</dbReference>
+<dbReference type="CORUM" id="Q14980"/>
+<dbReference type="DIP" id="DIP-32937N"/>
+<dbReference type="ELM" id="Q14980"/>
+<dbReference type="IntAct" id="Q14980">
+<property type="interactions" value="82"/>
+</dbReference>
+<dbReference type="MINT" id="Q14980"/>
+<dbReference type="STRING" id="9606.ENSP00000377298"/>
+<dbReference type="CarbonylDB" id="Q14980"/>
+<dbReference type="GlyConnect" id="2887">
+<property type="glycosylation" value="1 O-Linked glycan (1 site)"/>
+</dbReference>
+<dbReference type="GlyGen" id="Q14980">
+<property type="glycosylation" value="1 site"/>
+</dbReference>
+<dbReference type="iPTMnet" id="Q14980"/>
+<dbReference type="MetOSite" id="Q14980"/>
+<dbReference type="PhosphoSitePlus" id="Q14980"/>
+<dbReference type="SwissPalm" id="Q14980"/>
+<dbReference type="BioMuta" id="NUMA1"/>
+<dbReference type="DMDM" id="145559510"/>
+<dbReference type="CPTAC" id="CPTAC-937"/>
+<dbReference type="EPD" id="Q14980"/>
+<dbReference type="jPOST" id="Q14980"/>
+<dbReference type="MassIVE" id="Q14980"/>
+<dbReference type="MaxQB" id="Q14980"/>
+<dbReference type="PaxDb" id="Q14980"/>
+<dbReference type="PeptideAtlas" id="Q14980"/>
+<dbReference type="PRIDE" id="Q14980"/>
+<dbReference type="ProteomicsDB" id="38621"/>
+<dbReference type="ProteomicsDB" id="60272">
+<molecule id="Q14980-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="60273">
+<molecule id="Q14980-2"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="78989"/>
+<dbReference type="Antibodypedia" id="16895">
+<property type="antibodies" value="402 antibodies"/>
+</dbReference>
+<dbReference type="CPTC" id="Q14980">
+<property type="antibodies" value="1 antibody"/>
+</dbReference>
+<dbReference type="DNASU" id="4926"/>
+<dbReference type="Ensembl" id="ENST00000351960">
+<molecule id="Q14980-5"/>
+<property type="protein sequence ID" value="ENSP00000260051"/>
+<property type="gene ID" value="ENSG00000137497"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000358965">
+<molecule id="Q14980-2"/>
+<property type="protein sequence ID" value="ENSP00000351851"/>
+<property type="gene ID" value="ENSG00000137497"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000393695">
+<molecule id="Q14980-1"/>
+<property type="protein sequence ID" value="ENSP00000377298"/>
+<property type="gene ID" value="ENSG00000137497"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000613205">
+<molecule id="Q14980-5"/>
+<property type="protein sequence ID" value="ENSP00000480172"/>
+<property type="gene ID" value="ENSG00000137497"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000620566">
+<molecule id="Q14980-2"/>
+<property type="protein sequence ID" value="ENSP00000478624"/>
+<property type="gene ID" value="ENSG00000137497"/>
+</dbReference>
+<dbReference type="GeneID" id="4926"/>
+<dbReference type="KEGG" id="hsa:4926"/>
+<dbReference type="UCSC" id="uc001ork.3">
+<molecule id="Q14980-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="4926"/>
+<dbReference type="DisGeNET" id="4926"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000137497.17"/>
+<dbReference type="GeneCards" id="NUMA1"/>
+<dbReference type="HGNC" id="HGNC:8059">
+<property type="gene designation" value="NUMA1"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000137497">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MalaCards" id="NUMA1"/>
+<dbReference type="MIM" id="164009">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q14980"/>
+<dbReference type="OpenTargets" id="ENSG00000137497"/>
+<dbReference type="Orphanet" id="520">
+<property type="disease" value="Acute promyelocytic leukemia"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA31844"/>
+<dbReference type="eggNOG" id="ENOG502QTDA">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00950000183078"/>
+<dbReference type="HOGENOM" id="CLU_006666_1_0_1"/>
+<dbReference type="InParanoid" id="Q14980"/>
+<dbReference type="KO" id="K16808"/>
+<dbReference type="OMA" id="TENLGAM"/>
+<dbReference type="OrthoDB" id="524033at2759"/>
+<dbReference type="PhylomeDB" id="Q14980"/>
+<dbReference type="TreeFam" id="TF334442"/>
+<dbReference type="PathwayCommons" id="Q14980"/>
+<dbReference type="Reactome" id="R-HSA-380320">
+<property type="pathway name" value="Recruitment of NuMA to mitotic centrosomes"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-68875">
+<property type="pathway name" value="Mitotic Prophase"/>
+</dbReference>
+<dbReference type="SIGNOR" id="Q14980"/>
+<dbReference type="BioGRID-ORCS" id="4926">
+<property type="hits" value="438 hits in 877 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="NUMA1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="Nuclear_mitotic_apparatus_protein_1"/>
+<dbReference type="GenomeRNAi" id="4926"/>
+<dbReference type="Pharos" id="Q14980">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q14980"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 11"/>
+</dbReference>
+<dbReference type="RNAct" id="Q14980">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000137497">
+<property type="expression patterns" value="Expressed in right ovary and 250 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q14980">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q14980">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005938">
+<property type="term" value="C:cell cortex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0099738">
+<property type="term" value="C:cell cortex region"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005813">
+<property type="term" value="C:centrosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005694">
+<property type="term" value="C:chromosome"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055028">
+<property type="term" value="C:cortical microtubule"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905720">
+<property type="term" value="C:cytoplasmic microtubule bundle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030425">
+<property type="term" value="C:dendrite"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019897">
+<property type="term" value="C:extrinsic component of plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005794">
+<property type="term" value="C:Golgi apparatus"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000139">
+<property type="term" value="C:Golgi membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097575">
+<property type="term" value="C:lateral cell cortex"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016328">
+<property type="term" value="C:lateral plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097427">
+<property type="term" value="C:microtubule bundle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036449">
+<property type="term" value="C:microtubule minus-end"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035371">
+<property type="term" value="C:microtubule plus-end"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072686">
+<property type="term" value="C:mitotic spindle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061673">
+<property type="term" value="C:mitotic spindle astral microtubule"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990023">
+<property type="term" value="C:mitotic spindle midzone"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097431">
+<property type="term" value="C:mitotic spindle pole"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043025">
+<property type="term" value="C:neuronal cell body"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016363">
+<property type="term" value="C:nuclear matrix"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032991">
+<property type="term" value="C:protein-containing complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005819">
+<property type="term" value="C:spindle"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005876">
+<property type="term" value="C:spindle microtubule"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000922">
+<property type="term" value="C:spindle pole"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031616">
+<property type="term" value="C:spindle pole centrosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097718">
+<property type="term" value="F:disordered domain specific binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070840">
+<property type="term" value="F:dynein complex binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008017">
+<property type="term" value="F:microtubule binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051011">
+<property type="term" value="F:microtubule minus-end binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051010">
+<property type="term" value="F:microtubule plus-end binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035091">
+<property type="term" value="F:phosphatidylinositol binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008022">
+<property type="term" value="F:protein C-terminus binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019904">
+<property type="term" value="F:protein domain specific binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044877">
+<property type="term" value="F:protein-containing complex binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005198">
+<property type="term" value="F:structural molecule activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015631">
+<property type="term" value="F:tubulin binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055048">
+<property type="term" value="P:anastral spindle assembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030953">
+<property type="term" value="P:astral microtubule organization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051301">
+<property type="term" value="P:cell division"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007059">
+<property type="term" value="P:chromosome segregation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000132">
+<property type="term" value="P:establishment of mitotic spindle orientation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090161">
+<property type="term" value="P:Golgi ribbon formation"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034499">
+<property type="term" value="P:late endosome to Golgi transport"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051321">
+<property type="term" value="P:meiotic cell cycle"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001578">
+<property type="term" value="P:microtubule bundle formation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031023">
+<property type="term" value="P:microtubule organizing center organization"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006997">
+<property type="term" value="P:nucleus organization"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030513">
+<property type="term" value="P:positive regulation of BMP signaling pathway"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051984">
+<property type="term" value="P:positive regulation of chromosome segregation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905820">
+<property type="term" value="P:positive regulation of chromosome separation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051798">
+<property type="term" value="P:positive regulation of hair follicle development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032388">
+<property type="term" value="P:positive regulation of intracellular transport"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045618">
+<property type="term" value="P:positive regulation of keratinocyte differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031116">
+<property type="term" value="P:positive regulation of microtubule polymerization"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902846">
+<property type="term" value="P:positive regulation of mitotic spindle elongation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904778">
+<property type="term" value="P:positive regulation of protein localization to cell cortex"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902365">
+<property type="term" value="P:positive regulation of protein localization to spindle pole body"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905832">
+<property type="term" value="P:positive regulation of spindle assembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034067">
+<property type="term" value="P:protein localization to Golgi apparatus"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006622">
+<property type="term" value="P:protein targeting to lysosome"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071955">
+<property type="term" value="P:recycling endosome to Golgi transport"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090235">
+<property type="term" value="P:regulation of metaphase plate congression"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060236">
+<property type="term" value="P:regulation of mitotic spindle organization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070861">
+<property type="term" value="P:regulation of protein exit from endoplasmic reticulum"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026650">
+<property type="entry name" value="NUMA1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR18902:SF24">
+<property type="entry name" value="PTHR18902:SF24"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0013">ADP-ribosylation</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0131">Cell cycle</keyword>
+<keyword id="KW-0132">Cell division</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0158">Chromosome</keyword>
+<keyword id="KW-0159">Chromosome partition</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0446">Lipid-binding</keyword>
+<keyword id="KW-0449">Lipoprotein</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0493">Microtubule</keyword>
+<keyword id="KW-0498">Mitosis</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<feature type="chain" description="Nuclear mitotic apparatus protein 1" id="PRO_0000057998">
+<location>
+<begin position="1"/>
+<end position="2115"/>
+</location>
+</feature>
+<feature type="region of interest" description="Head (Globular)">
+<location>
+<begin position="1"/>
+<end position="212"/>
+</location>
+</feature>
+<feature type="region of interest" description="Membrane-binding domain 1" evidence="44">
+<location>
+<begin position="1699"/>
+<end position="1876"/>
+</location>
+</feature>
+<feature type="region of interest" description="Tail (Globular)">
+<location>
+<begin position="1700"/>
+<end position="2115"/>
+</location>
+</feature>
+<feature type="region of interest" description="4.1-binding domain" evidence="42 44">
+<location>
+<begin position="1788"/>
+<end position="1810"/>
+</location>
+</feature>
+<feature type="region of interest" description="Tubulin-binding domain" evidence="28 30">
+<location>
+<begin position="1882"/>
+<end position="1985"/>
+</location>
+</feature>
+<feature type="region of interest" description="GPSM2-binding domain" evidence="27 30 37 42">
+<location>
+<begin position="1892"/>
+<end position="1926"/>
+</location>
+</feature>
+<feature type="region of interest" description="Membrane-binding domain 2" evidence="43">
+<location>
+<begin position="1981"/>
+<end position="2060"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="22">
+<location>
+<begin position="213"/>
+<end position="1699"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Tankyrase-binding domain" evidence="29">
+<location>
+<begin position="1742"/>
+<end position="1748"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Nuclear localization signal" evidence="49 53">
+<location>
+<begin position="1984"/>
+<end position="1989"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="16">
+<location>
+<position position="162"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="16">
+<location>
+<position position="163"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9 13 15 16">
+<location>
+<position position="169"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9 12 13">
+<location>
+<position position="203"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="9 13">
+<location>
+<position position="211"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="13 15 16">
+<location>
+<position position="271"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="11">
+<location>
+<position position="379"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="388"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="395"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="820"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="11">
+<location>
+<position position="891"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by PLK1" evidence="38">
+<location>
+<position position="1047"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="13">
+<location>
+<position position="1187"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="12 13 16">
+<location>
+<position position="1225"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="11">
+<location>
+<position position="1511"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="1601"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9">
+<location>
+<position position="1721"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9">
+<location>
+<position position="1724"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9">
+<location>
+<position position="1728"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="4 5 6 8 9 10 12 13 14 15 16">
+<location>
+<position position="1757"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="1760"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PLK1" evidence="4 9 12 13 15 38">
+<location>
+<position position="1769"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PLK1" evidence="9 38">
+<location>
+<position position="1772"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine" evidence="9">
+<location>
+<position position="1774"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="4 9 12">
+<location>
+<position position="1776"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9 12 16">
+<location>
+<position position="1788"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PLK1" evidence="9 38">
+<location>
+<position position="1789"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9">
+<location>
+<position position="1792"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9 12">
+<location>
+<position position="1800"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="9">
+<location>
+<position position="1804"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9 13 15">
+<location>
+<position position="1830"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9">
+<location>
+<position position="1833"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PLK1" evidence="9 15 38">
+<location>
+<position position="1834"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine" evidence="9">
+<location>
+<position position="1836"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="4 9 15">
+<location>
+<position position="1840"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; alternate" evidence="15">
+<location>
+<position position="1844"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9 13 15">
+<location>
+<position position="1862"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9 15">
+<location>
+<position position="1887"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9 13 15">
+<location>
+<position position="1969"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9 13 15">
+<location>
+<position position="1991"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="9 13 15">
+<location>
+<position position="2000"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="13">
+<location>
+<position position="2003"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by CDK1" evidence="41 52">
+<location>
+<position position="2015"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="15">
+<location>
+<position position="2047"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by CDK1" evidence="15 41 52">
+<location>
+<position position="2055"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="15">
+<location>
+<position position="2062"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="7">
+<location>
+<position position="2077"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by CDK1" evidence="41 52">
+<location>
+<position position="2087"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by CDK1" evidence="4 41 52">
+<location>
+<position position="2106"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (GlcNAc) serine; alternate" evidence="36">
+<location>
+<position position="1844"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)" evidence="20">
+<location>
+<position position="1699"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO1); alternate" evidence="17">
+<location>
+<position position="1766"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2); alternate" evidence="17 18 19 20">
+<location>
+<position position="1766"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)" evidence="20">
+<location>
+<position position="1822"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 5." id="VSP_054146" evidence="57">
+<location>
+<begin position="414"/>
+<end position="1549"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_012910" evidence="56">
+<location>
+<begin position="1536"/>
+<end position="1549"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_044378" evidence="60">
+<original>LDLSCEEGTPLSITSKLPRTQPDGTSVPGEPASPISQRLPPKVESLESLYFTPIPARSQAPLESSLDSLGDVFLDSGRKTRSARRRTTQIINITMTKKLDVEEPDSANSSFYSTRSAPASQASLRATSSTQSLARLGSPDYGNSALLSLPGYRPTTRSSARRSQAGVSSGAPPGRNSFYMGTCQDEPEQLDDWNRIAELQQRNRVCPPHLKTCYPLESRPSLSLGTITDEEMKTGDPQETLRRASMQPIQIAEGTGITTRQQRKRVSLEPHQGPGTPESKKATSCFPRPMTPRDRHEGRKQSTTEAQKKAAPASTKQADRRQSMAFSILNTPKKLGNSLLRRGASKKALSKASPNTRSGTRRSPRIATTTASAATAAAIGATPRAKGKAKH</original>
+<variation>SQANSSQTPRDSDACPHPGLVPGPSLAPSRSWPRGPGAWTVWALSLPCLLFS</variation>
+<location>
+<begin position="1725"/>
+<end position="2115"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_044379" evidence="60">
+<original>SKLPRTQPDGTSVPGEPASPISQRLPPKVESLESLYFTPIPARSQAPLESSLDSLGDVFLDSGRKTRSARRRTTQIINITMTKKLDVEEPDSANSSFYSTRSAPASQASLRATSSTQSLARLGSPDYGNSALLSLPGYRPTTRSSARRSQAGVSSGAPPGRNSFYMGTCQDEPEQLDDWNRIAELQQRNRVCPPHLKTCYPLESRPSLSLGTITDEEMKTGDPQETLRRASMQPIQIAEGTGITTRQQRKRVSLEPHQGPGTPESKKATSCFPRPMTPRDRHEGRKQSTTEAQKKAAPASTKQADRRQSMAFSILNTPKKLGNSLLRRGASKKALSKASPNTRSGTRRSPRIATTTASAATAAAIGATPRAKGKAKH</original>
+<variation>RSGGSLPPYVCLWSACCLSGCILVR</variation>
+<location>
+<begin position="1739"/>
+<end position="2115"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34239655." id="VAR_031679">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="242"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3750913." id="VAR_031680">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="794"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34311364." id="VAR_031681">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="1153"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs7949430." id="VAR_031682">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="1825"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35586429." id="VAR_031683">
+<original>Y</original>
+<variation>H</variation>
+<location>
+<position position="1836"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs5743685." id="VAR_051248">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="2049"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes interaction with GPSM2." evidence="37">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="1910"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on nuclear localization." evidence="53">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="1984"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes nuclear localization." evidence="53">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="1988"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes association with the mitotic spindle. Increases premature accumulation at the cell cortex during metaphase; when associated with A-2055 and A-2087." evidence="40 52">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="2015"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increases premature accumulation at the cell membrane of the polar cortical region in prophase and metaphase. Reduces association with the mitotic spindle. Increased randomization of spindle orientation. Increases premature accumulation at the cell cortex during metaphase; when associated with A-2015 and A-2087." evidence="40 41 42 43 44 52">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="2055"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increases localization at the spindle poles. Decreases localization at the cell cortex." evidence="42">
+<original>T</original>
+<variation>D</variation>
+<location>
+<position position="2055"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Absence of cell membrane association even in anaphase. Increased localization at spindle poles and chromosome congression defects. Does not localize to the cortex in either metaphase or anaphase. Increased randomization of spindle orientation." evidence="41 43">
+<original>T</original>
+<variation>E</variation>
+<location>
+<position position="2055"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes association with the mitotic spindle. Increases premature accumulation at the cell cortex during metaphase; when associated with A-2015 and A-2055." evidence="40 52">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="2087"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes association with the mitotic spindle." evidence="52">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="2106"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA77670." ref="2" evidence="62">
+<original>Q</original>
+<variation>L</variation>
+<location>
+<position position="772"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA77670." ref="2" evidence="62">
+<original>ER</original>
+<variation>DG</variation>
+<location>
+<begin position="815"/>
+<end position="816"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA77670." ref="2" evidence="62">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="873"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA77670." ref="2" evidence="62">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="1589"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; Z14227/Z14228." ref="3" evidence="62">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="1637"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; Z14227/Z14228." ref="3" evidence="62">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="1682"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; CAA77669." ref="3" evidence="62">
+<original>L</original>
+<variation>Q</variation>
+<location>
+<position position="1798"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="5"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="20"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="27"/>
+<end position="30"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="34"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="48"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="57"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="84"/>
+<end position="88"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="92"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="109"/>
+<end position="111"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="116"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="121"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="140"/>
+<end position="142"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="143"/>
+<end position="152"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="1917"/>
+<end position="1919"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1920"/>
+<end position="1922"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="1995"/>
+<end position="1997"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3RO2"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5GXW"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6QJA"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="16964243"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="17081983"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="17525332"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="17924679"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="18220336"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="18669648"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19367720"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19608861"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19690332"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="20068231"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="21406692"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="24275569"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="25114211"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="25218447"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="25772364"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="28112733"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="E9Q7G0"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000255"/>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10075938"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10811826"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11163243"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11229403"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11781568"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11956313"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12080061"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12445386"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1541630"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1541636"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16076287"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17172455"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19255246"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20068230"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21816348"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22327364"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23027904"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23870127"/>
+</source>
+</evidence>
+<evidence key="41" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23921553"/>
+</source>
+</evidence>
+<evidence key="42" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24109598"/>
+</source>
+</evidence>
+<evidence key="43" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24371089"/>
+</source>
+</evidence>
+<evidence key="44" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24996901"/>
+</source>
+</evidence>
+<evidence key="45" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25657325"/>
+</source>
+</evidence>
+<evidence key="46" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26195665"/>
+</source>
+</evidence>
+<evidence key="47" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26246606"/>
+</source>
+</evidence>
+<evidence key="48" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26562023"/>
+</source>
+</evidence>
+<evidence key="49" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26765568"/>
+</source>
+</evidence>
+<evidence key="50" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26766442"/>
+</source>
+</evidence>
+<evidence key="51" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27462074"/>
+</source>
+</evidence>
+<evidence key="52" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7769006"/>
+</source>
+</evidence>
+<evidence key="53" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7962183"/>
+</source>
+</evidence>
+<evidence key="54" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9730450"/>
+</source>
+</evidence>
+<evidence key="55" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="1541630"/>
+</source>
+</evidence>
+<evidence key="56" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="1541636"/>
+</source>
+</evidence>
+<evidence key="57" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="58" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="7962183"/>
+</source>
+</evidence>
+<evidence key="59" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="8408288"/>
+</source>
+</evidence>
+<evidence key="60" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="8505359"/>
+</source>
+</evidence>
+<evidence key="61" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9730450"/>
+</source>
+</evidence>
+<evidence key="62" type="ECO:0000305"/>
+<evidence key="63" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="10075938"/>
+</source>
+</evidence>
+<evidence key="64" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="21816348"/>
+</source>
+</evidence>
+<evidence key="65" type="ECO:0000312">
+<source>
+<dbReference type="HGNC" id="HGNC:8059"/>
+</source>
+</evidence>
+<sequence length="2115" mass="238260" checksum="DE734EC85B812CC7" modified="2007-04-17" version="2">MTLHATRGAALLSWVNSLHVADPVEAVLQLQDCSIFIKIIDRIHGTEEGQQILKQPVSERLDFVCSFLQKNRKHPSSPECLVSAQKVLEGSELELAKMTMLLLYHSTMSSKSPRDWEQFEYKIQAELAVILKFVLDHEDGLNLNEDLENFLQKAPVPSTCSSTFPEELSPPSHQAKREIRFLELQKVASSSSGNNFLSGSPASPMGDILQTPQFQMRRLKKQLADERSNRDELELELAENRKLLTEKDAQIAMMQQRIDRLALLNEKQAASPLEPKELEELRDKNESLTMRLHETLKQCQDLKTEKSQMDRKINQLSEENGDLSFKLREFASHLQQLQDALNELTEEHSKATQEWLEKQAQLEKELSAALQDKKCLEEKNEILQGKLSQLEEHLSQLQDNPPQEKGEVLGDVLQLETLKQEAATLAANNTQLQARVEMLETERGQQEAKLLAERGHFEEEKQQLSSLITDLQSSISNLSQAKEELEQASQAHGARLTAQVASLTSELTTLNATIQQQDQELAGLKQQAKEKQAQLAQTLQQQEQASQGLRHQVEQLSSSLKQKEQQLKEVAEKQEATRQDHAQQLATAAEEREASLRERDAALKQLEALEKEKAAKLEILQQQLQVANEARDSAQTSVTQAQREKAELSRKVEELQACVETARQEQHEAQAQVAELELQLRSEQQKATEKERVAQEKDQLQEQLQALKESLKVTKGSLEEEKRRAADALEEQQRCISELKAETRSLVEQHKRERKELEEERAGRKGLEARLQQLGEAHQAETEVLRRELAEAMAAQHTAESECEQLVKEVAAWRERYEDSQQEEAQYGAMFQEQLMTLKEECEKARQELQEAKEKVAGIESHSELQISRQQNELAELHANLARALQQVQEKEVRAQKLADDLSTLQEKMAATSKEVARLETLVRKAGEQQETASRELVKEPARAGDRQPEWLEEQQGRQFCSTQAALQAMEREAEQMGNELERLRAALMESQGQQQEERGQQEREVARLTQERGRAQADLALEKAARAELEMRLQNALNEQRVEFATLQEALAHALTEKEGKDQELAKLRGLEAAQIKELEELRQTVKQLKEQLAKKEKEHASGSGAQSEAAGRTEPTGPKLEALRAEVSKLEQQCQKQQEQADSLERSLEAERASRAERDSALETLQGQLEEKAQELGHSQSALASAQRELAAFRTKVQDHSKAEDEWKAQVARGRQEAERKNSLISSLEEEVSILNRQVLEKEGESKELKRLVMAESEKSQKLEERLRLLQAETASNSARAAERSSALREEVQSLREEAEKQRVASENLRQELTSQAERAEELGQELKAWQEKFFQKEQALSTLQLEHTSTQALVSELLPAKHLCQQLQAEQAAAEKRHREELEQSKQAAGGLRAELLRAQRELGELIPLRQKVAEQERTAQQLRAEKASYAEQLSMLKKAHGLLAEENRGLGERANLGRQFLEVELDQAREKYVQELAAVRADAETRLAEVQREAQSTARELEVMTAKYEGAKVKVLEERQRFQEERQKLTAQVEQLEVFQREQTKQVEELSKKLADSDQASKVQQQKLKAVQAQGGESQQEAQRLQAQLNELQAQLSQKEQAAEHYKLQMEKAKTHYDAKKQQNQELQEQLRSLEQLQKENKELRAEAERLGHELQQAGLKTKEAEQTCRHLTAQVRSLEAQVAHADQQLRDLGKFQVATDALKSREPQAKPQLDLSIDSLDLSCEEGTPLSITSKLPRTQPDGTSVPGEPASPISQRLPPKVESLESLYFTPIPARSQAPLESSLDSLGDVFLDSGRKTRSARRRTTQIINITMTKKLDVEEPDSANSSFYSTRSAPASQASLRATSSTQSLARLGSPDYGNSALLSLPGYRPTTRSSARRSQAGVSSGAPPGRNSFYMGTCQDEPEQLDDWNRIAELQQRNRVCPPHLKTCYPLESRPSLSLGTITDEEMKTGDPQETLRRASMQPIQIAEGTGITTRQQRKRVSLEPHQGPGTPESKKATSCFPRPMTPRDRHEGRKQSTTEAQKKAAPASTKQADRRQSMAFSILNTPKKLGNSLLRRGASKKALSKASPNTRSGTRRSPRIATTTASAATAAAIGATPRAKGKAKH</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

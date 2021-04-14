@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1993-07-01" modified="2020-10-07" version="176">
+<accession>P31995</accession>
+<accession>O00523</accession>
+<accession>O00524</accession>
+<accession>O00525</accession>
+<name>FCG2C_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Low affinity immunoglobulin gamma Fc region receptor II-c</fullName>
+<shortName>IgG Fc receptor II-c</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>CDw32</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Fc-gamma RII-c</fullName>
+<shortName>Fc-gamma-RIIc</shortName>
+<shortName>FcRII-c</shortName>
+</alternativeName>
+<cdAntigenName>CD32</cdAntigenName>
+</protein>
+<gene>
+<name type="primary">FCGR2C</name>
+<name type="synonym">CD32</name>
+<name type="synonym">FCG2</name>
+<name type="synonym">IGFR2</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1989" name="EMBO J." volume="8" first="3657" last="3666">
+<title>Human IgG Fc receptor (hFcRII; CD32) exists as multiple isoforms in macrophages, lymphocytes and IgG-transporting placental epithelium.</title>
+<authorList>
+<person name="Stuart S.G."/>
+<person name="Simister N.E."/>
+<person name="Clarkson S.B."/>
+<person name="Kacinski B.M."/>
+<person name="Shapiro M."/>
+<person name="Mellman I."/>
+</authorList>
+<dbReference type="PubMed" id="2531080"/>
+<dbReference type="DOI" id="10.1002/j.1460-2075.1989.tb08540.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM IIC1)</scope>
+<source>
+<tissue>Placenta</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1998" name="Blood" volume="91" first="2369" last="2380">
+<title>Expression of functional CD32 molecules on human NK cells is determined by an allelic polymorphism of the FcgammaRIIC gene.</title>
+<authorList>
+<person name="Metes D."/>
+<person name="Ernst L.K."/>
+<person name="Chambers W.H."/>
+<person name="Sulica A."/>
+<person name="Herberman R.B."/>
+<person name="Morel P.A."/>
+</authorList>
+<dbReference type="PubMed" id="9516136"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS IIC1; IIC2; IIC3 AND IIC4)</scope>
+<source>
+<tissue>Natural killer cell</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1996" name="Mol. Cell. Biol." volume="16" first="4735" last="4743">
+<title>In vivo and in vitro specificity of protein tyrosine kinases for immunoglobulin G receptor (FcgammaRII) phosphorylation.</title>
+<authorList>
+<person name="Bewarder N."/>
+<person name="Weinrich V."/>
+<person name="Budde P."/>
+<person name="Hartmann D."/>
+<person name="Flaswinkel H."/>
+<person name="Reth M."/>
+<person name="Frey J."/>
+</authorList>
+<dbReference type="PubMed" id="8756631"/>
+<dbReference type="DOI" id="10.1128/mcb.16.9.4735"/>
+</citation>
+<scope>PHOSPHORYLATION AT TYR-294 AND TYR-310</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2013" name="Protein Eng. Des. Sel." volume="26" first="589" last="598">
+<title>Engineered antibody Fc variant with selectively enhanced FcgammaRIIb binding over both FcgammaRIIa(R131) and FcgammaRIIa(H131).</title>
+<authorList>
+<person name="Mimoto F."/>
+<person name="Katada H."/>
+<person name="Kadono S."/>
+<person name="Igawa T."/>
+<person name="Kuramochi T."/>
+<person name="Muraoka M."/>
+<person name="Wada Y."/>
+<person name="Haraya K."/>
+<person name="Miyazaki T."/>
+<person name="Hattori K."/>
+</authorList>
+<dbReference type="PubMed" id="23744091"/>
+<dbReference type="DOI" id="10.1093/protein/gzt022"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.86 ANGSTROMS) OF 45-217</scope>
+<scope>DISULFIDE BONDS</scope>
+<scope>GLYCOSYLATION AT ASN-187</scope>
+</reference>
+<comment type="function">
+<text>Receptor for the Fc region of complexed immunoglobulins gamma. Low affinity receptor. Involved in a variety of effector and regulatory functions such as phagocytosis of immune complexes and modulation of antibody production by B-cells.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1396036">
+<id>P31995</id>
+</interactant>
+<interactant intactId="EBI-1395983">
+<id>P02741</id>
+<label>CRP</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1396036">
+<id>P31995</id>
+</interactant>
+<interactant intactId="EBI-389883">
+<id>P16333</id>
+<label>NCK1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform IIC4</molecule>
+<subcellularLocation>
+<location evidence="7">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform IIC3</molecule>
+<subcellularLocation>
+<location>Cell membrane</location>
+<topology>Single-pass type I membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform IIC2</molecule>
+<subcellularLocation>
+<location>Cell membrane</location>
+<topology>Single-pass type I membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform IIC1</molecule>
+<subcellularLocation>
+<location>Cell membrane</location>
+<topology>Single-pass type I membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>P31995-1</id>
+<name>IIC1</name>
+<name>C1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P31995-2</id>
+<name>IIC2</name>
+<sequence type="described" ref="VSP_002646"/>
+</isoform>
+<isoform>
+<id>P31995-3</id>
+<name>IIC3</name>
+<sequence type="described" ref="VSP_002645"/>
+</isoform>
+<isoform>
+<id>P31995-4</id>
+<name>IIC4</name>
+<sequence type="described" ref="VSP_002644"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text>Isoform IIC1 is detected in monocytes, macrophages, polymorphonuclear cells and natural killer cells.</text>
+</comment>
+<comment type="domain">
+<text>Contains an intracytoplasmic twice repeated motif referred as immunoreceptor tyrosine-based activator motif (ITAM). These motifs are involved in triggering cell activation upon receptors aggregation.</text>
+</comment>
+<comment type="PTM">
+<text evidence="5">Phosphorylated by SRC-type Tyr-kinases such as LYN, BLK, FYN and SYK.</text>
+</comment>
+<comment type="caution">
+<text evidence="7">Has sometimes been attributed to correspond to FcR-IIB.</text>
+</comment>
+<comment type="caution">
+<text evidence="7">FCGR2C is both a gene and a pseudogene in the human population, the reference genome corresponding currently to the non-functional allele with a stop codon at position 57. The sequence shown here with a Gln at that position is the one of the functional protein.</text>
+</comment>
+<comment type="sequence caution" evidence="7">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="CAA35643" version="1"/>
+</conflict>
+</comment>
+<dbReference type="EMBL" id="X17652">
+<property type="protein sequence ID" value="CAA35642.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X17652">
+<property type="protein sequence ID" value="CAA35643.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U90938">
+<property type="protein sequence ID" value="AAC12807.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U90939">
+<property type="protein sequence ID" value="AAC12808.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U90940">
+<property type="protein sequence ID" value="AAC12809.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U90941">
+<property type="protein sequence ID" value="AAC12810.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="S06946">
+<property type="entry name" value="S06946"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_963857.3">
+<property type="nucleotide sequence ID" value="NM_201563.5"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011507594.1">
+<property type="nucleotide sequence ID" value="XM_011509292.2"/>
+</dbReference>
+<dbReference type="PDB" id="3WJL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.86"/>
+<property type="chains" value="C=45-217"/>
+</dbReference>
+<dbReference type="PDBsum" id="3WJL"/>
+<dbReference type="SMR" id="P31995"/>
+<dbReference type="BioGRID" id="114556">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="IntAct" id="P31995">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00054">
+<property type="generic name" value="Abciximab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00092">
+<property type="generic name" value="Alefacept"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00087">
+<property type="generic name" value="Alemtuzumab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00074">
+<property type="generic name" value="Basiliximab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00002">
+<property type="generic name" value="Cetuximab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00111">
+<property type="generic name" value="Daclizumab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00095">
+<property type="generic name" value="Efalizumab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00005">
+<property type="generic name" value="Etanercept"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00056">
+<property type="generic name" value="Gemtuzumab ozogamicin"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00028">
+<property type="generic name" value="Human immunoglobulin G"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00078">
+<property type="generic name" value="Ibritumomab tiuxetan"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00075">
+<property type="generic name" value="Muromonab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00108">
+<property type="generic name" value="Natalizumab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00110">
+<property type="generic name" value="Palivizumab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00081">
+<property type="generic name" value="Tositumomab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00072">
+<property type="generic name" value="Trastuzumab"/>
+</dbReference>
+<dbReference type="GlyGen" id="P31995">
+<property type="glycosylation" value="4 sites"/>
+</dbReference>
+<dbReference type="iPTMnet" id="P31995"/>
+<dbReference type="PhosphoSitePlus" id="P31995"/>
+<dbReference type="BioMuta" id="FCGR2C"/>
+<dbReference type="DMDM" id="399478"/>
+<dbReference type="jPOST" id="P31995"/>
+<dbReference type="MassIVE" id="P31995"/>
+<dbReference type="MaxQB" id="P31995"/>
+<dbReference type="PeptideAtlas" id="P31995"/>
+<dbReference type="PRIDE" id="P31995"/>
+<dbReference type="ProteomicsDB" id="54825">
+<molecule id="P31995-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="54826">
+<molecule id="P31995-2"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="54827">
+<molecule id="P31995-3"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="54828">
+<molecule id="P31995-4"/>
+</dbReference>
+<dbReference type="TopDownProteomics" id="P31995-4">
+<molecule id="P31995-4"/>
+</dbReference>
+<dbReference type="GeneID" id="9103"/>
+<dbReference type="KEGG" id="hsa:9103"/>
+<dbReference type="CTD" id="9103"/>
+<dbReference type="DisGeNET" id="9103"/>
+<dbReference type="GeneCards" id="FCGR2C"/>
+<dbReference type="HGNC" id="HGNC:15626">
+<property type="gene designation" value="FCGR2C"/>
+</dbReference>
+<dbReference type="MalaCards" id="FCGR2C"/>
+<dbReference type="MIM" id="612169">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P31995"/>
+<dbReference type="Orphanet" id="3002">
+<property type="disease" value="Immune thrombocytopenia"/>
+</dbReference>
+<dbReference type="InParanoid" id="P31995"/>
+<dbReference type="KO" id="K16824"/>
+<dbReference type="PhylomeDB" id="P31995"/>
+<dbReference type="PathwayCommons" id="P31995"/>
+<dbReference type="BioGRID-ORCS" id="2213">
+<property type="hits" value="4 hits in 868 CRISPR screens"/>
+</dbReference>
+<dbReference type="BioGRID-ORCS" id="9103">
+<property type="hits" value="0 hits in 53 CRISPR screens"/>
+</dbReference>
+<dbReference type="Pharos" id="P31995">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P31995"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Unplaced"/>
+</dbReference>
+<dbReference type="RNAct" id="P31995">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019864">
+<property type="term" value="F:IgG binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004888">
+<property type="term" value="F:transmembrane signaling receptor activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007166">
+<property type="term" value="P:cell surface receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006955">
+<property type="term" value="P:immune response"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050776">
+<property type="term" value="P:regulation of immune response"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.40.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007110">
+<property type="entry name" value="Ig-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036179">
+<property type="entry name" value="Ig-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013783">
+<property type="entry name" value="Ig-like_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003599">
+<property type="entry name" value="Ig_sub"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003598">
+<property type="entry name" value="Ig_sub2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13895">
+<property type="entry name" value="Ig_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00409">
+<property type="entry name" value="IG"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00408">
+<property type="entry name" value="IGc2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48726">
+<property type="entry name" value="SSF48726"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50835">
+<property type="entry name" value="IG_LIKE"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0390">IgG-binding protein</keyword>
+<keyword id="KW-0393">Immunoglobulin domain</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0675">Receptor</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="signal peptide" evidence="2">
+<location>
+<begin position="1"/>
+<end position="42"/>
+</location>
+</feature>
+<feature type="chain" description="Low affinity immunoglobulin gamma Fc region receptor II-c" id="PRO_0000015148">
+<location>
+<begin position="43"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="43"/>
+<end position="223"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="2">
+<location>
+<begin position="224"/>
+<end position="246"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="247"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like C2-type 1">
+<location>
+<begin position="48"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="domain" description="Ig-like C2-type 2">
+<location>
+<begin position="131"/>
+<end position="213"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by SRC-type Tyr-kinases" evidence="5">
+<location>
+<position position="294"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by SRC-type Tyr-kinases" evidence="5">
+<location>
+<position position="310"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="106"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="180"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="4">
+<location>
+<position position="187"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="3 4">
+<location>
+<begin position="71"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="3 4">
+<location>
+<begin position="152"/>
+<end position="196"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform IIC4." id="VSP_002644" evidence="6">
+<original>APSSSPMGIIVAVVTGIAVAAIVAAVVALIYCRKKRISANSTDPVKAAQFEPPGRQMIAIRKRQPEETNNDYETADGGYMTLNPRAPTDDDKNIYLTLPPNDHVNSNN</original>
+<variation>GPRLRTAAKQSSLVGAEVP</variation>
+<location>
+<begin position="216"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform IIC3." id="VSP_002645" evidence="6">
+<original>NSTDPVKAAQFEPPGRQMIAIRKRQPEETNNDYETADGGYMTLNPRAPTDDDKNIYLTLPPNDHVNSNN</original>
+<variation>TWTSNDCHQKETT</variation>
+<location>
+<begin position="255"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform IIC2." id="VSP_002646" evidence="6">
+<original>PPGRQMIAIRKRQPEETNNDYETADGGYMTLNPRAPTDDDKNIYLTLPPNDHVNSNN</original>
+<variation>MLSCSHLDVK</variation>
+<location>
+<begin position="267"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC12810." ref="2" evidence="7">
+<original>R</original>
+<variation>K</variation>
+<location>
+<position position="151"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC12809." ref="2" evidence="7">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="164"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="51"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="59"/>
+<end position="62"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="66"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="83"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="89"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="96"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="105"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="109"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="116"/>
+<end position="119"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="124"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="131"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="140"/>
+<end position="143"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="148"/>
+<end position="154"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="155"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="161"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="170"/>
+<end position="177"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="180"/>
+<end position="185"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="188"/>
+<end position="190"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="192"/>
+<end position="200"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="203"/>
+<end position="206"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="210"/>
+<end position="215"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3WJL"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00114"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23744091"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8756631"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9516136"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<sequence length="323" mass="35578" checksum="DC4C1A22A0DE4572" modified="1993-07-01" version="1" precursor="true">MGILSFLPVLATESDWADCKSPQPWGHMLLWTAVLFLAPVAGTPAAPPKAVLKLEPQWINVLQEDSVTLTCRGTHSPESDSIQWFHNGNLIPTHTQPSYRFKANNNDSGEYTCQTGQTSLSDPVHLTVLSEWLVLQTPHLEFQEGETIVLRCHSWKDKPLVKVTFFQNGKSKKFSRSDPNFSIPQANHSHSGDYHCTGNIGYTLYSSKPVTITVQAPSSSPMGIIVAVVTGIAVAAIVAAVVALIYCRKKRISANSTDPVKAAQFEPPGRQMIAIRKRQPEETNNDYETADGGYMTLNPRAPTDDDKNIYLTLPPNDHVNSNN</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

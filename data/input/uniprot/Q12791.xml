@@ -1,0 +1,2923 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2004-04-13" modified="2020-10-07" version="200">
+<accession>Q12791</accession>
+<accession>F8WA96</accession>
+<accession>Q12886</accession>
+<accession>Q12917</accession>
+<accession>Q12921</accession>
+<accession>Q12960</accession>
+<accession>Q13150</accession>
+<accession>Q5JQ23</accession>
+<accession>Q5SQR9</accession>
+<accession>Q96LG8</accession>
+<accession>Q9UBB0</accession>
+<accession>Q9UCX0</accession>
+<accession>Q9UQK6</accession>
+<name>KCMA1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Calcium-activated potassium channel subunit alpha-1</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>BK channel</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>BKCA alpha</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Calcium-activated potassium channel, subfamily M subunit alpha-1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>K(VCA)alpha</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>KCa1.1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Maxi K channel</fullName>
+<shortName>MaxiK</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Slo-alpha</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Slo1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Slowpoke homolog</fullName>
+<shortName>Slo homolog</shortName>
+<shortName>hSlo</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="39">KCNMA1</name>
+<name type="synonym">KCNMA</name>
+<name type="synonym">SLO</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Brain Res. Mol. Brain Res." volume="27" first="189" last="193">
+<title>Cloning and expression of a human large-conductance calcium-activated potassium channel.</title>
+<authorList>
+<person name="Dworetzky S.I."/>
+<person name="Trojnacki J.T."/>
+<person name="Gribkoff V.K."/>
+</authorList>
+<dbReference type="PubMed" id="7877450"/>
+<dbReference type="DOI" id="10.1016/0169-328x(94)90203-8"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 5)</scope>
+<source>
+<tissue>Substantia nigra</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1995" name="Am. J. Physiol." volume="269" first="H767" last="H777">
+<title>A human calcium-activated potassium channel gene expressed in vascular smooth muscle.</title>
+<authorList>
+<person name="McCobb D.P."/>
+<person name="Fowler N.L."/>
+<person name="Featherstone T."/>
+<person name="Lingle C.J."/>
+<person name="Saito M."/>
+<person name="Krause J.E."/>
+<person name="Salkoff L."/>
+</authorList>
+<dbReference type="PubMed" id="7573516"/>
+<dbReference type="DOI" id="10.1152/ajpheart.1995.269.3.h767"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 5)</scope>
+<source>
+<tissue>Aortic smooth muscle</tissue>
+<tissue>Umbilical smooth muscle</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Nature" volume="429" first="375" last="381">
+<title>The DNA sequence and comparative analysis of human chromosome 10.</title>
+<authorList>
+<person name="Deloukas P."/>
+<person name="Earthrowl M.E."/>
+<person name="Grafham D.V."/>
+<person name="Rubenfield M."/>
+<person name="French L."/>
+<person name="Steward C.A."/>
+<person name="Sims S.K."/>
+<person name="Jones M.C."/>
+<person name="Searle S."/>
+<person name="Scott C."/>
+<person name="Howe K."/>
+<person name="Hunt S.E."/>
+<person name="Andrews T.D."/>
+<person name="Gilbert J.G.R."/>
+<person name="Swarbreck D."/>
+<person name="Ashurst J.L."/>
+<person name="Taylor A."/>
+<person name="Battles J."/>
+<person name="Bird C.P."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ashwell R.I.S."/>
+<person name="Ambrose K.D."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Banerjee R."/>
+<person name="Bates K."/>
+<person name="Beasley H."/>
+<person name="Bray-Allen S."/>
+<person name="Brown A.J."/>
+<person name="Brown J.Y."/>
+<person name="Burford D.C."/>
+<person name="Burrill W."/>
+<person name="Burton J."/>
+<person name="Cahill P."/>
+<person name="Camire D."/>
+<person name="Carter N.P."/>
+<person name="Chapman J.C."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Corby N."/>
+<person name="Coulson A."/>
+<person name="Dhami P."/>
+<person name="Dutta I."/>
+<person name="Dunn M."/>
+<person name="Faulkner L."/>
+<person name="Frankish A."/>
+<person name="Frankland J.A."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Gribble S."/>
+<person name="Griffiths C."/>
+<person name="Grocock R."/>
+<person name="Gustafson E."/>
+<person name="Hammond S."/>
+<person name="Harley J.L."/>
+<person name="Hart E."/>
+<person name="Heath P.D."/>
+<person name="Ho T.P."/>
+<person name="Hopkins B."/>
+<person name="Horne J."/>
+<person name="Howden P.J."/>
+<person name="Huckle E."/>
+<person name="Hynds C."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Kana A."/>
+<person name="Kay M."/>
+<person name="Kimberley A.M."/>
+<person name="Kershaw J.K."/>
+<person name="Kokkinaki M."/>
+<person name="Laird G.K."/>
+<person name="Lawlor S."/>
+<person name="Lee H.M."/>
+<person name="Leongamornlert D.A."/>
+<person name="Laird G."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Loveland J."/>
+<person name="Lovell J."/>
+<person name="McLaren S."/>
+<person name="McLay K.E."/>
+<person name="McMurray A."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="Milne S."/>
+<person name="Nickerson T."/>
+<person name="Nguyen M."/>
+<person name="Overton-Larty E."/>
+<person name="Palmer S.A."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Pelan S."/>
+<person name="Phillimore B."/>
+<person name="Porter K."/>
+<person name="Rice C.M."/>
+<person name="Rogosin A."/>
+<person name="Ross M.T."/>
+<person name="Sarafidou T."/>
+<person name="Sehra H.K."/>
+<person name="Shownkeen R."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Standring L."/>
+<person name="Sycamore N."/>
+<person name="Tester J."/>
+<person name="Thorpe A."/>
+<person name="Torcasso W."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Tsolas J."/>
+<person name="Wall M."/>
+<person name="Walsh J."/>
+<person name="Wang H."/>
+<person name="Weinstock K."/>
+<person name="West A.P."/>
+<person name="Willey D.L."/>
+<person name="Whitehead S.L."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Young L."/>
+<person name="Chen Y."/>
+<person name="Lovering R.C."/>
+<person name="Moschonas N.K."/>
+<person name="Siebert R."/>
+<person name="Fechtel K."/>
+<person name="Bentley D."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Doucette-Stamm L."/>
+<person name="Beck S."/>
+<person name="Smith D.R."/>
+<person name="Rogers J."/>
+</authorList>
+<dbReference type="PubMed" id="15164054"/>
+<dbReference type="DOI" id="10.1038/nature02462"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 5 AND 6)</scope>
+<source>
+<tissue>Cerebellum</tissue>
+<tissue>Neuroectoderm</tissue>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1994" name="Neuron" volume="13" first="1315" last="1330">
+<title>Cloning, expression, and distribution of functionally distinct Ca(2+)-activated K+ channel isoforms from human brain.</title>
+<authorList>
+<person name="Tseng-Crank J."/>
+<person name="Foster C.D."/>
+<person name="Krause J.D."/>
+<person name="Mertz R."/>
+<person name="Godinot N."/>
+<person name="DiChiara T.J."/>
+<person name="Reinhart P.H."/>
+</authorList>
+<dbReference type="PubMed" id="7993625"/>
+<dbReference type="DOI" id="10.1016/0896-6273(94)90418-9"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 17-1236 (ISOFORM 5)</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2002" name="Proc. West. Pharmacol. Soc." volume="45" first="184" last="186">
+<title>Calcium-activated potassium channel expression in human myometrium: effect of pregnancy.</title>
+<authorList>
+<person name="Mazzone J.N."/>
+<person name="Kaiser R.A."/>
+<person name="Buxton I.L.O."/>
+</authorList>
+<dbReference type="PubMed" id="12434576"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 21-1236 (ISOFORM 5)</scope>
+<source>
+<tissue>Myometrium</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="submission" date="2003-06" db="EMBL/GenBank/DDBJ databases">
+<title>BK variant from human heart.</title>
+<authorList>
+<person name="Naruse K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 21-1236 (ISOFORM 1)</scope>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 25-1236 (ISOFORM 2)</scope>
+<source>
+<tissue>Heart</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1994" name="Hum. Mol. Genet." volume="3" first="1239" last="1243">
+<title>Cloning and characterization of human and mouse homologs of the Drosophila calcium-activated potassium channel gene, slowpoke.</title>
+<authorList>
+<person name="Pallanck L."/>
+<person name="Ganetzky B."/>
+</authorList>
+<dbReference type="PubMed" id="7987297"/>
+<dbReference type="DOI" id="10.1093/hmg/3.8.1239"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 24-670 (ISOFORM 3)</scope>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 323-1236 (ISOFORM 4)</scope>
+<source>
+<tissue>Muscle</tissue>
+</source>
+</reference>
+<reference key="10">
+<citation type="book" date="1998" name="Current topics in membranes. The eye's aqueous humor - from secretion to glaucoma" volume="45" first="69" last="104" publisher="Academic Press" city="San Diego">
+<title>Identification of potassium channels in human lens epithelium.</title>
+<editorList>
+<person name="Civan M.M."/>
+</editorList>
+<authorList>
+<person name="Rae J.L."/>
+<person name="Shepard A.R."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 25-1236 (ISOFORM 5)</scope>
+<source>
+<tissue>Lens epithelium</tissue>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1995" name="Recept. Channels" volume="3" first="185" last="199">
+<title>Characterization of and modulation by a beta-subunit of a human maxi KCa channel cloned from myometrium.</title>
+<authorList>
+<person name="Wallner M."/>
+<person name="Meera P."/>
+<person name="Ottolia M."/>
+<person name="Kaczorowski G.J."/>
+<person name="Latorre R."/>
+<person name="Garcia M.L."/>
+<person name="Stefani E."/>
+<person name="Toro L."/>
+</authorList>
+<dbReference type="PubMed" id="8821792"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 38-1236 (ISOFORM 5)</scope>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 693-764 (ISOFORM 4)</scope>
+<source>
+<tissue>Myometrium</tissue>
+</source>
+</reference>
+<reference key="12">
+<citation type="submission" date="1999-01" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning and characterization of BKCA alpha subunit from human pulmonary artery.</title>
+<authorList>
+<person name="Cairns V.R."/>
+<person name="Aebly M.R."/>
+<person name="Rusch N.J."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 66-1236 (ISOFORM 5)</scope>
+<source>
+<tissue>Pulmonary artery</tissue>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2002" name="J. Neurosci." volume="22" first="1840" last="1849">
+<title>Cloning and characterization of glioma BK, a novel BK channel isoform highly expressed in human glioma cells.</title>
+<authorList>
+<person name="Liu X."/>
+<person name="Chang Y."/>
+<person name="Reinhart P.H."/>
+<person name="Sontheimer H."/>
+<person name="Chang Y."/>
+</authorList>
+<dbReference type="PubMed" id="11880513"/>
+<dbReference type="DOI" id="10.1523/jneurosci.22-05-01840.2002"/>
+</citation>
+<scope>ALTERNATIVE SPLICING (ISOFORM 7)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<source>
+<tissue>Glioblastoma</tissue>
+</source>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2002" name="J. Neurosci." volume="22" first="1B" last="1B">
+<authorList>
+<person name="Liu X."/>
+<person name="Chang Y."/>
+<person name="Reinhart P.H."/>
+<person name="Sontheimer H."/>
+<person name="Chang Y."/>
+</authorList>
+</citation>
+<scope>ERRATUM OF PUBMED:11880513</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1996" name="Proc. Natl. Acad. Sci. U.S.A." volume="93" first="14922" last="14927">
+<title>Determinant for beta-subunit regulation in high-conductance voltage-activated and Ca(2+)-sensitive K+ channels: an additional transmembrane region at the N-terminus.</title>
+<authorList>
+<person name="Wallner M."/>
+<person name="Meera P."/>
+<person name="Toro L."/>
+</authorList>
+<dbReference type="PubMed" id="8962157"/>
+<dbReference type="DOI" id="10.1073/pnas.93.25.14922"/>
+</citation>
+<scope>DOMAIN S0</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1997" name="Proc. Natl. Acad. Sci. U.S.A." volume="94" first="14066" last="14071">
+<title>Large conductance voltage- and calcium-dependent K+ channel, a distinct member of voltage-dependent ion channels with seven N-terminal transmembrane segments (S0-S6), an extracellular N-terminus, and an intracellular (S9-S10) C-terminus.</title>
+<authorList>
+<person name="Meera P."/>
+<person name="Wallner M."/>
+<person name="Song M."/>
+<person name="Toro L."/>
+</authorList>
+<dbReference type="PubMed" id="9391153"/>
+<dbReference type="DOI" id="10.1073/pnas.94.25.14066"/>
+</citation>
+<scope>MEMBRANE TOPOLOGY</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="1998" name="J. Biol. Chem." volume="273" first="32430" last="32436">
+<title>Role of the S4 segment in a voltage-dependent calcium-sensitive potassium (hSlo) channel.</title>
+<authorList>
+<person name="Diaz L."/>
+<person name="Meera P."/>
+<person name="Amigo J."/>
+<person name="Stefani E."/>
+<person name="Alvarez O."/>
+<person name="Toro L."/>
+<person name="Latorre R."/>
+</authorList>
+<dbReference type="PubMed" id="9829973"/>
+<dbReference type="DOI" id="10.1074/jbc.273.49.32430"/>
+</citation>
+<scope>DOMAIN S4</scope>
+<scope>MUTAGENESIS OF LEU-269; ARG-272; ARG-275; ARG-278; GLN-281 AND GLU-284</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="1999" name="Proc. Natl. Acad. Sci. U.S.A." volume="96" first="4137" last="4142">
+<title>Molecular basis of fast inactivation in voltage and Ca2+-activated K+ channels: a transmembrane beta-subunit homolog.</title>
+<authorList>
+<person name="Wallner M."/>
+<person name="Meera P."/>
+<person name="Toro L."/>
+</authorList>
+<dbReference type="PubMed" id="10097176"/>
+<dbReference type="DOI" id="10.1073/pnas.96.7.4137"/>
+</citation>
+<scope>INTERACTION WITH KCNMB2</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2000" name="J. Biol. Chem." volume="275" first="6453" last="6461">
+<title>Cloning and functional characterization of novel large conductance calcium-activated potassium channel beta subunits, hKCNMB3 and hKCNMB4.</title>
+<authorList>
+<person name="Brenner R."/>
+<person name="Jegla T.J."/>
+<person name="Wickenden A."/>
+<person name="Liu Y."/>
+<person name="Aldrich R.W."/>
+</authorList>
+<dbReference type="PubMed" id="10692449"/>
+<dbReference type="DOI" id="10.1074/jbc.275.9.6453"/>
+</citation>
+<scope>INTERACTION WITH KCNMB3 AND KCNMB4</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2001" name="Neuron" volume="32" first="13" last="23">
+<title>Identification of a novel tetramerization domain in large conductance K(ca) channels.</title>
+<authorList>
+<person name="Quirk J.C."/>
+<person name="Reinhart P.H."/>
+</authorList>
+<dbReference type="PubMed" id="11604135"/>
+<dbReference type="DOI" id="10.1016/s0896-6273(01)00444-5"/>
+</citation>
+<scope>HOMOTETRAMERIZATION</scope>
+<scope>MUTAGENESIS OF 354-GLY--GLY-356</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2002" name="J. Neurosci." volume="22" first="1550" last="1561">
+<title>Consequences of the stoichiometry of Slo1 alpha and auxiliary beta subunits on functional properties of large-conductance Ca2+-activated K+ channels.</title>
+<authorList>
+<person name="Wang Y.-W."/>
+<person name="Ding J.-P."/>
+<person name="Xia X.-M."/>
+<person name="Lingle C.J."/>
+</authorList>
+<dbReference type="PubMed" id="11880485"/>
+<dbReference type="DOI" id="10.1523/jneurosci.22-05-01550.2002"/>
+</citation>
+<scope>INTERACTION WITH KCNMB1; KCNMB2; KCNMB3 AND KCNMB4</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2003" name="Nature" volume="425" first="531" last="535">
+<title>Haem can bind to and inhibit mammalian calcium-dependent Slo1 BK channels.</title>
+<authorList>
+<person name="Tang X.D."/>
+<person name="Xu R."/>
+<person name="Reynolds M.F."/>
+<person name="Garcia M.L."/>
+<person name="Heinemann S.H."/>
+<person name="Hoshi T."/>
+</authorList>
+<dbReference type="PubMed" id="14523450"/>
+<dbReference type="DOI" id="10.1038/nature02003"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<scope>MUTAGENESIS OF CYS-680 AND HIS-681</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2003" name="J. Gen. Physiol." volume="121" first="81" last="96">
+<title>Gating mechanism of BK (Slo1) channels: so near, yet so far.</title>
+<authorList>
+<person name="Magleby K.L."/>
+</authorList>
+<dbReference type="PubMed" id="12566537"/>
+<dbReference type="DOI" id="10.1085/jgp.20028721"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2010" name="J. Biol. Chem." volume="285" first="33307" last="33314">
+<title>Palmitoylation of the S0-S1 linker regulates cell surface expression of voltage- and calcium-activated potassium (BK) channels.</title>
+<authorList>
+<person name="Jeffries O."/>
+<person name="Geiger N."/>
+<person name="Rowe I.C."/>
+<person name="Tian L."/>
+<person name="McClafferty H."/>
+<person name="Chen L."/>
+<person name="Bi D."/>
+<person name="Knaus H.G."/>
+<person name="Ruth P."/>
+<person name="Shipston M.J."/>
+</authorList>
+<dbReference type="PubMed" id="20693285"/>
+<dbReference type="DOI" id="10.1074/jbc.m110.153940"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PALMITOYLATION AT CYS-118; CYS-119 AND CYS-121</scope>
+<scope>MUTAGENESIS OF CYS-118; CYS-119 AND CYS-121</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2012" name="J. Biol. Chem." volume="287" first="14718" last="14725">
+<title>Distinct acyl protein transferases and thioesterases control surface expression of calcium-activated potassium channels.</title>
+<authorList>
+<person name="Tian L."/>
+<person name="McClafferty H."/>
+<person name="Knaus H.G."/>
+<person name="Ruth P."/>
+<person name="Shipston M.J."/>
+</authorList>
+<dbReference type="PubMed" id="22399288"/>
+<dbReference type="DOI" id="10.1074/jbc.m111.335547"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PALMITOYLATION AT CYS-118; CYS-119 AND CYS-121</scope>
+<scope>DEPALMITOYLATION</scope>
+<scope>MUTAGENESIS OF CYS-118; CYS-119 AND CYS-121</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2010" name="Nature" volume="466" first="513" last="516">
+<title>LRRC26 auxiliary protein allows BK channel activation at resting voltage without calcium.</title>
+<authorList>
+<person name="Yan J."/>
+<person name="Aldrich R.W."/>
+</authorList>
+<dbReference type="PubMed" id="20613726"/>
+<dbReference type="DOI" id="10.1038/nature09162"/>
+</citation>
+<scope>INTERACTION WITH LRRC26</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2010" name="J. Pharmacol. Exp. Ther." volume="334" first="402" last="409">
+<title>Characterizing the role of Thr352 in the inhibition of the large conductance Ca2+-activated K+ channels by 1-[1-Hexyl-6-(methyloxy)-1H-indazol-3-yl]-2-methyl-1-propanone.</title>
+<authorList>
+<person name="Gordon E."/>
+<person name="Semus S.F."/>
+<person name="Lozinskaya I.M."/>
+<person name="Lin Z."/>
+<person name="Xu X."/>
+</authorList>
+<dbReference type="PubMed" id="20430843"/>
+<dbReference type="DOI" id="10.1124/jpet.110.166017"/>
+</citation>
+<scope>MUTAGENESIS OF THR-352; PHE-380; ALA-381 AND VAL-384</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2012" name="Proc. Natl. Acad. Sci. U.S.A." volume="109" first="7917" last="7922">
+<title>BK potassium channel modulation by leucine-rich repeat-containing proteins.</title>
+<authorList>
+<person name="Yan J."/>
+<person name="Aldrich R.W."/>
+</authorList>
+<dbReference type="PubMed" id="22547800"/>
+<dbReference type="DOI" id="10.1073/pnas.1205435109"/>
+</citation>
+<scope>INTERACTION WITH GAMMA SUBUNITS LRRC26; LRRC38; LRRC52 AND LRRC55</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2010" name="Science" volume="329" first="182" last="186">
+<title>Structure of the human BK channel Ca2+-activation apparatus at 3.0 A resolution.</title>
+<authorList>
+<person name="Yuan P."/>
+<person name="Leonetti M.D."/>
+<person name="Pico A.R."/>
+<person name="Hsiung Y."/>
+<person name="MacKinnon R."/>
+</authorList>
+<dbReference type="PubMed" id="20508092"/>
+<dbReference type="DOI" id="10.1126/science.1190414"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 406-1179</scope>
+<scope>CALCIUM-BINDING SITES</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2005" name="Nat. Genet." volume="37" first="733" last="738">
+<title>Calcium-sensitive potassium channelopathy in human epilepsy and paroxysmal movement disorder.</title>
+<authorList>
+<person name="Du W."/>
+<person name="Bautista J.F."/>
+<person name="Yang H."/>
+<person name="Diez-Sampedro A."/>
+<person name="You S.-A."/>
+<person name="Wang L."/>
+<person name="Kotagal P."/>
+<person name="Lueders H.O."/>
+<person name="Shi J."/>
+<person name="Cui J."/>
+<person name="Richerson G.B."/>
+<person name="Wang Q.K."/>
+</authorList>
+<dbReference type="PubMed" id="15937479"/>
+<dbReference type="DOI" id="10.1038/ng1585"/>
+</citation>
+<scope>INVOLVEMENT IN PNKD3</scope>
+<scope>VARIANT PNKD3 GLY-434</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2015" name="Mov. Disord." volume="30" first="1290" last="1292">
+<title>De novo KCNMA1 mutations in children with early-onset paroxysmal dyskinesia and developmental delay.</title>
+<authorList>
+<person name="Zhang Z.B."/>
+<person name="Tian M.Q."/>
+<person name="Gao K."/>
+<person name="Jiang Y.W."/>
+<person name="Wu Y."/>
+</authorList>
+<dbReference type="PubMed" id="26195193"/>
+<dbReference type="DOI" id="10.1002/mds.26216"/>
+</citation>
+<scope>INVOLVEMENT IN PNKD3</scope>
+<scope>VARIANTS PNKD3 LYS-884 AND SER-1053</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2016" name="Hum. Genet." volume="135" first="1295" last="1298">
+<title>Homozygous KCNMA1 mutation as a cause of cerebellar atrophy, developmental delay and seizures.</title>
+<authorList>
+<person name="Tabarki B."/>
+<person name="AlMajhad N."/>
+<person name="AlHashem A."/>
+<person name="Shaheen R."/>
+<person name="Alkuraya F.S."/>
+</authorList>
+<dbReference type="PubMed" id="27567911"/>
+<dbReference type="DOI" id="10.1007/s00439-016-1726-y"/>
+</citation>
+<scope>INVOLVEMENT IN CADEDS</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="2018" name="Eur. J. Hum. Genet." volume="26" first="220" last="229">
+<title>De novo BK channel variant causes epilepsy by affecting voltage gating but not Ca2+ sensitivity.</title>
+<authorList>
+<person name="Li X."/>
+<person name="Poschmann S."/>
+<person name="Chen Q."/>
+<person name="Fazeli W."/>
+<person name="Oundjian N.J."/>
+<person name="Snoeijen-Schouwenaars F.M."/>
+<person name="Fricke O."/>
+<person name="Kamsteeg E.J."/>
+<person name="Willemsen M."/>
+<person name="Wang Q.K."/>
+</authorList>
+<dbReference type="PubMed" id="29330545"/>
+<dbReference type="DOI" id="10.1038/s41431-017-0073-3"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INVOLVEMENT IN EIG16</scope>
+<scope>VARIANT EIG16 SER-1053</scope>
+<scope>CHARACTERIZATION OF VARIANT EIG16 SER-1053</scope>
+<scope>VARIANTS ASN-518; ALA-656 AND SER-1217</scope>
+<scope>CHARACTERIZATION OF VARIANTS ASN-518; ALA-656 AND SER-1217</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="2019" name="Hum. Mol. Genet." volume="28" first="2937" last="2951">
+<title>De novo loss-of-function KCNMA1 variants are associated with a new multiple malformation syndrome and a broad spectrum of developmental and neurological phenotypes.</title>
+<authorList>
+<person name="Liang L."/>
+<person name="Li X."/>
+<person name="Moutton S."/>
+<person name="Schrier Vergano S.A."/>
+<person name="Cogne B."/>
+<person name="Saint-Martin A."/>
+<person name="Hurst A.C.E."/>
+<person name="Hu Y."/>
+<person name="Bodamer O."/>
+<person name="Thevenon J."/>
+<person name="Hung C.Y."/>
+<person name="Isidor B."/>
+<person name="Gerard B."/>
+<person name="Rega A."/>
+<person name="Nambot S."/>
+<person name="Lehalle D."/>
+<person name="Duffourd Y."/>
+<person name="Thauvin-Robinet C."/>
+<person name="Faivre L."/>
+<person name="Bezieau S."/>
+<person name="Dure L.S."/>
+<person name="Helbling D.C."/>
+<person name="Bick D."/>
+<person name="Xu C."/>
+<person name="Chen Q."/>
+<person name="Mancini G.M.S."/>
+<person name="Vitobello A."/>
+<person name="Wang Q.K."/>
+</authorList>
+<dbReference type="PubMed" id="31152168"/>
+<dbReference type="DOI" id="10.1093/hmg/ddz117"/>
+</citation>
+<scope>INVOLVEMENT IN LIWAS</scope>
+<scope>VARIANT LIWAS ARG-375</scope>
+<scope>CHARACTERIZATION OF VARIANT LIWAS ARG-375</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="2018" name="Balkan Med. J." volume="35" first="336" last="339">
+<title>Expanding the phenotype of homozygous KCNMA1 mutations; dyskinesia, epilepsy, intellectual disability, cerebellar and corticospinal tract atrophy.</title>
+<authorList>
+<person name="Yesil G."/>
+<person name="Aralasmak A."/>
+<person name="Akyuez E."/>
+<person name="Icagasioglu D."/>
+<person name="Uygur Sahin T."/>
+<person name="Bayram Y."/>
+</authorList>
+<dbReference type="PubMed" id="29545233"/>
+<dbReference type="DOI" id="10.4274/balkanmedj.2017.0986"/>
+</citation>
+<scope>VARIANT CADEDS 458-ARG--LEU-1236 DEL</scope>
+</reference>
+<comment type="function">
+<text evidence="24 26">Potassium channel activated by both membrane depolarization or increase in cytosolic Ca(2+) that mediates export of K(+) (PubMed:29330545, PubMed:31152168). It is also activated by the concentration of cytosolic Mg(2+). Its activation dampens the excitatory events that elevate the cytosolic Ca(2+) concentration and/or depolarize the cell membrane. It therefore contributes to repolarization of the membrane potential. Plays a key role in controlling excitability in a number of systems, such as regulation of the contraction of smooth muscle, the tuning of hair cells in the cochlea, regulation of transmitter release, and innate immunity. In smooth muscles, its activation by high level of Ca(2+), caused by ryanodine receptors in the sarcoplasmic reticulum, regulates the membrane potential. In cochlea cells, its number and kinetic properties partly determine the characteristic frequency of each hair cell and thereby helps to establish a tonotopic map. Kinetics of KCNMA1 channels are determined by alternative splicing, phosphorylation status and its combination with modulating beta subunits. Highly sensitive to both iberiotoxin (IbTx) and charybdotoxin (CTX).</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="14">Ethanol and carbon monoxide-bound heme increase channel activation. Heme inhibits channel activation.</text>
+</comment>
+<comment type="subunit">
+<text evidence="5 9 10 12 17 18 21">Homotetramer; which constitutes the calcium-activated potassium channel. Interacts with RAB11B (By similarity). Interacts with beta subunits KCNMB1, KCNMB2, KCNMB3 and KCNMB4. Interacts with gamma subunits LRRC26, LRRC38, LRRC52 and LRRC55. Beta and gamma subunits are accessory, and modulate its activity.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1220676">
+<id>Q12791</id>
+</interactant>
+<interactant intactId="EBI-15863320">
+<id>Q2I0M4</id>
+<label>LRRC26</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1220676">
+<id>Q12791</id>
+</interactant>
+<interactant intactId="EBI-15686410">
+<id>Q6NXK8-1</id>
+<label>Asic1</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-15861807">
+<id>Q12791-5</id>
+</interactant>
+<interactant intactId="EBI-15861807">
+<id>Q12791-5</id>
+<label>KCNMA1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-15861807">
+<id>Q12791-5</id>
+</interactant>
+<interactant intactId="EBI-15863320">
+<id>Q2I0M4</id>
+<label>LRRC26</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-15861807">
+<id>Q12791-5</id>
+</interactant>
+<interactant intactId="EBI-15885629">
+<id>P21731-3</id>
+<label>TBXA2R</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="19 20">Cell membrane</location>
+<topology evidence="19 20">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q12791-1</id>
+<name>1</name>
+<name>SAKCA</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q12791-2</id>
+<name>2</name>
+<name>BKTM</name>
+<sequence type="described" ref="VSP_009955 VSP_009958"/>
+</isoform>
+<isoform>
+<id>Q12791-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_009954"/>
+</isoform>
+<isoform>
+<id>Q12791-4</id>
+<name>4</name>
+<name>hbr5</name>
+<sequence type="described" ref="VSP_009956"/>
+</isoform>
+<isoform>
+<id>Q12791-5</id>
+<name>5</name>
+<sequence type="described" ref="VSP_009955"/>
+</isoform>
+<isoform>
+<id>Q12791-6</id>
+<name>6</name>
+<sequence type="described" ref="VSP_009952 VSP_009953"/>
+</isoform>
+<isoform>
+<id>Q12791-7</id>
+<name>7</name>
+<name>gBK</name>
+<sequence type="described" ref="VSP_009957"/>
+</isoform>
+<text>May be partially controlled by hormonal stress. Additional isoforms seem to exist.</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="13">Widely expressed. Except in myocytes, it is almost ubiquitously expressed.</text>
+</comment>
+<comment type="domain">
+<text>The S0 segment is essential for the modulation by the accessory beta subunits KCNMB1, KCNMB2, KCNMB3 and KCNMB4.</text>
+</comment>
+<comment type="domain">
+<text>The S4 segment, which is characterized by a series of positively charged amino acids at every third position, is part of the voltage-sensor.</text>
+</comment>
+<comment type="domain">
+<text>The pore-forming domain (also referred as P region) is imbedded into the membrane, and forms the selectivity filter of the pore. It contains the signature sequence of potassium channels that displays selectivity to potassium.</text>
+</comment>
+<comment type="domain">
+<text evidence="5">The RCK N-terminal domain mediates the homotetramerization, thereby promoting the assembly of monomers into functional potassium channel. It includes binding sites for Ca(2+) and Mg(2+) (By similarity).</text>
+</comment>
+<comment type="domain">
+<text>The calcium bowl constitutes one of the Ca(2+) sensors and probably acts as a Ca(2+)-binding site. There are however other Ca(2+) sensors regions required for activation of the channel.</text>
+</comment>
+<comment type="domain">
+<text>The heme-binding motif mediates inhibition of channel activation by heme. Carbon monoxide-bound heme leads to increased channel activation.</text>
+</comment>
+<comment type="PTM">
+<text evidence="38">Phosphorylated (Probable). Phosphorylation by kinases such as PKA and/or PKG. In smooth muscles, phosphorylation affects its activity.</text>
+</comment>
+<comment type="PTM">
+<text evidence="19 20">Palmitoylation by ZDHHC22 and ZDHHC23 within the intracellular linker between the S0 and S1 transmembrane domains regulates localization to the plasma membrane. Depalmitoylated by LYPLA1 and LYPLAL1, leading to retard exit from the trans-Golgi network.</text>
+</comment>
+<comment type="disease" evidence="15 22">
+<disease id="DI-00503">
+<name>Paroxysmal nonkinesigenic dyskinesia, 3, with or without generalized epilepsy</name>
+<acronym>PNKD3</acronym>
+<description>An autosomal dominant neurologic disorder characterized by absence seizures, generalized tonic-clonic seizures, paroxysmal nonkinesigenic dyskinesia and involuntary dystonic or choreiform movements. Onset is usually in childhood. Patients may have seizures only, dyskinesia only, or both.</description>
+<dbReference type="MIM" id="609446"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="24">
+<disease id="DI-05665">
+<name>Epilepsy, idiopathic generalized 16</name>
+<acronym>EIG16</acronym>
+<description>An autosomal dominant form of idiopathic generalized epilepsy, a disorder characterized by recurring generalized seizures in the absence of detectable brain lesions and/or metabolic abnormalities. Generalized seizures arise diffusely and simultaneously from both hemispheres of the brain. Seizure types include juvenile myoclonic seizures, absence seizures, and generalized tonic-clonic seizures. EIG16 is characterized by onset of seizures soon after birth or in the first years of life.</description>
+<dbReference type="MIM" id="618596"/>
+</disease>
+<text>Disease susceptibility is associated with variations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="23 25">
+<disease id="DI-05076">
+<name>Cerebellar atrophy, developmental delay, and seizures</name>
+<acronym>CADEDS</acronym>
+<description>An autosomal recessive disease characterized by epilepsy, developmental delay and severe cerebellar atrophy.</description>
+<dbReference type="MIM" id="617643"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="26">
+<disease id="DI-05730">
+<name>Liang-Wang syndrome</name>
+<acronym>LIWAS</acronym>
+<description>An autosomal dominant syndrome characterized by a highly variable phenotype and severity. The broad spectrum of clinical features includes developmental delay, intellectual disability, ataxia, axial hypotonia, and poor or absent speech, visceral and cardiac malformations, connective tissue presentations with arterial involvement, bone dysplasia and characteristic craniofacial dysmorphism. About half of patients have cerebral and cerebellar atrophy, and thin corpus callosum.</description>
+<dbReference type="MIM" id="618729"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="miscellaneous">
+<text>The protein was initially thought to contain two functionally distinct parts: The core channel (from the N-terminus to the S9 segment) that mediates the channel activity, and the cytoplasmic tail (from the S9 segment to the C-terminus) that mediates the calcium sensing. The situation is however more complex, since the core channel also contains binding sites for Ca(2+) and Mg(2+).</text>
+</comment>
+<comment type="similarity">
+<text evidence="38">Belongs to the potassium channel family. Calcium-activated (TC 1.A.1.3) subfamily. KCa1.1/KCNMA1 sub-subfamily.</text>
+</comment>
+<comment type="sequence caution" evidence="38">
+<conflict type="miscellaneous discrepancy">
+<sequence resource="EMBL-CDS" id="AAA50216" version="1"/>
+</conflict>
+<text>Contaminating sequence. Sequence of unknown origin in the N-terminal part.</text>
+</comment>
+<comment type="sequence caution" evidence="38">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAB65837" version="1"/>
+</conflict>
+<text>Truncated N-terminus.</text>
+</comment>
+<comment type="sequence caution" evidence="38">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAC50353" version="1"/>
+</conflict>
+<text>Truncated N-terminus.</text>
+</comment>
+<comment type="sequence caution" evidence="38">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAK91504" version="1"/>
+</conflict>
+<text>Truncated N-terminus.</text>
+</comment>
+<comment type="sequence caution" evidence="38">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="BAD06365" version="1"/>
+</conflict>
+<text>Truncated N-terminus.</text>
+</comment>
+<dbReference type="EMBL" id="U13913">
+<property type="protein sequence ID" value="AAA85104.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U23767">
+<property type="protein sequence ID" value="AAA92290.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC011439">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC021032">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL157833">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL627447">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL731556">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL731560">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC067745">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL607069">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL731575">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471083">
+<property type="protein sequence ID" value="EAW54599.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC062659">
+<property type="protein sequence ID" value="AAH62659.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC137115">
+<property type="protein sequence ID" value="AAI37116.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC137137">
+<property type="protein sequence ID" value="AAI37138.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U11717">
+<property type="protein sequence ID" value="AAC50353.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY040849">
+<property type="protein sequence ID" value="AAK91504.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB113575">
+<property type="protein sequence ID" value="BAD06397.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB113382">
+<property type="protein sequence ID" value="BAD06365.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U02632">
+<property type="protein sequence ID" value="AAA50173.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U09384">
+<property type="protein sequence ID" value="AAA50216.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF025999">
+<property type="protein sequence ID" value="AAB88802.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U11058">
+<property type="protein sequence ID" value="AAB65837.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF118141">
+<property type="protein sequence ID" value="AAD31173.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS53545.1">
+<molecule id="Q12791-2"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS60569.1">
+<molecule id="Q12791-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS60571.1">
+<molecule id="Q12791-6"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS7352.1">
+<molecule id="Q12791-5"/>
+</dbReference>
+<dbReference type="PIR" id="I38596">
+<property type="entry name" value="I38596"/>
+</dbReference>
+<dbReference type="PIR" id="S62904">
+<property type="entry name" value="S62904"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001014797.1">
+<property type="nucleotide sequence ID" value="NM_001014797.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001154824.1">
+<molecule id="Q12791-1"/>
+<property type="nucleotide sequence ID" value="NM_001161352.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001154825.1">
+<molecule id="Q12791-2"/>
+<property type="nucleotide sequence ID" value="NM_001161353.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001258447.1">
+<property type="nucleotide sequence ID" value="NM_001271518.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001258451.1">
+<molecule id="Q12791-6"/>
+<property type="nucleotide sequence ID" value="NM_001271522.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_002238.2">
+<molecule id="Q12791-5"/>
+<property type="nucleotide sequence ID" value="NM_002247.3"/>
+</dbReference>
+<dbReference type="PDB" id="2K44">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=257-284"/>
+</dbReference>
+<dbReference type="PDB" id="3MT5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=406-1179"/>
+</dbReference>
+<dbReference type="PDB" id="3NAF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A=395-681, A=782-1182"/>
+</dbReference>
+<dbReference type="PDB" id="6ND0">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.50"/>
+<property type="chains" value="A/B/C/D=292-1175"/>
+</dbReference>
+<dbReference type="PDB" id="6V22">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="A/B/C/D=66-1179"/>
+</dbReference>
+<dbReference type="PDB" id="6V35">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.50"/>
+<property type="chains" value="A/B/C/D=66-1179"/>
+</dbReference>
+<dbReference type="PDB" id="6V38">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.80"/>
+<property type="chains" value="A/B/C/D=66-1179"/>
+</dbReference>
+<dbReference type="PDB" id="6V3G">
+<property type="method" value="EM"/>
+<property type="resolution" value="4.00"/>
+<property type="chains" value="A/B/C/D=66-1179"/>
+</dbReference>
+<dbReference type="PDB" id="6V5A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=406-1179"/>
+</dbReference>
+<dbReference type="PDBsum" id="2K44"/>
+<dbReference type="PDBsum" id="3MT5"/>
+<dbReference type="PDBsum" id="3NAF"/>
+<dbReference type="PDBsum" id="6ND0"/>
+<dbReference type="PDBsum" id="6V22"/>
+<dbReference type="PDBsum" id="6V35"/>
+<dbReference type="PDBsum" id="6V38"/>
+<dbReference type="PDBsum" id="6V3G"/>
+<dbReference type="PDBsum" id="6V5A"/>
+<dbReference type="BMRB" id="Q12791"/>
+<dbReference type="SMR" id="Q12791"/>
+<dbReference type="BioGRID" id="109979">
+<property type="interactions" value="18"/>
+</dbReference>
+<dbReference type="CORUM" id="Q12791"/>
+<dbReference type="DIP" id="DIP-29729N"/>
+<dbReference type="IntAct" id="Q12791">
+<property type="interactions" value="5"/>
+</dbReference>
+<dbReference type="MINT" id="Q12791"/>
+<dbReference type="STRING" id="9606.ENSP00000286628"/>
+<dbReference type="BindingDB" id="Q12791"/>
+<dbReference type="ChEMBL" id="CHEMBL4304"/>
+<dbReference type="DrugBank" id="DB00436">
+<property type="generic name" value="Bendroflumethiazide"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00356">
+<property type="generic name" value="Chlorzoxazone"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01003">
+<property type="generic name" value="Cromoglicic acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04209">
+<property type="generic name" value="Dequalinium"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01119">
+<property type="generic name" value="Diazoxide"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01159">
+<property type="generic name" value="Halothane"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00999">
+<property type="generic name" value="Hydrochlorothiazide"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00774">
+<property type="generic name" value="Hydroflumethiazide"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01110">
+<property type="generic name" value="Miconazole"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00721">
+<property type="generic name" value="Procaine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB09089">
+<property type="generic name" value="Trimebutine"/>
+</dbReference>
+<dbReference type="DrugCentral" id="Q12791"/>
+<dbReference type="GuidetoPHARMACOLOGY" id="380"/>
+<dbReference type="TCDB" id="1.A.1.3.10">
+<property type="family name" value="the voltage-gated ion channel (vic) superfamily"/>
+</dbReference>
+<dbReference type="GlyConnect" id="1058">
+<property type="glycosylation" value="1 N-Linked glycan (1 site)"/>
+</dbReference>
+<dbReference type="GlyGen" id="Q12791">
+<property type="glycosylation" value="1 site"/>
+</dbReference>
+<dbReference type="iPTMnet" id="Q12791"/>
+<dbReference type="MetOSite" id="Q12791"/>
+<dbReference type="PhosphoSitePlus" id="Q12791"/>
+<dbReference type="SwissPalm" id="Q12791"/>
+<dbReference type="BioMuta" id="KCNMA1"/>
+<dbReference type="DMDM" id="46396283"/>
+<dbReference type="jPOST" id="Q12791"/>
+<dbReference type="MassIVE" id="Q12791"/>
+<dbReference type="MaxQB" id="Q12791"/>
+<dbReference type="PeptideAtlas" id="Q12791"/>
+<dbReference type="PRIDE" id="Q12791"/>
+<dbReference type="ProteomicsDB" id="30456"/>
+<dbReference type="ProteomicsDB" id="58926">
+<molecule id="Q12791-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="58927">
+<molecule id="Q12791-2"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="58928">
+<molecule id="Q12791-3"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="58929">
+<molecule id="Q12791-4"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="58930">
+<molecule id="Q12791-5"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="58931">
+<molecule id="Q12791-6"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="58932">
+<molecule id="Q12791-7"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="29733">
+<property type="antibodies" value="322 antibodies"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000286627">
+<molecule id="Q12791-5"/>
+<property type="protein sequence ID" value="ENSP00000286627"/>
+<property type="gene ID" value="ENSG00000156113"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000286628">
+<molecule id="Q12791-1"/>
+<property type="protein sequence ID" value="ENSP00000286628"/>
+<property type="gene ID" value="ENSG00000156113"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000434208">
+<molecule id="Q12791-4"/>
+<property type="protein sequence ID" value="ENSP00000402150"/>
+<property type="gene ID" value="ENSG00000156113"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000480683">
+<molecule id="Q12791-6"/>
+<property type="protein sequence ID" value="ENSP00000474686"/>
+<property type="gene ID" value="ENSG00000156113"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000626620">
+<molecule id="Q12791-2"/>
+<property type="protein sequence ID" value="ENSP00000485867"/>
+<property type="gene ID" value="ENSG00000156113"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000638575">
+<molecule id="Q12791-7"/>
+<property type="protein sequence ID" value="ENSP00000492049"/>
+<property type="gene ID" value="ENSG00000156113"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000638759">
+<molecule id="Q12791-3"/>
+<property type="protein sequence ID" value="ENSP00000492632"/>
+<property type="gene ID" value="ENSG00000156113"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000640969">
+<molecule id="Q12791-4"/>
+<property type="protein sequence ID" value="ENSP00000492200"/>
+<property type="gene ID" value="ENSG00000156113"/>
+</dbReference>
+<dbReference type="GeneID" id="3778"/>
+<dbReference type="KEGG" id="hsa:3778"/>
+<dbReference type="UCSC" id="uc001jxm.4">
+<molecule id="Q12791-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="3778"/>
+<dbReference type="DisGeNET" id="3778"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000156113.20"/>
+<dbReference type="GeneCards" id="KCNMA1"/>
+<dbReference type="HGNC" id="HGNC:6284">
+<property type="gene designation" value="KCNMA1"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000156113">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MalaCards" id="KCNMA1"/>
+<dbReference type="MIM" id="600150">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="609446">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="617643">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="618596">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="618729">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q12791"/>
+<dbReference type="OpenTargets" id="ENSG00000156113"/>
+<dbReference type="Orphanet" id="79137">
+<property type="disease" value="Generalized epilepsy-paroxysmal dyskinesia syndrome"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA220"/>
+<dbReference type="eggNOG" id="KOG1420">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000154935"/>
+<dbReference type="InParanoid" id="Q12791"/>
+<dbReference type="KO" id="K04936"/>
+<dbReference type="OrthoDB" id="124461at2759"/>
+<dbReference type="PhylomeDB" id="Q12791"/>
+<dbReference type="TreeFam" id="TF314283"/>
+<dbReference type="PathwayCommons" id="Q12791"/>
+<dbReference type="Reactome" id="R-HSA-1296052">
+<property type="pathway name" value="Ca2+ activated K+ channels"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-418457">
+<property type="pathway name" value="cGMP effects"/>
+</dbReference>
+<dbReference type="SIGNOR" id="Q12791"/>
+<dbReference type="BioGRID-ORCS" id="3778">
+<property type="hits" value="10 hits in 872 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="KCNMA1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="Q12791"/>
+<dbReference type="GenomeRNAi" id="3778"/>
+<dbReference type="Pharos" id="Q12791">
+<property type="development level" value="Tclin"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q12791"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 10"/>
+</dbReference>
+<dbReference type="RNAct" id="Q12791">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000156113">
+<property type="expression patterns" value="Expressed in parotid gland and 226 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q12791">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q12791">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016324">
+<property type="term" value="C:apical plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005901">
+<property type="term" value="C:caveola"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045211">
+<property type="term" value="C:postsynaptic membrane"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008076">
+<property type="term" value="C:voltage-gated potassium channel complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003779">
+<property type="term" value="F:actin binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015269">
+<property type="term" value="F:calcium-activated potassium channel activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060072">
+<property type="term" value="F:large conductance calcium-activated potassium channel activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005249">
+<property type="term" value="F:voltage-gated potassium channel activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030007">
+<property type="term" value="P:cellular potassium ion homeostasis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060073">
+<property type="term" value="P:micturition"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045794">
+<property type="term" value="P:negative regulation of cell volume"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043065">
+<property type="term" value="P:positive regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006813">
+<property type="term" value="P:potassium ion transport"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034765">
+<property type="term" value="P:regulation of ion transmembrane transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042391">
+<property type="term" value="P:regulation of membrane potential"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060087">
+<property type="term" value="P:relaxation of vascular associated smooth muscle"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051592">
+<property type="term" value="P:response to calcium ion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034465">
+<property type="term" value="P:response to carbon monoxide"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001666">
+<property type="term" value="P:response to hypoxia"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006970">
+<property type="term" value="P:response to osmotic stress"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060083">
+<property type="term" value="P:smooth muscle contraction involved in micturition"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.120.350">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024939">
+<property type="entry name" value="Ca-act_K_channel_Slo-1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005821">
+<property type="entry name" value="Ion_trans_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003929">
+<property type="entry name" value="K_chnl_BK_asu"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036291">
+<property type="entry name" value="NAD(P)-bd_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027359">
+<property type="entry name" value="Volt_channel_dom_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10027:SF28">
+<property type="entry name" value="PTHR10027:SF28"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03493">
+<property type="entry name" value="BK_channel_a"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00520">
+<property type="entry name" value="Ion_trans"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51735">
+<property type="entry name" value="SSF51735"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0106">Calcium</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0887">Epilepsy</keyword>
+<keyword id="KW-0407">Ion channel</keyword>
+<keyword id="KW-0406">Ion transport</keyword>
+<keyword id="KW-0449">Lipoprotein</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0564">Palmitate</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0630">Potassium</keyword>
+<keyword id="KW-0631">Potassium channel</keyword>
+<keyword id="KW-0633">Potassium transport</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<keyword id="KW-0851">Voltage-gated channel</keyword>
+<feature type="chain" description="Calcium-activated potassium channel subunit alpha-1" id="PRO_0000054132">
+<location>
+<begin position="1"/>
+<end position="1236"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="8">
+<location>
+<begin position="1"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=Segment S0" evidence="8">
+<location>
+<begin position="87"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="8">
+<location>
+<begin position="108"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=Segment S1" evidence="8">
+<location>
+<begin position="179"/>
+<end position="199"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="8">
+<location>
+<begin position="200"/>
+<end position="214"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=Segment S2" evidence="8">
+<location>
+<begin position="215"/>
+<end position="235"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="8">
+<location>
+<begin position="236"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=Segment S3" evidence="8">
+<location>
+<begin position="240"/>
+<end position="260"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="8">
+<location>
+<begin position="261"/>
+<end position="264"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=Segment S4" evidence="8">
+<location>
+<begin position="265"/>
+<end position="285"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="8">
+<location>
+<begin position="286"/>
+<end position="300"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=Segment S5" evidence="8">
+<location>
+<begin position="301"/>
+<end position="321"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="8">
+<location>
+<begin position="322"/>
+<end position="335"/>
+</location>
+</feature>
+<feature type="intramembrane region" description="Pore-forming; Name=P region" evidence="8">
+<location>
+<begin position="336"/>
+<end position="358"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="8">
+<location>
+<begin position="359"/>
+<end position="367"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=Segment S6" evidence="8">
+<location>
+<begin position="368"/>
+<end position="388"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="8">
+<location>
+<begin position="389"/>
+<end position="1236"/>
+</location>
+</feature>
+<feature type="domain" description="RCK N-terminal">
+<location>
+<begin position="415"/>
+<end position="558"/>
+</location>
+</feature>
+<feature type="region of interest" description="Segment S7">
+<location>
+<begin position="556"/>
+<end position="576"/>
+</location>
+</feature>
+<feature type="region of interest" description="Segment S8">
+<location>
+<begin position="613"/>
+<end position="633"/>
+</location>
+</feature>
+<feature type="region of interest" description="Heme-binding motif">
+<location>
+<begin position="677"/>
+<end position="681"/>
+</location>
+</feature>
+<feature type="region of interest" description="Segment S9">
+<location>
+<begin position="837"/>
+<end position="857"/>
+</location>
+</feature>
+<feature type="region of interest" description="Segment S10">
+<location>
+<begin position="1032"/>
+<end position="1052"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Selectivity for potassium">
+<location>
+<begin position="352"/>
+<end position="355"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Calcium bowl">
+<location>
+<begin position="1003"/>
+<end position="1025"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Gly">
+<location>
+<begin position="4"/>
+<end position="10"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Gly">
+<location>
+<begin position="13"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ser">
+<location>
+<begin position="39"/>
+<end position="60"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="5">
+<location>
+<position position="439"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="5">
+<location>
+<position position="462"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Magnesium" evidence="5">
+<location>
+<position position="464"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium; via carbonyl oxygen">
+<location>
+<position position="1012"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium; via carbonyl oxygen">
+<location>
+<position position="1015"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium">
+<location>
+<position position="1018"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium">
+<location>
+<position position="1020"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="6">
+<location>
+<position position="763"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="765"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="778"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="782"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="6">
+<location>
+<position position="970"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="978"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="982"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="7">
+<location>
+<position position="1221"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="7">
+<location>
+<position position="1224"/>
+</location>
+</feature>
+<feature type="lipid moiety-binding region" description="S-palmitoyl cysteine" evidence="19 20">
+<location>
+<position position="118"/>
+</location>
+</feature>
+<feature type="lipid moiety-binding region" description="S-palmitoyl cysteine" evidence="19 20">
+<location>
+<position position="119"/>
+</location>
+</feature>
+<feature type="lipid moiety-binding region" description="S-palmitoyl cysteine" evidence="19 20">
+<location>
+<position position="121"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 6." id="VSP_009952" evidence="29">
+<original>EAQKINNGSSQADGTLKPVDEKEEAVAAEVGWMTSVKDWAGV</original>
+<variation>ATHFGSPEMPPAARSWSGSPPEAAVLRGASSLALEVARCRRL</variation>
+<location>
+<begin position="127"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 6." id="VSP_009953" evidence="29">
+<location>
+<begin position="169"/>
+<end position="1236"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_009954" evidence="32">
+<original>R</original>
+<variation>RSRKR</variation>
+<location>
+<position position="643"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2 and isoform 5." id="VSP_009955" evidence="28 29 30 31 33 34 35 36 37">
+<original>PKMSIYKRMRRACCFDCGRSERDCSCMSGRVRGNVDTLERAFPLSSVSVNDCSTSFRAF</original>
+<variation>L</variation>
+<location>
+<begin position="698"/>
+<end position="756"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_009956" evidence="32 34">
+<original>PKMSIYKRMRRACCFDCGRSERDCSCMSGRVRGNVDTLERAFPLSSVSVNDCSTSFRAF</original>
+<variation>LKVAARSRYSKDPFEFKKETPNSRLVTEPV</variation>
+<location>
+<begin position="698"/>
+<end position="756"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 7." id="VSP_009957" evidence="38">
+<original>PKMSIYKRMRRACCFDCGRSERDCSCMSGRVRGNVDTLERAFPLSSVSVNDCSTSFRAF</original>
+<variation>RWEEHCSLWRLESKGNVRRLNYCRGQQTFSVKVKVAARSRYSKDPFEFKKETPNSRLVTEPV</variation>
+<location>
+<begin position="698"/>
+<end position="756"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_009958" evidence="37">
+<original>L</original>
+<variation>LVTGWMPYLGPRVLMTCLDIGVVCMPTDIQSTSPASIKKFKE</variation>
+<location>
+<position position="828"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In LIWAS; loss of voltage-gated potassium channel activity; dbSNP:rs1554829003." id="VAR_083554" evidence="26">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="375"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PNKD3; may have a synergistic effect with ethanol in the triggering of symptoms; dbSNP:rs137853333." id="VAR_023821" evidence="15">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="434"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CADEDS." id="VAR_083555" evidence="25">
+<location>
+<begin position="458"/>
+<end position="1236"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in a patient with epileptic encephalopathy; unknown pathological significance; no effect on voltage-dependent sensitivity; dbSNP:rs201996416." id="VAR_083204" evidence="24">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="518"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in a patient with epilepsy; unknown pathological significance; no effect on voltage-dependent sensitivity; dbSNP:rs917980352." id="VAR_083205" evidence="24">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="656"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PNKD3." id="VAR_079156" evidence="22">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="884"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PNKD3 and EIG16; increased sensitivity to voltage-dependent activation resulting in increased channel activity; no change in calcium sensitivity; dbSNP:rs886039469." id="VAR_079157" evidence="22 24">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="1053"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in patient with epilepsy; unknown pathological significance; dbSNP:rs563967757." id="VAR_083206" evidence="24">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="1217"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased localization to the plasma membrane. Abolishes localization to the plasma membrane; when associated with A-119 and A-121." evidence="19 20">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="118"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased localization to the plasma membrane. Abolishes localization to the plasma membrane; when associated with A-118 and A-121." evidence="19 20">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="119"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased localization to the plasma membrane. Abolishes localization to the plasma membrane; when associated with A-119 and A-121." evidence="19 20">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="121"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect in the coupling between calcium and channel opening." evidence="27">
+<original>L</original>
+<variation>R</variation>
+<variation>H</variation>
+<location>
+<position position="269"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Induces reduction in the coupling between calcium and channel opening." evidence="27">
+<original>R</original>
+<variation>E</variation>
+<location>
+<position position="272"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Induces reduction in the coupling between calcium and channel opening." evidence="27">
+<original>R</original>
+<variation>N</variation>
+<location>
+<position position="275"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Induces reduction in the coupling between calcium and channel opening." evidence="27">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="278"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect in the coupling between calcium and channel opening." evidence="27">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="281"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect in the coupling between calcium and channel opening." evidence="27">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="284"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Activated at more negative voltages. Slower rate of inactivation. Impaired inhibition by HMIMP. No effect on channel inhibition by Iberiotoxin." evidence="16">
+<original>T</original>
+<variation>S</variation>
+<location>
+<position position="352"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of function." evidence="11">
+<original>GYG</original>
+<variation>AAA</variation>
+<location>
+<begin position="354"/>
+<end position="356"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of function." evidence="16">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="380"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Activated at more negative voltages. No effect on inhibition by HMIMP." evidence="16">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="381"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on activation voltage. No effect on inhibition by HMIMP." evidence="16">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="384"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of heme-induced channel inhibition." evidence="14">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="680"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of heme-induced channel inhibition." evidence="14">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="681"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 9; AAA50216." ref="9" evidence="38">
+<original>M</original>
+<variation>N</variation>
+<location>
+<position position="25"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 9; AAA50216." ref="9" evidence="38">
+<original>S</original>
+<variation>G</variation>
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA85104." ref="1" evidence="38">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="38"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 12; AAD31173." ref="12" evidence="38">
+<original>N</original>
+<variation>D</variation>
+<location>
+<position position="449"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 6; AAC50353." ref="6" evidence="38">
+<original>N</original>
+<variation>H</variation>
+<location>
+<position position="805"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 12; AAD31173." ref="12" evidence="38">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="1152"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="87"/>
+<end position="111"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="112"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="159"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="175"/>
+<end position="198"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="203"/>
+<end position="206"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="209"/>
+<end position="211"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="213"/>
+<end position="235"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="239"/>
+<end position="243"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="246"/>
+<end position="264"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="266"/>
+<end position="268"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="272"/>
+<end position="281"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="282"/>
+<end position="287"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="288"/>
+<end position="290"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="295"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="327"/>
+<end position="329"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="339"/>
+<end position="350"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="356"/>
+<end position="358"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="363"/>
+<end position="390"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="409"/>
+<end position="415"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="418"/>
+<end position="431"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="433"/>
+<end position="437"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="439"/>
+<end position="443"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="450"/>
+<end position="453"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="456"/>
+<end position="459"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="461"/>
+<end position="466"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="470"/>
+<end position="472"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="473"/>
+<end position="478"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="481"/>
+<end position="483"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="485"/>
+<end position="490"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="498"/>
+<end position="515"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="521"/>
+<end position="526"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="528"/>
+<end position="531"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="532"/>
+<end position="536"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="537"/>
+<end position="539"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="542"/>
+<end position="545"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="547"/>
+<end position="550"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="551"/>
+<end position="564"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="568"/>
+<end position="573"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="574"/>
+<end position="576"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="586"/>
+<end position="588"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="589"/>
+<end position="597"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="600"/>
+<end position="605"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="608"/>
+<end position="610"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="615"/>
+<end position="624"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="629"/>
+<end position="634"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="638"/>
+<end position="640"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="645"/>
+<end position="647"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="650"/>
+<end position="653"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="659"/>
+<end position="665"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="667"/>
+<end position="671"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="672"/>
+<end position="674"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="678"/>
+<end position="680"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="681"/>
+<end position="683"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="685"/>
+<end position="689"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="803"/>
+<end position="805"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="809"/>
+<end position="816"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="823"/>
+<end position="825"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="830"/>
+<end position="835"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="842"/>
+<end position="847"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="850"/>
+<end position="852"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="858"/>
+<end position="861"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="863"/>
+<end position="865"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="867"/>
+<end position="869"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="871"/>
+<end position="873"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="877"/>
+<end position="881"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="883"/>
+<end position="893"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="896"/>
+<end position="904"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="909"/>
+<end position="914"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="917"/>
+<end position="919"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="921"/>
+<end position="927"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="930"/>
+<end position="932"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="936"/>
+<end position="938"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="941"/>
+<end position="951"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="996"/>
+<end position="998"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="1001"/>
+<end position="1006"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1008"/>
+<end position="1011"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="1016"/>
+<end position="1018"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1026"/>
+<end position="1028"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1030"/>
+<end position="1033"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="1037"/>
+<end position="1039"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1040"/>
+<end position="1044"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1046"/>
+<end position="1052"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1054"/>
+<end position="1064"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1073"/>
+<end position="1079"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1089"/>
+<end position="1093"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="1094"/>
+<end position="1096"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="1099"/>
+<end position="1104"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="1105"/>
+<end position="1107"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="1109"/>
+<end position="1111"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1112"/>
+<end position="1114"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1119"/>
+<end position="1129"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="1133"/>
+<end position="1141"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="1144"/>
+<end position="1146"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="1154"/>
+<end position="1159"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="1171"/>
+<end position="1176"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 13; no nucleotide entry." ref="13" evidence="38">
+<original>FS</original>
+<variation>SF</variation>
+<location sequence="Q12791-7">
+<begin position="726"/>
+<end position="727"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3MT5"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3NAF"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6V22"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6V35"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000250"/>
+<evidence key="6" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q08460"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q28204"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000255"/>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10097176"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10692449"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11604135"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11880485"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11880513"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14523450"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15937479"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20430843"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20508092"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20613726"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20693285"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22399288"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22547800"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26195193"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27567911"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="29330545"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="29545233"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="31152168"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9829973"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="12434576"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="7573516"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="7877450"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="7987297"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="7993625"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="8821792"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000303">
+<source ref="10"/>
+</evidence>
+<evidence key="36" type="ECO:0000303">
+<source ref="12"/>
+</evidence>
+<evidence key="37" type="ECO:0000303">
+<source ref="8"/>
+</evidence>
+<evidence key="38" type="ECO:0000305"/>
+<evidence key="39" type="ECO:0000312">
+<source>
+<dbReference type="HGNC" id="HGNC:6284"/>
+</source>
+</evidence>
+<sequence length="1236" mass="137560" checksum="DF9BFEAF374BE553" modified="2004-04-13" version="2">MANGGGGGGGSSGGGGGGGGSSLRMSSNIHANHLSLDASSSSSSSSSSSSSSSSSSSSSSVHEPKMDALIIPVTMEVPCDSRGQRMWWAFLASSMVTFFGGLFIILLWRTLKYLWTVCCHCGGKTKEAQKINNGSSQADGTLKPVDEKEEAVAAEVGWMTSVKDWAGVMISAQTLTGRVLVVLVFALSIGALVIYFIDSSNPIESCQNFYKDFTLQIDMAFNVFFLLYFGLRFIAANDKLWFWLEVNSVVDFFTVPPVFVSVYLNRSWLGLRFLRALRLIQFSEILQFLNILKTSNSIKLVNLLSIFISTWLTAAGFIHLVENSGDPWENFQNNQALTYWECVYLLMVTMSTVGYGDVYAKTTLGRLFMVFFILGGLAMFASYVPEIIELIGNRKKYGGSYSAVSGRKHIVVCGHITLESVSNFLKDFLHKDRDDVNVEIVFLHNISPNLELEALFKRHFTQVEFYQGSVLNPHDLARVKIESADACLILANKYCADPDAEDASNIMRVISIKNYHPKIRIITQMLQYHNKAHLLNIPSWNWKEGDDAICLAELKLGFIAQSCLAQGLSTMLANLFSMRSFIKIEEDTWQKYYLEGVSNEMYTEYLSSAFVGLSFPTVCELCFVKLKLLMIAIEYKSANRESRILINPGNHLKIQEGTLGFFIASDAKEVKRAFFYCKACHDDITDPKRIKKCGCKRPKMSIYKRMRRACCFDCGRSERDCSCMSGRVRGNVDTLERAFPLSSVSVNDCSTSFRAFEDEQPSTLSPKKKQRNGGMRNSPNTSPKLMRHDPLLIPGNDQIDNMDSNVKKYDSTGMFHWCAPKEIEKVILTRSEAAMTVLSGHVVVCIFGDVSSALIGLRNLVMPLRASNFHYHELKHIVFVGSIEYLKREWETLHNFPKVSILPGTPLSRADLRAVNINLCDMCVILSANQNNIDDTSLQDKECILASLNIKSMQFDDSIGVLQANSQGFTPPGMDRSSPDNSPVHGMLRQPSITTGVNIPIITELVNDTNVQFLDQDDDDDPDTELYLTQPFACGTAFAVSVLDSLMSATYFNDNILTLIRTLVTGGATPELEALIAEENALRGGYSTPQTLANRDRCRVAQLALLDGPFADLGDGGCYGDLFCKALKTYNMLCFGIYRLRDAHLSTPSQCTKRYVITNPPYEFELVPTDLIFCLMQFDHNAGQSRASLSHSSHSSQSSSKKSSSVHSIPSTANRQNRPKSRESRDKQKYVQEERL</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

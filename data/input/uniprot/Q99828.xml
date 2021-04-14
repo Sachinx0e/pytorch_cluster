@@ -1,0 +1,2417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1997-11-01" modified="2020-10-07" version="197">
+<accession>Q99828</accession>
+<accession>B5BU40</accession>
+<accession>H6WJF3</accession>
+<accession>O00693</accession>
+<accession>O00735</accession>
+<accession>Q6IB49</accession>
+<accession>Q96J54</accession>
+<accession>Q99971</accession>
+<name>CIB1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Calcium and integrin-binding protein 1</fullName>
+<shortName>CIB</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Calcium- and integrin-binding protein</fullName>
+<shortName>CIBP</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Calmyrin</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>DNA-PKcs-interacting protein</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Kinase-interacting protein</fullName>
+<shortName>KIP</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>SNK-interacting protein 2-28</fullName>
+<shortName>SIP2-28</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">CIB1</name>
+<name type="synonym">CIB</name>
+<name type="synonym">KIP</name>
+<name type="synonym">PRKDCIP</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="4651" last="4654">
+<title>Identification of a novel calcium-binding protein that interacts with the integrin alphaIIb cytoplasmic domain.</title>
+<authorList>
+<person name="Naik U.P."/>
+<person name="Patel P.M."/>
+<person name="Parise L.V."/>
+</authorList>
+<dbReference type="PubMed" id="9030514"/>
+<dbReference type="DOI" id="10.1074/jbc.272.8.4651"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>INTERACTION WITH ITGA2B</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>CALCIUM-BINDING</scope>
+<source>
+<tissue>Fetal liver</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Mutat. Res." volume="385" first="13" last="20">
+<title>Interaction between DNA-dependent protein kinase and a novel protein, KIP.</title>
+<authorList>
+<person name="Wu X."/>
+<person name="Lieber M.R."/>
+</authorList>
+<dbReference type="PubMed" id="9372844"/>
+<dbReference type="DOI" id="10.1016/s0921-8777(97)00035-9"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>INTERACTION WITH PRKDC</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>VARIANT THR-44</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2000" name="DNA Seq." volume="10" first="415" last="418">
+<title>Genomic structure of mouse and human genes for DNA-PKcs interacting protein (KIP).</title>
+<authorList>
+<person name="Hattori A."/>
+<person name="Seki N."/>
+<person name="Hayashi A."/>
+<person name="Kozuma S."/>
+<person name="Saito T."/>
+</authorList>
+<dbReference type="PubMed" id="10826701"/>
+<dbReference type="DOI" id="10.3109/10425170009015612"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>VARIANT THR-44</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2014" name="Oncogene" volume="33" first="1167" last="1180">
+<title>A novel splice variant of calcium and integrin-binding protein 1 mediates protein kinase D2-stimulated tumour growth by regulating angiogenesis.</title>
+<authorList>
+<person name="Armacki M."/>
+<person name="Joodi G."/>
+<person name="Nimmagadda S.C."/>
+<person name="de Kimpe L."/>
+<person name="Pusapati G.V."/>
+<person name="Vandoninck S."/>
+<person name="Van Lint J."/>
+<person name="Illing A."/>
+<person name="Seufferlein T."/>
+</authorList>
+<dbReference type="PubMed" id="23503467"/>
+<dbReference type="DOI" id="10.1038/onc.2013.43"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2)</scope>
+<scope>FUNCTION (ISOFORM 2)</scope>
+<scope>INTERACTION WITH PRKD2; PTK2 AND PAK1</scope>
+<scope>SUBCELLULAR LOCATION (ISOFORM 2)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>PHOSPHORYLATION AT SER-118 (ISOFORM 2)</scope>
+<scope>MUTAGENESIS OF SER-78 AND THR-167</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="submission" date="1997-01" db="EMBL/GenBank/DDBJ databases">
+<title>SNK, a Ser/Thr protein kinase, associated proteins.</title>
+<authorList>
+<person name="Yuan O."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>VARIANT THR-44</scope>
+</reference>
+<reference key="6">
+<citation type="submission" date="2004-06" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full open reading frames in Gateway(TM) system entry vector (pDONR201).</title>
+<authorList>
+<person name="Ebert L."/>
+<person name="Schick M."/>
+<person name="Neubert P."/>
+<person name="Schatten R."/>
+<person name="Henze S."/>
+<person name="Korn B."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2008" name="Nat. Methods" volume="5" first="1011" last="1017">
+<title>Human protein factory for converting the transcriptome into an in vitro-expressed proteome.</title>
+<authorList>
+<person name="Goshima N."/>
+<person name="Kawamura Y."/>
+<person name="Fukumoto A."/>
+<person name="Miura A."/>
+<person name="Honma R."/>
+<person name="Satoh R."/>
+<person name="Wakamatsu A."/>
+<person name="Yamamoto J."/>
+<person name="Kimura K."/>
+<person name="Nishikawa T."/>
+<person name="Andoh T."/>
+<person name="Iida Y."/>
+<person name="Ishikawa K."/>
+<person name="Ito E."/>
+<person name="Kagawa N."/>
+<person name="Kaminaga C."/>
+<person name="Kanehori K."/>
+<person name="Kawakami B."/>
+<person name="Kenmochi K."/>
+<person name="Kimura R."/>
+<person name="Kobayashi M."/>
+<person name="Kuroita T."/>
+<person name="Kuwayama H."/>
+<person name="Maruyama Y."/>
+<person name="Matsuo K."/>
+<person name="Minami K."/>
+<person name="Mitsubori M."/>
+<person name="Mori M."/>
+<person name="Morishita R."/>
+<person name="Murase A."/>
+<person name="Nishikawa A."/>
+<person name="Nishikawa S."/>
+<person name="Okamoto T."/>
+<person name="Sakagami N."/>
+<person name="Sakamoto Y."/>
+<person name="Sasaki Y."/>
+<person name="Seki T."/>
+<person name="Sono S."/>
+<person name="Sugiyama A."/>
+<person name="Sumiya T."/>
+<person name="Takayama T."/>
+<person name="Takayama Y."/>
+<person name="Takeda H."/>
+<person name="Togashi T."/>
+<person name="Yahata K."/>
+<person name="Yamada H."/>
+<person name="Yanagisawa Y."/>
+<person name="Endo Y."/>
+<person name="Imamoto F."/>
+<person name="Kisu Y."/>
+<person name="Tanaka S."/>
+<person name="Isogai T."/>
+<person name="Imai J."/>
+<person name="Watanabe S."/>
+<person name="Nomura N."/>
+</authorList>
+<dbReference type="PubMed" id="19054851"/>
+<dbReference type="DOI" id="10.1038/nmeth.1273"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+</reference>
+<reference key="8">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Cervix</tissue>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1999" name="Biochem. J." volume="342" first="729" last="735">
+<title>Calcium-dependent properties of CIB binding to the integrin alphaIIb cytoplasmic domain and translocation to the platelet cytoskeleton.</title>
+<authorList>
+<person name="Shock D.D."/>
+<person name="Naik U.P."/>
+<person name="Brittain J.E."/>
+<person name="Alahari S.K."/>
+<person name="Sondek J."/>
+<person name="Parise L.V."/>
+</authorList>
+<dbReference type="PubMed" id="10477286"/>
+<dbReference type="DOI" id="10.1042/bj3420729"/>
+</citation>
+<scope>INTERACTION WITH ITGA2B</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1999" name="J. Cell Biol." volume="145" first="1277" last="1292">
+<title>A myristoylated calcium-binding protein that preferentially interacts with the Alzheimer's disease presenilin 2 protein.</title>
+<authorList>
+<person name="Stabler S.M."/>
+<person name="Ostrowski L.L."/>
+<person name="Janicki S.M."/>
+<person name="Monteiro M.J."/>
+</authorList>
+<dbReference type="PubMed" id="10366599"/>
+<dbReference type="DOI" id="10.1083/jcb.145.6.1277"/>
+</citation>
+<scope>MYRISTOYLATION AT GLY-2</scope>
+<scope>INTERACTION WITH PSEN2</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2001" name="Thromb. Res." volume="102" first="177" last="185">
+<title>The interaction of the calcium- and integrin-binding protein (CIBP) with the coagulation factor VIII.</title>
+<authorList>
+<person name="Fang X."/>
+<person name="Chen C."/>
+<person name="Wang Q."/>
+<person name="Gu J."/>
+<person name="Chi C."/>
+</authorList>
+<dbReference type="PubMed" id="11323029"/>
+<dbReference type="DOI" id="10.1016/s0049-3848(01)00229-8"/>
+</citation>
+<scope>INTERACTION WITH F8</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2002" name="Eur. J. Biochem." volume="269" first="538" last="545">
+<title>NBR1 interacts with fasciculation and elongation protein zeta-1 (FEZ1) and calcium and integrin binding protein (CIB) and shows developmentally restricted expression in the neural tube.</title>
+<authorList>
+<person name="Whitehouse C."/>
+<person name="Chambers J."/>
+<person name="Howe K."/>
+<person name="Cobourne M."/>
+<person name="Sharpe P."/>
+<person name="Solomon E."/>
+</authorList>
+<dbReference type="PubMed" id="11856312"/>
+<dbReference type="DOI" id="10.1046/j.0014-2956.2001.02681.x"/>
+</citation>
+<scope>INTERACTION WITH NBR1 AND FEZ1</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="8321" last="8328">
+<title>The small GTPase Rac3 interacts with the integrin-binding protein CIB and promotes integrin alpha(IIb)beta(3)-mediated adhesion and spreading.</title>
+<authorList>
+<person name="Haataja L."/>
+<person name="Kaartinen V."/>
+<person name="Groffen J."/>
+<person name="Heisterkamp N."/>
+</authorList>
+<dbReference type="PubMed" id="11756406"/>
+<dbReference type="DOI" id="10.1074/jbc.m105363200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH RAC3</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="26468" last="26478">
+<title>EDD, the human hyperplastic discs protein, has a role in progesterone receptor coactivation and potential involvement in DNA damage response.</title>
+<authorList>
+<person name="Henderson M.J."/>
+<person name="Russell A.J."/>
+<person name="Hird S."/>
+<person name="Munoz M."/>
+<person name="Clancy J.L."/>
+<person name="Lehrbach G.M."/>
+<person name="Calanni S.T."/>
+<person name="Jans D.A."/>
+<person name="Sutherland R.L."/>
+<person name="Watts C.K."/>
+</authorList>
+<dbReference type="PubMed" id="12011095"/>
+<dbReference type="DOI" id="10.1074/jbc.m203527200"/>
+</citation>
+<scope>INTERACTION WITH UBR5</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="28877" last="28883">
+<title>Molecular basis of CIB binding to the integrin alpha IIb cytoplasmic domain.</title>
+<authorList>
+<person name="Barry W.T."/>
+<person name="Boudignon-Proudhon C."/>
+<person name="Shock D.D."/>
+<person name="McFadden A."/>
+<person name="Weiss J.M."/>
+<person name="Sondek J."/>
+<person name="Parise L.V."/>
+</authorList>
+<dbReference type="PubMed" id="12023286"/>
+<dbReference type="DOI" id="10.1074/jbc.m202983200"/>
+</citation>
+<scope>INTERACTION WITH ITGA2B</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF PHE-115; LEU-131; ILE-153 AND PHE-173</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2003" name="Blood" volume="102" first="1355" last="1362">
+<title>Association of CIB with GPIIb/IIIa during outside-in signaling is required for platelet spreading on fibrinogen.</title>
+<authorList>
+<person name="Naik U.P."/>
+<person name="Naik M.U."/>
+</authorList>
+<dbReference type="PubMed" id="12714504"/>
+<dbReference type="DOI" id="10.1182/blood-2003-02-0591"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2004" name="Biochemistry" volume="43" first="2558" last="2568">
+<title>Metal ion binding properties and conformational states of calcium- and integrin-binding protein.</title>
+<authorList>
+<person name="Yamniuk A.P."/>
+<person name="Nguyen L.T."/>
+<person name="Hoang T.T."/>
+<person name="Vogel H.J."/>
+</authorList>
+<dbReference type="PubMed" id="14992593"/>
+<dbReference type="DOI" id="10.1021/bi035432b"/>
+</citation>
+<scope>INTERACTION WITH ITGA2B</scope>
+<scope>CALCIUM-BINDING</scope>
+<scope>MAGNESIUM-BINDING</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2004" name="Exp. Cell Res." volume="300" first="440" last="454">
+<title>Calcium binding sequences in calmyrin regulates interaction with presenilin-2.</title>
+<authorList>
+<person name="Zhu J."/>
+<person name="Stabler S.M."/>
+<person name="Ames J.B."/>
+<person name="Baskakov I."/>
+<person name="Monteiro M.J."/>
+</authorList>
+<dbReference type="PubMed" id="15475008"/>
+<dbReference type="DOI" id="10.1016/j.yexcr.2004.07.020"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH PSEN2</scope>
+<scope>MUTAGENESIS OF ASP-127 AND GLU-172</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2003" name="Blood" volume="102" first="3629" last="3636">
+<title>Calcium-and integrin-binding protein regulates focal adhesion kinase activity during platelet spreading on immobilized fibrinogen.</title>
+<authorList>
+<person name="Naik M.U."/>
+<person name="Naik U.P."/>
+</authorList>
+<dbReference type="PubMed" id="12881299"/>
+<dbReference type="DOI" id="10.1182/blood-2003-05-1703"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH PTK2/FAK1</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2005" name="Acta Biochim. Pol." volume="52" first="469" last="476">
+<title>Calcium-binding calmyrin forms stable covalent dimers in vitro, but in vivo is found in monomeric form.</title>
+<authorList>
+<person name="Sobczak A."/>
+<person name="Blazejczyk M."/>
+<person name="Piszczek G."/>
+<person name="Zhao G."/>
+<person name="Kuznicki J."/>
+<person name="Wojda U."/>
+</authorList>
+<dbReference type="PubMed" id="15933764"/>
+</citation>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2005" name="Cancer Immunol. Immunother." volume="54" first="729" last="740">
+<title>G1P3, an interferon inducible gene 6-16, is expressed in gastric cancers and inhibits mitochondrial-mediated apoptosis in gastric cancer cell line TMK-1 cell.</title>
+<authorList>
+<person name="Tahara E. Jr."/>
+<person name="Tahara H."/>
+<person name="Kanno M."/>
+<person name="Naka K."/>
+<person name="Takeda Y."/>
+<person name="Matsuzaki T."/>
+<person name="Yamazaki R."/>
+<person name="Ishihara H."/>
+<person name="Yasui W."/>
+<person name="Barrett J.C."/>
+<person name="Ide T."/>
+<person name="Tahara E."/>
+</authorList>
+<dbReference type="PubMed" id="15685448"/>
+<dbReference type="DOI" id="10.1007/s00262-004-0645-2"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH IFI6 AND BCL2</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2005" name="J. Cell Biol." volume="170" first="465" last="476">
+<title>Essential role of CIB1 in regulating PAK1 activation and cell migration.</title>
+<authorList>
+<person name="Leisner T.M."/>
+<person name="Liu M."/>
+<person name="Jaffer Z.M."/>
+<person name="Chernoff J."/>
+<person name="Parise L.V."/>
+</authorList>
+<dbReference type="PubMed" id="16061695"/>
+<dbReference type="DOI" id="10.1083/jcb.200502090"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH PAK1</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2005" name="Protein Sci." volume="14" first="1429" last="1437">
+<title>Calcium- and magnesium-dependent interactions between calcium- and integrin-binding protein and the integrin alphaIIb cytoplasmic domain.</title>
+<authorList>
+<person name="Yamniuk A.P."/>
+<person name="Vogel H.J."/>
+</authorList>
+<dbReference type="PubMed" id="15883187"/>
+<dbReference type="DOI" id="10.1110/ps.041312805"/>
+</citation>
+<scope>INTERACTION WITH ITGA2B</scope>
+<scope>CALCIUM-BINDING</scope>
+<scope>MAGNESIUM-BINDING</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2006" name="J. Biol. Chem." volume="281" first="20825" last="20833">
+<title>CIB1, a ubiquitously expressed Ca2+-binding protein ligand of the InsP3 receptor Ca2+ release channel.</title>
+<authorList>
+<person name="White C."/>
+<person name="Yang J."/>
+<person name="Monteiro M.J."/>
+<person name="Foskett J.K."/>
+</authorList>
+<dbReference type="PubMed" id="16723353"/>
+<dbReference type="DOI" id="10.1074/jbc.m602175200"/>
+</citation>
+<scope>INTERACTION WITH ITPR3</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2006" name="J. Cell Biol." volume="172" first="169" last="175">
+<title>CIB1 is an endogenous inhibitor of agonist-induced integrin alphaIIbbeta3 activation.</title>
+<authorList>
+<person name="Yuan W."/>
+<person name="Leisner T.M."/>
+<person name="McFadden A.W."/>
+<person name="Wang Z."/>
+<person name="Larson M.K."/>
+<person name="Clark S."/>
+<person name="Boudignon-Proudhon C."/>
+<person name="Lam S.C."/>
+<person name="Parise L.V."/>
+</authorList>
+<dbReference type="PubMed" id="16418530"/>
+<dbReference type="DOI" id="10.1083/jcb.200505131"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH PAK1</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF PHE-173</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2008" name="J. Neurochem." volume="106" first="2249" last="2262">
+<title>Sweet taste receptor interacting protein CIB1 is a general inhibitor of InsP3-dependent Ca2+ release in vivo.</title>
+<authorList>
+<person name="Hennigs J.K."/>
+<person name="Burhenne N."/>
+<person name="Staehler F."/>
+<person name="Winnig M."/>
+<person name="Walter B."/>
+<person name="Meyerhof W."/>
+<person name="Schmale H."/>
+</authorList>
+<dbReference type="PubMed" id="18627437"/>
+<dbReference type="DOI" id="10.1111/j.1471-4159.2008.05563.x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH TAS1R2</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2009" name="Proc. Natl. Acad. Sci. U.S.A." volume="106" first="17389" last="17394">
+<title>CIB1 functions as a Ca(2+)-sensitive modulator of stress-induced signaling by targeting ASK1.</title>
+<authorList>
+<person name="Yoon K.W."/>
+<person name="Cho J.H."/>
+<person name="Lee J.K."/>
+<person name="Kang Y.H."/>
+<person name="Chae J.S."/>
+<person name="Kim Y.M."/>
+<person name="Kim J."/>
+<person name="Kim E.K."/>
+<person name="Kim S.E."/>
+<person name="Baik J.H."/>
+<person name="Naik U.P."/>
+<person name="Cho S.G."/>
+<person name="Choi E.J."/>
+</authorList>
+<dbReference type="PubMed" id="19805025"/>
+<dbReference type="DOI" id="10.1073/pnas.0812259106"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH MAP3K5</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2009" name="Protein Sci." volume="18" first="1128" last="1134">
+<title>Auxiliary Ca2+ binding sites can influence the structure of CIB1.</title>
+<authorList>
+<person name="Yamniuk A.P."/>
+<person name="Anderson K.L."/>
+<person name="Fraser M.E."/>
+<person name="Vogel H.J."/>
+</authorList>
+<dbReference type="PubMed" id="19388079"/>
+<dbReference type="DOI" id="10.1002/pro.104"/>
+</citation>
+<scope>SUBUNIT</scope>
+<scope>CALCIUM-BINDING</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2010" name="J. Biol. Chem." volume="285" first="483" last="492">
+<title>Translocation of sphingosine kinase 1 to the plasma membrane is mediated by calcium- and integrin-binding protein 1.</title>
+<authorList>
+<person name="Jarman K.E."/>
+<person name="Moretti P.A."/>
+<person name="Zebol J.R."/>
+<person name="Pitson S.M."/>
+</authorList>
+<dbReference type="PubMed" id="19854831"/>
+<dbReference type="DOI" id="10.1074/jbc.m109.068395"/>
+</citation>
+<scope>INTERACTION WITH SPHK1</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF GLY-2</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2010" name="Nat. Med." volume="16" first="872" last="879">
+<title>CIB1 is a regulator of pathological cardiac hypertrophy.</title>
+<authorList>
+<person name="Heineke J."/>
+<person name="Auger-Messier M."/>
+<person name="Correll R.N."/>
+<person name="Xu J."/>
+<person name="Benard M.J."/>
+<person name="Yuan W."/>
+<person name="Drexler H."/>
+<person name="Parise L.V."/>
+<person name="Molkentin J.D."/>
+</authorList>
+<dbReference type="PubMed" id="20639889"/>
+<dbReference type="DOI" id="10.1038/nm.2181"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2011" name="Biochim. Biophys. Acta" volume="1813" first="1025" last="1037">
+<title>Calmyrin1 binds to SCG10 protein (stathmin2) to modulate neurite outgrowth.</title>
+<authorList>
+<person name="Sobczak A."/>
+<person name="Debowska K."/>
+<person name="Blazejczyk M."/>
+<person name="Kreutz M.R."/>
+<person name="Kuznicki J."/>
+<person name="Wojda U."/>
+</authorList>
+<dbReference type="PubMed" id="21215777"/>
+<dbReference type="DOI" id="10.1016/j.bbamcr.2010.12.023"/>
+</citation>
+<scope>INTERACTION WITH STMN2</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="2011" name="Int. J. Biochem. Cell Biol." volume="43" first="120" last="129">
+<title>Calcium- and integrin-binding protein 1 regulates microtubule organization and centrosome segregation through polo like kinase 3 during cell cycle progression.</title>
+<authorList>
+<person name="Naik M.U."/>
+<person name="Naik U.P."/>
+</authorList>
+<dbReference type="PubMed" id="20951827"/>
+<dbReference type="DOI" id="10.1016/j.biocel.2010.10.003"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH PLK3</scope>
+<scope>SUBCELLULAR LOCATION (ISOFORM 1)</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="2011" name="Int. J. Cancer" volume="128" first="587" last="596">
+<title>Calcium-dependent inhibition of polo-like kinase 3 activity by CIB1 in breast cancer cells.</title>
+<authorList>
+<person name="Naik M.U."/>
+<person name="Pham N.T."/>
+<person name="Beebe K."/>
+<person name="Dai W."/>
+<person name="Naik U.P."/>
+</authorList>
+<dbReference type="PubMed" id="20473878"/>
+<dbReference type="DOI" id="10.1002/ijc.25388"/>
+</citation>
+<scope>INTERACTION WITH PLK3</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="2011" name="J. Cell. Biochem." volume="112" first="3289" last="3299">
+<title>Contra-regulation of calcium- and integrin-binding protein 1-induced cell migration on fibronectin by PAK1 and MAP kinase signaling.</title>
+<authorList>
+<person name="Naik M.U."/>
+<person name="Naik U.P."/>
+</authorList>
+<dbReference type="PubMed" id="21748785"/>
+<dbReference type="DOI" id="10.1002/jcb.23255"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION (ISOFORM 1)</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="2011" name="PLoS ONE" volume="6" first="E14513" last="E14513">
+<title>Calcium- and integrin-binding protein 1 regulates endomitosis and its interaction with Polo-like kinase 3 is enhanced in endomitotic Dami cells.</title>
+<authorList>
+<person name="Kostyak J.C."/>
+<person name="Naik U.P."/>
+</authorList>
+<dbReference type="PubMed" id="21264284"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0014513"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH PLK3</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="2012" name="Biochem. Cell Biol." volume="90" first="646" last="656">
+<title>Biophysical and structural studies of the human calcium- and integrin-binding protein family: understanding their functional similarities and differences.</title>
+<authorList>
+<person name="Huang H."/>
+<person name="Bogstie J.N."/>
+<person name="Vogel H.J."/>
+</authorList>
+<dbReference type="PubMed" id="22779914"/>
+<dbReference type="DOI" id="10.1139/o2012-021"/>
+</citation>
+<scope>INTERACTION WITH ITGA2B</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="2013" name="Biochemistry" volume="52" first="7082" last="7090">
+<title>Identification of novel integrin binding partners for calcium and integrin binding protein 1 (CIB1): structural and thermodynamic basis of CIB1 promiscuity.</title>
+<authorList>
+<person name="Freeman T.C. Jr."/>
+<person name="Black J.L."/>
+<person name="Bray H.G."/>
+<person name="Dagliyan O."/>
+<person name="Wu Y.I."/>
+<person name="Tripathy A."/>
+<person name="Dokholyan N.V."/>
+<person name="Leisner T.M."/>
+<person name="Parise L.V."/>
+</authorList>
+<dbReference type="PubMed" id="24011356"/>
+<dbReference type="DOI" id="10.1021/bi400678y"/>
+</citation>
+<scope>INTERACTION WITH ITGA5 AND ITGAV</scope>
+<scope>MUTAGENESIS OF 114-ILE--PHE-117; 152-LEU-ILE-153 AND PHE-173</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="2013" name="Oncogene" volume="32" first="4017" last="4027">
+<title>CIB1 prevents nuclear GAPDH accumulation and non-apoptotic tumor cell death via AKT and ERK signaling.</title>
+<authorList>
+<person name="Leisner T.M."/>
+<person name="Moran C."/>
+<person name="Holly S.P."/>
+<person name="Parise L.V."/>
+</authorList>
+<dbReference type="PubMed" id="22964641"/>
+<dbReference type="DOI" id="10.1038/onc.2012.408"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="40">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+<dbReference type="DOI" id="10.1002/pmic.201400617"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="41">
+<citation type="journal article" date="2018" name="J. Exp. Med." volume="215" first="2289" last="2310">
+<title>The human CIB1-EVER1-EVER2 complex governs keratinocyte-intrinsic immunity to beta-papillomaviruses.</title>
+<authorList>
+<person name="de Jong S.J."/>
+<person name="Crequer A."/>
+<person name="Matos I."/>
+<person name="Hum D."/>
+<person name="Gunasekharan V."/>
+<person name="Lorenzo L."/>
+<person name="Jabot-Hanin F."/>
+<person name="Imahorn E."/>
+<person name="Arias A.A."/>
+<person name="Vahidnezhad H."/>
+<person name="Youssefian L."/>
+<person name="Markle J.G."/>
+<person name="Patin E."/>
+<person name="D'Amico A."/>
+<person name="Wang C.Q.F."/>
+<person name="Full F."/>
+<person name="Ensser A."/>
+<person name="Leisner T.M."/>
+<person name="Parise L.V."/>
+<person name="Bouaziz M."/>
+<person name="Maya N.P."/>
+<person name="Cadena X.R."/>
+<person name="Saka B."/>
+<person name="Saeidian A.H."/>
+<person name="Aghazadeh N."/>
+<person name="Zeinali S."/>
+<person name="Itin P."/>
+<person name="Krueger J.G."/>
+<person name="Laimins L."/>
+<person name="Abel L."/>
+<person name="Fuchs E."/>
+<person name="Uitto J."/>
+<person name="Franco J.L."/>
+<person name="Burger B."/>
+<person name="Orth G."/>
+<person name="Jouanguy E."/>
+<person name="Casanova J.L."/>
+</authorList>
+<dbReference type="PubMed" id="30068544"/>
+<dbReference type="DOI" id="10.1084/jem.20170308"/>
+</citation>
+<scope>FUNCTION (MICROBIAL INFECTION)</scope>
+<scope>INTERACTION WITH HPV (MICROBIAL INFECTION)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH TMC6 AND TMC8</scope>
+<scope>INVOLVEMENT IN EV3</scope>
+<scope>VARIANT EV3 72-ARG--LEU-191 DEL</scope>
+<scope>CHARACTERIZATION OF VARIANT EV3 72-ARG--LEU-191 DEL</scope>
+</reference>
+<reference key="42">
+<citation type="journal article" date="2000" name="J. Mol. Recognit." volume="13" first="83" last="92">
+<title>Structures of the platelet calcium- and integrin-binding protein and the alphaIIb-integrin cytoplasmic domain suggest a mechanism for calcium-regulated recognition; homology modelling and NMR studies.</title>
+<authorList>
+<person name="Hwang P.M."/>
+<person name="Vogel H.J."/>
+</authorList>
+<dbReference type="PubMed" id="10822252"/>
+<dbReference type="DOI" id="10.1002/(sici)1099-1352(200003/04)13:2&lt;83::aid-jmr491&gt;3.0.co;2-a"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 9-191</scope>
+</reference>
+<reference key="43">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="8407" last="8415">
+<title>Structural and biochemical characterization of CIB1 delineates a new family of EF-hand-containing proteins.</title>
+<authorList>
+<person name="Gentry H.R."/>
+<person name="Singer A.U."/>
+<person name="Betts L."/>
+<person name="Yang C."/>
+<person name="Ferrara J.D."/>
+<person name="Sondek J."/>
+<person name="Parise L.V."/>
+</authorList>
+<dbReference type="PubMed" id="15574431"/>
+<dbReference type="DOI" id="10.1074/jbc.m411515200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.99 ANGSTROMS) OF 9-191 IN COMPLEX WITH CALCIUM IONS</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="44">
+<citation type="journal article" date="2005" name="Protein Sci." volume="14" first="1214" last="1221">
+<title>The crystal structure of calcium- and integrin-binding protein 1: insights into redox regulated functions.</title>
+<authorList>
+<person name="Blamey C.J."/>
+<person name="Ceccarelli C."/>
+<person name="Naik U.P."/>
+<person name="Bahnson B.J."/>
+</authorList>
+<dbReference type="PubMed" id="15840829"/>
+<dbReference type="DOI" id="10.1110/ps.041270805"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 9-191</scope>
+</reference>
+<reference key="45">
+<citation type="journal article" date="2011" name="J. Biol. Chem." volume="286" first="17181" last="17192">
+<title>Solution structures of Ca2+-CIB1 and Mg2+-CIB1 and their interactions with the platelet integrin alphaIIb cytoplasmic domain.</title>
+<authorList>
+<person name="Huang H."/>
+<person name="Ishida H."/>
+<person name="Yamniuk A.P."/>
+<person name="Vogel H.J."/>
+</authorList>
+<dbReference type="PubMed" id="21388953"/>
+<dbReference type="DOI" id="10.1074/jbc.m110.179028"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1-191 IN COMPLEXES WITH CALCIUM IONS AND MAGNESIUM ION</scope>
+<scope>INTERACTION WITH ITGA2B</scope>
+</reference>
+<reference key="46">
+<citation type="journal article" date="2012" name="J. Am. Chem. Soc." volume="134" first="3864" last="3872">
+<title>Structural basis for the activation of platelet integrin alphaIIbbeta3 by calcium- and integrin-binding protein 1.</title>
+<authorList>
+<person name="Huang H."/>
+<person name="Vogel H.J."/>
+</authorList>
+<dbReference type="PubMed" id="22283712"/>
+<dbReference type="DOI" id="10.1021/ja2111306"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1-191 IN COMPLEX WITH ITGA2B PEPTIDE AND CALCIUM IONS</scope>
+<scope>INTERACTION WITH ITGA2B</scope>
+</reference>
+<comment type="function">
+<text>Calcium-binding protein that plays a role in the regulation of numerous cellular processes, such as cell differentiation, cell division, cell proliferation, cell migration, thrombosis, angiogenesis, cardiac hypertrophy and apoptosis. Involved in bone marrow megakaryocyte differentiation by negatively regulating thrombopoietin-mediated signaling pathway. Participates in the endomitotic cell cycle of megakaryocyte, a form of mitosis in which both karyokinesis and cytokinesis are interrupted. Plays a role in integrin signaling by negatively regulating alpha-IIb/beta3 activation in thrombin-stimulated megakaryocytes preventing platelet aggregation. Up-regulates PTK2/FAK1 activity, and is also needed for the recruitment of PTK2/FAK1 to focal adhesions; it thus appears to play an important role in focal adhesion formation. Positively regulates cell migration on fibronectin in a CDC42-dependent manner, the effect being negatively regulated by PAK1. Functions as a negative regulator of stress activated MAP kinase (MAPK) signaling pathways. Down-regulates inositol 1,4,5-trisphosphate receptor-dependent calcium signaling. Involved in sphingosine kinase SPHK1 translocation to the plasma membrane in a N-myristoylation-dependent manner preventing TNF-alpha-induced apoptosis. Regulates serine/threonine-protein kinase PLK3 activity for proper completion of cell division progression. Plays a role in microtubule (MT) dynamics during neuronal development; disrupts the MT depolymerization activity of STMN2 attenuating NGF-induced neurite outgrowth and the MT reorganization at the edge of lamellipodia. Promotes cardiomyocyte hypertrophy via activation of the calcineurin/NFAT signaling pathway. Stimulates calcineurin PPP3R1 activity by mediating its anchoring to the sarcolemma. In ischemia-induced (pathological or adaptive) angiogenesis, stimulates endothelial cell proliferation, migration and microvessel formation by activating the PAK1 and ERK1/ERK2 signaling pathway. Promotes also cancer cell survival and proliferation. May regulate cell cycle and differentiation of spermatogenic germ cells, and/or differentiation of supporting Sertoli cells.</text>
+</comment>
+<comment type="function">
+<molecule>Isoform 2</molecule>
+<text evidence="37">Plays a regulatory role in angiogenesis and tumor growth by mediating PKD/PRKD2-induced vascular endothelial growth factor A (VEGFA) secretion.</text>
+</comment>
+<comment type="function">
+<text evidence="39">(Microbial infection) Involved in keratinocyte-intrinsic immunity to human beta-papillomaviruses (HPVs).</text>
+</comment>
+<comment type="subunit">
+<text evidence="6 8 9 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41">Monomer. Interacts with MYO1C. Interacts (via C-terminal region) with PPP3R1 and CACNA1C; the interactions increase upon cardiomyocytes hypertrophy (By similarity). Interacts with the heterodimeric integrin alpha-IIb/beta3 (ITGA2B-ITGB3). Interacts with ITGA2B (via cytoplasmic domain); the interaction is direct and calcium-dependent. Interacts with the protein kinases PLK2/SNK and PRKDC (via the region immediately upstream of the kinase domain). Interacts with PLK3; the interaction inhibits PLK3 kinase activity. Interacts with PSEN2. Interacts (via C-terminus) with F8. Interacts with NBR1 (via C-terminus). Interacts with FEZ1 (via C-terminus). Interacts with UBR5 (via C-terminus); the interaction is sensitive to DNA damage, and may target CIB1 for ubiquitin-mediated degradation. Interacts with IFI6; the interaction is direct (PubMed:15685448). Interacts with BCL2 (PubMed:15685448). Interacts with ITPR3; the interaction occurs in a calcium-dependent manner. Interacts with PTK2/FAK1. Interacts with MAP3K5; the interaction inhibits MAP3K5 activation by phosphorylation, and its subsequent interaction with TRAF2. Isoform 2 interacts with PRKD2 (via N-terminal AP-rich region), PTK2/FAK1 and PAK1. Interacts with TAS1R2 (via C-terminus); the interaction is independent of the myristoylation state of CIB1. Interacts (via C-terminal region) with STMN2 (via the N-terminal region); the interaction is direct, occurs in a calcium-dependent manner and attenuates the STMN2-induced neurite outgrowth inhibition. Interacts with SPHK1, the interaction occurs in a calcium-dependent manner. Interacts with ITGA2B (via C-terminal cytoplasmic tail); the interaction occurs upon platelet aggregation and is stabilized/increased in a calcium and magnesium-dependent manner. Interacts with PAK1 (via N-terminal region); the interaction is direct and occurs in a calcium-dependent manner. Interacts with RAC3 (via C-terminal region); the interaction induces their association with the cytoskeleton upon alpha-IIb/beta3 integrin-mediated adhesion. Interacts with ITGA5 and ITGAV. Interacts and forms a complex with TMC6 and TMC8 (PubMed:30068544).</text>
+</comment>
+<comment type="subunit">
+<text evidence="39">(Microbial infection) Interacts with human papillomavirus 4/HPV4 protein E8, human papillomavirus 5/HPV5 protein E1, and human papillomavirus 16/HPV16 proteins E2 and E5.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-12883326">
+<id>P10092</id>
+<label>CALCB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-520729">
+<id>P26842</id>
+<label>CD27</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-4314501">
+<id>P40199</id>
+<label>CEACAM6</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-12012124">
+<id>Q04637-9</id>
+<label>EIF4G1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-12920100">
+<id>Q6UXG2-3</id>
+<label>ELAPOR1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-2512153">
+<id>P04066</id>
+<label>FUCA1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-12232117">
+<id>Q8NEA6-2</id>
+<label>GLIS3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-3930711">
+<id>P48449</id>
+<label>LSS</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-476263">
+<id>Q99683</id>
+<label>MAP3K5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-713635">
+<id>O43639</id>
+<label>NCK2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-744871">
+<id>O00746</id>
+<label>NME4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-17431136">
+<id>O60422</id>
+<label>ONECUT3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-12859446">
+<id>P23759-2</id>
+<label>PAX7</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-1222181">
+<id>Q9H7N4</id>
+<label>SCAF1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-12879730">
+<id>Q7RTT5</id>
+<label>SSX7</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-12892569">
+<id>Q3KNT9</id>
+<label>TMEM95</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-10241197">
+<id>Q3SY00</id>
+<label>TSGA10IP</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-957615">
+<id>O00401</id>
+<label>WASL</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-372594">
+<id>Q99828</id>
+</interactant>
+<interactant intactId="EBI-2859943">
+<id>Q6ZSB9</id>
+<label>ZBTB49</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Membrane</location>
+<topology>Lipid-anchor</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cell membrane</location>
+<location>Sarcolemma</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cell membrane</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Apical cell membrane</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cell projection</location>
+<location>Ruffle membrane</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cell projection</location>
+<location>Filopodium tip</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="32">Cell projection</location>
+<location evidence="32">Growth cone</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="32">Cell projection</location>
+<location evidence="32">Lamellipodium</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Cytoskeleton</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Cytoskeleton</location>
+<location>Microtubule organizing center</location>
+<location>Centrosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cytoplasm</location>
+<location>Perinuclear region</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="39">Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="32">Cell projection</location>
+<location evidence="32">Neuron projection</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="32">Perikaryon</location>
+</subcellularLocation>
+<text evidence="6">Colocalized with PPP3R1 at the cell membrane of cardiomyocytes in the hypertrophic heart (By similarity). Colocalized with NBR1 to the perinuclear region. Colocalizes with TAS1R2 in apical regions of taste receptor cells. Colocalized with RAC3 in the perinuclear area and at the cell periphery. Colocalized with PAK1 within membrane ruffles during cell spreading upon readhesion to fibronectin. Redistributed to the cytoskeleton upon platelet aggregation. Translocates from the cytosol to the plasma membrane in a calcium-dependent manner. Colocalized with PLK3 at centrosomes in ductal breast carcinoma cells.</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform 2</molecule>
+<subcellularLocation>
+<location evidence="37">Cytoplasm</location>
+<location evidence="37">Perinuclear region</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="37">Golgi apparatus</location>
+<location evidence="37">trans-Golgi network</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q99828-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q99828-2</id>
+<name>2</name>
+<name>CIB1a</name>
+<sequence type="described" ref="VSP_053740"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="9 13 37 39 40 41">Ubiquitously expressed. Expressed in the epidermis, hair follicles and keratinocytes (PubMed:30068544). Detected in platelets and in cell lines of megakaryocytic and erythrocytic lineages. Both isoform 1 and isoform 2 are detected in various cancer cell lines, with isoform 2 being the predominant form (at protein level).</text>
+</comment>
+<comment type="induction">
+<text>Up-regulated during breast cancer progression.</text>
+</comment>
+<comment type="domain">
+<text>The EF-hands may also bind magnesium ions in the presence of high Mg(2+) levels and low Ca(2+) levels.</text>
+</comment>
+<comment type="PTM">
+<text evidence="46">Phosphorylation of isoform 2 at Ser-118 by PRKD2 increases its ability to stimulate tumor angiogenesis.</text>
+</comment>
+<comment type="disease" evidence="39">
+<disease id="DI-05446">
+<name>Epidermodysplasia verruciformis 3</name>
+<acronym>EV3</acronym>
+<description>A form of epidermodysplasia verruciformis, a rare genodermatosis associated with a high risk of skin carcinoma that results from an abnormal susceptibility to infection by specific human papillomaviruses, including the oncogenic HPV5. Infection leads to the early development of disseminated flat wart-like and pityriasis versicolor-like skin lesions. Cutaneous Bowen's carcinomas in situ and invasive squamous cell carcinomas develop in about half of the patients, mainly on sun-exposed skin areas. EV3 inheritance is autosomal recessive.</description>
+<dbReference type="MIM" id="618267"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="45">The binding of either calcium or magnesium significantly increases the structural stability of the protein in comparison to apo-CIB (calcium- and magnesium-free form).</text>
+</comment>
+<dbReference type="EMBL" id="U82226">
+<property type="protein sequence ID" value="AAC51106.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U85611">
+<property type="protein sequence ID" value="AAB53387.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB021866">
+<property type="protein sequence ID" value="BAA36281.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="JQ246073">
+<property type="protein sequence ID" value="AEZ06077.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U83236">
+<property type="protein sequence ID" value="AAB39758.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CR456955">
+<property type="protein sequence ID" value="CAG33236.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB451276">
+<property type="protein sequence ID" value="BAG70090.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB451406">
+<property type="protein sequence ID" value="BAG70220.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471101">
+<property type="protein sequence ID" value="EAX02090.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC000846">
+<property type="protein sequence ID" value="AAH00846.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS10360.1">
+<molecule id="Q99828-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS73781.1">
+<molecule id="Q99828-2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001264693.1">
+<molecule id="Q99828-2"/>
+<property type="nucleotide sequence ID" value="NM_001277764.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_006375.2">
+<molecule id="Q99828-1"/>
+<property type="nucleotide sequence ID" value="NM_006384.3"/>
+</dbReference>
+<dbReference type="PDB" id="1DGU">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=9-191"/>
+</dbReference>
+<dbReference type="PDB" id="1DGV">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=9-191"/>
+</dbReference>
+<dbReference type="PDB" id="1XO5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.99"/>
+<property type="chains" value="A/B=9-191"/>
+</dbReference>
+<dbReference type="PDB" id="1Y1A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=9-191"/>
+</dbReference>
+<dbReference type="PDB" id="2L4H">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-191"/>
+</dbReference>
+<dbReference type="PDB" id="2L4I">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-191"/>
+</dbReference>
+<dbReference type="PDB" id="2LM5">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-191"/>
+</dbReference>
+<dbReference type="PDB" id="6OCX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B/C/D=1-191"/>
+</dbReference>
+<dbReference type="PDB" id="6OD0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A/B=1-191"/>
+</dbReference>
+<dbReference type="PDBsum" id="1DGU"/>
+<dbReference type="PDBsum" id="1DGV"/>
+<dbReference type="PDBsum" id="1XO5"/>
+<dbReference type="PDBsum" id="1Y1A"/>
+<dbReference type="PDBsum" id="2L4H"/>
+<dbReference type="PDBsum" id="2L4I"/>
+<dbReference type="PDBsum" id="2LM5"/>
+<dbReference type="PDBsum" id="6OCX"/>
+<dbReference type="PDBsum" id="6OD0"/>
+<dbReference type="BMRB" id="Q99828"/>
+<dbReference type="SMR" id="Q99828"/>
+<dbReference type="BioGRID" id="115774">
+<property type="interactions" value="43"/>
+</dbReference>
+<dbReference type="CORUM" id="Q99828"/>
+<dbReference type="DIP" id="DIP-31260N"/>
+<dbReference type="IntAct" id="Q99828">
+<property type="interactions" value="35"/>
+</dbReference>
+<dbReference type="MINT" id="Q99828"/>
+<dbReference type="DrugBank" id="DB11093">
+<property type="generic name" value="Calcium citrate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB11348">
+<property type="generic name" value="Calcium Phosphate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB14481">
+<property type="generic name" value="Calcium phosphate dihydrate"/>
+</dbReference>
+<dbReference type="iPTMnet" id="Q99828"/>
+<dbReference type="PhosphoSitePlus" id="Q99828"/>
+<dbReference type="BioMuta" id="CIB1"/>
+<dbReference type="DMDM" id="134047806"/>
+<dbReference type="EPD" id="Q99828"/>
+<dbReference type="jPOST" id="Q99828"/>
+<dbReference type="MassIVE" id="Q99828"/>
+<dbReference type="MaxQB" id="Q99828"/>
+<dbReference type="PaxDb" id="Q99828"/>
+<dbReference type="PeptideAtlas" id="Q99828"/>
+<dbReference type="PRIDE" id="Q99828"/>
+<dbReference type="ProteomicsDB" id="78493">
+<molecule id="Q99828-1"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="28761">
+<property type="antibodies" value="376 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="10519"/>
+<dbReference type="Ensembl" id="ENST00000328649">
+<molecule id="Q99828-1"/>
+<property type="protein sequence ID" value="ENSP00000333873"/>
+<property type="gene ID" value="ENSG00000185043"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000612800">
+<molecule id="Q99828-2"/>
+<property type="protein sequence ID" value="ENSP00000479860"/>
+<property type="gene ID" value="ENSG00000185043"/>
+</dbReference>
+<dbReference type="GeneID" id="10519"/>
+<dbReference type="KEGG" id="hsa:10519"/>
+<dbReference type="UCSC" id="uc002bpb.5">
+<molecule id="Q99828-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="10519"/>
+<dbReference type="DisGeNET" id="10519"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000185043.10"/>
+<dbReference type="GeneCards" id="CIB1"/>
+<dbReference type="HGNC" id="HGNC:16920">
+<property type="gene designation" value="CIB1"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000185043">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MalaCards" id="CIB1"/>
+<dbReference type="MIM" id="602293">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="618267">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q99828"/>
+<dbReference type="OpenTargets" id="ENSG00000185043"/>
+<dbReference type="Orphanet" id="302">
+<property type="disease" value="Epidermodysplasia verruciformis"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA38423"/>
+<dbReference type="GeneTree" id="ENSGT00940000158927"/>
+<dbReference type="HOGENOM" id="CLU_061288_6_1_1"/>
+<dbReference type="InParanoid" id="Q99828"/>
+<dbReference type="KO" id="K17259"/>
+<dbReference type="OMA" id="DERNHPN"/>
+<dbReference type="OrthoDB" id="1271942at2759"/>
+<dbReference type="PhylomeDB" id="Q99828"/>
+<dbReference type="TreeFam" id="TF313865"/>
+<dbReference type="PathwayCommons" id="Q99828"/>
+<dbReference type="SIGNOR" id="Q99828"/>
+<dbReference type="BioGRID-ORCS" id="10519">
+<property type="hits" value="4 hits in 872 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="CIB1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="Q99828"/>
+<dbReference type="GeneWiki" id="CIB1"/>
+<dbReference type="GenomeRNAi" id="10519"/>
+<dbReference type="Pharos" id="Q99828">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q99828"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 15"/>
+</dbReference>
+<dbReference type="RNAct" id="Q99828">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000185043">
+<property type="expression patterns" value="Expressed in bronchial epithelial cell and 233 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q99828">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q99828">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016324">
+<property type="term" value="C:apical plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071944">
+<property type="term" value="C:cell periphery"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005813">
+<property type="term" value="C:centrosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030425">
+<property type="term" value="C:dendrite"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005783">
+<property type="term" value="C:endoplasmic reticulum"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="HGNC-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032433">
+<property type="term" value="C:filopodium tip"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005794">
+<property type="term" value="C:Golgi apparatus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030426">
+<property type="term" value="C:growth cone"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030027">
+<property type="term" value="C:lamellipodium"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HGNC-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043005">
+<property type="term" value="C:neuron projection"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043025">
+<property type="term" value="C:neuronal cell body"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043204">
+<property type="term" value="C:perikaryon"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048471">
+<property type="term" value="C:perinuclear region of cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032587">
+<property type="term" value="C:ruffle membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042383">
+<property type="term" value="C:sarcolemma"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031982">
+<property type="term" value="C:vesicle"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005509">
+<property type="term" value="F:calcium ion binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="HGNC-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008427">
+<property type="term" value="F:calcium-dependent protein kinase inhibitor activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044325">
+<property type="term" value="F:ion channel binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008022">
+<property type="term" value="F:protein C-terminus binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019901">
+<property type="term" value="F:protein kinase binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030291">
+<property type="term" value="F:protein serine/threonine kinase inhibitor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043495">
+<property type="term" value="F:protein-membrane adaptor activity"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017016">
+<property type="term" value="F:Ras GTPase binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001525">
+<property type="term" value="P:angiogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006915">
+<property type="term" value="P:apoptotic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="HGNC-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007155">
+<property type="term" value="P:cell adhesion"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051301">
+<property type="term" value="P:cell division"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006974">
+<property type="term" value="P:cellular response to DNA damage stimulus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HGNC-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071363">
+<property type="term" value="P:cellular response to growth factor stimulus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990090">
+<property type="term" value="P:cellular response to nerve growth factor stimulus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071356">
+<property type="term" value="P:cellular response to tumor necrosis factor"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031122">
+<property type="term" value="P:cytoplasmic microtubule organization"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006302">
+<property type="term" value="P:double-strand break repair"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007113">
+<property type="term" value="P:endomitotic cell cycle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097191">
+<property type="term" value="P:extrinsic apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043066">
+<property type="term" value="P:negative regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008285">
+<property type="term" value="P:negative regulation of cell population proliferation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045653">
+<property type="term" value="P:negative regulation of megakaryocyte differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007026">
+<property type="term" value="P:negative regulation of microtubule depolymerization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010977">
+<property type="term" value="P:negative regulation of neuron projection development"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051898">
+<property type="term" value="P:negative regulation of protein kinase B signaling"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001933">
+<property type="term" value="P:negative regulation of protein phosphorylation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030220">
+<property type="term" value="P:platelet formation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070886">
+<property type="term" value="P:positive regulation of calcineurin-NFAT signaling cascade"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043085">
+<property type="term" value="P:positive regulation of catalytic activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033630">
+<property type="term" value="P:positive regulation of cell adhesion mediated by integrin"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030307">
+<property type="term" value="P:positive regulation of cell growth"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030335">
+<property type="term" value="P:positive regulation of cell migration"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090050">
+<property type="term" value="P:positive regulation of cell migration involved in sprouting angiogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008284">
+<property type="term" value="P:positive regulation of cell population proliferation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001954">
+<property type="term" value="P:positive regulation of cell-matrix adhesion"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070374">
+<property type="term" value="P:positive regulation of ERK1 and ERK2 cascade"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000256">
+<property type="term" value="P:positive regulation of male germ cell proliferation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051092">
+<property type="term" value="P:positive regulation of NF-kappaB transcription factor activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903078">
+<property type="term" value="P:positive regulation of protein localization to plasma membrane"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001934">
+<property type="term" value="P:positive regulation of protein phosphorylation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071902">
+<property type="term" value="P:positive regulation of protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090314">
+<property type="term" value="P:positive regulation of protein targeting to membrane"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900026">
+<property type="term" value="P:positive regulation of substrate adhesion-dependent cell spreading"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051302">
+<property type="term" value="P:regulation of cell division"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042127">
+<property type="term" value="P:regulation of cell population proliferation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002931">
+<property type="term" value="P:response to ischemia"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007286">
+<property type="term" value="P:spermatid development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0038163">
+<property type="term" value="P:thrombopoietin-mediated signaling pathway"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="CDD" id="cd00051">
+<property type="entry name" value="EFh"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011992">
+<property type="entry name" value="EF-hand-dom_pair"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018247">
+<property type="entry name" value="EF_Hand_1_Ca_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002048">
+<property type="entry name" value="EF_hand_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13499">
+<property type="entry name" value="EF-hand_7"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00054">
+<property type="entry name" value="EFh"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47473">
+<property type="entry name" value="SSF47473"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00018">
+<property type="entry name" value="EF_HAND_1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50222">
+<property type="entry name" value="EF_HAND_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0037">Angiogenesis</keyword>
+<keyword id="KW-0053">Apoptosis</keyword>
+<keyword id="KW-0106">Calcium</keyword>
+<keyword id="KW-0130">Cell adhesion</keyword>
+<keyword id="KW-0131">Cell cycle</keyword>
+<keyword id="KW-0132">Cell division</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0966">Cell projection</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0221">Differentiation</keyword>
+<keyword id="KW-0333">Golgi apparatus</keyword>
+<keyword id="KW-0449">Lipoprotein</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0519">Myristate</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0744">Spermatogenesis</keyword>
+<feature type="initiator methionine" description="Removed">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Calcium and integrin-binding protein 1" id="PRO_0000073531">
+<location>
+<begin position="2"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="domain" description="EF-hand 1" evidence="7">
+<location>
+<begin position="103"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="domain" description="EF-hand 2" evidence="7">
+<location>
+<begin position="148"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="calcium-binding region" description="1">
+<location>
+<begin position="116"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="calcium-binding region" description="2">
+<location>
+<begin position="161"/>
+<end position="172"/>
+</location>
+</feature>
+<feature type="lipid moiety-binding region" description="N-myristoyl glycine" evidence="8">
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_053740" evidence="43">
+<original>L</original>
+<variation>LSVYVVLAPHLVDNEQQARSGNEHTGRPIAENTDSSPLSTR</variation>
+<location>
+<position position="29"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3210935." id="VAR_019565" evidence="10 41 42">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="44"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In EV3; absence of CIB1 protein in homozygous patient cells." id="VAR_081784" evidence="39">
+<location>
+<begin position="72"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11551250." id="VAR_048636">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="106"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Inhibits translocation to the plasma membrane. Increased apoptosis after TNF stimulation." evidence="29">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of phosphorylation by PKD/PRKD2; in isoform 2." evidence="37">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="78"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Phosphomimetic; promotes tumor growth by an indirect mechanism; in isoform 2." evidence="37">
+<original>S</original>
+<variation>E</variation>
+<location>
+<position position="78"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of binding to ITGAV." evidence="38">
+<original>IFDF</original>
+<variation>AAAA</variation>
+<location>
+<begin position="114"/>
+<end position="117"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of binding to ITGA2B." evidence="15">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="115"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Cytoplasmic localization." evidence="18">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="127"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of binding to ITGA2B." evidence="15">
+<original>L</original>
+<variation>A</variation>
+<variation>T</variation>
+<location>
+<position position="131"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of binding to ITGA2B." evidence="38">
+<original>LI</original>
+<variation>AA</variation>
+<location>
+<begin position="152"/>
+<end position="153"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of binding to ITGA2B." evidence="15">
+<original>I</original>
+<variation>A</variation>
+<location>
+<position position="153"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on phosphorylation by PKD/PRKD2; in isoform 2." evidence="37">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="167"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Cytoplasmic localization." evidence="18">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="172"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of binding to ITGA2B." evidence="15 24 38">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="173"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of binding to ITGA2B. Does not inhibit interaction with PAK1." evidence="15 24 38">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="173"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 6; CAG33236." ref="6" evidence="44">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="136"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AEZ06077." ref="4" evidence="44">
+<original>S</original>
+<variation>F</variation>
+<location>
+<position position="171"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="14"/>
+<end position="16"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="18"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="24"/>
+<end position="35"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="40"/>
+<end position="42"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="45"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="49"/>
+<end position="51"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="55"/>
+<end position="58"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="62"/>
+<end position="65"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="70"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="81"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="88"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="104"/>
+<end position="115"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="120"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="125"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="137"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="146"/>
+<end position="160"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="165"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="170"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="181"/>
+<end position="190"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="37">
+<location sequence="Q99828-2">
+<position position="118"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1DGU"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1XO5"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1Y1A"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2L4I"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6OCX"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000250"/>
+<evidence key="7" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00448"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10366599"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10477286"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10826701"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11323029"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11756406"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11856312"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12011095"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12023286"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12881299"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14992593"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15475008"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15574431"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15685448"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15883187"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15933764"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16061695"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16418530"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16723353"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18627437"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19388079"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19805025"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19854831"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20473878"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20951827"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21215777"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21264284"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21388953"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22283712"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22779914"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23503467"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24011356"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30068544"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9030514"/>
+</source>
+</evidence>
+<evidence key="41" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9372844"/>
+</source>
+</evidence>
+<evidence key="42" type="ECO:0000269">
+<source ref="5"/>
+</evidence>
+<evidence key="43" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="23503467"/>
+</source>
+</evidence>
+<evidence key="44" type="ECO:0000305"/>
+<evidence key="45" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="14992593"/>
+</source>
+</evidence>
+<evidence key="46" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="23503467"/>
+</source>
+</evidence>
+<sequence length="191" mass="21703" checksum="9AA19A0DE7AA1E05" modified="2007-03-20" version="4">MGGSGSRLSKELLAEYQDLTFLTKQEILLAHRRFCELLPQEQRSVESSLRAQVPFEQILSLPELKANPFKERICRVFSTSPAKDSLSFEDFLDLLSVFSDTATPDIKSHYAFRIFDFDDDGTLNREDLSRLVNCLTGEGEDTRLSASEMKQLIDNILEESDIDRDGTINLSEFQHVISRSPDFASSFKIVL</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

@@ -1,0 +1,3275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2004-06-07" modified="2020-10-07" version="187">
+<accession>Q9BXM7</accession>
+<accession>Q8N6T9</accession>
+<accession>Q8NBU3</accession>
+<accession>Q96DE4</accession>
+<name>PINK1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Serine/threonine-protein kinase PINK1, mitochondrial</fullName>
+<ecNumber evidence="42 43 44">2.7.11.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>BRPK</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>PTEN-induced putative kinase protein 1</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">PINK1</name>
+</gene>
+<organism evidence="53">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="50">
+<citation type="journal article" date="2001" name="Oncogene" volume="20" first="4457" last="4465">
+<title>Growth-suppressive effects of BPOZ and EGR2, two genes involved in the PTEN signaling pathway.</title>
+<authorList>
+<person name="Unoki M."/>
+<person name="Nakamura Y."/>
+</authorList>
+<dbReference type="PubMed" id="11494141"/>
+<dbReference type="DOI" id="10.1038/sj.onc.1204608"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<source>
+<tissue evidence="6">Endometrium</tissue>
+</source>
+</reference>
+<reference key="2" evidence="50">
+<citation type="journal article" date="2003" name="Cancer Lett." volume="201" first="195" last="201">
+<title>BRPK, a novel protein kinase showing increased expression in mouse cancer cell lines with higher metastatic potential.</title>
+<authorList>
+<person name="Nakajima A."/>
+<person name="Kataoka K."/>
+<person name="Hong M."/>
+<person name="Sakaguchi M."/>
+<person name="Huh N.-H."/>
+</authorList>
+<dbReference type="PubMed" id="14607334"/>
+<dbReference type="DOI" id="10.1016/s0304-3835(03)00443-9"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>FUNCTION</scope>
+<scope>AUTOPHOSPHORYLATION</scope>
+<source>
+<tissue evidence="53">Placenta</tissue>
+</source>
+</reference>
+<reference key="3" evidence="50">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+<scope>VARIANTS THR-340 AND THR-521</scope>
+<source>
+<tissue evidence="54">Placenta</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Nature" volume="441" first="315" last="321">
+<title>The DNA sequence and biological annotation of human chromosome 1.</title>
+<authorList>
+<person name="Gregory S.G."/>
+<person name="Barlow K.F."/>
+<person name="McLay K.E."/>
+<person name="Kaul R."/>
+<person name="Swarbreck D."/>
+<person name="Dunham A."/>
+<person name="Scott C.E."/>
+<person name="Howe K.L."/>
+<person name="Woodfine K."/>
+<person name="Spencer C.C.A."/>
+<person name="Jones M.C."/>
+<person name="Gillson C."/>
+<person name="Searle S."/>
+<person name="Zhou Y."/>
+<person name="Kokocinski F."/>
+<person name="McDonald L."/>
+<person name="Evans R."/>
+<person name="Phillips K."/>
+<person name="Atkinson A."/>
+<person name="Cooper R."/>
+<person name="Jones C."/>
+<person name="Hall R.E."/>
+<person name="Andrews T.D."/>
+<person name="Lloyd C."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ambrose K.D."/>
+<person name="Anderson F."/>
+<person name="Andrew R.W."/>
+<person name="Ashwell R.I.S."/>
+<person name="Aubin K."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Beasley H."/>
+<person name="Bethel G."/>
+<person name="Bird C.P."/>
+<person name="Bray-Allen S."/>
+<person name="Brown J.Y."/>
+<person name="Brown A.J."/>
+<person name="Buckley D."/>
+<person name="Burton J."/>
+<person name="Bye J."/>
+<person name="Carder C."/>
+<person name="Chapman J.C."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C."/>
+<person name="Cobley V."/>
+<person name="Collier R.E."/>
+<person name="Corby N."/>
+<person name="Coville G.J."/>
+<person name="Davies J."/>
+<person name="Deadman R."/>
+<person name="Dunn M."/>
+<person name="Earthrowl M."/>
+<person name="Ellington A.G."/>
+<person name="Errington H."/>
+<person name="Frankish A."/>
+<person name="Frankland J."/>
+<person name="French L."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Gay L."/>
+<person name="Ghori M.R.J."/>
+<person name="Gibson R."/>
+<person name="Gilby L.M."/>
+<person name="Gillett W."/>
+<person name="Glithero R.J."/>
+<person name="Grafham D.V."/>
+<person name="Griffiths C."/>
+<person name="Griffiths-Jones S."/>
+<person name="Grocock R."/>
+<person name="Hammond S."/>
+<person name="Harrison E.S.I."/>
+<person name="Hart E."/>
+<person name="Haugen E."/>
+<person name="Heath P.D."/>
+<person name="Holmes S."/>
+<person name="Holt K."/>
+<person name="Howden P.J."/>
+<person name="Hunt A.R."/>
+<person name="Hunt S.E."/>
+<person name="Hunter G."/>
+<person name="Isherwood J."/>
+<person name="James R."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Joy A."/>
+<person name="Kay M."/>
+<person name="Kershaw J.K."/>
+<person name="Kibukawa M."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Knights A.J."/>
+<person name="Lad H."/>
+<person name="Laird G."/>
+<person name="Lawlor S."/>
+<person name="Leongamornlert D.A."/>
+<person name="Lloyd D.M."/>
+<person name="Loveland J."/>
+<person name="Lovell J."/>
+<person name="Lush M.J."/>
+<person name="Lyne R."/>
+<person name="Martin S."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="Matthews N.S.W."/>
+<person name="McLaren S."/>
+<person name="Milne S."/>
+<person name="Mistry S."/>
+<person name="Moore M.J.F."/>
+<person name="Nickerson T."/>
+<person name="O'Dell C.N."/>
+<person name="Oliver K."/>
+<person name="Palmeiri A."/>
+<person name="Palmer S.A."/>
+<person name="Parker A."/>
+<person name="Patel D."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Pelan S."/>
+<person name="Phelps K."/>
+<person name="Phillimore B.J."/>
+<person name="Plumb R."/>
+<person name="Rajan J."/>
+<person name="Raymond C."/>
+<person name="Rouse G."/>
+<person name="Saenphimmachak C."/>
+<person name="Sehra H.K."/>
+<person name="Sheridan E."/>
+<person name="Shownkeen R."/>
+<person name="Sims S."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Steward C."/>
+<person name="Subramanian S."/>
+<person name="Sycamore N."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Van Helmond Z."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="White S."/>
+<person name="Whitehead S.L."/>
+<person name="Wilkinson J.E."/>
+<person name="Willey D.L."/>
+<person name="Williams H."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Wu Z."/>
+<person name="Coulson A."/>
+<person name="Vaudin M."/>
+<person name="Sulston J.E."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Wooster R."/>
+<person name="Dunham I."/>
+<person name="Carter N.P."/>
+<person name="McVean G."/>
+<person name="Ross M.T."/>
+<person name="Harrow J."/>
+<person name="Olson M.V."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+<person name="Bentley D.R."/>
+</authorList>
+<dbReference type="PubMed" id="16710414"/>
+<dbReference type="DOI" id="10.1038/nature04727"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5" evidence="50">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue evidence="52">Leukocyte</tissue>
+<tissue evidence="51">Lung</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="12022" last="12027">
+<title>The kinase domain of mitochondrial PINK1 faces the cytoplasm.</title>
+<authorList>
+<person name="Zhou C."/>
+<person name="Huang Y."/>
+<person name="Shao Y."/>
+<person name="May J."/>
+<person name="Prou D."/>
+<person name="Perier C."/>
+<person name="Dauer W."/>
+<person name="Schon E.A."/>
+<person name="Przedborski S."/>
+</authorList>
+<dbReference type="PubMed" id="18687899"/>
+<dbReference type="DOI" id="10.1073/pnas.0802814105"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MEMBRANE TOPOLOGY</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2009" name="J. Clin. Invest." volume="119" first="650" last="660">
+<title>Parkin, PINK1, and DJ-1 form a ubiquitin E3 ligase complex promoting unfolded protein degradation.</title>
+<authorList>
+<person name="Xiong H."/>
+<person name="Wang D."/>
+<person name="Chen L."/>
+<person name="Choo Y.S."/>
+<person name="Ma H."/>
+<person name="Tang C."/>
+<person name="Xia K."/>
+<person name="Jiang W."/>
+<person name="Ronai Z."/>
+<person name="Zhuang X."/>
+<person name="Zhang Z."/>
+</authorList>
+<dbReference type="PubMed" id="19229105"/>
+<dbReference type="DOI" id="10.1172/jci37617"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>COMPONENT OF A COMPLEX COMPOSED OF PRKN; PARK7 AND PINK1</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PROTEOLYTIC CLEAVAGE</scope>
+<scope>CHARACTERIZATION OF VARIANTS PARK6 ASP-309 AND MET-313</scope>
+<scope>CHARACTERIZATION OF VARIANT LEU-399</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2010" name="Autophagy" volume="6" first="871" last="878">
+<title>The PINK1/Parkin-mediated mitophagy is compromised by PD-associated mutations.</title>
+<authorList>
+<person name="Geisler S."/>
+<person name="Holmstrom K.M."/>
+<person name="Treis A."/>
+<person name="Skujat D."/>
+<person name="Weber S.S."/>
+<person name="Fiesel F.C."/>
+<person name="Kahle P.J."/>
+<person name="Springer W."/>
+</authorList>
+<dbReference type="PubMed" id="20798600"/>
+<dbReference type="DOI" id="10.4161/auto.6.7.13286"/>
+</citation>
+<scope>FUNCTION IN MITOCHONDRIAL AUTOPHAGY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH PRKN</scope>
+<scope>CHARACTERIZATION OF VARIANTS PARK6 PRO-126; ASP-309 AND PRO-347</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2010" name="J. Cell Biol." volume="189" first="211" last="221">
+<title>PINK1 stabilized by mitochondrial depolarization recruits Parkin to damaged mitochondria and activates latent Parkin for mitophagy.</title>
+<authorList>
+<person name="Matsuda N."/>
+<person name="Sato S."/>
+<person name="Shiba K."/>
+<person name="Okatsu K."/>
+<person name="Saisho K."/>
+<person name="Gautier C.A."/>
+<person name="Sou Y.S."/>
+<person name="Saiki S."/>
+<person name="Kawajiri S."/>
+<person name="Sato F."/>
+<person name="Kimura M."/>
+<person name="Komatsu M."/>
+<person name="Hattori N."/>
+<person name="Tanaka K."/>
+</authorList>
+<dbReference type="PubMed" id="20404107"/>
+<dbReference type="DOI" id="10.1083/jcb.200910140"/>
+</citation>
+<scope>FUNCTION IN MITOCHONDRIAL AUTOPHAGY</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2010" name="Proc. Natl. Acad. Sci. U.S.A." volume="107" first="378" last="383">
+<title>PINK1-dependent recruitment of Parkin to mitochondria in mitophagy.</title>
+<authorList>
+<person name="Vives-Bauza C."/>
+<person name="Zhou C."/>
+<person name="Huang Y."/>
+<person name="Cui M."/>
+<person name="de Vries R.L."/>
+<person name="Kim J."/>
+<person name="May J."/>
+<person name="Tocilescu M.A."/>
+<person name="Liu W."/>
+<person name="Ko H.S."/>
+<person name="Magrane J."/>
+<person name="Moore D.J."/>
+<person name="Dawson V.L."/>
+<person name="Grailhe R."/>
+<person name="Dawson T.M."/>
+<person name="Li C."/>
+<person name="Tieu K."/>
+<person name="Przedborski S."/>
+</authorList>
+<dbReference type="PubMed" id="19966284"/>
+<dbReference type="DOI" id="10.1073/pnas.0911187107"/>
+</citation>
+<scope>FUNCTION IN MITOCHONDRIAL AUTOPHAGY</scope>
+<scope>INTERACTION WITH PRKN</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2011" name="PLoS ONE" volume="6" first="E25622" last="E25622">
+<title>Bioenergetic consequences of PINK1 mutations in Parkinson disease.</title>
+<authorList>
+<person name="Abramov A.Y."/>
+<person name="Gegg M."/>
+<person name="Grunewald A."/>
+<person name="Wood N.W."/>
+<person name="Klein C."/>
+<person name="Schapira A.H."/>
+</authorList>
+<dbReference type="PubMed" id="22043288"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0025622"/>
+</citation>
+<scope>INVOLVEMENT IN PARK6</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2012" name="EMBO Rep." volume="13" first="378" last="385">
+<title>Mitochondrial processing peptidase regulates PINK1 processing, import and Parkin recruitment.</title>
+<authorList>
+<person name="Greene A.W."/>
+<person name="Grenier K."/>
+<person name="Aguileta M.A."/>
+<person name="Muise S."/>
+<person name="Farazifard R."/>
+<person name="Haque M.E."/>
+<person name="McBride H.M."/>
+<person name="Park D.S."/>
+<person name="Fon E.A."/>
+</authorList>
+<dbReference type="PubMed" id="22354088"/>
+<dbReference type="DOI" id="10.1038/embor.2012.14"/>
+</citation>
+<scope>PROTEOLYTIC CLEAVAGE</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2012" name="Nat. Commun." volume="3" first="1016" last="1016">
+<title>PINK1 autophosphorylation upon membrane potential dissipation is essential for Parkin recruitment to damaged mitochondria.</title>
+<authorList>
+<person name="Okatsu K."/>
+<person name="Oka T."/>
+<person name="Iguchi M."/>
+<person name="Imamura K."/>
+<person name="Kosako H."/>
+<person name="Tani N."/>
+<person name="Kimura M."/>
+<person name="Go E."/>
+<person name="Koyano F."/>
+<person name="Funayama M."/>
+<person name="Shiba-Fukushima K."/>
+<person name="Sato S."/>
+<person name="Shimizu H."/>
+<person name="Fukunaga Y."/>
+<person name="Taniguchi H."/>
+<person name="Komatsu M."/>
+<person name="Hattori N."/>
+<person name="Mihara K."/>
+<person name="Tanaka K."/>
+<person name="Matsuda N."/>
+</authorList>
+<dbReference type="PubMed" id="22910362"/>
+<dbReference type="DOI" id="10.1038/ncomms2016"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-228 AND SER-402</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2013" name="J. Biol. Chem." volume="288" first="22019" last="22032">
+<title>Parkin-catalyzed ubiquitin-ester transfer is triggered by PINK1-dependent phosphorylation.</title>
+<authorList>
+<person name="Iguchi M."/>
+<person name="Kujuro Y."/>
+<person name="Okatsu K."/>
+<person name="Koyano F."/>
+<person name="Kosako H."/>
+<person name="Kimura M."/>
+<person name="Suzuki N."/>
+<person name="Uchiyama S."/>
+<person name="Tanaka K."/>
+<person name="Matsuda N."/>
+</authorList>
+<dbReference type="PubMed" id="23754282"/>
+<dbReference type="DOI" id="10.1074/jbc.m113.467530"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2013" name="Nat. Neurosci." volume="16" first="1257" last="1265">
+<title>The Parkinson's disease-linked proteins Fbxo7 and Parkin interact to mediate mitophagy.</title>
+<authorList>
+<person name="Burchell V.S."/>
+<person name="Nelson D.E."/>
+<person name="Sanchez-Martinez A."/>
+<person name="Delgado-Camprubi M."/>
+<person name="Ivatt R.M."/>
+<person name="Pogson J.H."/>
+<person name="Randle S.J."/>
+<person name="Wray S."/>
+<person name="Lewis P.A."/>
+<person name="Houlden H."/>
+<person name="Abramov A.Y."/>
+<person name="Hardy J."/>
+<person name="Wood N.W."/>
+<person name="Whitworth A.J."/>
+<person name="Laman H."/>
+<person name="Plun-Favreau H."/>
+</authorList>
+<dbReference type="PubMed" id="23933751"/>
+<dbReference type="DOI" id="10.1038/nn.3489"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH FBXO7</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2013" name="Science" volume="340" first="471" last="475">
+<title>PINK1-phosphorylated mitofusin 2 is a Parkin receptor for culling damaged mitochondria.</title>
+<authorList>
+<person name="Chen Y."/>
+<person name="Dorn G.W. II"/>
+</authorList>
+<dbReference type="PubMed" id="23620051"/>
+<dbReference type="DOI" id="10.1126/science.1231031"/>
+</citation>
+<scope>FUNCTION IN MITOPHAGY</scope>
+<scope>MUTAGENESIS OF LYS-219; ASP-362 AND ASP-384</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2014" name="Biochem. J." volume="460" first="127" last="139">
+<title>Parkin is activated by PINK1-dependent phosphorylation of ubiquitin at Ser65.</title>
+<authorList>
+<person name="Kazlauskaite A."/>
+<person name="Kondapalli C."/>
+<person name="Gourlay R."/>
+<person name="Campbell D.G."/>
+<person name="Ritorto M.S."/>
+<person name="Hofmann K."/>
+<person name="Alessi D.R."/>
+<person name="Knebel A."/>
+<person name="Trost M."/>
+<person name="Muqit M.M."/>
+</authorList>
+<dbReference type="PubMed" id="24660806"/>
+<dbReference type="DOI" id="10.1042/bj20140334"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2014" name="J. Cell Biol." volume="205" first="143" last="153">
+<title>PINK1 phosphorylates ubiquitin to activate Parkin E3 ubiquitin ligase activity.</title>
+<authorList>
+<person name="Kane L.A."/>
+<person name="Lazarou M."/>
+<person name="Fogel A.I."/>
+<person name="Li Y."/>
+<person name="Yamano K."/>
+<person name="Sarraf S.A."/>
+<person name="Banerjee S."/>
+<person name="Youle R.J."/>
+</authorList>
+<dbReference type="PubMed" id="24751536"/>
+<dbReference type="DOI" id="10.1083/jcb.201402104"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2014" name="Nature" volume="510" first="162" last="166">
+<title>Ubiquitin is phosphorylated by PINK1 to activate parkin.</title>
+<authorList>
+<person name="Koyano F."/>
+<person name="Okatsu K."/>
+<person name="Kosako H."/>
+<person name="Tamura Y."/>
+<person name="Go E."/>
+<person name="Kimura M."/>
+<person name="Kimura Y."/>
+<person name="Tsuchiya H."/>
+<person name="Yoshihara H."/>
+<person name="Hirokawa T."/>
+<person name="Endo T."/>
+<person name="Fon E.A."/>
+<person name="Trempe J.F."/>
+<person name="Saeki Y."/>
+<person name="Tanaka K."/>
+<person name="Matsuda N."/>
+</authorList>
+<dbReference type="PubMed" id="24784582"/>
+<dbReference type="DOI" id="10.1038/nature13392"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>CHARACTERIZATION OF VARIANTS PARK6 PRO-168 AND ALA-386</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2014" name="Nature" volume="510" first="370" last="375">
+<title>The mitochondrial deubiquitinase USP30 opposes parkin-mediated mitophagy.</title>
+<authorList>
+<person name="Bingol B."/>
+<person name="Tea J.S."/>
+<person name="Phu L."/>
+<person name="Reichelt M."/>
+<person name="Bakalarski C.E."/>
+<person name="Song Q."/>
+<person name="Foreman O."/>
+<person name="Kirkpatrick D.S."/>
+<person name="Sheng M."/>
+</authorList>
+<dbReference type="PubMed" id="24896179"/>
+<dbReference type="DOI" id="10.1038/nature13418"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2014" name="Science" volume="344" first="203" last="207">
+<title>PINK1 loss-of-function mutations affect mitochondrial complex I activity via NdufA10 ubiquinone uncoupling.</title>
+<authorList>
+<person name="Morais V.A."/>
+<person name="Haddad D."/>
+<person name="Craessaerts K."/>
+<person name="De Bock P.J."/>
+<person name="Swerts J."/>
+<person name="Vilain S."/>
+<person name="Aerts L."/>
+<person name="Overbergh L."/>
+<person name="Gruenewald A."/>
+<person name="Seibler P."/>
+<person name="Klein C."/>
+<person name="Gevaert K."/>
+<person name="Verstreken P."/>
+<person name="De Strooper B."/>
+</authorList>
+<dbReference type="PubMed" id="24652937"/>
+<dbReference type="DOI" id="10.1126/science.1249161"/>
+</citation>
+<scope>VARIANTS PARK6 GLY-170 AND 456-GLN--LEU-581 DEL</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2015" name="EMBO J." volume="34" first="307" last="325">
+<title>Ubiquitin Ser65 phosphorylation affects ubiquitin structure, chain assembly and hydrolysis.</title>
+<authorList>
+<person name="Wauer T."/>
+<person name="Swatek K.N."/>
+<person name="Wagstaff J.L."/>
+<person name="Gladkova C."/>
+<person name="Pruneda J.N."/>
+<person name="Michel M.A."/>
+<person name="Gersch M."/>
+<person name="Johnson C.M."/>
+<person name="Freund S.M."/>
+<person name="Komander D."/>
+</authorList>
+<dbReference type="PubMed" id="25527291"/>
+<dbReference type="DOI" id="10.15252/embj.201489847"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2019" name="Mol. Cell" volume="73" first="1028" last="1043">
+<title>Reciprocal roles of Tom7 and OMA1 during mitochondrial import and activation of PINK1.</title>
+<authorList>
+<person name="Sekine S."/>
+<person name="Wang C."/>
+<person name="Sideris D.P."/>
+<person name="Bunker E."/>
+<person name="Zhang Z."/>
+<person name="Youle R.J."/>
+</authorList>
+<dbReference type="PubMed" id="30733118"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2019.01.002"/>
+</citation>
+<scope>PROTEOLYTIC CLEAVAGE</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF 112-GLU--GLU-117</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2019" name="IScience" volume="19" first="1114" last="1132">
+<title>Rewiring of the Human Mitochondrial Interactome during Neuronal Reprogramming Reveals Regulators of the Respirasome and Neurogenesis.</title>
+<authorList>
+<person name="Moutaoufik M.T."/>
+<person name="Malty R."/>
+<person name="Amin S."/>
+<person name="Zhang Q."/>
+<person name="Phanse S."/>
+<person name="Gagarinova A."/>
+<person name="Zilocchi M."/>
+<person name="Hoell L."/>
+<person name="Minic Z."/>
+<person name="Gagarinova M."/>
+<person name="Aoki H."/>
+<person name="Stockwell J."/>
+<person name="Jessulat M."/>
+<person name="Goebels F."/>
+<person name="Broderick K."/>
+<person name="Scott N.E."/>
+<person name="Vlasblom J."/>
+<person name="Musso G."/>
+<person name="Prasad B."/>
+<person name="Lamantea E."/>
+<person name="Garavaglia B."/>
+<person name="Rajput A."/>
+<person name="Murayama K."/>
+<person name="Okazaki Y."/>
+<person name="Foster L.J."/>
+<person name="Bader G.D."/>
+<person name="Cayabyab F.S."/>
+<person name="Babu M."/>
+</authorList>
+<dbReference type="PubMed" id="31536960"/>
+<dbReference type="DOI" id="10.1016/j.isci.2019.08.057"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<scope>INTERACTION WITH NENF</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2004" name="Ann. Neurol." volume="56" first="336" last="341">
+<title>PINK1 mutations are associated with sporadic early-onset parkinsonism.</title>
+<authorList>
+<person name="Valente E.M."/>
+<person name="Salvi S."/>
+<person name="Ialongo T."/>
+<person name="Marongiu R."/>
+<person name="Elia A.E."/>
+<person name="Caputo V."/>
+<person name="Romito L."/>
+<person name="Albanese A."/>
+<person name="Dallapiccola B."/>
+<person name="Bentivoglio A.R."/>
+</authorList>
+<dbReference type="PubMed" id="15349860"/>
+<dbReference type="DOI" id="10.1002/ana.20256"/>
+</citation>
+<scope>VARIANTS PARK6 PHE-92; PRO-168 AND HIS-464</scope>
+<scope>VARIANTS LEU-296; THR-340; THR-442; LYS-476; THR-521 AND ASN-525</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2004" name="Ann. Neurol." volume="56" first="424" last="427">
+<title>Novel PINK1 mutations in early-onset parkinsonism.</title>
+<authorList>
+<person name="Hatano Y."/>
+<person name="Li Y."/>
+<person name="Sato K."/>
+<person name="Asakawa S."/>
+<person name="Yamamura Y."/>
+<person name="Tomiyama H."/>
+<person name="Yoshino H."/>
+<person name="Asahina M."/>
+<person name="Kobayashi S."/>
+<person name="Hassin-Baer S."/>
+<person name="Lu C.-S."/>
+<person name="Ng A.R."/>
+<person name="Rosales R.L."/>
+<person name="Shimizu N."/>
+<person name="Toda T."/>
+<person name="Mizuno Y."/>
+<person name="Hattori N."/>
+</authorList>
+<dbReference type="PubMed" id="15349870"/>
+<dbReference type="DOI" id="10.1002/ana.20251"/>
+</citation>
+<scope>VARIANTS PARK6 GLN-271; PRO-347 AND GLY-417</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2004" name="Ann. Neurol." volume="56" first="603" last="603">
+<authorList>
+<person name="Hatano Y."/>
+<person name="Li Y."/>
+<person name="Sato K."/>
+<person name="Asakawa S."/>
+<person name="Yamamura Y."/>
+<person name="Tomiyama H."/>
+<person name="Yoshino H."/>
+<person name="Asahina M."/>
+<person name="Kobayashi S."/>
+<person name="Hassin-Baer S."/>
+<person name="Lu C.-S."/>
+<person name="Ng A.R."/>
+<person name="Rosales R.L."/>
+<person name="Shimizu N."/>
+<person name="Toda T."/>
+<person name="Mizuno Y."/>
+<person name="Hattori N."/>
+</authorList>
+</citation>
+<scope>ERRATUM OF PUBMED:15349870</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2004" name="Arch. Neurol." volume="61" first="1898" last="1904">
+<title>Analysis of the PINK1 gene in a large cohort of cases with Parkinson disease.</title>
+<authorList>
+<person name="Rogaeva E."/>
+<person name="Johnson J."/>
+<person name="Lang A.E."/>
+<person name="Gulick C."/>
+<person name="Gwinn-Hardy K."/>
+<person name="Kawarai T."/>
+<person name="Sato C."/>
+<person name="Morgan A."/>
+<person name="Werner J."/>
+<person name="Nussbaum R."/>
+<person name="Petit A."/>
+<person name="Okun M.S."/>
+<person name="McInerney A."/>
+<person name="Mandel R."/>
+<person name="Groen J.L."/>
+<person name="Fernandez H.H."/>
+<person name="Postuma R."/>
+<person name="Foote K.D."/>
+<person name="Salehi-Rad S."/>
+<person name="Liang Y."/>
+<person name="Reimsnider S."/>
+<person name="Tandon A."/>
+<person name="Hardy J."/>
+<person name="St George-Hyslop P."/>
+<person name="Singleton A.B."/>
+</authorList>
+<dbReference type="PubMed" id="15596610"/>
+<dbReference type="DOI" id="10.1001/archneur.61.12.1898"/>
+</citation>
+<scope>VARIANTS PARK6 LYS-240; PRO-347 AND PRO-489</scope>
+<scope>VARIANTS GLY-231; ILE-235; GLY-263; LEU-318; THR-339; THR-340; HIS-362; SER-425; LYS-476 AND THR-521</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2004" name="Neurology" volume="63" first="1486" last="1488">
+<title>PINK1 (PARK6) associated Parkinson disease in Ireland.</title>
+<authorList>
+<person name="Healy D.G."/>
+<person name="Abou-Sleiman P.M."/>
+<person name="Gibson J.M."/>
+<person name="Ross O.A."/>
+<person name="Jain S."/>
+<person name="Gandhi S."/>
+<person name="Gosal D."/>
+<person name="Muqit M.M.K."/>
+<person name="Wood N.W."/>
+<person name="Lynch T."/>
+</authorList>
+<dbReference type="PubMed" id="15505171"/>
+<dbReference type="DOI" id="10.1212/01.wnl.0000142089.38301.8e"/>
+</citation>
+<scope>VARIANT PARK6 HIS-147</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2004" name="Science" volume="304" first="1158" last="1160">
+<title>Hereditary early-onset Parkinson's disease caused by mutations in PINK1.</title>
+<authorList>
+<person name="Valente E.M."/>
+<person name="Abou-Sleiman P.M."/>
+<person name="Caputo V."/>
+<person name="Muqit M.M.K."/>
+<person name="Harvey K."/>
+<person name="Gispert S."/>
+<person name="Ali Z."/>
+<person name="Del Turco D."/>
+<person name="Bentivoglio A.R."/>
+<person name="Healy D.G."/>
+<person name="Albanese A."/>
+<person name="Nussbaum R."/>
+<person name="Gonzalez-Maldonado R."/>
+<person name="Deller T."/>
+<person name="Salvi S."/>
+<person name="Cortelli P."/>
+<person name="Gilks W.P."/>
+<person name="Latchman D.S."/>
+<person name="Harvey R.J."/>
+<person name="Dallapiccola B."/>
+<person name="Auburger G."/>
+<person name="Wood N.W."/>
+</authorList>
+<dbReference type="PubMed" id="15087508"/>
+<dbReference type="DOI" id="10.1126/science.1096284"/>
+</citation>
+<scope>VARIANT PARK6 ASP-309</scope>
+<scope>CHARACTERIZATION OF VARIANT PARK6 ASP-309</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2005" name="Clin. Genet." volume="68" first="468" last="470">
+<title>Analysis of PINK1 in Asian patients with familial parkinsonism.</title>
+<authorList>
+<person name="Tan E.K."/>
+<person name="Yew K."/>
+<person name="Chua E."/>
+<person name="Shen H."/>
+<person name="Jamora R.D."/>
+<person name="Lee E."/>
+<person name="Puong K.Y."/>
+<person name="Zhao Y."/>
+<person name="Pavanni R."/>
+<person name="Wong M.C."/>
+<person name="Puvan K."/>
+<person name="Yih Y."/>
+<person name="Tan L.C.S."/>
+</authorList>
+<dbReference type="PubMed" id="16207217"/>
+<dbReference type="DOI" id="10.1111/j.1399-0004.2005.00500.x"/>
+</citation>
+<scope>VARIANT PARK6 VAL-268</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2005" name="Eur. J. Hum. Genet." volume="13" first="1086" last="1093">
+<title>PINK1, Parkin, and DJ-1 mutations in Italian patients with early-onset parkinsonism.</title>
+<authorList>
+<person name="Klein C."/>
+<person name="Djarmati A."/>
+<person name="Hedrich K."/>
+<person name="Schaefer N."/>
+<person name="Scaglione C."/>
+<person name="Marchese R."/>
+<person name="Kock N."/>
+<person name="Schuele B."/>
+<person name="Hiller A."/>
+<person name="Lohnau T."/>
+<person name="Winkler S."/>
+<person name="Wiegers K."/>
+<person name="Hering R."/>
+<person name="Bauer P."/>
+<person name="Riess O."/>
+<person name="Abbruzzese G."/>
+<person name="Martinelli P."/>
+<person name="Pramstaller P.P."/>
+</authorList>
+<dbReference type="PubMed" id="15970950"/>
+<dbReference type="DOI" id="10.1038/sj.ejhg.5201455"/>
+</citation>
+<scope>VARIANTS PARK6 HIS-279 AND GLN-534 INS</scope>
+<scope>VARIANT LEU-115</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="2005" name="Hum. Mol. Genet." volume="14" first="3477" last="3492">
+<title>Mitochondrial import and enzymatic activity of PINK1 mutants associated to recessive parkinsonism.</title>
+<authorList>
+<person name="Silvestri L."/>
+<person name="Caputo V."/>
+<person name="Bellacchio E."/>
+<person name="Atorino L."/>
+<person name="Dallapiccola B."/>
+<person name="Valente E.M."/>
+<person name="Casari G."/>
+</authorList>
+<dbReference type="PubMed" id="16207731"/>
+<dbReference type="DOI" id="10.1093/hmg/ddi377"/>
+</citation>
+<scope>CHARACTERIZATION OF VARIANTS PARK6 PRO-168 AND ASP-309</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="2005" name="Neurology" volume="64" first="1955" last="1957">
+<title>Clinicogenetic study of PINK1 mutations in autosomal recessive early-onset parkinsonism.</title>
+<authorList>
+<person name="Li Y."/>
+<person name="Tomiyama H."/>
+<person name="Sato K."/>
+<person name="Hatano Y."/>
+<person name="Yoshino H."/>
+<person name="Atsumi M."/>
+<person name="Kitaguchi M."/>
+<person name="Sasaki S."/>
+<person name="Kawaguchi S."/>
+<person name="Miyajima H."/>
+<person name="Toda T."/>
+<person name="Mizuno Y."/>
+<person name="Hattori N."/>
+</authorList>
+<dbReference type="PubMed" id="15955953"/>
+<dbReference type="DOI" id="10.1212/01.wnl.0000164009.36740.4e"/>
+</citation>
+<scope>VARIANT PARK6 ARG-388</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="2005" name="Neurology" volume="65" first="87" last="95">
+<title>Early-onset parkinsonism associated with PINK1 mutations: frequency, genotypes, and phenotypes.</title>
+<authorList>
+<consortium name="The Italian Parkinson genetics network"/>
+<person name="Bonifati V."/>
+<person name="Rohe C.F."/>
+<person name="Breedveld G.J."/>
+<person name="Fabrizio E."/>
+<person name="De Mari M."/>
+<person name="Tassorelli C."/>
+<person name="Tavella A."/>
+<person name="Marconi R."/>
+<person name="Nicholl D.J."/>
+<person name="Chien H.F."/>
+<person name="Fincati E."/>
+<person name="Abbruzzese G."/>
+<person name="Marini P."/>
+<person name="De Gaetano A."/>
+<person name="Horstink M.W."/>
+<person name="Maat-Kievit J.A."/>
+<person name="Sampaio C."/>
+<person name="Antonini A."/>
+<person name="Stocchi F."/>
+<person name="Montagna P."/>
+<person name="Toni V."/>
+<person name="Guidi M."/>
+<person name="Dalla Libera A."/>
+<person name="Tinazzi M."/>
+<person name="De Pandis F."/>
+<person name="Fabbrini G."/>
+<person name="Goldwurm S."/>
+<person name="de Klein A."/>
+<person name="Barbosa E."/>
+<person name="Lopiano L."/>
+<person name="Martignoni E."/>
+<person name="Lamberti P."/>
+<person name="Vanacore N."/>
+<person name="Meco G."/>
+<person name="Oostra B.A."/>
+</authorList>
+<dbReference type="PubMed" id="16009891"/>
+<dbReference type="DOI" id="10.1212/01.wnl.0000167546.39375.82"/>
+</citation>
+<scope>VARIANTS PARK6 PRO-168 AND LEU-196</scope>
+<scope>VARIANTS LEU-115; THR-340; LYS-476 AND THR-521</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="2006" name="Ann. Neurol." volume="60" first="414" last="419">
+<title>A heterozygous effect for PINK1 mutations in Parkinson's disease?</title>
+<authorList>
+<person name="Abou-Sleiman P.M."/>
+<person name="Muqit M.M.K."/>
+<person name="McDonald N.Q."/>
+<person name="Yang Y.X."/>
+<person name="Gandhi S."/>
+<person name="Healy D.G."/>
+<person name="Harvey K."/>
+<person name="Harvey R.J."/>
+<person name="Deas E."/>
+<person name="Bhatia K."/>
+<person name="Quinn N."/>
+<person name="Lees A."/>
+<person name="Latchman D.S."/>
+<person name="Wood N.W."/>
+</authorList>
+<dbReference type="PubMed" id="16969854"/>
+<dbReference type="DOI" id="10.1002/ana.20960"/>
+</citation>
+<scope>VARIANTS ILE-317; THR-339; THR-383; SER-411; HIS-431; SER-451; SER-461; LYS-476; PRO-501 AND ARG-575</scope>
+<scope>CHARACTERIZATION OF VARIANTS HIS-431; SER-451; LYS-476; PRO-501 AND ARG-575</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="2006" name="Arch. Neurol." volume="63" first="1257" last="1261">
+<title>Juvenile-onset Parkinsonism as a result of the first mutation in the adenosine triphosphate orientation domain of PINK1.</title>
+<authorList>
+<person name="Leutenegger A.-L."/>
+<person name="Salih M.A.M."/>
+<person name="Ibanez P."/>
+<person name="Mukhtar M.M."/>
+<person name="Lesage S."/>
+<person name="Arabi A."/>
+<person name="Lohmann E."/>
+<person name="Duerr A."/>
+<person name="Ahmed A.E.M."/>
+<person name="Brice A."/>
+</authorList>
+<dbReference type="PubMed" id="16966503"/>
+<dbReference type="DOI" id="10.1001/archneur.63.9.1257"/>
+</citation>
+<scope>VARIANT PARK6 ASP-217</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="2006" name="Arch. Neurol." volume="63" first="1483" last="1485">
+<title>T313M PINK1 mutation in an extended highly consanguineous Saudi family with early-onset Parkinson disease.</title>
+<authorList>
+<person name="Chishti M.A."/>
+<person name="Bohlega S."/>
+<person name="Ahmed M."/>
+<person name="Loualich A."/>
+<person name="Carroll P."/>
+<person name="Sato C."/>
+<person name="St George-Hyslop P."/>
+<person name="Westaway D."/>
+<person name="Rogaeva E."/>
+</authorList>
+<dbReference type="PubMed" id="17030667"/>
+<dbReference type="DOI" id="10.1001/archneur.63.10.1483"/>
+</citation>
+<scope>VARIANT PARK6 MET-313</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="2006" name="Brain" volume="129" first="686" last="694">
+<title>Mutational analysis of the PINK1 gene in early-onset parkinsonism in Europe and North Africa.</title>
+<authorList>
+<consortium name="The French Parkinson's disease genetics study group"/>
+<person name="Ibanez P."/>
+<person name="Lesage S."/>
+<person name="Lohmann E."/>
+<person name="Thobois S."/>
+<person name="De Michele G."/>
+<person name="Borg M."/>
+<person name="Agid Y."/>
+<person name="Durr A."/>
+<person name="Brice A."/>
+</authorList>
+<dbReference type="PubMed" id="16401616"/>
+<dbReference type="DOI" id="10.1093/brain/awl005"/>
+</citation>
+<scope>VARIANTS PARK6 GLY-125; LYS-240; PRO-369; ALA-386 AND VAL-409</scope>
+</reference>
+<reference key="40">
+<citation type="journal article" date="2006" name="Hum. Mol. Genet." volume="15" first="1816" last="1825">
+<title>Association of PINK1 and DJ-1 confers digenic inheritance of early-onset Parkinson's disease.</title>
+<authorList>
+<person name="Tang B."/>
+<person name="Xiong H."/>
+<person name="Sun P."/>
+<person name="Zhang Y."/>
+<person name="Wang D."/>
+<person name="Hu Z."/>
+<person name="Zhu Z."/>
+<person name="Ma H."/>
+<person name="Pan Q."/>
+<person name="Xia J.-H."/>
+<person name="Xia K."/>
+<person name="Zhang Z."/>
+</authorList>
+<dbReference type="PubMed" id="16632486"/>
+<dbReference type="DOI" id="10.1093/hmg/ddl104"/>
+</citation>
+<scope>VARIANT LEU-399</scope>
+</reference>
+<reference key="41">
+<citation type="journal article" date="2006" name="Mov. Disord." volume="21" first="789" last="793">
+<title>PINK1 mutations in sporadic early-onset Parkinson's disease.</title>
+<authorList>
+<person name="Tan E.-K."/>
+<person name="Yew K."/>
+<person name="Chua E."/>
+<person name="Puvan K."/>
+<person name="Shen H."/>
+<person name="Lee E."/>
+<person name="Puong K.-Y."/>
+<person name="Zhao Y."/>
+<person name="Pavanni R."/>
+<person name="Wong M.-C."/>
+<person name="Jamora D."/>
+<person name="de Silva D."/>
+<person name="Moe K.-T."/>
+<person name="Woon F.-P."/>
+<person name="Yuen Y."/>
+<person name="Tan L."/>
+</authorList>
+<dbReference type="PubMed" id="16482571"/>
+<dbReference type="DOI" id="10.1002/mds.20810"/>
+</citation>
+<scope>VARIANT PARK6 THR-280</scope>
+<scope>VARIANTS THR-340 AND THR-521</scope>
+</reference>
+<reference key="42">
+<citation type="journal article" date="2006" name="Neurosci. Lett." volume="394" first="33" last="36">
+<title>Analysis of the PINK1 gene in a cohort of patients with sporadic early-onset parkinsonism in Taiwan.</title>
+<authorList>
+<person name="Fung H.-C."/>
+<person name="Chen C.-M."/>
+<person name="Hardy J."/>
+<person name="Singleton A.B."/>
+<person name="Lee-Chen G.-J."/>
+<person name="Wu Y.-R."/>
+</authorList>
+<dbReference type="PubMed" id="16257123"/>
+<dbReference type="DOI" id="10.1016/j.neulet.2005.10.005"/>
+</citation>
+<scope>VARIANT PARK6 GLN-407</scope>
+<scope>VARIANTS THR-340 AND THR-521</scope>
+</reference>
+<reference key="43">
+<citation type="journal article" date="2007" name="Nature" volume="446" first="153" last="158">
+<title>Patterns of somatic mutation in human cancer genomes.</title>
+<authorList>
+<person name="Greenman C."/>
+<person name="Stephens P."/>
+<person name="Smith R."/>
+<person name="Dalgliesh G.L."/>
+<person name="Hunter C."/>
+<person name="Bignell G."/>
+<person name="Davies H."/>
+<person name="Teague J."/>
+<person name="Butler A."/>
+<person name="Stevens C."/>
+<person name="Edkins S."/>
+<person name="O'Meara S."/>
+<person name="Vastrik I."/>
+<person name="Schmidt E.E."/>
+<person name="Avis T."/>
+<person name="Barthorpe S."/>
+<person name="Bhamra G."/>
+<person name="Buck G."/>
+<person name="Choudhury B."/>
+<person name="Clements J."/>
+<person name="Cole J."/>
+<person name="Dicks E."/>
+<person name="Forbes S."/>
+<person name="Gray K."/>
+<person name="Halliday K."/>
+<person name="Harrison R."/>
+<person name="Hills K."/>
+<person name="Hinton J."/>
+<person name="Jenkinson A."/>
+<person name="Jones D."/>
+<person name="Menzies A."/>
+<person name="Mironenko T."/>
+<person name="Perry J."/>
+<person name="Raine K."/>
+<person name="Richardson D."/>
+<person name="Shepherd R."/>
+<person name="Small A."/>
+<person name="Tofts C."/>
+<person name="Varian J."/>
+<person name="Webb T."/>
+<person name="West S."/>
+<person name="Widaa S."/>
+<person name="Yates A."/>
+<person name="Cahill D.P."/>
+<person name="Louis D.N."/>
+<person name="Goldstraw P."/>
+<person name="Nicholson A.G."/>
+<person name="Brasseur F."/>
+<person name="Looijenga L."/>
+<person name="Weber B.L."/>
+<person name="Chiew Y.-E."/>
+<person name="DeFazio A."/>
+<person name="Greaves M.F."/>
+<person name="Green A.R."/>
+<person name="Campbell P."/>
+<person name="Birney E."/>
+<person name="Easton D.F."/>
+<person name="Chenevix-Trench G."/>
+<person name="Tan M.-H."/>
+<person name="Khoo S.K."/>
+<person name="Teh B.T."/>
+<person name="Yuen S.T."/>
+<person name="Leung S.Y."/>
+<person name="Wooster R."/>
+<person name="Futreal P.A."/>
+<person name="Stratton M.R."/>
+</authorList>
+<dbReference type="PubMed" id="17344846"/>
+<dbReference type="DOI" id="10.1038/nature05610"/>
+</citation>
+<scope>VARIANTS [LARGE SCALE ANALYSIS] TRP-148; SER-196; LEU-209; LEU-215; THR-339; THR-340; ILE-341; PHE-377; THR-477 AND THR-521</scope>
+</reference>
+<reference key="44">
+<citation type="journal article" date="2008" name="Hum. Mutat." volume="29" first="565" last="565">
+<title>PINK1 heterozygous rare variants: prevalence, significance and phenotypic spectrum.</title>
+<authorList>
+<consortium name="The Italian PD study group"/>
+<person name="Marongiu R."/>
+<person name="Ferraris A."/>
+<person name="Ialongo T."/>
+<person name="Michiorri S."/>
+<person name="Soleti F."/>
+<person name="Ferrari F."/>
+<person name="Elia A.E."/>
+<person name="Ghezzi D."/>
+<person name="Albanese A."/>
+<person name="Altavista M.C."/>
+<person name="Antonini A."/>
+<person name="Barone P."/>
+<person name="Brusa L."/>
+<person name="Cortelli P."/>
+<person name="Martinelli P."/>
+<person name="Pellecchia M.T."/>
+<person name="Pezzoli G."/>
+<person name="Scaglione C."/>
+<person name="Stanzione P."/>
+<person name="Tinazzi M."/>
+<person name="Zecchinelli A."/>
+<person name="Zeviani M."/>
+<person name="Cassetta E."/>
+<person name="Garavaglia B."/>
+<person name="Dallapiccola B."/>
+<person name="Bentivoglio A.R."/>
+<person name="Valente E.M."/>
+</authorList>
+<dbReference type="PubMed" id="18330912"/>
+<dbReference type="DOI" id="10.1002/humu.20719"/>
+</citation>
+<scope>VARIANTS PHE-67; PRO-68; TRP-98; SER-111; VAL-124; MET-145; ASN-186; ILE-257 VAL-268; GLN-276; LEU-296; ILE-317; LEU-322; THR-339; THR-383; VAL-395; THR-442; LYS-476; ASN-525 AND THR-537</scope>
+</reference>
+<reference key="45">
+<citation type="journal article" date="2008" name="J. Neurol." volume="255" first="643" last="648">
+<title>Clinical and molecular characterisation of a Parkinson family with a novel PINK1 mutation.</title>
+<authorList>
+<person name="Prestel J."/>
+<person name="Gempel K."/>
+<person name="Hauser T.K."/>
+<person name="Schweitzer K."/>
+<person name="Prokisch H."/>
+<person name="Ahting U."/>
+<person name="Freudenstein D."/>
+<person name="Bueltmann E."/>
+<person name="Naegele T."/>
+<person name="Berg D."/>
+<person name="Klopstock T."/>
+<person name="Gasser T."/>
+</authorList>
+<dbReference type="PubMed" id="18286320"/>
+<dbReference type="DOI" id="10.1007/s00415-008-0763-4"/>
+</citation>
+<scope>VARIANT PARK6 PRO-126</scope>
+</reference>
+<reference key="46">
+<citation type="journal article" date="2012" name="Mov. Disord." volume="27" first="1522" last="1529">
+<title>Systematic review and UK-based study of PARK2 (parkin), PINK1, PARK7 (DJ-1) and LRRK2 in early-onset Parkinson's disease.</title>
+<authorList>
+<person name="Kilarski L.L."/>
+<person name="Pearson J.P."/>
+<person name="Newsway V."/>
+<person name="Majounie E."/>
+<person name="Knipe M.D."/>
+<person name="Misbahuddin A."/>
+<person name="Chinnery P.F."/>
+<person name="Burn D.J."/>
+<person name="Clarke C.E."/>
+<person name="Marion M.H."/>
+<person name="Lewthwaite A.J."/>
+<person name="Nicholl D.J."/>
+<person name="Wood N.W."/>
+<person name="Morrison K.E."/>
+<person name="Williams-Gray C.H."/>
+<person name="Evans J.R."/>
+<person name="Sawcer S.J."/>
+<person name="Barker R.A."/>
+<person name="Wickremaratchi M.M."/>
+<person name="Ben-Shlomo Y."/>
+<person name="Williams N.M."/>
+<person name="Morris H.R."/>
+</authorList>
+<dbReference type="PubMed" id="22956510"/>
+<dbReference type="DOI" id="10.1002/mds.25132"/>
+</citation>
+<scope>VARIANT PARK6 PRO-347</scope>
+</reference>
+<comment type="function">
+<text evidence="2 7 9 30 31 32 33 38 39 40 42 43 44 45 46">Protects against mitochondrial dysfunction during cellular stress by phosphorylating mitochondrial proteins. Involved in the clearance of damaged mitochondria via selective autophagy (mitophagy) by mediating activation and translocation of PRKN (PubMed:14607334, PubMed:15087508, PubMed:19229105, PubMed:19966284, PubMed:20404107, PubMed:20798600, PubMed:23620051, PubMed:23754282, PubMed:23933751, PubMed:24660806, PubMed:24751536, PubMed:24784582, PubMed:24896179, PubMed:25527291). Targets PRKN to dysfunctional depolarized mitochondria through the phosphorylation of MFN2 (PubMed:23620051). Activates PRKN in 2 steps: (1) by mediating phosphorylation at 'Ser-65' of PRKN and (2) mediating phosphorylation of ubiquitin, converting PRKN to its fully-active form (PubMed:24660806, PubMed:24751536, PubMed:24784582, PubMed:25527291). Required for ubiquinone reduction by mitochondrial complex I by mediating phosphorylation of complex I subunit NDUFA10 (By similarity).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="42 43 44">
+<text>ATP + L-seryl-[protein] = ADP + H(+) + O-phospho-L-seryl-[protein]</text>
+<dbReference type="Rhea" id="RHEA:17989"/>
+<dbReference type="Rhea" id="RHEA-COMP:9863"/>
+<dbReference type="Rhea" id="RHEA-COMP:11604"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:29999"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:83421"/>
+<dbReference type="ChEBI" id="CHEBI:456216"/>
+<dbReference type="EC" id="2.7.11.1"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="42 43 44">
+<text>ATP + L-threonyl-[protein] = ADP + H(+) + O-phospho-L-threonyl-[protein]</text>
+<dbReference type="Rhea" id="RHEA:46608"/>
+<dbReference type="Rhea" id="RHEA-COMP:11060"/>
+<dbReference type="Rhea" id="RHEA-COMP:11605"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:30013"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:61977"/>
+<dbReference type="ChEBI" id="CHEBI:456216"/>
+<dbReference type="EC" id="2.7.11.1"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor>
+<name>Mg(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:18420"/>
+</cofactor>
+</comment>
+<comment type="subunit">
+<text evidence="30 31 33 40 48">Interacts with PRKN (PubMed:20798600, PubMed:19966284). Interacts with FBXO7 (PubMed:23933751). Forms a complex with PRKN and PARK7 (PubMed:19229105). Interacts with NENF (PubMed:31536960).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2846068">
+<id>Q9BXM7</id>
+</interactant>
+<interactant intactId="EBI-1161222">
+<id>Q9Y3I1</id>
+<label>FBXO7</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2846068">
+<id>Q9BXM7</id>
+</interactant>
+<interactant intactId="EBI-9102965">
+<id>Q9Y3I1-1</id>
+<label>FBXO7</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2846068">
+<id>Q9BXM7</id>
+</interactant>
+<interactant intactId="EBI-373144">
+<id>Q9GZQ8</id>
+<label>MAP1LC3B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2846068">
+<id>Q9BXM7</id>
+</interactant>
+<interactant intactId="EBI-716346">
+<id>O60260</id>
+<label>PRKN</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2846068">
+<id>Q9BXM7</id>
+</interactant>
+<interactant intactId="EBI-1396430">
+<id>Q8IXI2</id>
+<label>RHOT1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2846068">
+<id>Q9BXM7</id>
+</interactant>
+<interactant intactId="EBI-3942425">
+<id>Q8WXH5</id>
+<label>SOCS4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-15643376">
+<id>Q9BXM7-1</id>
+</interactant>
+<interactant intactId="EBI-716346">
+<id>O60260</id>
+<label>PRKN</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-15643376">
+<id>Q9BXM7-1</id>
+</interactant>
+<interactant intactId="EBI-1055869">
+<id>Q12931</id>
+<label>TRAP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="9 29 30 33 40 48">Mitochondrion outer membrane</location>
+<topology evidence="3">Single-pass membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="2">Mitochondrion inner membrane</location>
+<topology evidence="3">Single-pass membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="30 33 35">Cytoplasm</location>
+<location evidence="30 33 35">Cytosol</location>
+</subcellularLocation>
+<text evidence="30 47">Localizes mostly in mitochondrion and the 2 proteolytic processed fragments of 55 kDa and 48 kDa localize mainly in cytosol (PubMed:19229105). When mitochondria lose mitochondrial membrane potential following damage, PINK1 import is arrested, which induces its accumulation in the outer mitochondrial membrane, where it acquires kinase activity (PubMed:30733118).</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q9BXM7-1</id>
+<name evidence="7">1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q9BXM7-2</id>
+<name evidence="50">2</name>
+<sequence type="described" ref="VSP_050754 VSP_050755"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="6">Highly expressed in heart, skeletal muscle and testis, and at lower levels in brain, placenta, liver, kidney, pancreas, prostate, ovary and small intestine. Present in the embryonic testis from an early stage of development.</text>
+</comment>
+<comment type="PTM">
+<text evidence="36">Autophosphorylation at Ser-228 and Ser-402 is essential for Parkin/PRKN recruitment to depolarized mitochondria.</text>
+</comment>
+<comment type="PTM">
+<text evidence="30 35 47">Two shorter forms of 55 kDa and 48 kDa seem to be produced by proteolytic cleavage and localize mainly in cytosol (PubMed:19229105). Processed into a 52 kDa mature form by PARL or AFG3L2 following the cleavage by mitochondrial-processing peptidase (MPP) during mitochondrial import (PubMed:22354088). In depolarized mitochondria, cleaved by OMA1 that acts as a backup protease, promoting its subsequent degradation by the proteasome (PubMed:30733118).</text>
+</comment>
+<comment type="disease" evidence="9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 25 27 30 33 34 37 41 44">
+<disease id="DI-01239">
+<name>Parkinson disease 6</name>
+<acronym>PARK6</acronym>
+<description>An early-onset form of Parkinson disease, a neurodegenerative disorder characterized by parkinsonian signs such as rigidity, resting tremor and bradykinesia. A subset of patients manifest additional symptoms including hyperreflexia, autonomic instability, dementia and psychiatric disturbances. Symptoms show diurnal fluctuation and can improve after sleep. PARK6 pathogenesis involves respiratory complex I deficiency causing mitochondrial depolarization and dysfunction. Inheritance is autosomal recessive.</description>
+<dbReference type="MIM" id="605909"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.</text>
+</comment>
+<dbReference type="EC" id="2.7.11.1" evidence="42 43 44"/>
+<dbReference type="EMBL" id="AB053323">
+<property type="protein sequence ID" value="BAB55647.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF316873">
+<property type="protein sequence ID" value="AAK28062.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK075225">
+<property type="protein sequence ID" value="BAC11484.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL391357">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC009534">
+<property type="protein sequence ID" value="AAH09534.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC028215">
+<property type="protein sequence ID" value="AAH28215.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS211.1">
+<molecule id="Q9BXM7-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_115785.1">
+<molecule id="Q9BXM7-1"/>
+<property type="nucleotide sequence ID" value="NM_032409.2"/>
+</dbReference>
+<dbReference type="SMR" id="Q9BXM7"/>
+<dbReference type="BioGRID" id="122376">
+<property type="interactions" value="75"/>
+</dbReference>
+<dbReference type="CORUM" id="Q9BXM7"/>
+<dbReference type="DIP" id="DIP-29427N"/>
+<dbReference type="IntAct" id="Q9BXM7">
+<property type="interactions" value="19"/>
+</dbReference>
+<dbReference type="MINT" id="Q9BXM7"/>
+<dbReference type="STRING" id="9606.ENSP00000364204"/>
+<dbReference type="ChEMBL" id="CHEMBL3337330"/>
+<dbReference type="CarbonylDB" id="Q9BXM7"/>
+<dbReference type="iPTMnet" id="Q9BXM7"/>
+<dbReference type="PhosphoSitePlus" id="Q9BXM7"/>
+<dbReference type="BioMuta" id="PINK1"/>
+<dbReference type="DMDM" id="48428484"/>
+<dbReference type="EPD" id="Q9BXM7"/>
+<dbReference type="MassIVE" id="Q9BXM7"/>
+<dbReference type="PaxDb" id="Q9BXM7"/>
+<dbReference type="PeptideAtlas" id="Q9BXM7"/>
+<dbReference type="PRIDE" id="Q9BXM7"/>
+<dbReference type="ProteomicsDB" id="79455">
+<molecule id="Q9BXM7-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="79456">
+<molecule id="Q9BXM7-2"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="1105">
+<property type="antibodies" value="790 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="65018"/>
+<dbReference type="Ensembl" id="ENST00000321556">
+<molecule id="Q9BXM7-1"/>
+<property type="protein sequence ID" value="ENSP00000364204"/>
+<property type="gene ID" value="ENSG00000158828"/>
+</dbReference>
+<dbReference type="GeneID" id="65018"/>
+<dbReference type="KEGG" id="hsa:65018"/>
+<dbReference type="UCSC" id="uc001bdm.3">
+<molecule id="Q9BXM7-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="65018"/>
+<dbReference type="DisGeNET" id="65018"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000158828.5"/>
+<dbReference type="GeneCards" id="PINK1"/>
+<dbReference type="GeneReviews" id="PINK1"/>
+<dbReference type="HGNC" id="HGNC:14581">
+<property type="gene designation" value="PINK1"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000158828">
+<property type="expression patterns" value="Tissue enhanced (skeletal)"/>
+</dbReference>
+<dbReference type="MalaCards" id="PINK1"/>
+<dbReference type="MIM" id="168600">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="605909">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="608309">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9BXM7"/>
+<dbReference type="OpenTargets" id="ENSG00000158828"/>
+<dbReference type="Orphanet" id="2828">
+<property type="disease" value="Young-onset Parkinson disease"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA33325"/>
+<dbReference type="eggNOG" id="KOG4158">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000001206"/>
+<dbReference type="HOGENOM" id="CLU_022208_1_0_1"/>
+<dbReference type="InParanoid" id="Q9BXM7"/>
+<dbReference type="KO" id="K05688"/>
+<dbReference type="OMA" id="GAQEEYP"/>
+<dbReference type="OrthoDB" id="314975at2759"/>
+<dbReference type="PhylomeDB" id="Q9BXM7"/>
+<dbReference type="TreeFam" id="TF313183"/>
+<dbReference type="PathwayCommons" id="Q9BXM7"/>
+<dbReference type="Reactome" id="R-HSA-5205685">
+<property type="pathway name" value="Pink/Parkin Mediated Mitophagy"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9614657">
+<property type="pathway name" value="FOXO-mediated transcription of cell death genes"/>
+</dbReference>
+<dbReference type="SignaLink" id="Q9BXM7"/>
+<dbReference type="SIGNOR" id="Q9BXM7"/>
+<dbReference type="BioGRID-ORCS" id="65018">
+<property type="hits" value="7 hits in 904 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="PINK1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="PINK1"/>
+<dbReference type="GenomeRNAi" id="65018"/>
+<dbReference type="Pharos" id="Q9BXM7">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q9BXM7"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Unplaced"/>
+</dbReference>
+<dbReference type="RNAct" id="Q9BXM7">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000158828">
+<property type="expression patterns" value="Expressed in tendon and 248 other tissues"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9BXM7">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097449">
+<property type="term" value="C:astrocyte projection"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030424">
+<property type="term" value="C:axon"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044297">
+<property type="term" value="C:cell body"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000785">
+<property type="term" value="C:chromatin"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005856">
+<property type="term" value="C:cytoskeleton"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005783">
+<property type="term" value="C:endoplasmic reticulum"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030426">
+<property type="term" value="C:growth cone"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031307">
+<property type="term" value="C:integral component of mitochondrial outer membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097413">
+<property type="term" value="C:Lewy body"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005743">
+<property type="term" value="C:mitochondrial inner membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005758">
+<property type="term" value="C:mitochondrial intermembrane space"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005741">
+<property type="term" value="C:mitochondrial outer membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048471">
+<property type="term" value="C:perinuclear region of cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055131">
+<property type="term" value="F:C3HC4-type RING finger domain binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010857">
+<property type="term" value="F:calcium-dependent protein kinase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016301">
+<property type="term" value="F:kinase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000287">
+<property type="term" value="F:magnesium ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016504">
+<property type="term" value="F:peptidase activator activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002020">
+<property type="term" value="F:protease binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004672">
+<property type="term" value="F:protein kinase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043422">
+<property type="term" value="F:protein kinase B binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044877">
+<property type="term" value="F:protein-containing complex binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904841">
+<property type="term" value="F:TORC2 complex binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031625">
+<property type="term" value="F:ubiquitin protein ligase binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032148">
+<property type="term" value="P:activation of protein kinase B activity"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000422">
+<property type="term" value="P:autophagy of mitochondrion"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904881">
+<property type="term" value="P:cellular response to hydrogen sulfide"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071456">
+<property type="term" value="P:cellular response to hypoxia"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034599">
+<property type="term" value="P:cellular response to oxidative stress"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097237">
+<property type="term" value="P:cellular response to toxic substance"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072655">
+<property type="term" value="P:establishment of protein localization to mitochondrion"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035556">
+<property type="term" value="P:intracellular signal transduction"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016236">
+<property type="term" value="P:macroautophagy"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072656">
+<property type="term" value="P:maintenance of protein location in mitochondrion"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007005">
+<property type="term" value="P:mitochondrion organization"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0099074">
+<property type="term" value="P:mitochondrion to lysosome transport"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902902">
+<property type="term" value="P:negative regulation of autophagosome assembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903147">
+<property type="term" value="P:negative regulation of autophagy of mitochondrion"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010629">
+<property type="term" value="P:negative regulation of gene expression"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903384">
+<property type="term" value="P:negative regulation of hydrogen peroxide-induced neuron intrinsic apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903298">
+<property type="term" value="P:negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:2001243">
+<property type="term" value="P:negative regulation of intrinsic apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903751">
+<property type="term" value="P:negative regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046329">
+<property type="term" value="P:negative regulation of JNK cascade"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016242">
+<property type="term" value="P:negative regulation of macroautophagy"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090258">
+<property type="term" value="P:negative regulation of mitochondrial fission"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043524">
+<property type="term" value="P:negative regulation of neuron apoptotic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903202">
+<property type="term" value="P:negative regulation of oxidative stress-induced cell death"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903204">
+<property type="term" value="P:negative regulation of oxidative stress-induced neuron death"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000378">
+<property type="term" value="P:negative regulation of reactive oxygen species metabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036289">
+<property type="term" value="P:peptidyl-serine autophosphorylation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018105">
+<property type="term" value="P:peptidyl-serine phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2001171">
+<property type="term" value="P:positive regulation of ATP biosynthetic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903852">
+<property type="term" value="P:positive regulation of cristae formation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051091">
+<property type="term" value="P:positive regulation of DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033603">
+<property type="term" value="P:positive regulation of dopamine secretion"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904544">
+<property type="term" value="P:positive regulation of free ubiquitin chain polymerization"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901727">
+<property type="term" value="P:positive regulation of histone deacetylase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043123">
+<property type="term" value="P:positive regulation of I-kappaB kinase/NF-kappaB signaling"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016239">
+<property type="term" value="P:positive regulation of macroautophagy"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902958">
+<property type="term" value="P:positive regulation of mitochondrial electron transport, NADH to ubiquinone"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090141">
+<property type="term" value="P:positive regulation of mitochondrial fission"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0098779">
+<property type="term" value="P:positive regulation of mitophagy in response to mitochondrial depolarization"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904783">
+<property type="term" value="P:positive regulation of NMDA glutamate receptor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010952">
+<property type="term" value="P:positive regulation of peptidase activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033138">
+<property type="term" value="P:positive regulation of peptidyl-serine phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035307">
+<property type="term" value="P:positive regulation of protein dephosphorylation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051897">
+<property type="term" value="P:positive regulation of protein kinase B signaling"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001934">
+<property type="term" value="P:positive regulation of protein phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903955">
+<property type="term" value="P:positive regulation of protein targeting to mitochondrion"/>
+<property type="evidence" value="ECO:0007001"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031398">
+<property type="term" value="P:positive regulation of protein ubiquitination"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090200">
+<property type="term" value="P:positive regulation of release of cytochrome c from mitochondria"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032226">
+<property type="term" value="P:positive regulation of synaptic transmission, dopaminergic"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045727">
+<property type="term" value="P:positive regulation of translation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051443">
+<property type="term" value="P:positive regulation of ubiquitin-protein transferase activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006468">
+<property type="term" value="P:protein phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050821">
+<property type="term" value="P:protein stabilization"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016567">
+<property type="term" value="P:protein ubiquitination"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042981">
+<property type="term" value="P:regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903146">
+<property type="term" value="P:regulation of autophagy of mitochondrion"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900407">
+<property type="term" value="P:regulation of cellular response to oxidative stress"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010310">
+<property type="term" value="P:regulation of hydrogen peroxide metabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051881">
+<property type="term" value="P:regulation of mitochondrial membrane potential"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010821">
+<property type="term" value="P:regulation of mitochondrion organization"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002082">
+<property type="term" value="P:regulation of oxidative phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061136">
+<property type="term" value="P:regulation of proteasomal protein catabolic process"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903214">
+<property type="term" value="P:regulation of protein targeting to mitochondrion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031396">
+<property type="term" value="P:regulation of protein ubiquitination"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043254">
+<property type="term" value="P:regulation of protein-containing complex assembly"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000377">
+<property type="term" value="P:regulation of reactive oxygen species metabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902803">
+<property type="term" value="P:regulation of synaptic vesicle transport"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0022904">
+<property type="term" value="P:respiratory electron transport chain"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002931">
+<property type="term" value="P:response to ischemia"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006979">
+<property type="term" value="P:response to oxidative stress"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0038203">
+<property type="term" value="P:TORC2 signaling"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006511">
+<property type="term" value="P:ubiquitin-dependent protein catabolic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="CDD" id="cd14018">
+<property type="entry name" value="STKc_PINK1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR040110">
+<property type="entry name" value="PINK1_STKc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0072">Autophagy</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0496">Mitochondrion</keyword>
+<keyword id="KW-0999">Mitochondrion inner membrane</keyword>
+<keyword id="KW-1000">Mitochondrion outer membrane</keyword>
+<keyword id="KW-0523">Neurodegeneration</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0907">Parkinson disease</keyword>
+<keyword id="KW-0908">Parkinsonism</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1274">Primary mitochondrial disease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0723">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0809">Transit peptide</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="transit peptide" description="Mitochondrion" evidence="3">
+<location>
+<begin position="1"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="chain" description="Serine/threonine-protein kinase PINK1, mitochondrial" id="PRO_0000024369">
+<location>
+<begin position="78"/>
+<end position="581"/>
+</location>
+</feature>
+<feature type="topological domain" description="Mitochondrial intermembrane" evidence="3">
+<location>
+<begin position="78"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="94"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="111"/>
+<end position="581"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase" evidence="4 50">
+<location>
+<begin position="156"/>
+<end position="511"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="1 4">
+<location>
+<begin position="162"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="region of interest" description="Required for outer membrane localization" evidence="47">
+<location>
+<begin position="111"/>
+<end position="117"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="4 5">
+<location>
+<position position="362"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="4">
+<location>
+<position position="186"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by autocatalysis" evidence="36">
+<location>
+<position position="228"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by autocatalysis" evidence="36">
+<location>
+<position position="402"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_050754" evidence="49">
+<location>
+<begin position="1"/>
+<end position="307"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_050755" evidence="49">
+<original>LGHGRTLFLVMKN</original>
+<variation>MCGSQRPSPLSTS</variation>
+<location>
+<begin position="308"/>
+<end position="320"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs763142730." id="VAR_046566" evidence="28">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1385309950." id="VAR_046567" evidence="28">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="68"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6." id="VAR_046568" evidence="10">
+<original>C</original>
+<variation>F</variation>
+<location>
+<position position="92"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs575668171." id="VAR_046569" evidence="28">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="98"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_046570" evidence="28">
+<original>I</original>
+<variation>S</variation>
+<location>
+<position position="111"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs148871409." id="VAR_046571" evidence="15 16">
+<original>Q</original>
+<variation>L</variation>
+<location>
+<position position="115"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1274588239." id="VAR_046572" evidence="28">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="124"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6." id="VAR_062773" evidence="20">
+<original>C</original>
+<variation>G</variation>
+<location>
+<position position="125"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6; strongly reduces interaction with PRKN; dbSNP:rs775809722." id="VAR_064344" evidence="27 33">
+<original>Q</original>
+<variation>P</variation>
+<location>
+<position position="126"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs45604240." id="VAR_046573" evidence="28">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="145"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6; unknown pathological significance; dbSNP:rs138050841." id="VAR_046574" evidence="12">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="147"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs56297806." id="VAR_041010" evidence="26">
+<original>L</original>
+<variation>W</variation>
+<location>
+<position position="148"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6; no effect on autophosphorylation; localizes to the mitochondria and immunogold experiments reveal that both wild-type and mutant proteins face the mitochondrial intermembrane space; dbSNP:rs768091663." id="VAR_046575" evidence="10 16 18 44">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="168"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6." id="VAR_078934" evidence="41">
+<original>V</original>
+<variation>G</variation>
+<location>
+<position position="170"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs143204084." id="VAR_046576" evidence="28">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="186"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6; dbSNP:rs138302371." id="VAR_046577" evidence="16">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="196"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35802484." id="VAR_041011" evidence="26">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="196"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34677717." id="VAR_041012" evidence="26">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="209"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a glioblastoma multiforme sample; somatic mutation; dbSNP:rs371854396." id="VAR_041013" evidence="26">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="215"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6; dbSNP:rs74315360." id="VAR_046578" evidence="23">
+<original>A</original>
+<variation>D</variation>
+<location>
+<position position="217"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1303935100." id="VAR_046579" evidence="13">
+<original>E</original>
+<variation>G</variation>
+<location>
+<position position="231"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_046580" evidence="13">
+<original>N</original>
+<variation>I</variation>
+<location>
+<position position="235"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6; dbSNP:rs573931674." id="VAR_046581" evidence="13 20">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="240"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs370906995." id="VAR_046582">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="257"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_046583" evidence="13">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="263"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6; dbSNP:rs372280083." id="VAR_046584" evidence="17 28">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="268"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6; dbSNP:rs28940284." id="VAR_046585" evidence="11">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="271"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs548506734." id="VAR_046586" evidence="28">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="276"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6; dbSNP:rs74315358." id="VAR_046587" evidence="15">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="279"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6; early-onset; dbSNP:rs772510148." id="VAR_062774" evidence="21">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="280"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs779060308." id="VAR_046588" evidence="10 28">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="296"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs7349186." id="VAR_018993">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="305"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6; fails to maintain mitochondrial membrane potential; full-length mutant has no effect on autophosphorylation; strongly reduces interaction with PRKN; decreases PRKN and SNCAIP ubiquitination and degradation; dbSNP:rs74315355." id="VAR_018994" evidence="9 18 30 33">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="309"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6; decreases PRKN and SNCAIP ubiquitination and degradation; dbSNP:rs74315359." id="VAR_046589" evidence="25 30">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="313"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs200949139." id="VAR_046590" evidence="24 28">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="317"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs139226733." id="VAR_046591" evidence="13">
+<original>M</original>
+<variation>L</variation>
+<location>
+<position position="318"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs768019187." id="VAR_046592" evidence="28">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="322"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55831733." id="VAR_041014" evidence="13 24 26 28">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="339"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3738136." id="VAR_018995" evidence="8 10 13 16 19 21 26">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="340"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35813094." id="VAR_041015" evidence="26">
+<original>M</original>
+<variation>I</variation>
+<location>
+<position position="341"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6; strongly reduces interaction with PRKN; dbSNP:rs28940285." id="VAR_046593" evidence="11 13 33 37">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="347"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_046594" evidence="13">
+<original>D</original>
+<variation>H</variation>
+<location>
+<position position="362"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6; dbSNP:rs1195888869." id="VAR_062775" evidence="20">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="369"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34203620." id="VAR_041016" evidence="26">
+<original>C</original>
+<variation>F</variation>
+<location>
+<position position="377"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs45515602." id="VAR_046595" evidence="24 28">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="383"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6; abolishes kinase activity." id="VAR_062776" evidence="20 44">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="386"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6." id="VAR_046596" evidence="14">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="388"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1035071310." id="VAR_046597" evidence="28">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="395"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Probable disease-associated variant found in early-onset Parkinson disease with digenic inheritance; found in a patient also carrying mutation S-39 in PARK7; decreases PRKN and SNCAIP ubiquitination and degradation; dbSNP:rs119451946." id="VAR_062777" evidence="22 30">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="399"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6; early-onset; dbSNP:rs556540177." id="VAR_062778" evidence="19">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="407"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6." id="VAR_062779" evidence="20">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="409"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs45478900." id="VAR_046598" evidence="24">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="411"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6." id="VAR_046599" evidence="11">
+<original>E</original>
+<variation>G</variation>
+<location>
+<position position="417"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs554114655." id="VAR_046600" evidence="13">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="425"/>
+</location>
+</feature>
+<feature type="sequence variant" description="May predispose to Parkinson disease development; shows decreased mitochondrial membrane potential under stress conditions; dbSNP:rs74315361." id="VAR_046601" evidence="24">
+<original>Y</original>
+<variation>H</variation>
+<location>
+<position position="431"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_046602" evidence="10 28">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="442"/>
+</location>
+</feature>
+<feature type="sequence variant" description="May predispose to Parkinson disease development; shows decreased mitochondrial membrane potential under stress conditions; dbSNP:rs747400197." id="VAR_046603" evidence="24">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="451"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6." id="VAR_078935" evidence="41">
+<location>
+<begin position="456"/>
+<end position="581"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_046604" evidence="24">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="461"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6; dbSNP:rs764328076." id="VAR_046605" evidence="10">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="464"/>
+</location>
+</feature>
+<feature type="sequence variant" description="May predispose to Parkinson disease development; shows decreased mitochondrial membrane potential under stress conditions; dbSNP:rs115477764." id="VAR_046606" evidence="10 13 16 24 28">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="476"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34416410." id="VAR_041017" evidence="26">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="477"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6." id="VAR_046607" evidence="13">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="489"/>
+</location>
+</feature>
+<feature type="sequence variant" description="May predispose to Parkinson disease development; shows decreased mitochondrial membrane potential under stress conditions; dbSNP:rs61744200." id="VAR_046608" evidence="24">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="501"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1043424." id="VAR_018996" evidence="8 10 13 16 19 21 26">
+<original>N</original>
+<variation>T</variation>
+<location>
+<position position="521"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs531477772." id="VAR_046609" evidence="10 28">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="525"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PARK6." id="VAR_046610" evidence="15">
+<original>Q</original>
+<variation>QQ</variation>
+<location>
+<position position="534"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs771032673." id="VAR_046611" evidence="28">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="537"/>
+</location>
+</feature>
+<feature type="sequence variant" description="May predispose to Parkinson disease development; shows decreased mitochondrial membrane potential under stress conditions." id="VAR_046612" evidence="24">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="575"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="In 3EA; impaired ability to localize to the outer mitochondrial membrane." evidence="47">
+<original>EEKQAE</original>
+<variation>AAKQAA</variation>
+<location>
+<begin position="112"/>
+<end position="117"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes MFN2 phosphorylation and interaction with PRKN; when associated with ALA-362 and ALA-384." evidence="38">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="219"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes MFN2 phosphorylation and interaction with PRKN; when associated with ALA-219 and ALA-384." evidence="38">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="362"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes MFN2 phosphorylation and interaction with PRKN; when associated with ALA-219 and ALA-362." evidence="38">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="384"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; AAH28215." ref="5" evidence="50">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="209"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; BAC11484." ref="3" evidence="50">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="419"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q02750"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q99MQ3"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255"/>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00159"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10027"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11494141"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14607334"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15087508"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15349860"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15349870"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15505171"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15596610"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15955953"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15970950"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16009891"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16207217"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16207731"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16257123"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16401616"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16482571"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16632486"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16966503"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16969854"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17030667"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17344846"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18286320"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18330912"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18687899"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19229105"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19966284"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20404107"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20798600"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22043288"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22354088"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22910362"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22956510"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23620051"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23754282"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23933751"/>
+</source>
+</evidence>
+<evidence key="41" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24652937"/>
+</source>
+</evidence>
+<evidence key="42" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24660806"/>
+</source>
+</evidence>
+<evidence key="43" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24751536"/>
+</source>
+</evidence>
+<evidence key="44" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24784582"/>
+</source>
+</evidence>
+<evidence key="45" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24896179"/>
+</source>
+</evidence>
+<evidence key="46" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25527291"/>
+</source>
+</evidence>
+<evidence key="47" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30733118"/>
+</source>
+</evidence>
+<evidence key="48" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="31536960"/>
+</source>
+</evidence>
+<evidence key="49" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="50" type="ECO:0000305"/>
+<evidence key="51" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAH09534.1"/>
+</source>
+</evidence>
+<evidence key="52" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAH28215.1"/>
+</source>
+</evidence>
+<evidence key="53" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAK28062.1"/>
+</source>
+</evidence>
+<evidence key="54" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="BAC11484.1"/>
+</source>
+</evidence>
+<sequence length="581" mass="62769" checksum="721FE01F63263A64" modified="2001-06-01" version="1" precursor="true">MAVRQALGRGLQLGRALLLRFTGKPGRAYGLGRPGPAAGCVRGERPGWAAGPGAEPRRVGLGLPNRLRFFRQSVAGLAARLQRQFVVRAWGCAGPCGRAVFLAFGLGLGLIEEKQAESRRAVSACQEIQAIFTQKSKPGPDPLDTRRLQGFRLEEYLIGQSIGKGCSAAVYEATMPTLPQNLEVTKSTGLLPGRGPGTSAPGEGQERAPGAPAFPLAIKMMWNISAGSSSEAILNTMSQELVPASRVALAGEYGAVTYRKSKRGPKQLAPHPNIIRVLRAFTSSVPLLPGALVDYPDVLPSRLHPEGLGHGRTLFLVMKNYPCTLRQYLCVNTPSPRLAAMMLLQLLEGVDHLVQQGIAHRDLKSDNILVELDPDGCPWLVIADFGCCLADESIGLQLPFSSWYVDRGGNGCLMAPEVSTARPGPRAVIDYSKADAWAVGAIAYEIFGLVNPFYGQGKAHLESRSYQEAQLPALPESVPPDVRQLVRALLQREASKRPSARVAANVLHLSLWGEHILALKNLKLDKMVGWLLQQSAATLLANRLTEKCCVETKMKMLFLANLECETLCQAALLLCSWRAAL</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

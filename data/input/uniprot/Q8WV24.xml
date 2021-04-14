@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-12-20" modified="2020-10-07" version="137">
+<accession>Q8WV24</accession>
+<accession>A1A4G9</accession>
+<accession>Q15184</accession>
+<accession>Q2TAN2</accession>
+<accession>Q9NZ17</accession>
+<name>PHLA1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Pleckstrin homology-like domain family A member 1</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Apoptosis-associated nuclear protein</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Proline- and glutamine-rich protein</fullName>
+<shortName>PQ-rich protein</shortName>
+<shortName>PQR protein</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Proline- and histidine-rich protein</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>T-cell death-associated gene 51 protein</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">PHLDA1</name>
+<name type="synonym">PHRIP</name>
+<name type="synonym">TDAG51</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2000" name="Cytogenet. Cell Genet." volume="89" first="1" last="1">
+<title>Assignment of the human PHLDA1 gene to chromosome 12q15 by radiation hybrid mapping.</title>
+<authorList>
+<person name="Kuske M.D."/>
+<person name="Johnson J.P."/>
+</authorList>
+<dbReference type="PubMed" id="10894922"/>
+<dbReference type="DOI" id="10.1159/000015575"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="1995-07" db="EMBL/GenBank/DDBJ databases">
+<title>A cDNA, which predicts a protein with PQ-rich repeats, isolated from a phage library of human fetal liver tissue.</title>
+<authorList>
+<person name="Wagner F.F."/>
+<person name="Flegel W.A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Fetal liver</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 53-401</scope>
+<source>
+<tissue>Brain</tissue>
+<tissue>Uterus</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2002" name="Cancer Res." volume="62" first="5920" last="5929">
+<title>Identification of the human PHLDA1/TDAG51 gene: down-regulation in metastatic melanoma contributes to apoptosis resistance and growth deregulation.</title>
+<authorList>
+<person name="Neef R."/>
+<person name="Kuske M.A."/>
+<person name="Proels E."/>
+<person name="Johnson J.P."/>
+</authorList>
+<dbReference type="PubMed" id="12384558"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 350-401</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2001" name="Cell. Signal." volume="13" first="345" last="352">
+<title>Inhibition of protein synthesis by the T cell receptor-inducible human TDAG51 gene product.</title>
+<authorList>
+<person name="Hinz T."/>
+<person name="Flindt S."/>
+<person name="Marx A."/>
+<person name="Janssen O."/>
+<person name="Kabelitz D."/>
+</authorList>
+<dbReference type="PubMed" id="11369516"/>
+<dbReference type="DOI" id="10.1016/s0898-6568(01)00141-3"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH RPL14; EIF3S7 AND PABPC4</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="30317" last="30327">
+<title>TDAG51 is induced by homocysteine, promotes detachment-mediated programmed cell death, and contributes to the development of atherosclerosis in hyperhomocysteinemia.</title>
+<authorList>
+<person name="Hossain G.S."/>
+<person name="van Thienen J.V."/>
+<person name="Werstuck G.H."/>
+<person name="Zhou J."/>
+<person name="Sood S.K."/>
+<person name="Dickhout J.G."/>
+<person name="de Koning A.B."/>
+<person name="Tang D."/>
+<person name="Wu D."/>
+<person name="Falk E."/>
+<person name="Poddar R."/>
+<person name="Jacobsen D.W."/>
+<person name="Zhang K."/>
+<person name="Kaufman R.J."/>
+<person name="Austin R.C."/>
+</authorList>
+<dbReference type="PubMed" id="12738777"/>
+<dbReference type="DOI" id="10.1074/jbc.m212897200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INDUCTION</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2012" name="Proc. Natl. Acad. Sci. U.S.A." volume="109" first="12449" last="12454">
+<title>N-terminal acetylome analyses and functional insights of the N-terminal acetyltransferase NatB.</title>
+<authorList>
+<person name="Van Damme P."/>
+<person name="Lasa M."/>
+<person name="Polevoda B."/>
+<person name="Gazquez C."/>
+<person name="Elosegui-Artola A."/>
+<person name="Kim D.S."/>
+<person name="De Juan-Pardo E."/>
+<person name="Demeyer K."/>
+<person name="Hole K."/>
+<person name="Larrea E."/>
+<person name="Timmerman E."/>
+<person name="Prieto J."/>
+<person name="Arnesen T."/>
+<person name="Sherman F."/>
+<person name="Gevaert K."/>
+<person name="Aldabe R."/>
+</authorList>
+<dbReference type="PubMed" id="22814378"/>
+<dbReference type="DOI" id="10.1073/pnas.1210303109"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="function">
+<text evidence="1 3">Seems to be involved in regulation of apoptosis. May be involved in detachment-mediated programmed cell death. May mediate apoptosis during neuronal development. May be involved in regulation of anti-apoptotic effects of IGF1. May be involved in translational regulation.</text>
+</comment>
+<comment type="subunit">
+<text evidence="1">Interacts with RPL14, EIF3S7 and PABPC4.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-738731">
+<id>Q8WV24</id>
+</interactant>
+<interactant intactId="EBI-353818">
+<id>O15371</id>
+<label>EIF3D</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-738731">
+<id>Q8WV24</id>
+</interactant>
+<interactant intactId="EBI-724076">
+<id>Q99750</id>
+<label>MDFI</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-738731">
+<id>Q8WV24</id>
+</interactant>
+<interactant intactId="EBI-372844">
+<id>Q13310</id>
+<label>PABPC4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-738731">
+<id>Q8WV24</id>
+</interactant>
+<interactant intactId="EBI-356746">
+<id>P50914</id>
+<label>RPL14</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="3">Cytoplasmic vesicle</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Nucleus</location>
+<location evidence="1">Nucleolus</location>
+</subcellularLocation>
+<text evidence="3">Colocalizes with intracellular vesicles.</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="2 3">Widely expressed with highest levels in pancreas. Strongly expressed by benign melanocytic nevi, and progressively reduced expressed in primary and metastatic melanomas (at protein level).</text>
+</comment>
+<comment type="induction">
+<text evidence="3">Induced by homocysteine and other endoplasmic reticulum stress-inducing reagents. Induced by phorbol ester (TPA)/ionomycin, and stimulation of the T-cell receptor (TCR) complex in T-cells.</text>
+</comment>
+<comment type="sequence caution" evidence="4">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAH18929" version="3"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="4">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAI10821" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="4">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAI26426" version="2"/>
+</conflict>
+</comment>
+<dbReference type="EMBL" id="AF239986">
+<property type="protein sequence ID" value="AAF64165.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z50194">
+<property type="protein sequence ID" value="CAA90576.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC018929">
+<property type="protein sequence ID" value="AAH18929.3"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC110820">
+<property type="protein sequence ID" value="AAI10821.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC126425">
+<property type="protein sequence ID" value="AAI26426.2"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF220656">
+<property type="protein sequence ID" value="AAF36387.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS31861.1"/>
+<dbReference type="PIR" id="S58222">
+<property type="entry name" value="S58222"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_031376.3">
+<property type="nucleotide sequence ID" value="NM_007350.3"/>
+</dbReference>
+<dbReference type="BioGRID" id="116498">
+<property type="interactions" value="47"/>
+</dbReference>
+<dbReference type="IntAct" id="Q8WV24">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="MINT" id="Q8WV24"/>
+<dbReference type="STRING" id="9606.ENSP00000266671"/>
+<dbReference type="iPTMnet" id="Q8WV24"/>
+<dbReference type="PhosphoSitePlus" id="Q8WV24"/>
+<dbReference type="BioMuta" id="PHLDA1"/>
+<dbReference type="DMDM" id="229463035"/>
+<dbReference type="EPD" id="Q8WV24"/>
+<dbReference type="jPOST" id="Q8WV24"/>
+<dbReference type="MassIVE" id="Q8WV24"/>
+<dbReference type="MaxQB" id="Q8WV24"/>
+<dbReference type="PaxDb" id="Q8WV24"/>
+<dbReference type="PeptideAtlas" id="Q8WV24"/>
+<dbReference type="PRIDE" id="Q8WV24"/>
+<dbReference type="ProteomicsDB" id="74739"/>
+<dbReference type="Antibodypedia" id="4254">
+<property type="antibodies" value="222 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="22822"/>
+<dbReference type="Ensembl" id="ENST00000266671">
+<property type="protein sequence ID" value="ENSP00000266671"/>
+<property type="gene ID" value="ENSG00000139289"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000619060">
+<property type="protein sequence ID" value="ENSP00000480767"/>
+<property type="gene ID" value="ENSG00000139289"/>
+</dbReference>
+<dbReference type="GeneID" id="22822"/>
+<dbReference type="KEGG" id="hsa:22822"/>
+<dbReference type="UCSC" id="uc001sxu.3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="22822"/>
+<dbReference type="DisGeNET" id="22822"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000139289.13"/>
+<dbReference type="GeneCards" id="PHLDA1"/>
+<dbReference type="HGNC" id="HGNC:8933">
+<property type="gene designation" value="PHLDA1"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000139289">
+<property type="expression patterns" value="Tissue enriched (salivary)"/>
+</dbReference>
+<dbReference type="MIM" id="605335">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q8WV24"/>
+<dbReference type="OpenTargets" id="ENSG00000139289"/>
+<dbReference type="PharmGKB" id="PA33274"/>
+<dbReference type="eggNOG" id="ENOG502RZ5Q">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00440000039564"/>
+<dbReference type="HOGENOM" id="CLU_062639_0_0_1"/>
+<dbReference type="InParanoid" id="Q8WV24"/>
+<dbReference type="KO" id="K23793"/>
+<dbReference type="OMA" id="GRQEPPF"/>
+<dbReference type="OrthoDB" id="1412115at2759"/>
+<dbReference type="PhylomeDB" id="Q8WV24"/>
+<dbReference type="TreeFam" id="TF332320"/>
+<dbReference type="PathwayCommons" id="Q8WV24"/>
+<dbReference type="Reactome" id="R-HSA-8854521">
+<property type="pathway name" value="Interaction between PHLDA1 and AURKA"/>
+</dbReference>
+<dbReference type="BioGRID-ORCS" id="22822">
+<property type="hits" value="6 hits in 875 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="PHLDA1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="PHLDA1"/>
+<dbReference type="GenomeRNAi" id="22822"/>
+<dbReference type="Pharos" id="Q8WV24">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q8WV24"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 12"/>
+</dbReference>
+<dbReference type="RNAct" id="Q8WV24">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000139289">
+<property type="expression patterns" value="Expressed in saliva-secreting gland and 116 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q8WV24">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q8WV24">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031410">
+<property type="term" value="C:cytoplasmic vesicle"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005730">
+<property type="term" value="C:nucleolus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901981">
+<property type="term" value="F:phosphatidylinositol phosphate binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006915">
+<property type="term" value="P:apoptotic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045210">
+<property type="term" value="P:FasL biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000086">
+<property type="term" value="P:G2/M transition of mitotic cell cycle"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043065">
+<property type="term" value="P:positive regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.30.29.30">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011993">
+<property type="entry name" value="PH-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001849">
+<property type="entry name" value="PH_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR042832">
+<property type="entry name" value="PHLA1/2/3"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR15478">
+<property type="entry name" value="PTHR15478"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00233">
+<property type="entry name" value="PH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0053">Apoptosis</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0968">Cytoplasmic vesicle</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<feature type="chain" description="Pleckstrin homology-like domain family A member 1" id="PRO_0000053897">
+<location>
+<begin position="1"/>
+<end position="401"/>
+</location>
+</feature>
+<feature type="domain" description="PH">
+<location>
+<begin position="151"/>
+<end position="283"/>
+</location>
+</feature>
+<feature type="region of interest" description="15 X 2 AA repeats of P-Q">
+<location>
+<begin position="311"/>
+<end position="346"/>
+</location>
+</feature>
+<feature type="region of interest" description="14 X 2 AA repeats of P-H">
+<location>
+<begin position="352"/>
+<end position="389"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Gln">
+<location>
+<begin position="187"/>
+<end position="204"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAF64165, 2; CAA90576 and 3." ref="1 2 3" evidence="4">
+<location>
+<position position="204"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11369516"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12384558"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12738777"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="401" mass="45016" checksum="1E01E7F75116A517" modified="2009-05-05" version="4">MRRAPAAERLLELGFPPRCGRQEPPFPLGVTRGWGRWPIQKRREGARPVPFSERSQEDGRGPAARSSGTLWRIRTRLSLCRDPEPPPPLCLLRVSLLCALRAGGRGSRWGEDGARLLLLPPARAAGNGEAEPSGGPSYAGRMLESSGCKALKEGVLEKRSDGLLQLWKKKCCILTEEGLLLIPPKQLQHQQQQQQQQQQQQQQQPGQGPAEPSQPSGPAVASLEPPVKLKELHFSNMKTVDCVERKGKYMYFTVVMAEGKEIDFRCPQDQGWNAEITLQMVQYKNRQAILAVKSTRQKQQHLVQQQPPSQPQPQPQLQPQPQPQPQPQPQPQSQPQPQPQPKPQPQQLHPYPHPHPHPHSHPHSHPHPHPHPHPHQIPHPHPQPHSQPHGHRLLRSTSNSA</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1990-04-01" modified="2020-10-07" version="221">
+<accession>P14784</accession>
+<accession>B2R765</accession>
+<name>IL2RB_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Interleukin-2 receptor subunit beta</fullName>
+<shortName>IL-2 receptor subunit beta</shortName>
+<shortName>IL-2R subunit beta</shortName>
+<shortName>IL-2RB</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>High affinity IL-2 receptor subunit beta</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="15">Interleukin-15 receptor subunit beta</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>p70-75</fullName>
+<shortName>p75</shortName>
+</alternativeName>
+<cdAntigenName>CD122</cdAntigenName>
+</protein>
+<gene>
+<name type="primary" evidence="15">IL2RB</name>
+<name type="synonym" evidence="15">IL15RB</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1989" name="Science" volume="244" first="551" last="556">
+<title>Interleukin-2 receptor beta chain gene: generation of three receptor forms by cloned human alpha and beta chain cDNA's.</title>
+<authorList>
+<person name="Hatakeyama M."/>
+<person name="Tsudo M."/>
+<person name="Minamoto S."/>
+<person name="Kono T."/>
+<person name="Doi T."/>
+<person name="Miyata T."/>
+<person name="Miyasaka M."/>
+<person name="Taniguchi T."/>
+</authorList>
+<dbReference type="PubMed" id="2785715"/>
+<dbReference type="DOI" id="10.1126/science.2785715"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Genome Biol." volume="5" first="R84.1" last="R84.11">
+<title>A genome annotation-driven approach to cloning the human ORFeome.</title>
+<authorList>
+<person name="Collins J.E."/>
+<person name="Wright C.L."/>
+<person name="Edwards C.A."/>
+<person name="Davis M.P."/>
+<person name="Grinham J.A."/>
+<person name="Cole C.G."/>
+<person name="Goward M.E."/>
+<person name="Aguado B."/>
+<person name="Mallya M."/>
+<person name="Mokrab Y."/>
+<person name="Huckle E.J."/>
+<person name="Beare D.M."/>
+<person name="Dunham I."/>
+</authorList>
+<dbReference type="PubMed" id="15461802"/>
+<dbReference type="DOI" id="10.1186/gb-2004-5-10-r84"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2002-06" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="SeattleSNPs variation discovery resource"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>VARIANTS PHE-83 AND GLU-391</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Trachea</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1999" name="Nature" volume="402" first="489" last="495">
+<title>The DNA sequence of human chromosome 22.</title>
+<authorList>
+<person name="Dunham I."/>
+<person name="Hunt A.R."/>
+<person name="Collins J.E."/>
+<person name="Bruskiewich R."/>
+<person name="Beare D.M."/>
+<person name="Clamp M."/>
+<person name="Smink L.J."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C."/>
+<person name="Bailey J."/>
+<person name="Barlow K.F."/>
+<person name="Bates K.N."/>
+<person name="Beasley O.P."/>
+<person name="Bird C.P."/>
+<person name="Blakey S.E."/>
+<person name="Bridgeman A.M."/>
+<person name="Buck D."/>
+<person name="Burgess J."/>
+<person name="Burrill W.D."/>
+<person name="Burton J."/>
+<person name="Carder C."/>
+<person name="Carter N.P."/>
+<person name="Chen Y."/>
+<person name="Clark G."/>
+<person name="Clegg S.M."/>
+<person name="Cobley V.E."/>
+<person name="Cole C.G."/>
+<person name="Collier R.E."/>
+<person name="Connor R."/>
+<person name="Conroy D."/>
+<person name="Corby N.R."/>
+<person name="Coville G.J."/>
+<person name="Cox A.V."/>
+<person name="Davis J."/>
+<person name="Dawson E."/>
+<person name="Dhami P.D."/>
+<person name="Dockree C."/>
+<person name="Dodsworth S.J."/>
+<person name="Durbin R.M."/>
+<person name="Ellington A.G."/>
+<person name="Evans K.L."/>
+<person name="Fey J.M."/>
+<person name="Fleming K."/>
+<person name="French L."/>
+<person name="Garner A.A."/>
+<person name="Gilbert J.G.R."/>
+<person name="Goward M.E."/>
+<person name="Grafham D.V."/>
+<person name="Griffiths M.N.D."/>
+<person name="Hall C."/>
+<person name="Hall R.E."/>
+<person name="Hall-Tamlyn G."/>
+<person name="Heathcott R.W."/>
+<person name="Ho S."/>
+<person name="Holmes S."/>
+<person name="Hunt S.E."/>
+<person name="Jones M.C."/>
+<person name="Kershaw J."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Laird G.K."/>
+<person name="Langford C.F."/>
+<person name="Leversha M.A."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Martyn I.D."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L.H."/>
+<person name="Mccann O.T."/>
+<person name="Mcclay J."/>
+<person name="Mclaren S."/>
+<person name="McMurray A.A."/>
+<person name="Milne S.A."/>
+<person name="Mortimore B.J."/>
+<person name="Odell C.N."/>
+<person name="Pavitt R."/>
+<person name="Pearce A.V."/>
+<person name="Pearson D."/>
+<person name="Phillimore B.J.C.T."/>
+<person name="Phillips S.H."/>
+<person name="Plumb R.W."/>
+<person name="Ramsay H."/>
+<person name="Ramsey Y."/>
+<person name="Rogers L."/>
+<person name="Ross M.T."/>
+<person name="Scott C.E."/>
+<person name="Sehra H.K."/>
+<person name="Skuce C.D."/>
+<person name="Smalley S."/>
+<person name="Smith M.L."/>
+<person name="Soderlund C."/>
+<person name="Spragon L."/>
+<person name="Steward C.A."/>
+<person name="Sulston J.E."/>
+<person name="Swann R.M."/>
+<person name="Vaudin M."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="Whiteley M.N."/>
+<person name="Willey D.L."/>
+<person name="Williams L."/>
+<person name="Williams S.A."/>
+<person name="Williamson H."/>
+<person name="Wilmer T.E."/>
+<person name="Wilming L."/>
+<person name="Wright C.L."/>
+<person name="Hubbard T."/>
+<person name="Bentley D.R."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+<person name="Shimizu N."/>
+<person name="Minoshima S."/>
+<person name="Kawasaki K."/>
+<person name="Sasaki T."/>
+<person name="Asakawa S."/>
+<person name="Kudoh J."/>
+<person name="Shintani A."/>
+<person name="Shibuya K."/>
+<person name="Yoshizaki Y."/>
+<person name="Aoki N."/>
+<person name="Mitsuyama S."/>
+<person name="Roe B.A."/>
+<person name="Chen F."/>
+<person name="Chu L."/>
+<person name="Crabtree J."/>
+<person name="Deschamps S."/>
+<person name="Do A."/>
+<person name="Do T."/>
+<person name="Dorman A."/>
+<person name="Fang F."/>
+<person name="Fu Y."/>
+<person name="Hu P."/>
+<person name="Hua A."/>
+<person name="Kenton S."/>
+<person name="Lai H."/>
+<person name="Lao H.I."/>
+<person name="Lewis J."/>
+<person name="Lewis S."/>
+<person name="Lin S.-P."/>
+<person name="Loh P."/>
+<person name="Malaj E."/>
+<person name="Nguyen T."/>
+<person name="Pan H."/>
+<person name="Phan S."/>
+<person name="Qi S."/>
+<person name="Qian Y."/>
+<person name="Ray L."/>
+<person name="Ren Q."/>
+<person name="Shaull S."/>
+<person name="Sloan D."/>
+<person name="Song L."/>
+<person name="Wang Q."/>
+<person name="Wang Y."/>
+<person name="Wang Z."/>
+<person name="White J."/>
+<person name="Willingham D."/>
+<person name="Wu H."/>
+<person name="Yao Z."/>
+<person name="Zhan M."/>
+<person name="Zhang G."/>
+<person name="Chissoe S."/>
+<person name="Murray J."/>
+<person name="Miller N."/>
+<person name="Minx P."/>
+<person name="Fulton R."/>
+<person name="Johnson D."/>
+<person name="Bemis G."/>
+<person name="Bentley D."/>
+<person name="Bradshaw H."/>
+<person name="Bourne S."/>
+<person name="Cordes M."/>
+<person name="Du Z."/>
+<person name="Fulton L."/>
+<person name="Goela D."/>
+<person name="Graves T."/>
+<person name="Hawkins J."/>
+<person name="Hinds K."/>
+<person name="Kemp K."/>
+<person name="Latreille P."/>
+<person name="Layman D."/>
+<person name="Ozersky P."/>
+<person name="Rohlfing T."/>
+<person name="Scheet P."/>
+<person name="Walker C."/>
+<person name="Wamsley A."/>
+<person name="Wohldmann P."/>
+<person name="Pepin K."/>
+<person name="Nelson J."/>
+<person name="Korf I."/>
+<person name="Bedell J.A."/>
+<person name="Hillier L.W."/>
+<person name="Mardis E."/>
+<person name="Waterston R."/>
+<person name="Wilson R."/>
+<person name="Emanuel B.S."/>
+<person name="Shaikh T."/>
+<person name="Kurahashi H."/>
+<person name="Saitta S."/>
+<person name="Budarf M.L."/>
+<person name="McDermid H.E."/>
+<person name="Johnson A."/>
+<person name="Wong A.C.C."/>
+<person name="Morrow B.E."/>
+<person name="Edelmann L."/>
+<person name="Kim U.J."/>
+<person name="Shizuya H."/>
+<person name="Simon M.I."/>
+<person name="Dumanski J.P."/>
+<person name="Peyrard M."/>
+<person name="Kedra D."/>
+<person name="Seroussi E."/>
+<person name="Fransson I."/>
+<person name="Tapia I."/>
+<person name="Bruder C.E."/>
+<person name="O'Brien K.P."/>
+<person name="Wilkinson P."/>
+<person name="Bodenteich A."/>
+<person name="Hartman K."/>
+<person name="Hu X."/>
+<person name="Khan A.S."/>
+<person name="Lane L."/>
+<person name="Tilahun Y."/>
+<person name="Wright H."/>
+</authorList>
+<dbReference type="PubMed" id="10591208"/>
+<dbReference type="DOI" id="10.1038/990031"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Lung</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1996" name="J. Virol." volume="70" first="3599" last="3605">
+<title>The human T-cell leukemia/lymphotropic virus type 1 p12I proteins bind the interleukin-2 receptor beta and gammac chains and affects their expression on the cell surface.</title>
+<authorList>
+<person name="Mulloy J.C."/>
+<person name="Crownley R.W."/>
+<person name="Fullen J."/>
+<person name="Leonard W.J."/>
+<person name="Franchini G."/>
+</authorList>
+<dbReference type="PubMed" id="8648694"/>
+</citation>
+<scope>INTERACTION WITH HTLV-1 ACCESSORY PROTEIN P12I (MICROBIAL INFECTION)</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2002" name="Biochem. Biophys. Res. Commun." volume="296" first="929" last="936">
+<title>IL-2 receptor signaling through the Shb adapter protein in T and NK cells.</title>
+<authorList>
+<person name="Lindholm C.K."/>
+</authorList>
+<dbReference type="PubMed" id="12200137"/>
+<dbReference type="DOI" id="10.1016/s0006-291x(02)02016-8"/>
+</citation>
+<scope>INTERACTION WITH SHB</scope>
+<scope>MUTAGENESIS OF TYR-418 AND TYR-536</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2004" name="J. Leukoc. Biol." volume="76" first="162" last="168">
+<title>Interleukin-15 enhances human neutrophil phagocytosis by a Syk-dependent mechanism: importance of the IL-15Ralpha chain.</title>
+<authorList>
+<person name="Ratthe C."/>
+<person name="Girard D."/>
+</authorList>
+<dbReference type="PubMed" id="15123770"/>
+<dbReference type="DOI" id="10.1189/jlb.0605298"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1994" name="Structure" volume="2" first="839" last="851">
+<title>The interleukin-2 and interleukin-4 receptors studied by molecular modelling.</title>
+<authorList>
+<person name="Bamborough P."/>
+<person name="Hedgecock C.J."/>
+<person name="Richards W.G."/>
+</authorList>
+<dbReference type="PubMed" id="7529123"/>
+<dbReference type="DOI" id="10.1016/s0969-2126(94)00085-9"/>
+</citation>
+<scope>3D-STRUCTURE MODELING OF 31-230</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2005" name="Science" volume="310" first="1159" last="1163">
+<title>Structure of the quaternary complex of interleukin-2 with its alpha, beta, and gammac receptors.</title>
+<authorList>
+<person name="Wang X."/>
+<person name="Rickert M."/>
+<person name="Garcia K.C."/>
+</authorList>
+<dbReference type="PubMed" id="16293754"/>
+<dbReference type="DOI" id="10.1126/science.1117893"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 27-240 IN COMPLEX WITH IL2; IL2RA AND IL2RC</scope>
+<scope>DISULFIDE BONDS</scope>
+<scope>GLYCOSYLATION AT ASN-149</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2006" name="Proc. Natl. Acad. Sci. U.S.A." volume="103" first="2788" last="2793">
+<title>Crystal structure of the IL-2 signaling complex: paradigm for a heterotrimeric cytokine receptor.</title>
+<authorList>
+<person name="Stauber D.J."/>
+<person name="Debler E.W."/>
+<person name="Horton P.A."/>
+<person name="Smith K.A."/>
+<person name="Wilson I.A."/>
+</authorList>
+<dbReference type="PubMed" id="16477002"/>
+<dbReference type="DOI" id="10.1073/pnas.0511161103"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 25-232 IN COMPLEX WITH IL2; IL2RA AND IL2RC</scope>
+<scope>DISULFIDE BONDS</scope>
+<scope>GLYCOSYLATION AT ASN-43; ASN-71 AND ASN-149</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2019" name="J. Exp. Med." volume="216" first="1255" last="1267">
+<title>A novel human IL2RB mutation results in T and NK cell-driven immune dysregulation.</title>
+<authorList>
+<person name="Fernandez I.Z."/>
+<person name="Baxter R.M."/>
+<person name="Garcia-Perez J.E."/>
+<person name="Vendrame E."/>
+<person name="Ranganath T."/>
+<person name="Kong D.S."/>
+<person name="Lundquist K."/>
+<person name="Nguyen T."/>
+<person name="Ogolla S."/>
+<person name="Black J."/>
+<person name="Galambos C."/>
+<person name="Gumbart J.C."/>
+<person name="Dawany N."/>
+<person name="Kelsen J.R."/>
+<person name="de Zoeten E.F."/>
+<person name="Quinones R."/>
+<person name="Eissa H."/>
+<person name="Verneris M.R."/>
+<person name="Sullivan K.E."/>
+<person name="Rochford R."/>
+<person name="Blish C.A."/>
+<person name="Kedl R.M."/>
+<person name="Dutmer C.M."/>
+<person name="Hsieh E.W.Y."/>
+</authorList>
+<dbReference type="PubMed" id="31040184"/>
+<dbReference type="DOI" id="10.1084/jem.20182015"/>
+</citation>
+<scope>INVOLVEMENT IN IMD63</scope>
+<scope>VARIANT IMD63 222-PRO--SER-224 DEL</scope>
+<scope>CHARACTERIZATION OF VARIANT IMD63 222-PRO--SER-224 DEL</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2019" name="J. Exp. Med." volume="216" first="1311" last="1327">
+<title>Human interleukin-2 receptor beta mutations associated with defects in immunity and peripheral tolerance.</title>
+<authorList>
+<person name="Zhang Z."/>
+<person name="Gothe F."/>
+<person name="Pennamen P."/>
+<person name="James J.R."/>
+<person name="McDonald D."/>
+<person name="Mata C.P."/>
+<person name="Modis Y."/>
+<person name="Alazami A.M."/>
+<person name="Acres M."/>
+<person name="Haller W."/>
+<person name="Bowen C."/>
+<person name="Doeffinger R."/>
+<person name="Sinclair J."/>
+<person name="Brothers S."/>
+<person name="Zhang Y."/>
+<person name="Matthews H.F."/>
+<person name="Naudion S."/>
+<person name="Pelluard F."/>
+<person name="Alajlan H."/>
+<person name="Yamazaki Y."/>
+<person name="Notarangelo L.D."/>
+<person name="Thaventhiran J.E."/>
+<person name="Engelhardt K.R."/>
+<person name="Al-Mousa H."/>
+<person name="Hambleton S."/>
+<person name="Rooryck C."/>
+<person name="Smith K.G.C."/>
+<person name="Lenardo M.J."/>
+</authorList>
+<dbReference type="PubMed" id="31040185"/>
+<dbReference type="DOI" id="10.1084/jem.20182304"/>
+</citation>
+<scope>INVOLVEMENT IN IMD63</scope>
+<scope>VARIANT IMD63 PRO-77</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<comment type="function">
+<text evidence="7 10 11">Receptor for interleukin-2. This beta subunit is involved in receptor mediated endocytosis and transduces the mitogenic signals of IL2. Probably in association with IL15RA, involved in the stimulation of neutrophil phagocytosis by IL15 (PubMed:15123770, PubMed:31040185).</text>
+</comment>
+<comment type="subunit">
+<text evidence="6 8 9">Non-covalent dimer of an alpha and a beta subunit. IL2R exists in 3 different forms: a high affinity dimer, an intermediate affinity monomer (beta subunit), and a low affinity monomer (alpha subunit). The high and intermediate affinity forms also associate with a gamma subunit. Interacts with SHB upon interleukin stimulation.</text>
+</comment>
+<comment type="subunit">
+<text evidence="12">(Microbial infection) Interacts with HTLV-1 accessory protein p12I.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2866779">
+<id>P14784</id>
+</interactant>
+<interactant intactId="EBI-980274">
+<id>P40933</id>
+<label>IL15</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2866779">
+<id>P14784</id>
+</interactant>
+<interactant intactId="EBI-12508717">
+<id>P60568</id>
+<label>IL2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2866779">
+<id>P14784</id>
+</interactant>
+<interactant intactId="EBI-358993">
+<id>Q15645</id>
+<label>TRIP13</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="7 10 11">Cell membrane</location>
+<topology evidence="4">Single-pass type I membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text>The WSXWS motif appears to be necessary for proper protein folding and thereby efficient intracellular transport and cell-surface receptor binding.</text>
+</comment>
+<comment type="domain">
+<text>The box 1 motif is required for JAK interaction and/or activation.</text>
+</comment>
+<comment type="disease" evidence="10 11">
+<disease id="DI-05611">
+<name>Immunodeficiency 63 with lymphoproliferation and autoimmunity</name>
+<acronym>IMD63</acronym>
+<description>An autosomal recessive disorder characterized by immune dysregulation resulting in lymphoid proliferation, dermatitis, enteropathy, autoantibodies, hypergammaglobulinemia, and immunodeficiency with recurrent infections. Patients show increased susceptibility to viral infections, particularly cytomegalovirus disease.</description>
+<dbReference type="MIM" id="618495"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="14">Belongs to the type I cytokine receptor family. Type 4 subfamily.</text>
+</comment>
+<comment type="online information" name="SeattleSNPs">
+<link uri="http://pga.gs.washington.edu/data/il2rb/"/>
+</comment>
+<dbReference type="EMBL" id="M26062">
+<property type="protein sequence ID" value="AAA59143.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CR456506">
+<property type="protein sequence ID" value="CAG30392.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF517934">
+<property type="protein sequence ID" value="AAM54040.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK312860">
+<property type="protein sequence ID" value="BAG35712.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL022314">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471095">
+<property type="protein sequence ID" value="EAW60144.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC025691">
+<property type="protein sequence ID" value="AAH25691.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS13942.1"/>
+<dbReference type="PIR" id="A30342">
+<property type="entry name" value="A30342"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000869.1">
+<property type="nucleotide sequence ID" value="NM_000878.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001333151.1">
+<property type="nucleotide sequence ID" value="NM_001346222.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001333152.1">
+<property type="nucleotide sequence ID" value="NM_001346223.1"/>
+</dbReference>
+<dbReference type="PDB" id="1ILM">
+<property type="method" value="Model"/>
+<property type="chains" value="B=31-230"/>
+</dbReference>
+<dbReference type="PDB" id="1ILN">
+<property type="method" value="Model"/>
+<property type="chains" value="B=31-230"/>
+</dbReference>
+<dbReference type="PDB" id="2B5I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="B=27-240"/>
+</dbReference>
+<dbReference type="PDB" id="2ERJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="B/F=27-232"/>
+</dbReference>
+<dbReference type="PDB" id="3QAZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.80"/>
+<property type="chains" value="B/E/H/K/N/Q/T/W/Z/c/f/i=24-240"/>
+</dbReference>
+<dbReference type="PDB" id="4GS7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="B=27-240"/>
+</dbReference>
+<dbReference type="PDB" id="5M5E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="B=27-240"/>
+</dbReference>
+<dbReference type="PDB" id="6E8K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.71"/>
+<property type="chains" value="B=381-393"/>
+</dbReference>
+<dbReference type="PDBsum" id="1ILM"/>
+<dbReference type="PDBsum" id="1ILN"/>
+<dbReference type="PDBsum" id="2B5I"/>
+<dbReference type="PDBsum" id="2ERJ"/>
+<dbReference type="PDBsum" id="3QAZ"/>
+<dbReference type="PDBsum" id="4GS7"/>
+<dbReference type="PDBsum" id="5M5E"/>
+<dbReference type="PDBsum" id="6E8K"/>
+<dbReference type="SMR" id="P14784"/>
+<dbReference type="BioGRID" id="109775">
+<property type="interactions" value="25"/>
+</dbReference>
+<dbReference type="CORUM" id="P14784"/>
+<dbReference type="DIP" id="DIP-43N"/>
+<dbReference type="ELM" id="P14784"/>
+<dbReference type="IntAct" id="P14784">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="MINT" id="P14784"/>
+<dbReference type="STRING" id="9606.ENSP00000216223"/>
+<dbReference type="ChEMBL" id="CHEMBL3276"/>
+<dbReference type="DrugBank" id="DB00041">
+<property type="generic name" value="Aldesleukin"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00074">
+<property type="generic name" value="Basiliximab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00111">
+<property type="generic name" value="Daclizumab"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00004">
+<property type="generic name" value="Denileukin diftitox"/>
+</dbReference>
+<dbReference type="DrugCentral" id="P14784"/>
+<dbReference type="GuidetoPHARMACOLOGY" id="1696"/>
+<dbReference type="TCDB" id="9.B.281.1.1">
+<property type="family name" value="the interleukin-2 receptor (il2r) family"/>
+</dbReference>
+<dbReference type="GlyGen" id="P14784">
+<property type="glycosylation" value="4 sites"/>
+</dbReference>
+<dbReference type="iPTMnet" id="P14784"/>
+<dbReference type="PhosphoSitePlus" id="P14784"/>
+<dbReference type="BioMuta" id="IL2RB"/>
+<dbReference type="DMDM" id="124321"/>
+<dbReference type="jPOST" id="P14784"/>
+<dbReference type="MassIVE" id="P14784"/>
+<dbReference type="PaxDb" id="P14784"/>
+<dbReference type="PeptideAtlas" id="P14784"/>
+<dbReference type="PRIDE" id="P14784"/>
+<dbReference type="ProteomicsDB" id="53083"/>
+<dbReference type="ABCD" id="P14784">
+<property type="antibodies" value="1 sequenced antibody"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="11905">
+<property type="antibodies" value="912 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="3560"/>
+<dbReference type="Ensembl" id="ENST00000216223">
+<property type="protein sequence ID" value="ENSP00000216223"/>
+<property type="gene ID" value="ENSG00000100385"/>
+</dbReference>
+<dbReference type="GeneID" id="3560"/>
+<dbReference type="KEGG" id="hsa:3560"/>
+<dbReference type="UCSC" id="uc003aqv.2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="3560"/>
+<dbReference type="DisGeNET" id="3560"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000100385.13"/>
+<dbReference type="GeneCards" id="IL2RB"/>
+<dbReference type="HGNC" id="HGNC:6009">
+<property type="gene designation" value="IL2RB"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000100385">
+<property type="expression patterns" value="Tissue enhanced (blood, lymphoid tissue, placenta)"/>
+</dbReference>
+<dbReference type="MalaCards" id="IL2RB"/>
+<dbReference type="MIM" id="146710">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="618495">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P14784"/>
+<dbReference type="OpenTargets" id="ENSG00000100385"/>
+<dbReference type="Orphanet" id="85410">
+<property type="disease" value="Oligoarticular juvenile idiopathic arthritis"/>
+</dbReference>
+<dbReference type="Orphanet" id="85408">
+<property type="disease" value="Rheumatoid factor-negative polyarticular juvenile idiopathic arthritis"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA29829"/>
+<dbReference type="eggNOG" id="ENOG502S0MR">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00510000049239"/>
+<dbReference type="HOGENOM" id="CLU_035782_1_0_1"/>
+<dbReference type="InParanoid" id="P14784"/>
+<dbReference type="KO" id="K05069"/>
+<dbReference type="OMA" id="QFTCFYN"/>
+<dbReference type="OrthoDB" id="1322475at2759"/>
+<dbReference type="PhylomeDB" id="P14784"/>
+<dbReference type="TreeFam" id="TF337874"/>
+<dbReference type="PathwayCommons" id="P14784"/>
+<dbReference type="Reactome" id="R-HSA-5673001">
+<property type="pathway name" value="RAF/MAP kinase cascade"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8983432">
+<property type="pathway name" value="Interleukin-15 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9020558">
+<property type="pathway name" value="Interleukin-2 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-912526">
+<property type="pathway name" value="Interleukin receptor SHC signaling"/>
+</dbReference>
+<dbReference type="SignaLink" id="P14784"/>
+<dbReference type="SIGNOR" id="P14784"/>
+<dbReference type="BioGRID-ORCS" id="3560">
+<property type="hits" value="3 hits in 870 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="IL2RB">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P14784"/>
+<dbReference type="GeneWiki" id="IL2RB"/>
+<dbReference type="GenomeRNAi" id="3560"/>
+<dbReference type="Pharos" id="P14784">
+<property type="development level" value="Tclin"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P14784"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 22"/>
+</dbReference>
+<dbReference type="RNAct" id="P14784">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000100385">
+<property type="expression patterns" value="Expressed in granulocyte and 173 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="P14784">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P14784">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009986">
+<property type="term" value="C:cell surface"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005768">
+<property type="term" value="C:endosome"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009897">
+<property type="term" value="C:external side of plasma membrane"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005893">
+<property type="term" value="C:interleukin-2 receptor complex"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042010">
+<property type="term" value="F:interleukin-15 receptor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019976">
+<property type="term" value="F:interleukin-2 binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004911">
+<property type="term" value="F:interleukin-2 receptor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019221">
+<property type="term" value="P:cytokine-mediated signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035723">
+<property type="term" value="P:interleukin-15-mediated signaling pathway"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0038110">
+<property type="term" value="P:interleukin-2-mediated signaling pathway"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000165">
+<property type="term" value="P:MAPK cascade"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043066">
+<property type="term" value="P:negative regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050766">
+<property type="term" value="P:positive regulation of phagocytosis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0065003">
+<property type="term" value="P:protein-containing complex assembly"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007165">
+<property type="term" value="P:signal transduction"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016032">
+<property type="term" value="P:viral process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd00063">
+<property type="entry name" value="FN3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.40.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003961">
+<property type="entry name" value="FN3_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036116">
+<property type="entry name" value="FN3_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003531">
+<property type="entry name" value="Hempt_rcpt_S_F1_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013783">
+<property type="entry name" value="Ig-like_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR040951">
+<property type="entry name" value="IL2RB_N1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF18707">
+<property type="entry name" value="IL2RB_N1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00060">
+<property type="entry name" value="FN3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF49265">
+<property type="entry name" value="SSF49265"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50853">
+<property type="entry name" value="FN3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01355">
+<property type="entry name" value="HEMATOPO_REC_S_F1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0945">Host-virus interaction</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-0675">Receptor</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="signal peptide">
+<location>
+<begin position="1"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="chain" description="Interleukin-2 receptor subunit beta" id="PRO_0000010878">
+<location>
+<begin position="27"/>
+<end position="551"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="4">
+<location>
+<begin position="27"/>
+<end position="240"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="4">
+<location>
+<begin position="241"/>
+<end position="265"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="4">
+<location>
+<begin position="266"/>
+<end position="551"/>
+</location>
+</feature>
+<feature type="domain" description="Fibronectin type-III" evidence="5">
+<location>
+<begin position="134"/>
+<end position="234"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="WSXWS motif">
+<location>
+<begin position="220"/>
+<end position="224"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Box 1 motif">
+<location>
+<begin position="278"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="4">
+<location>
+<position position="29"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="9">
+<location>
+<position position="43"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="9">
+<location>
+<position position="71"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="8 9">
+<location>
+<position position="149"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="36"/>
+<end position="46"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="59"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="disulfide bond">
+<location>
+<begin position="74"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs57770674." id="VAR_061186">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="10"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IMD63; dbSNP:rs934523851." id="VAR_083103" evidence="11">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="77"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2228143." id="VAR_021994" evidence="13">
+<original>S</original>
+<variation>F</variation>
+<location>
+<position position="83"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IMD63; decreased protein abundance; changed IL-2 and IL-15 signaling pathways; plasma levels of both IL2 and IL15 were increased; associated with increased amounts of phosphorylated STAT5A." id="VAR_083104" evidence="10">
+<location>
+<begin position="222"/>
+<end position="224"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs228942." id="VAR_019998" evidence="13">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="391"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Partial loss of interaction with SHB; when associated with F-536." evidence="6">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="418"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Partial loss of interaction with SHB; when associated with F-418." evidence="6">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="536"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="33"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="40"/>
+<end position="49"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="51"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="59"/>
+<end position="65"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="72"/>
+<end position="75"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="77"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="84"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="104"/>
+<end position="110"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="117"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="126"/>
+<end position="128"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="136"/>
+<end position="143"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="148"/>
+<end position="153"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="159"/>
+<end position="161"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="165"/>
+<end position="172"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="178"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="184"/>
+<end position="186"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="192"/>
+<end position="195"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="203"/>
+<end position="213"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="227"/>
+<end position="230"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2B5I"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2ERJ"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5M5E"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255"/>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00316"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12200137"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15123770"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16293754"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16477002"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="31040184"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="31040185"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8648694"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source ref="3"/>
+</evidence>
+<evidence key="14" type="ECO:0000305"/>
+<evidence key="15" type="ECO:0000312">
+<source>
+<dbReference type="HGNC" id="HGNC:6009"/>
+</source>
+</evidence>
+<sequence length="551" mass="61117" checksum="1A76FA1936BB7EE6" modified="1990-04-01" version="1" precursor="true">MAAPALSWRLPLLILLLPLATSWASAAVNGTSQFTCFYNSRANISCVWSQDGALQDTSCQVHAWPDRRRWNQTCELLPVSQASWACNLILGAPDSQKLTTVDIVTLRVLCREGVRWRVMAIQDFKPFENLRLMAPISLQVVHVETHRCNISWEISQASHYFERHLEFEARTLSPGHTWEEAPLLTLKQKQEWICLETLTPDTQYEFQVRVKPLQGEFTTWSPWSQPLAFRTKPAALGKDTIPWLGHLLVGLSGAFGFIILVYLLINCRNTGPWLKKVLKCNTPDPSKFFSQLSSEHGGDVQKWLSSPFPSSSFSPGGLAPEISPLEVLERDKVTQLLLQQDKVPEPASLSSNHSLTSCFTNQGYFFFHLPDALEIEACQVYFTYDPYSEEDPDEGVAGAPTGSSPQPLQPLSGEDDAYCTFPSRDDLLLFSPSLLGGPSPPSTAPGGSGAGEERMPPSLQERVPRDWDPQPLGPPTPGVPDLVDFQPPPELVLREAGEEVPDAGPREGVSFPWSRPPGQGEFRALNARLPLNTDAYLSLQELQGQDPTHLV</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

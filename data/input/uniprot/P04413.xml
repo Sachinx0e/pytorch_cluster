@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1987-08-13" modified="2020-08-12" version="107">
+<accession>P04413</accession>
+<name>US03_HHV11</name>
+<protein>
+<recommendedName>
+<fullName>Serine/threonine-protein kinase US3</fullName>
+<ecNumber>2.7.11.1</ecNumber>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">US3</name>
+</gene>
+<organism>
+<name type="scientific">Human herpesvirus 1 (strain 17)</name>
+<name type="common">HHV-1</name>
+<name type="synonym">Human herpes simplex virus 1</name>
+<dbReference type="NCBI Taxonomy" id="10299"/>
+<lineage>
+<taxon>Viruses</taxon>
+<taxon>Duplodnaviria</taxon>
+<taxon>Heunggongvirae</taxon>
+<taxon>Peploviricota</taxon>
+<taxon>Herviviricetes</taxon>
+<taxon>Herpesvirales</taxon>
+<taxon>Herpesviridae</taxon>
+<taxon>Alphaherpesvirinae</taxon>
+<taxon>Simplexvirus</taxon>
+</lineage>
+</organism>
+<organismHost>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+</organismHost>
+<reference key="1">
+<citation type="journal article" date="1985" name="J. Mol. Biol." volume="181" first="1" last="13">
+<title>Sequence determination and genetic content of the short unique region in the genome of herpes simplex virus type 1.</title>
+<authorList>
+<person name="McGeoch D.J."/>
+<person name="Dolan A."/>
+<person name="Donald S."/>
+<person name="Rixon F.J."/>
+</authorList>
+<dbReference type="PubMed" id="2984429"/>
+<dbReference type="DOI" id="10.1016/0022-2836(85)90320-1"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1988" name="Trends Biochem. Sci." volume="13" first="244" last="246">
+<title>The herpesvirus protein kinase: a new departure in protein phosphorylation?</title>
+<authorList>
+<person name="Leader D.P."/>
+<person name="Purves F.C."/>
+</authorList>
+<dbReference type="PubMed" id="2855680"/>
+<dbReference type="DOI" id="10.1016/0968-0004(88)90157-0"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1991" name="J. Virol." volume="65" first="5757" last="5764">
+<title>The herpes simplex virus 1 protein kinase encoded by the US3 gene mediates posttranslational modification of the phosphoprotein encoded by the UL34 gene.</title>
+<authorList>
+<person name="Purves F.C."/>
+<person name="Spector D."/>
+<person name="Roizman B."/>
+</authorList>
+<dbReference type="PubMed" id="1656069"/>
+</citation>
+<scope>FUNCTION IN PHOSPHORYLATION OF UL34</scope>
+<source>
+<strain>F</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1997" name="Proc. Natl. Acad. Sci. U.S.A." volume="94" first="7891" last="7896">
+<title>The herpes simplex virus 1 protein kinase US3 is required for protection from apoptosis induced by the virus.</title>
+<authorList>
+<person name="Leopardi R."/>
+<person name="Van Sant C."/>
+<person name="Roizman B."/>
+</authorList>
+<dbReference type="PubMed" id="9223283"/>
+<dbReference type="DOI" id="10.1073/pnas.94.15.7891"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>F</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2005" name="J. Virol." volume="79" first="9325" last="9331">
+<title>Identification of proteins phosphorylated directly by the Us3 protein kinase encoded by herpes simplex virus 1.</title>
+<authorList>
+<person name="Kato A."/>
+<person name="Yamamoto M."/>
+<person name="Ohno T."/>
+<person name="Kodaira H."/>
+<person name="Nishiyama Y."/>
+<person name="Kawaguchi Y."/>
+</authorList>
+<dbReference type="PubMed" id="15994828"/>
+<dbReference type="DOI" id="10.1128/jvi.79.14.9325-9331.2005"/>
+</citation>
+<scope>FUNCTION IN PHOSPHORYLATION OF UL31; ICP22 AND US9</scope>
+<source>
+<strain>F</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2006" name="J. Virol." volume="80" first="1476" last="1486">
+<title>Herpes simplex virus 1-encoded protein kinase UL13 phosphorylates viral Us3 protein kinase and regulates nuclear localization of viral envelopment factors UL34 and UL31.</title>
+<authorList>
+<person name="Kato A."/>
+<person name="Yamamoto M."/>
+<person name="Ohno T."/>
+<person name="Tanaka M."/>
+<person name="Sata T."/>
+<person name="Nishiyama Y."/>
+<person name="Kawaguchi Y."/>
+</authorList>
+<dbReference type="PubMed" id="16415024"/>
+<dbReference type="DOI" id="10.1128/jvi.80.3.1476-1486.2006"/>
+</citation>
+<scope>PHOSPHORYLATION BY UL13</scope>
+<source>
+<strain>F</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2007" name="J. Virol." volume="81" first="10792" last="10803">
+<title>Emerin is hyperphosphorylated and redistributed in herpes simplex virus type 1-infected cells in a manner dependent on both UL34 and US3.</title>
+<authorList>
+<person name="Leach N."/>
+<person name="Bjerke S.L."/>
+<person name="Christensen D.K."/>
+<person name="Bouchard J.M."/>
+<person name="Mou F."/>
+<person name="Park R."/>
+<person name="Baines J."/>
+<person name="Haraguchi T."/>
+<person name="Roller R.J."/>
+</authorList>
+<dbReference type="PubMed" id="17652388"/>
+<dbReference type="DOI" id="10.1128/jvi.00196-07"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2008" name="J. Virol." volume="82" first="6172" last="6189">
+<title>Identification of a physiological phosphorylation site of the herpes simplex virus 1-encoded protein kinase Us3 which regulates its optimal catalytic activity in vitro and influences its function in infected cells.</title>
+<authorList>
+<person name="Kato A."/>
+<person name="Tanaka M."/>
+<person name="Yamamoto M."/>
+<person name="Asai R."/>
+<person name="Sata T."/>
+<person name="Nishiyama Y."/>
+<person name="Kawaguchi Y."/>
+</authorList>
+<dbReference type="PubMed" id="18417577"/>
+<dbReference type="DOI" id="10.1128/jvi.00044-08"/>
+</citation>
+<scope>AUTOPHOSPHORYLATION</scope>
+<source>
+<strain>F</strain>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2009" name="J. Virol." volume="83" first="5181" last="5191">
+<title>Phosphorylation of the UL31 protein of herpes simplex virus 1 by the US3-encoded kinase regulates localization of the nuclear envelopment complex and egress of nucleocapsids.</title>
+<authorList>
+<person name="Mou F."/>
+<person name="Wills E."/>
+<person name="Baines J.D."/>
+</authorList>
+<dbReference type="PubMed" id="19279109"/>
+<dbReference type="DOI" id="10.1128/jvi.00090-09"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>F</strain>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2009" name="J. Virol." volume="83" first="5773" last="5783">
+<title>Regulation of the catalytic activity of herpes simplex virus 1 protein kinase Us3 by autophosphorylation and its role in pathogenesis.</title>
+<authorList>
+<person name="Sagou K."/>
+<person name="Imai T."/>
+<person name="Sagara H."/>
+<person name="Uema M."/>
+<person name="Kawaguchi Y."/>
+</authorList>
+<dbReference type="PubMed" id="19297494"/>
+<dbReference type="DOI" id="10.1128/jvi.00103-09"/>
+</citation>
+<scope>MUTAGENESIS OF SER-147</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2010" name="J. Virol." volume="84" first="153" last="162">
+<title>Effects of phosphorylation of herpes simplex virus 1 envelope glycoprotein B by Us3 kinase in vivo and in vitro.</title>
+<authorList>
+<person name="Imai T."/>
+<person name="Sagou K."/>
+<person name="Arii J."/>
+<person name="Kawaguchi Y."/>
+</authorList>
+<dbReference type="PubMed" id="19846518"/>
+<dbReference type="DOI" id="10.1128/jvi.01447-09"/>
+</citation>
+<scope>FUNCTION IN PHOSPHORYLATION OF GLYCOPROTEIN B</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2010" name="J. Virol." volume="84" first="9666" last="9676">
+<title>Hyperphosphorylation of histone deacetylase 2 by alphaherpesvirus US3 kinases.</title>
+<authorList>
+<person name="Walters M.S."/>
+<person name="Kinchington P.R."/>
+<person name="Banfield B.W."/>
+<person name="Silverstein S."/>
+</authorList>
+<dbReference type="PubMed" id="20660201"/>
+<dbReference type="DOI" id="10.1128/jvi.00981-10"/>
+</citation>
+<scope>FUNCTION IN PHOSPHORYLATION OF HOST HDAC2</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2011" name="J. Virol." volume="85" first="568" last="581">
+<title>The alphaherpesvirus US3/ORF66 protein kinases direct phosphorylation of the nuclear matrix protein matrin 3.</title>
+<authorList>
+<person name="Erazo A."/>
+<person name="Yee M.B."/>
+<person name="Banfield B.W."/>
+<person name="Kinchington P.R."/>
+</authorList>
+<dbReference type="PubMed" id="20962082"/>
+<dbReference type="DOI" id="10.1128/jvi.01611-10"/>
+</citation>
+<scope>FUNCTION IN PHOSPHORYLATION OF HOST MATR3</scope>
+<source>
+<strain>RC</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="4 6 7 8 10 11 12 13">Multifunctional serine/threonine kinase that plays a role in several processes including egress of virus particles from the nucleus, modulation of the actin cytoskeleton and inhibition of apoptosis. Phosphorylates UL31 and UL34, two critical regulators of capsid budding from nucleus to endoplasmic reticulum, thereby facilitating virion egress. Modulates and redistributes host components of the nuclear envelope, including LMNA, emerin/EMD and the nuclear matrix protein MATR3. Phosphorylates envelope glycoprotein B (gB), probably to direct it to the cell surface. Promotes virus intracellular spread by restructuring host cell cytoskeleton. Blocks host apoptosis to extend cell survival and allow efficient viral replication. Promotes viral gene expression by phosphorylating host HDAC2 to reduce viral genome silencing.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>ATP + L-seryl-[protein] = ADP + H(+) + O-phospho-L-seryl-[protein]</text>
+<dbReference type="Rhea" id="RHEA:17989"/>
+<dbReference type="Rhea" id="RHEA-COMP:9863"/>
+<dbReference type="Rhea" id="RHEA-COMP:11604"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:29999"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:83421"/>
+<dbReference type="ChEBI" id="CHEBI:456216"/>
+<dbReference type="EC" id="2.7.11.1"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction>
+<text>ATP + L-threonyl-[protein] = ADP + H(+) + O-phospho-L-threonyl-[protein]</text>
+<dbReference type="Rhea" id="RHEA:46608"/>
+<dbReference type="Rhea" id="RHEA-COMP:11060"/>
+<dbReference type="Rhea" id="RHEA-COMP:11605"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:30013"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:61977"/>
+<dbReference type="ChEBI" id="CHEBI:456216"/>
+<dbReference type="EC" id="2.7.11.1"/>
+</reaction>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Host cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Host nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="PTM">
+<text evidence="5">Phosphorylated by UL13; this phosphorylation regulates subsequent phosphorylation of UL31 and UL34 by US3. Autophosphorylated.</text>
+</comment>
+<comment type="similarity">
+<text evidence="2">Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.</text>
+</comment>
+<dbReference type="EC" id="2.7.11.1"/>
+<dbReference type="EMBL" id="L00036">
+<property type="protein sequence ID" value="AAA96685.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X14112">
+<property type="protein sequence ID" value="CAA32280.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X02138">
+<property type="protein sequence ID" value="CAA26057.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="A00656">
+<property type="entry name" value="TVBE17"/>
+</dbReference>
+<dbReference type="RefSeq" id="YP_009137138.1">
+<property type="nucleotide sequence ID" value="NC_001806.2"/>
+</dbReference>
+<dbReference type="BioGRID" id="971434">
+<property type="interactions" value="32"/>
+</dbReference>
+<dbReference type="IntAct" id="P04413">
+<property type="interactions" value="29"/>
+</dbReference>
+<dbReference type="iPTMnet" id="P04413"/>
+<dbReference type="PRIDE" id="P04413"/>
+<dbReference type="GeneID" id="2703401"/>
+<dbReference type="KEGG" id="vg:2703401"/>
+<dbReference type="KO" id="K19439"/>
+<dbReference type="Proteomes" id="UP000009294">
+<property type="component" value="Genome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030430">
+<property type="term" value="C:host cell cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042025">
+<property type="term" value="C:host cell nucleus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019033">
+<property type="term" value="C:viral tegument"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039526">
+<property type="term" value="P:modulation by virus of host apoptotic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039525">
+<property type="term" value="P:modulation by virus of host chromatin organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000719">
+<property type="entry name" value="Prot_kinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008271">
+<property type="entry name" value="Ser/Thr_kinase_AS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00069">
+<property type="entry name" value="Pkinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00220">
+<property type="entry name" value="S_TKc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50011">
+<property type="entry name" value="PROTEIN_KINASE_DOM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00108">
+<property type="entry name" value="PROTEIN_KINASE_ST"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-1035">Host cytoplasm</keyword>
+<keyword id="KW-1048">Host nucleus</keyword>
+<keyword id="KW-0945">Host-virus interaction</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-1119">Modulation of host cell apoptosis by virus</keyword>
+<keyword id="KW-1122">Modulation of host chromatin by virus</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0723">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Serine/threonine-protein kinase US3" id="PRO_0000086180">
+<location>
+<begin position="1"/>
+<end position="481"/>
+</location>
+</feature>
+<feature type="domain" description="Protein kinase" evidence="2">
+<location>
+<begin position="191"/>
+<end position="478"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="ATP" evidence="2">
+<location>
+<begin position="197"/>
+<end position="205"/>
+</location>
+</feature>
+<feature type="active site" description="Proton acceptor" evidence="2 3">
+<location>
+<position position="305"/>
+</location>
+</feature>
+<feature type="binding site" description="ATP" evidence="2">
+<location>
+<position position="220"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of autophosphorylation." evidence="9">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="147"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00159"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU10027"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15994828"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16415024"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1656069"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17652388"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19279109"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19297494"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19846518"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20660201"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20962082"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9223283"/>
+</source>
+</evidence>
+<sequence length="481" mass="52835" checksum="71838AB0483BE055" modified="1987-08-13" version="1">MACRKFCRVYGGQGRRKEEAVPPETKPSRVFPHGPFYTPAEDACLDSPPPETPKPSHTTPPSEAERLCHLQEILAQMYGNQDYPIEDDPSADAADDVDEDAPDDVAYPEEYAEELFLPGDATGPLIGANDHIPPPCGASPPGIRRRSRDEIGATGFTAEELDAMDREAARAISRGGKPPSTMAKLVTGMGFTIHGALTPGSEGCVFDSSHPDYPQRVIVKAGWYTSTSHEARLLRRLDHPAILPLLDLHVVSGVTCLVLPKYQADLYTYLSRRLNPLGRPQIAAVSRQLLSAVDYIHRQGIIHRDIKTENIFINTPEDICLGDFGAACFVQGSRSSPFPYGIAGTIDTNAPEVLAGDPYTTTVDIWSAGLVIFETAVHNASLFSAPRGPKRGPCDSQITRIIRQAQVHVDEFSPHPESRLTSRYRSRAAGNNRPPYTRPAWTRYYKMDIDVEYLVCKALTFDGALRPSAAELLCLPLFQQK</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

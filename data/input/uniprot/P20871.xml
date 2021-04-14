@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1991-02-01" modified="2020-10-07" version="143">
+<accession>P20871</accession>
+<name>ENV_HV1JR</name>
+<protein>
+<recommendedName>
+<fullName evidence="5">Envelope glycoprotein gp160</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="5">Env polyprotein</fullName>
+</alternativeName>
+<component>
+<recommendedName>
+<fullName evidence="5">Surface protein gp120</fullName>
+<shortName evidence="5">SU</shortName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="5">Glycoprotein 120</fullName>
+<shortName evidence="5">gp120</shortName>
+</alternativeName>
+</component>
+<component>
+<recommendedName>
+<fullName evidence="5">Transmembrane protein gp41</fullName>
+<shortName evidence="5">TM</shortName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="5">Glycoprotein 41</fullName>
+<shortName evidence="5">gp41</shortName>
+</alternativeName>
+</component>
+</protein>
+<gene>
+<name type="primary" evidence="5">env</name>
+</gene>
+<organism>
+<name type="scientific">Human immunodeficiency virus type 1 group M subtype B (isolate JRCSF)</name>
+<name type="common">HIV-1</name>
+<dbReference type="NCBI Taxonomy" id="11688"/>
+<lineage>
+<taxon>Viruses</taxon>
+<taxon>Riboviria</taxon>
+<taxon>Pararnavirae</taxon>
+<taxon>Artverviricota</taxon>
+<taxon>Revtraviricetes</taxon>
+<taxon>Ortervirales</taxon>
+<taxon>Retroviridae</taxon>
+<taxon>Orthoretrovirinae</taxon>
+<taxon>Lentivirus</taxon>
+</lineage>
+</organism>
+<organismHost>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+</organismHost>
+<reference key="1">
+<citation type="submission" date="1988-12" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Koyanagi S."/>
+<person name="Chen I.S.Y."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC RNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2003" name="APMIS" volume="111" first="698" last="714">
+<title>Pathogens target DC-SIGN to influence their fate DC-SIGN functions as a pathogen receptor with broad specificity.</title>
+<authorList>
+<person name="Geijtenbeek T.B."/>
+<person name="van Kooyk Y."/>
+</authorList>
+<dbReference type="PubMed" id="12974773"/>
+<dbReference type="DOI" id="10.1034/j.1600-0463.2003.11107803.x"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2003" name="Biochim. Biophys. Acta" volume="1614" first="36" last="50">
+<title>The HIV Env-mediated fusion reaction.</title>
+<authorList>
+<person name="Gallo S.A."/>
+<person name="Finnegan C.M."/>
+<person name="Viard M."/>
+<person name="Raviv Y."/>
+<person name="Dimitrov A."/>
+<person name="Rawat S.S."/>
+<person name="Puri A."/>
+<person name="Durell S."/>
+<person name="Blumenthal R."/>
+</authorList>
+<dbReference type="PubMed" id="12873764"/>
+<dbReference type="DOI" id="10.1016/s0005-2736(03)00161-5"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2005" name="Cell Death Differ." volume="12" first="916" last="923">
+<title>Mechanisms of apoptosis induction by the HIV-1 envelope.</title>
+<authorList>
+<person name="Perfettini J.-L."/>
+<person name="Castedo M."/>
+<person name="Roumier T."/>
+<person name="Andreau K."/>
+<person name="Nardacci R."/>
+<person name="Piacentini M."/>
+<person name="Kroemer G."/>
+</authorList>
+<dbReference type="PubMed" id="15719026"/>
+<dbReference type="DOI" id="10.1038/sj.cdd.4401584"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2005" name="AIDS Res. Hum. Retroviruses" volume="21" first="171" last="189">
+<title>V3: HIV's switch-hitter.</title>
+<authorList>
+<person name="Hartley O."/>
+<person name="Klasse P.J."/>
+<person name="Sattentau Q.J."/>
+<person name="Moore J.P."/>
+</authorList>
+<dbReference type="PubMed" id="15725757"/>
+<dbReference type="DOI" id="10.1089/aid.2005.21.171"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2005" name="Drugs" volume="65" first="1747" last="1766">
+<title>Emerging drug targets for antiretroviral therapy.</title>
+<authorList>
+<person name="Reeves J.D."/>
+<person name="Piefer A.J."/>
+</authorList>
+<dbReference type="PubMed" id="16114975"/>
+<dbReference type="DOI" id="10.2165/00003495-200565130-00002"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2006" name="EMBO J." volume="25" first="447" last="456">
+<title>HIV and the chemokine system: 10 years later.</title>
+<authorList>
+<person name="Lusso P."/>
+</authorList>
+<dbReference type="PubMed" id="16437164"/>
+<dbReference type="DOI" id="10.1038/sj.emboj.7600947"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<comment type="function">
+<molecule>Envelope glycoprotein gp160</molecule>
+<text evidence="5">Oligomerizes in the host endoplasmic reticulum into predominantly trimers. In a second time, gp160 transits in the host Golgi, where glycosylation is completed. The precursor is then proteolytically cleaved in the trans-Golgi and thereby activated by cellular furin or furin-like proteases to produce gp120 and gp41.</text>
+</comment>
+<comment type="function">
+<molecule>Surface protein gp120</molecule>
+<text evidence="5">Attaches the virus to the host lymphoid cell by binding to the primary receptor CD4. This interaction induces a structural rearrangement creating a high affinity binding site for a chemokine coreceptor like CXCR4 and/or CCR5. Acts as a ligand for CD209/DC-SIGN and CLEC4M/DC-SIGNR, which are respectively found on dendritic cells (DCs), and on endothelial cells of liver sinusoids and lymph node sinuses. These interactions allow capture of viral particles at mucosal surfaces by these cells and subsequent transmission to permissive cells. HIV subverts the migration properties of dendritic cells to gain access to CD4+ T-cells in lymph nodes. Virus transmission to permissive T-cells occurs either in trans (without DCs infection, through viral capture and transmission), or in cis (following DCs productive infection, through the usual CD4-gp120 interaction), thereby inducing a robust infection. In trans infection, bound virions remain infectious over days and it is proposed that they are not degraded, but protected in non-lysosomal acidic organelles within the DCs close to the cell membrane thus contributing to the viral infectious potential during DCs' migration from the periphery to the lymphoid tissues. On arrival at lymphoid tissues, intact virions recycle back to DCs' cell surface allowing virus transmission to CD4+ T-cells.</text>
+</comment>
+<comment type="function">
+<molecule>Transmembrane protein gp41</molecule>
+<text evidence="5">Acts as a class I viral fusion protein. Under the current model, the protein has at least 3 conformational states: pre-fusion native state, pre-hairpin intermediate state, and post-fusion hairpin state. During fusion of viral and target intracellular membranes, the coiled coil regions (heptad repeats) assume a trimer-of-hairpins structure, positioning the fusion peptide in close proximity to the C-terminal region of the ectodomain. The formation of this structure appears to drive apposition and subsequent fusion of viral and target cell membranes. Complete fusion occurs in host cell endosomes and is dynamin-dependent, however some lipid transfer might occur at the plasma membrane. The virus undergoes clathrin-dependent internalization long before endosomal fusion, thus minimizing the surface exposure of conserved viral epitopes during fusion and reducing the efficacy of inhibitors targeting these epitopes. Membranes fusion leads to delivery of the nucleocapsid into the cytoplasm.</text>
+</comment>
+<comment type="subunit">
+<molecule>Surface protein gp120</molecule>
+<text evidence="5">The mature envelope protein (Env) consists of a homotrimer of non-covalently associated gp120-gp41 heterodimers. The resulting complex protrudes from the virus surface as a spike. There seems to be as few as 10 spikes on the average virion. Interacts with host CD4, CCR5 and CXCR4. Gp120 also interacts with the C-type lectins CD209/DC-SIGN and CLEC4M/DC-SIGNR (collectively referred to as DC-SIGN(R)). Gp120 and gp41 interact with GalCer. Gp120 interacts with host ITGA4/ITGB7 complex; on CD4+ T-cells, this interaction results in rapid activation of integrin ITGAL/LFA-1, which facilitates efficient cell-to-cell spreading of HIV-1. Gp120 interacts with cell-associated heparan sulfate; this interaction increases virus infectivity on permissive cells and may be involved in infection of CD4- cells.</text>
+</comment>
+<comment type="subunit">
+<molecule>Transmembrane protein gp41</molecule>
+<text evidence="5">The mature envelope protein (Env) consists of a homotrimer of non-covalently associated gp120-gp41 heterodimers. The resulting complex protrudes from the virus surface as a spike. There seems to be as few as 10 spikes on the average virion.</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Surface protein gp120</molecule>
+<subcellularLocation>
+<location evidence="5">Virion membrane</location>
+<topology evidence="5">Peripheral membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="5">Host cell membrane</location>
+<topology evidence="5">Peripheral membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="5">Host endosome membrane</location>
+<topology evidence="5">Single-pass type I membrane protein</topology>
+</subcellularLocation>
+<text evidence="5">The surface protein is not anchored to the viral envelope, but associates with the extravirion surface through its binding to TM. It is probably concentrated at the site of budding and incorporated into the virions possibly by contacts between the cytoplasmic tail of Env and the N-terminus of Gag.</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Transmembrane protein gp41</molecule>
+<subcellularLocation>
+<location evidence="5">Virion membrane</location>
+<topology evidence="5">Single-pass type I membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="5">Host cell membrane</location>
+<topology evidence="5">Single-pass type I membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="5">Host endosome membrane</location>
+<topology evidence="5">Single-pass type I membrane protein</topology>
+</subcellularLocation>
+<text evidence="5">It is probably concentrated at the site of budding and incorporated into the virions possibly by contacts between the cytoplasmic tail of Env and the N-terminus of Gag.</text>
+</comment>
+<comment type="domain">
+<text evidence="5">Some of the most genetically diverse regions of the viral genome are present in Env. They are called variable regions 1 through 5 (V1 through V5). Coreceptor usage of gp120 is determined mainly by the primary structure of the third variable region (V3) in the outer domain of gp120. The sequence of V3 determines which coreceptor, CCR5 and/or CXCR4 (corresponding to R5/macrophage, X4/T cell and R5X4/T cell and macrophage tropism), is used to trigger the fusion potential of the Env complex, and hence which cells the virus can infect. Binding to CCR5 involves a region adjacent in addition to V3.</text>
+</comment>
+<comment type="domain">
+<text evidence="5">The membrane proximal external region (MPER) present in gp41 is a tryptophan-rich region recognized by the antibodies 2F5, Z13, and 4E10. MPER seems to play a role in fusion.</text>
+</comment>
+<comment type="domain">
+<text evidence="5">The 17 amino acids long immunosuppressive region is present in many retroviral envelope proteins. Synthetic peptides derived from this relatively conserved sequence inhibit immune function in vitro and in vivo.</text>
+</comment>
+<comment type="domain">
+<text evidence="5">The YXXL motif is involved in determining the exact site of viral release at the surface of infected mononuclear cells and promotes endocytosis. YXXL and di-leucine endocytosis motifs interact directly or indirectly with the clathrin adapter complexes, opperate independently, and their activities are not additive.</text>
+</comment>
+<comment type="domain">
+<text evidence="5">The CD4-binding region is targeted by the antibody b12.</text>
+</comment>
+<comment type="PTM">
+<text evidence="5">Highly glycosylated by host. The high number of glycan on the protein is reffered to as 'glycan shield' because it contributes to hide protein sequence from adaptive immune system.</text>
+</comment>
+<comment type="PTM">
+<text evidence="5">Palmitoylation of the transmembrane protein and of Env polyprotein (prior to its proteolytic cleavage) is essential for their association with host cell membrane lipid rafts. Palmitoylation is therefore required for envelope trafficking to classical lipid rafts, but not for viral replication.</text>
+</comment>
+<comment type="PTM">
+<text evidence="5">Specific enzymatic cleavages in vivo yield mature proteins. Envelope glycoproteins are synthesized as an inactive precursor that is heavily N-glycosylated and processed likely by host cell furin in the Golgi to yield the mature SU and TM proteins. The cleavage site between SU and TM requires the minimal sequence [KR]-X-[KR]-R. About 2 of the 9 disulfide bonds of gp41 are reduced by P4HB/PDI, following binding to CD4 receptor.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="5">Inhibitors targeting HIV-1 viral envelope proteins are used as antiretroviral drugs. Attachment of virions to the cell surface via non-specific interactions and CD4 binding can be blocked by inhibitors that include cyanovirin-N, cyclotriazadisulfonamide analogs, PRO 2000, TNX 355 and PRO 542. In addition, BMS 806 can block CD4-induced conformational changes. Env interactions with the coreceptor molecules can be targeted by CCR5 antagonists including SCH-D, maraviroc (UK 427857) and aplaviroc (GW 873140), and the CXCR4 antagonist AMD 070. Fusion of viral and cellular membranes can be inhibited by peptides such as enfuvirtide and tifuvirtide (T 1249). Resistance to inhibitors associated with mutations in Env are observed. Most of the time, single mutations confer only a modest reduction in drug susceptibility. Combination of several mutations is usually required to develop a high-level drug resistance.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="5">HIV-1 lineages are divided in three main groups, M (for Major), O (for Outlier), and N (for New, or Non-M, Non-O). The vast majority of strains found worldwide belong to the group M. Group O seems to be endemic to and largely confined to Cameroon and neighboring countries in West Central Africa, where these viruses represent a small minority of HIV-1 strains. The group N is represented by a limited number of isolates from Cameroonian persons. The group M is further subdivided in 9 clades or subtypes (A to D, F to H, J and K).</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the HIV-1 env protein family.</text>
+</comment>
+<comment type="online information" name="hivdb">
+<link uri="https://hivdb.stanford.edu"/>
+<text>HIV drug resistance database</text>
+</comment>
+<comment type="online information" name="BioAfrica: HIV bioinformatics in Africa">
+<link uri="http://www.bioafrica.net/proteomics/ENVprot.html"/>
+</comment>
+<comment type="online information" name="HIV drug resistance mutations">
+<link uri="https://www.iasusa.org/content/hiv-drug-resistance-mutations"/>
+</comment>
+<dbReference type="EMBL" id="M38429">
+<property type="protein sequence ID" value="AAB03749.1"/>
+<property type="molecule type" value="Genomic_RNA"/>
+</dbReference>
+<dbReference type="PDB" id="1CE4">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=294-328"/>
+</dbReference>
+<dbReference type="PDB" id="2ESX">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=301-319"/>
+</dbReference>
+<dbReference type="PDB" id="2ESZ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=301-319"/>
+</dbReference>
+<dbReference type="PDB" id="4R2G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.28"/>
+<property type="chains" value="A/E/K/O=91-300, A/E/K/O=317-484"/>
+</dbReference>
+<dbReference type="PDB" id="5V6L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.55"/>
+<property type="chains" value="P/Q=299-321"/>
+</dbReference>
+<dbReference type="PDB" id="5V6M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="P=299-313"/>
+</dbReference>
+<dbReference type="PDBsum" id="1CE4"/>
+<dbReference type="PDBsum" id="2ESX"/>
+<dbReference type="PDBsum" id="2ESZ"/>
+<dbReference type="PDBsum" id="4R2G"/>
+<dbReference type="PDBsum" id="5V6L"/>
+<dbReference type="PDBsum" id="5V6M"/>
+<dbReference type="BMRB" id="P20871"/>
+<dbReference type="SMR" id="P20871"/>
+<dbReference type="iPTMnet" id="P20871"/>
+<dbReference type="ABCD" id="P20871">
+<property type="antibodies" value="2 sequenced antibodies"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5621480">
+<property type="pathway name" value="Dectin-2 family"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P20871"/>
+<dbReference type="Proteomes" id="UP000007695">
+<property type="component" value="Genome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044175">
+<property type="term" value="C:host cell endosome membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0020002">
+<property type="term" value="C:host cell plasma membrane"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019031">
+<property type="term" value="C:viral envelope"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019012">
+<property type="term" value="C:virion"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055036">
+<property type="term" value="C:virion membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005198">
+<property type="term" value="F:structural molecule activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090527">
+<property type="term" value="P:actin filament reorganization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0075512">
+<property type="term" value="P:clathrin-dependent endocytosis of virus by host cell"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0039654">
+<property type="term" value="P:fusion of virus membrane with host endosome membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019064">
+<property type="term" value="P:fusion of virus membrane with host plasma membrane"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030683">
+<property type="term" value="P:mitigation of host immune response by virus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030307">
+<property type="term" value="P:positive regulation of cell growth"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903905">
+<property type="term" value="P:positive regulation of establishment of T cell polarity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903908">
+<property type="term" value="P:positive regulation of plasma membrane raft polarization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903911">
+<property type="term" value="P:positive regulation of receptor clustering"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002223">
+<property type="term" value="P:stimulatory C-type lectin receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019082">
+<property type="term" value="P:viral protein processing"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019062">
+<property type="term" value="P:virion attachment to host cell"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="CDD" id="cd09909">
+<property type="entry name" value="HIV-1-like_HR1-HR2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.170.40.20">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="HAMAP" id="MF_04083">
+<property type="entry name" value="HIV_ENV"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036377">
+<property type="entry name" value="Gp120_core_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037527">
+<property type="entry name" value="Gp160"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000328">
+<property type="entry name" value="GP41-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000777">
+<property type="entry name" value="HIV1_Gp120"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00516">
+<property type="entry name" value="GP120"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00517">
+<property type="entry name" value="GP41"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56502">
+<property type="entry name" value="SSF56502"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0014">AIDS</keyword>
+<keyword id="KW-0053">Apoptosis</keyword>
+<keyword id="KW-1165">Clathrin-mediated endocytosis of virus by host</keyword>
+<keyword id="KW-0165">Cleavage on pair of basic residues</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-1170">Fusion of virus membrane with host endosomal membrane</keyword>
+<keyword id="KW-1168">Fusion of virus membrane with host membrane</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-1032">Host cell membrane</keyword>
+<keyword id="KW-1039">Host endosome</keyword>
+<keyword id="KW-1043">Host membrane</keyword>
+<keyword id="KW-0945">Host-virus interaction</keyword>
+<keyword id="KW-0449">Lipoprotein</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0564">Palmitate</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-1161">Viral attachment to host cell</keyword>
+<keyword id="KW-0261">Viral envelope protein</keyword>
+<keyword id="KW-0899">Viral immunoevasion</keyword>
+<keyword id="KW-1162">Viral penetration into host cytoplasm</keyword>
+<keyword id="KW-0946">Virion</keyword>
+<keyword id="KW-1164">Virus endocytosis by host</keyword>
+<keyword id="KW-1160">Virus entry into host cell</keyword>
+<feature type="signal peptide" evidence="5">
+<location>
+<begin position="1"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="chain" description="Envelope glycoprotein gp160" id="PRO_0000441241" evidence="5">
+<location>
+<begin position="32"/>
+<end position="848"/>
+</location>
+</feature>
+<feature type="chain" description="Surface protein gp120" id="PRO_0000441242" evidence="5">
+<location>
+<begin position="32"/>
+<end position="503"/>
+</location>
+</feature>
+<feature type="chain" description="Transmembrane protein gp41" id="PRO_0000038393" evidence="5">
+<location>
+<begin position="504"/>
+<end position="848"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="5">
+<location>
+<begin position="32"/>
+<end position="676"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="677"/>
+<end position="697"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="5">
+<location>
+<begin position="698"/>
+<end position="848"/>
+</location>
+</feature>
+<feature type="region of interest" description="V1" evidence="5">
+<location>
+<begin position="130"/>
+<end position="153"/>
+</location>
+</feature>
+<feature type="region of interest" description="V2" evidence="5">
+<location>
+<begin position="154"/>
+<end position="194"/>
+</location>
+</feature>
+<feature type="region of interest" description="V3" evidence="5">
+<location>
+<begin position="294"/>
+<end position="327"/>
+</location>
+</feature>
+<feature type="region of interest" description="CD4-binding loop" evidence="5">
+<location>
+<begin position="360"/>
+<end position="370"/>
+</location>
+</feature>
+<feature type="region of interest" description="V4" evidence="5">
+<location>
+<begin position="381"/>
+<end position="410"/>
+</location>
+</feature>
+<feature type="region of interest" description="V5">
+<location>
+<begin position="452"/>
+<end position="463"/>
+</location>
+</feature>
+<feature type="region of interest" description="V5" evidence="5">
+<location>
+<begin position="454"/>
+<end position="463"/>
+</location>
+</feature>
+<feature type="region of interest" description="Fusion peptide" evidence="5">
+<location>
+<begin position="504"/>
+<end position="524"/>
+</location>
+</feature>
+<feature type="region of interest" description="Immunosuppression" evidence="5">
+<location>
+<begin position="566"/>
+<end position="584"/>
+</location>
+</feature>
+<feature type="region of interest" description="MPER; binding to GalCer" evidence="5">
+<location>
+<begin position="654"/>
+<end position="675"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="625"/>
+<end position="659"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="YXXL motif; contains endocytosis signal" evidence="5">
+<location>
+<begin position="704"/>
+<end position="707"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Di-leucine internalization motif" evidence="5">
+<location>
+<begin position="847"/>
+<end position="848"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by host furin" evidence="5">
+<location>
+<begin position="503"/>
+<end position="504"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="87"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="134"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="137"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="153"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="157"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="185"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="195"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="228"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="239"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="260"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="274"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="287"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="293"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="299"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="329"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="336"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="352"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="382"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="388"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="392"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="403"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="440"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="453"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="603"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="608"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="617"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine; by host" evidence="5">
+<location>
+<position position="629"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="5">
+<location>
+<begin position="53"/>
+<end position="73"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="5">
+<location>
+<begin position="118"/>
+<end position="203"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="5">
+<location>
+<begin position="125"/>
+<end position="194"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="5">
+<location>
+<begin position="130"/>
+<end position="154"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="5">
+<location>
+<begin position="216"/>
+<end position="245"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="5">
+<location>
+<begin position="226"/>
+<end position="237"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="5">
+<location>
+<begin position="294"/>
+<end position="328"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="5">
+<location>
+<begin position="374"/>
+<end position="437"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="5">
+<location>
+<begin position="381"/>
+<end position="410"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="5">
+<location>
+<begin position="590"/>
+<end position="596"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="221"/>
+<end position="226"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="233"/>
+<end position="235"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="238"/>
+<end position="245"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="255"/>
+<end position="260"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="265"/>
+<end position="267"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="269"/>
+<end position="271"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="282"/>
+<end position="296"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="298"/>
+<end position="300"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="308"/>
+<end position="310"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="311"/>
+<end position="316"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="327"/>
+<end position="331"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="332"/>
+<end position="349"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="350"/>
+<end position="352"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="354"/>
+<end position="357"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="361"/>
+<end position="363"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="365"/>
+<end position="368"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="370"/>
+<end position="374"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="377"/>
+<end position="381"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="384"/>
+<end position="386"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="389"/>
+<end position="399"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="404"/>
+<end position="417"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="419"/>
+<end position="426"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="431"/>
+<end position="433"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="435"/>
+<end position="448"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="457"/>
+<end position="462"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="467"/>
+<end position="475"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="479"/>
+<end position="482"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1CE4"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4R2G"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5V6L"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5V6M"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="HAMAP-Rule" id="MF_04083"/>
+</source>
+</evidence>
+<sequence length="848" mass="96475" checksum="20767F51227EC3F3" modified="1991-02-01" version="1" precursor="true">MRVKGIRKNYQHLWKGGILLLGTLMICSAVEKLWVTVYYGVPVWKETTTTLFCASDAKAYDTEVHNVWATHACVPTDPNPQEVVLENVTEDFNMWKNNMVEQMQEDVINLWDQSLKPCVKLTPLCVTLNCKDVNATNTTSSSEGMMERGEIKNCSFNITKSIRDKVQKEYALFYKLDVVPIDNKNNTKYRLISCNTSVITQACPKVSFEPIPIHYCAPAGFAILKCNNKTFNGKGQCKNVSTVQCTHGIRPVVSTQLLLNGSLAEEKVVIRSDNFTDNAKTIIVQLNESVKINCTRPSNNTRKSIHIGPGRAFYTTGEIIGDIRQAHCNISRAQWNNTLKQIVEKLREQFNNKTIVFTHSSGGDPEIVMHSFNCGGEFFYCNSTQLFNSTWNDTEKSSGTEGNDTIILPCRIKQIINMWQEVGKAMYAPPIKGQIRCSSNITGLLLTRDGGKNESEIEIFRPGGGDMRDNWRSELYKYKVVKIEPLGVAPTKAKRRVVQREKRAVGIGALFLGFLGAAGSTMGARSMTLTVQARQLLSGIVQQQNNLLRAIEAQQHMLQLTVWGIKQLQARVLAVERYLKDQQLMGIWGCSGKLICTTAVPWNTSWSNKSLDSIWNNMTWMEWEKEIENYTNTIYTLIEESQIQQEKNEQELLELDKWASLWNWFGITKWLWYIKIFIMIVGGLIGLRIVFSVLSIVNRVRQGYSPLSFQTLLPATRGPDRPEGIEEEGGERDRDRSGQLVNGFLALIWVDLRSLFLFSYHRLRDLLLTVTRIVELLGRRGWEILKYWWNLLQYWSQELKNSAVSLLNATAIAVAEGTDRIIEVVQRVYRAILHIPTRIRQGLERALL</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

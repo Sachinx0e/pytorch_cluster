@@ -1,0 +1,2958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1989-10-01" modified="2020-10-07" version="235">
+<accession>P12259</accession>
+<accession>A8K6E8</accession>
+<accession>Q14285</accession>
+<accession>Q2EHR5</accession>
+<accession>Q5R346</accession>
+<accession>Q5R347</accession>
+<accession>Q6UPU6</accession>
+<accession>Q8WWQ6</accession>
+<name>FA5_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Coagulation factor V</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Activated protein C cofactor</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Proaccelerin, labile factor</fullName>
+</alternativeName>
+<component>
+<recommendedName>
+<fullName>Coagulation factor V heavy chain</fullName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Coagulation factor V light chain</fullName>
+</recommendedName>
+</component>
+</protein>
+<gene>
+<name type="primary">F5</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1987" name="Proc. Natl. Acad. Sci. U.S.A." volume="84" first="4846" last="4850">
+<title>Complete cDNA and derived amino acid sequence of human factor V.</title>
+<authorList>
+<person name="Jenny R.J."/>
+<person name="Pittman D.D."/>
+<person name="Toole J.J."/>
+<person name="Kriz R.W."/>
+<person name="Aldape R.A."/>
+<person name="Hewick R.M."/>
+<person name="Kaufman R.J."/>
+<person name="Mann K.G."/>
+</authorList>
+<dbReference type="PubMed" id="3110773"/>
+<dbReference type="DOI" id="10.1073/pnas.84.14.4846"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>PROTEOLYTIC CLEAVAGE AT ARG-737; ARG-1046 AND ARG-1573 BY THROMBIN</scope>
+<scope>VARIANTS ARG-858; ARG-865; GLU-925; PHE-1397 AND VAL-1764</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1992" name="Biochemistry" volume="31" first="3777" last="3785">
+<title>Structure of the gene for human coagulation factor V.</title>
+<authorList>
+<person name="Cripe L.D."/>
+<person name="Moore K.D."/>
+<person name="Kane W.H."/>
+</authorList>
+<dbReference type="PubMed" id="1567832"/>
+<dbReference type="DOI" id="10.1021/bi00130a007"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2003-08" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="SeattleSNPs variation discovery resource"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>VARIANT THPH2 GLN-534</scope>
+<scope>VARIANTS SER-15; HIS-107; THR-413; LYS-513; SER-809; THR-817; ARG-858; ARG-865; SER-915; GLU-925; SER-969; LEU-980; GLN-1146; ILE-1285; SER-1404; ALA-1530 AND THR-2148</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Nature" volume="441" first="315" last="321">
+<title>The DNA sequence and biological annotation of human chromosome 1.</title>
+<authorList>
+<person name="Gregory S.G."/>
+<person name="Barlow K.F."/>
+<person name="McLay K.E."/>
+<person name="Kaul R."/>
+<person name="Swarbreck D."/>
+<person name="Dunham A."/>
+<person name="Scott C.E."/>
+<person name="Howe K.L."/>
+<person name="Woodfine K."/>
+<person name="Spencer C.C.A."/>
+<person name="Jones M.C."/>
+<person name="Gillson C."/>
+<person name="Searle S."/>
+<person name="Zhou Y."/>
+<person name="Kokocinski F."/>
+<person name="McDonald L."/>
+<person name="Evans R."/>
+<person name="Phillips K."/>
+<person name="Atkinson A."/>
+<person name="Cooper R."/>
+<person name="Jones C."/>
+<person name="Hall R.E."/>
+<person name="Andrews T.D."/>
+<person name="Lloyd C."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ambrose K.D."/>
+<person name="Anderson F."/>
+<person name="Andrew R.W."/>
+<person name="Ashwell R.I.S."/>
+<person name="Aubin K."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Beasley H."/>
+<person name="Bethel G."/>
+<person name="Bird C.P."/>
+<person name="Bray-Allen S."/>
+<person name="Brown J.Y."/>
+<person name="Brown A.J."/>
+<person name="Buckley D."/>
+<person name="Burton J."/>
+<person name="Bye J."/>
+<person name="Carder C."/>
+<person name="Chapman J.C."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C."/>
+<person name="Cobley V."/>
+<person name="Collier R.E."/>
+<person name="Corby N."/>
+<person name="Coville G.J."/>
+<person name="Davies J."/>
+<person name="Deadman R."/>
+<person name="Dunn M."/>
+<person name="Earthrowl M."/>
+<person name="Ellington A.G."/>
+<person name="Errington H."/>
+<person name="Frankish A."/>
+<person name="Frankland J."/>
+<person name="French L."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Gay L."/>
+<person name="Ghori M.R.J."/>
+<person name="Gibson R."/>
+<person name="Gilby L.M."/>
+<person name="Gillett W."/>
+<person name="Glithero R.J."/>
+<person name="Grafham D.V."/>
+<person name="Griffiths C."/>
+<person name="Griffiths-Jones S."/>
+<person name="Grocock R."/>
+<person name="Hammond S."/>
+<person name="Harrison E.S.I."/>
+<person name="Hart E."/>
+<person name="Haugen E."/>
+<person name="Heath P.D."/>
+<person name="Holmes S."/>
+<person name="Holt K."/>
+<person name="Howden P.J."/>
+<person name="Hunt A.R."/>
+<person name="Hunt S.E."/>
+<person name="Hunter G."/>
+<person name="Isherwood J."/>
+<person name="James R."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Joy A."/>
+<person name="Kay M."/>
+<person name="Kershaw J.K."/>
+<person name="Kibukawa M."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Knights A.J."/>
+<person name="Lad H."/>
+<person name="Laird G."/>
+<person name="Lawlor S."/>
+<person name="Leongamornlert D.A."/>
+<person name="Lloyd D.M."/>
+<person name="Loveland J."/>
+<person name="Lovell J."/>
+<person name="Lush M.J."/>
+<person name="Lyne R."/>
+<person name="Martin S."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="Matthews N.S.W."/>
+<person name="McLaren S."/>
+<person name="Milne S."/>
+<person name="Mistry S."/>
+<person name="Moore M.J.F."/>
+<person name="Nickerson T."/>
+<person name="O'Dell C.N."/>
+<person name="Oliver K."/>
+<person name="Palmeiri A."/>
+<person name="Palmer S.A."/>
+<person name="Parker A."/>
+<person name="Patel D."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Pelan S."/>
+<person name="Phelps K."/>
+<person name="Phillimore B.J."/>
+<person name="Plumb R."/>
+<person name="Rajan J."/>
+<person name="Raymond C."/>
+<person name="Rouse G."/>
+<person name="Saenphimmachak C."/>
+<person name="Sehra H.K."/>
+<person name="Sheridan E."/>
+<person name="Shownkeen R."/>
+<person name="Sims S."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Steward C."/>
+<person name="Subramanian S."/>
+<person name="Sycamore N."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Van Helmond Z."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="White S."/>
+<person name="Whitehead S.L."/>
+<person name="Wilkinson J.E."/>
+<person name="Willey D.L."/>
+<person name="Williams H."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Wu Z."/>
+<person name="Coulson A."/>
+<person name="Vaudin M."/>
+<person name="Sulston J.E."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Wooster R."/>
+<person name="Dunham I."/>
+<person name="Carter N.P."/>
+<person name="McVean G."/>
+<person name="Ross M.T."/>
+<person name="Harrow J."/>
+<person name="Olson M.V."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+<person name="Bentley D.R."/>
+</authorList>
+<dbReference type="PubMed" id="16710414"/>
+<dbReference type="DOI" id="10.1038/nature04727"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<scope>VARIANT THPH2 GLN-534</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 1-1030</scope>
+<scope>VARIANT LYS-513</scope>
+<source>
+<tissue>Placenta</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1987" name="Biochemistry" volume="26" first="6508" last="6514">
+<title>Cloning of cDNAs coding for the heavy chain region and connecting region of human factor V, a blood coagulation factor with four types of internal repeats.</title>
+<authorList>
+<person name="Kane W.H."/>
+<person name="Ichinose A."/>
+<person name="Hagen F.S."/>
+<person name="Davie E.W."/>
+</authorList>
+<dbReference type="PubMed" id="2827731"/>
+<dbReference type="DOI" id="10.1021/bi00394a033"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 1-1600</scope>
+<scope>VARIANTS ARG-858; ARG-865; GLU-925 AND ILE-1285</scope>
+</reference>
+<reference key="7">
+<citation type="submission" date="2006-01" db="EMBL/GenBank/DDBJ databases">
+<title>Human coagulation factor V, exon 13, missense mutation Asn713Ser.</title>
+<authorList>
+<person name="Kostka H."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 658-1598</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2001" name="Zhonghua Xue Ye Xue Za Zhi" volume="22" first="453" last="456">
+<title>Studies on hereditary deficiency of coagulation factor V.</title>
+<authorList>
+<person name="Xie F."/>
+<person name="Cheng F."/>
+<person name="Zhu X."/>
+</authorList>
+<dbReference type="PubMed" id="11758222"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 660-1598</scope>
+<scope>VARIANTS ARG-858; ARG-865; GLU-925 AND PHE-1397</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1986" name="Proc. Natl. Acad. Sci. U.S.A." volume="83" first="6800" last="6804">
+<title>Cloning of a cDNA coding for human factor V, a blood coagulation factor homologous to factor VIII and ceruloplasmin.</title>
+<authorList>
+<person name="Kane W.H."/>
+<person name="Davie E.W."/>
+</authorList>
+<dbReference type="PubMed" id="3092220"/>
+<dbReference type="DOI" id="10.1073/pnas.83.18.6800"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 1188-1215 AND 1315-2224</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1993" name="J. Immunol." volume="150" first="2992" last="3001">
+<title>The serine protease cofactor factor V is synthesized by lymphocytes.</title>
+<authorList>
+<person name="Shen N.L.L."/>
+<person name="Fan S.-T."/>
+<person name="Pyati J."/>
+<person name="Graff R."/>
+<person name="Lapolla R.J."/>
+<person name="Edgington T.S."/>
+</authorList>
+<dbReference type="PubMed" id="8454869"/>
+</citation>
+<scope>PARTIAL NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Fibroblast</tissue>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1984" name="J. Biochem." volume="95" first="187" last="195">
+<title>Mechanism of inhibition of activated protein C by protein C inhibitor.</title>
+<authorList>
+<person name="Suzuki K."/>
+<person name="Nishioka J."/>
+<person name="Kusumoto H."/>
+<person name="Hashimoto S."/>
+</authorList>
+<dbReference type="PubMed" id="6323392"/>
+<dbReference type="DOI" id="10.1093/oxfordjournals.jbchem.a134583"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<scope>HETERODIMER WITH SERPINA5</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1984" name="J. Biol. Chem." volume="259" first="12949" last="12951">
+<title>Coagulation Factor V contains copper ion.</title>
+<authorList>
+<person name="Mann K.G."/>
+<person name="Lawler C.M."/>
+<person name="Vehar G.A."/>
+<person name="Church W.R."/>
+</authorList>
+<dbReference type="PubMed" id="6490642"/>
+</citation>
+<scope>COPPER-BINDING</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1988" name="Biochemistry" volume="27" first="4231" last="4237">
+<title>Inactivation of human plasma kallikrein and factor XIa by protein C inhibitor.</title>
+<authorList>
+<person name="Meijers J.C."/>
+<person name="Kanters D.H."/>
+<person name="Vlooswijk R.A."/>
+<person name="van Erp H.E."/>
+<person name="Hessing M."/>
+<person name="Bouma B.N."/>
+</authorList>
+<dbReference type="PubMed" id="2844223"/>
+<dbReference type="DOI" id="10.1021/bi00412a005"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<scope>HETERODIMER WITH SERPINA5</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1994" name="Biochemistry" volume="33" first="6952" last="6959">
+<title>Posttranslational sulfation of factor V is required for efficient thrombin cleavage and activation and for full procoagulant activity.</title>
+<authorList>
+<person name="Pittman D.D."/>
+<person name="Tomkinson K.N."/>
+<person name="Michnick D."/>
+<person name="Selighsohn U."/>
+<person name="Kaufman R.J."/>
+</authorList>
+<dbReference type="PubMed" id="8204629"/>
+<dbReference type="DOI" id="10.1021/bi00188a026"/>
+</citation>
+<scope>SULFATION</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1990" name="Blood" volume="76" first="946" last="952">
+<title>Sulfation of tyrosine residues in coagulation factor V.</title>
+<authorList>
+<person name="Hortin G.L."/>
+</authorList>
+<dbReference type="PubMed" id="2168225"/>
+</citation>
+<scope>SULFATION</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1994" name="J. Biol. Chem." volume="269" first="31869" last="31880">
+<title>The mechanism of inactivation of human factor V and human factor Va by activated protein C.</title>
+<authorList>
+<person name="Kalafatis M."/>
+<person name="Rand M.D."/>
+<person name="Mann K.G."/>
+</authorList>
+<dbReference type="PubMed" id="7989361"/>
+</citation>
+<scope>PROTEOLYTIC CLEAVAGE AT ARG-334; ARG-534; ARG-707 AND LYS-1022 BY ACTIVATED PROTEIN C</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="1996" name="Eur. J. Biochem." volume="238" first="88" last="96">
+<title>Characterization of semenogelin II and its molecular interaction with prostate-specific antigen and protein C inhibitor.</title>
+<authorList>
+<person name="Kise H."/>
+<person name="Nishioka J."/>
+<person name="Kawamura J."/>
+<person name="Suzuki K."/>
+</authorList>
+<dbReference type="PubMed" id="8665956"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1996.0088q.x"/>
+</citation>
+<scope>HETERODIMER WITH SERPINA5</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="1998" name="J. Biol. Chem." volume="273" first="11281" last="11287">
+<title>Protein C inhibitor secreted from activated platelets efficiently inhibits activated protein C on phosphatidylethanolamine of platelet membrane and microvesicles.</title>
+<authorList>
+<person name="Nishioka J."/>
+<person name="Ning M."/>
+<person name="Hayashi T."/>
+<person name="Suzuki K."/>
+</authorList>
+<dbReference type="PubMed" id="9556620"/>
+<dbReference type="DOI" id="10.1074/jbc.273.18.11281"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<scope>HETERODIMER WITH SERPINA5</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2000" name="N. Engl. J. Med." volume="343" first="1015" last="1018">
+<title>Mutations in coagulation factors in women with unexplained late fetal loss.</title>
+<authorList>
+<person name="Martinelli I."/>
+<person name="Taioli E."/>
+<person name="Cetin I."/>
+<person name="Marinoni A."/>
+<person name="Gerosa S."/>
+<person name="Villa M.V."/>
+<person name="Bozzo M."/>
+<person name="Mannucci P.M."/>
+</authorList>
+<dbReference type="PubMed" id="11018168"/>
+<dbReference type="DOI" id="10.1056/nejm200010053431405"/>
+</citation>
+<scope>INVOLVEMENT IN RPRGL1 SUSCEPTIBILITY</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2004" name="J. Thromb. Haemost." volume="2" first="949" last="961">
+<title>Characterization of a novel human protein C inhibitor (PCI) gene transgenic mouse useful for studying the role of PCI in physiological and pathological conditions.</title>
+<authorList>
+<person name="Hayashi T."/>
+<person name="Nishioka J."/>
+<person name="Kamada H."/>
+<person name="Asanuma K."/>
+<person name="Kondo H."/>
+<person name="Gabazza E.C."/>
+<person name="Ido M."/>
+<person name="Suzuki K."/>
+</authorList>
+<dbReference type="PubMed" id="15140131"/>
+<dbReference type="DOI" id="10.1111/j.1538-7836.2004.00733.x"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<scope>HETERODIMER WITH SERPINA5</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2005" name="J. Proteome Res." volume="4" first="2070" last="2080">
+<title>Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry.</title>
+<authorList>
+<person name="Liu T."/>
+<person name="Qian W.-J."/>
+<person name="Gritsenko M.A."/>
+<person name="Camp D.G. II"/>
+<person name="Monroe M.E."/>
+<person name="Moore R.J."/>
+<person name="Smith R.D."/>
+</authorList>
+<dbReference type="PubMed" id="16335952"/>
+<dbReference type="DOI" id="10.1021/pr0502065"/>
+</citation>
+<scope>GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-297; ASN-460; ASN-821; ASN-977 AND ASN-1559</scope>
+<source>
+<tissue>Plasma</tissue>
+</source>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2006" name="Mol. Cell. Proteomics" volume="5" first="226" last="233">
+<title>Elucidation of N-glycosylation sites on human platelet proteins: a glycoproteomic approach.</title>
+<authorList>
+<person name="Lewandrowski U."/>
+<person name="Moebius J."/>
+<person name="Walter U."/>
+<person name="Sickmann A."/>
+</authorList>
+<dbReference type="PubMed" id="16263699"/>
+<dbReference type="DOI" id="10.1074/mcp.m500324-mcp200"/>
+</citation>
+<scope>GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-297</scope>
+<source>
+<tissue>Platelet</tissue>
+</source>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2008" name="J. Proteome Res." volume="7" first="526" last="534">
+<title>Phosphoproteome of resting human platelets.</title>
+<authorList>
+<person name="Zahedi R.P."/>
+<person name="Lewandrowski U."/>
+<person name="Wiesner J."/>
+<person name="Wortelkamp S."/>
+<person name="Moebius J."/>
+<person name="Schuetz C."/>
+<person name="Walter U."/>
+<person name="Gambaryan S."/>
+<person name="Sickmann A."/>
+</authorList>
+<dbReference type="PubMed" id="18088087"/>
+<dbReference type="DOI" id="10.1021/pr0704130"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Platelet</tissue>
+</source>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2009" name="Sci. Signal." volume="2" first="RA46" last="RA46">
+<title>Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions.</title>
+<authorList>
+<person name="Mayya V."/>
+<person name="Lundgren D.H."/>
+<person name="Hwang S.-I."/>
+<person name="Rezaul K."/>
+<person name="Wu L."/>
+<person name="Eng J.K."/>
+<person name="Rodionov V."/>
+<person name="Han D.K."/>
+</authorList>
+<dbReference type="PubMed" id="19690332"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000007"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-640</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Leukemic T-cell</tissue>
+</source>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2015" name="Cell" volume="161" first="1619" last="1632">
+<title>A single kinase generates the majority of the secreted phosphoproteome.</title>
+<authorList>
+<person name="Tagliabracci V.S."/>
+<person name="Wiley S.E."/>
+<person name="Guo X."/>
+<person name="Kinch L.N."/>
+<person name="Durrant E."/>
+<person name="Wen J."/>
+<person name="Xiao J."/>
+<person name="Cui J."/>
+<person name="Nguyen K.B."/>
+<person name="Engel J.L."/>
+<person name="Coon J.J."/>
+<person name="Grishin N."/>
+<person name="Pinna L.A."/>
+<person name="Pagliarini D.J."/>
+<person name="Dixon J.E."/>
+</authorList>
+<dbReference type="PubMed" id="26091039"/>
+<dbReference type="DOI" id="10.1016/j.cell.2015.05.028"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-859</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="1999" name="Nature" volume="402" first="434" last="439">
+<title>Crystal structures of the membrane-binding C2 domain of human coagulation factor V.</title>
+<authorList>
+<person name="Macedo-Ribeiro S."/>
+<person name="Bode W."/>
+<person name="Huber R."/>
+<person name="Quinn-Allen M.A."/>
+<person name="Kim S.W."/>
+<person name="Ortel T.L."/>
+<person name="Bourenkov G.P."/>
+<person name="Bartunik H.D."/>
+<person name="Stubbs M.T."/>
+<person name="Kane W.H."/>
+<person name="Fuentes-Prior P."/>
+</authorList>
+<dbReference type="PubMed" id="10586886"/>
+<dbReference type="DOI" id="10.1038/46594"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 2065-2224</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="1994" name="Hum. Mol. Genet." volume="3" first="2085" last="2085">
+<title>A polymorphism in the human coagulation factor V gene.</title>
+<authorList>
+<person name="Bayston T.A."/>
+<person name="Ireland H."/>
+<person name="Olds R.J."/>
+<person name="Thein S.L."/>
+<person name="Lane D.A."/>
+</authorList>
+<dbReference type="PubMed" id="7874144"/>
+</citation>
+<scope>VARIANT VAL-1764</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="1994" name="Nature" volume="369" first="64" last="67">
+<title>Mutation in blood coagulation factor V associated with resistance to activated protein C.</title>
+<authorList>
+<person name="Bertina R.M."/>
+<person name="Koeleman B.P.C."/>
+<person name="Koster T."/>
+<person name="Rosendaal F.R."/>
+<person name="Dirven R.J."/>
+<person name="de Ronde H."/>
+<person name="van der Velden P.A."/>
+<person name="Reitsma P.H."/>
+</authorList>
+<dbReference type="PubMed" id="8164741"/>
+<dbReference type="DOI" id="10.1038/369064a0"/>
+</citation>
+<scope>VARIANT THPH2 GLN-534</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="1996" name="Thromb. Haemost." volume="75" first="45" last="48">
+<title>Detection of new polymorphic markers in the factor V gene: association with factor V levels in plasma.</title>
+<authorList>
+<person name="Lunghi B."/>
+<person name="Iacoviello L."/>
+<person name="Gemmati D."/>
+<person name="Dilasio M.G."/>
+<person name="Castoldi E."/>
+<person name="Pinotti M."/>
+<person name="Castaman G."/>
+<person name="Redaelli R."/>
+<person name="Mariani G."/>
+<person name="Marchetti G."/>
+<person name="Bernardi F."/>
+</authorList>
+<dbReference type="PubMed" id="8713778"/>
+</citation>
+<scope>VARIANTS ILE-1285 AND ARG-1327</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="1997" name="Gut" volume="40" first="798" last="800">
+<title>Prevalence of the factor V Leiden mutation in hepatic and portal vein thrombosis.</title>
+<authorList>
+<person name="Mahmoud A.E.A."/>
+<person name="Elias E."/>
+<person name="Beauchamp N."/>
+<person name="Wilde J.T."/>
+</authorList>
+<dbReference type="PubMed" id="9245936"/>
+<dbReference type="DOI" id="10.1136/gut.40.6.798"/>
+</citation>
+<scope>ASSOCIATION OF VARIANT LEIDEN GLN-534 WITH SUSCEPTIBILITY TO BUDD-CHIARI SYNDROME</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="1998" name="Blood" volume="91" first="1135" last="1139">
+<title>A novel mutation of Arg306 of factor V gene in Hong Kong Chinese.</title>
+<authorList>
+<person name="Chan W.P."/>
+<person name="Lee C.K."/>
+<person name="Kwong Y.L."/>
+<person name="Lam C.K."/>
+<person name="Liang R."/>
+</authorList>
+<dbReference type="PubMed" id="9454741"/>
+</citation>
+<scope>VARIANT HONG KONG GLY-334</scope>
+<scope>VARIANT LYS-513</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="1998" name="Blood" volume="91" first="1140" last="1144">
+<title>Factor V Cambridge: a new mutation (Arg306-to-Thr) associated with resistance to activated protein C.</title>
+<authorList>
+<person name="Williamson D."/>
+<person name="Brown K."/>
+<person name="Luddington R."/>
+<person name="Baglin C."/>
+<person name="Baglin T."/>
+</authorList>
+<dbReference type="PubMed" id="9454742"/>
+</citation>
+<scope>VARIANT THPH2 THR-334</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="1998" name="Blood" volume="92" first="2599" last="2600">
+<title>Clinical significance of Arg306 mutations of factor V gene.</title>
+<authorList>
+<person name="Liang R."/>
+<person name="Lee C.K."/>
+<person name="Wat M.S."/>
+<person name="Kwong Y.L."/>
+<person name="Lam C.K."/>
+<person name="Liu H.W."/>
+</authorList>
+<dbReference type="PubMed" id="9746807"/>
+</citation>
+<scope>VARIANT HONG KONG GLY-334</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="1999" name="Nat. Genet." volume="22" first="231" last="238">
+<title>Characterization of single-nucleotide polymorphisms in coding regions of human genes.</title>
+<authorList>
+<person name="Cargill M."/>
+<person name="Altshuler D."/>
+<person name="Ireland J."/>
+<person name="Sklar P."/>
+<person name="Ardlie K."/>
+<person name="Patil N."/>
+<person name="Shaw N."/>
+<person name="Lane C.R."/>
+<person name="Lim E.P."/>
+<person name="Kalyanaraman N."/>
+<person name="Nemesh J."/>
+<person name="Ziaugra L."/>
+<person name="Friedland L."/>
+<person name="Rolfe A."/>
+<person name="Warrington J."/>
+<person name="Lipshutz R."/>
+<person name="Daley G.Q."/>
+<person name="Lander E.S."/>
+</authorList>
+<dbReference type="PubMed" id="10391209"/>
+<dbReference type="DOI" id="10.1038/10290"/>
+</citation>
+<scope>VARIANT THPH2 GLN-534</scope>
+<scope>VARIANTS HIS-107; THR-413; LYS-513; SER-809; THR-817; ARG-858; ARG-865; GLU-925; GLN-1146; ALA-1530; SER-1685; VAL-1749; VAL-1764; ILE-1820 AND GLY-2222</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="1999" name="Nat. Genet." volume="23" first="373" last="373">
+<authorList>
+<person name="Cargill M."/>
+<person name="Altshuler D."/>
+<person name="Ireland J."/>
+<person name="Sklar P."/>
+<person name="Ardlie K."/>
+<person name="Patil N."/>
+<person name="Shaw N."/>
+<person name="Lane C.R."/>
+<person name="Lim E.P."/>
+<person name="Kalyanaraman N."/>
+<person name="Nemesh J."/>
+<person name="Ziaugra L."/>
+<person name="Friedland L."/>
+<person name="Rolfe A."/>
+<person name="Warrington J."/>
+<person name="Lipshutz R."/>
+<person name="Daley G.Q."/>
+<person name="Lander E.S."/>
+</authorList>
+</citation>
+<scope>ERRATUM OF PUBMED:10391209</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="2000" name="Blood" volume="96" first="1443" last="1448">
+<title>Combinations of 4 mutations (FV R506Q, FV H1299R, FV Y1702C, PT 20210G/A) affecting the prothrombinase complex in a thrombophilic family.</title>
+<authorList>
+<person name="Castoldi E."/>
+<person name="Simioni P."/>
+<person name="Kalafatis M."/>
+<person name="Lunghi B."/>
+<person name="Tormene D."/>
+<person name="Girelli D."/>
+<person name="Girolami A."/>
+<person name="Bernardi F."/>
+</authorList>
+<dbReference type="PubMed" id="10942390"/>
+</citation>
+<scope>VARIANT FA5D CYS-1730</scope>
+<scope>VARIANT THPH2 GLN-534</scope>
+<scope>VARIANT ARG-1327</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="2001" name="Blood" volume="98" first="358" last="367">
+<title>Five novel mutations in the gene for human blood coagulation factor V associated with type I factor V deficiency.</title>
+<authorList>
+<person name="van Wijk R."/>
+<person name="Nieuwenhuis K."/>
+<person name="van den Berg M."/>
+<person name="Huizinga E.G."/>
+<person name="van der Meijden B.B."/>
+<person name="Kraaijenhagen R.J."/>
+<person name="van Solinge W.W."/>
+</authorList>
+<dbReference type="PubMed" id="11435304"/>
+<dbReference type="DOI" id="10.1182/blood.v98.2.358"/>
+</citation>
+<scope>VARIANTS THPH2 ARG-613 AND CYS-1730</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="2002" name="Thromb. Haemost." volume="87" first="294" last="299">
+<title>Novel factor V C2-domain mutation (R2074H) in two families with factor V deficiency and bleeding.</title>
+<authorList>
+<person name="Schrijver I."/>
+<person name="Houissa-Kastally R."/>
+<person name="Jones C.D."/>
+<person name="Garcia K.C."/>
+<person name="Zehnder J.L."/>
+</authorList>
+<dbReference type="PubMed" id="11858490"/>
+</citation>
+<scope>VARIANT THPH2 HIS-2102</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="2003" name="Blood" volume="101" first="173" last="177">
+<title>Arg2074Cys missense mutation in the C2 domain of factor V causing moderately severe factor V deficiency: molecular characterization by expression of the recombinant protein.</title>
+<authorList>
+<person name="Duga S."/>
+<person name="Montefusco M.C."/>
+<person name="Asselta R."/>
+<person name="Malcovati M."/>
+<person name="Peyvandi F."/>
+<person name="Santagostino E."/>
+<person name="Mannucci P.M."/>
+<person name="Tenchini M.L."/>
+</authorList>
+<dbReference type="PubMed" id="12393490"/>
+<dbReference type="DOI" id="10.1182/blood-2002-06-1928"/>
+</citation>
+<scope>VARIANT FA5D CYS-2102</scope>
+<scope>CHARACTERIZATION OF VARIANT FA5D CYS-2102</scope>
+</reference>
+<reference key="40">
+<citation type="journal article" date="2003" name="Br. J. Haematol." volume="123" first="496" last="501">
+<title>Factor V I359T: a novel mutation associated with thrombosis and resistance to activated protein C.</title>
+<authorList>
+<person name="Mumford A.D."/>
+<person name="McVey J.H."/>
+<person name="Morse C.V."/>
+<person name="Gomez K."/>
+<person name="Steen M."/>
+<person name="Norstrom E.A."/>
+<person name="Tuddenham E.G.D."/>
+<person name="Dahlback B."/>
+<person name="Bolton-Maggs P.H.B."/>
+</authorList>
+<dbReference type="PubMed" id="14617013"/>
+<dbReference type="DOI" id="10.1046/j.1365-2141.2003.04624.x"/>
+</citation>
+<scope>VARIANT THPH2 THR-387</scope>
+</reference>
+<reference key="41">
+<citation type="journal article" date="2004" name="Arch. Neurol." volume="61" first="1652" last="1661">
+<title>Meta-analysis of genetic studies in ischemic stroke: thirty-two genes involving approximately 18,000 cases and 58,000 controls.</title>
+<authorList>
+<person name="Casas J.P."/>
+<person name="Hingorani A.D."/>
+<person name="Bautista L.E."/>
+<person name="Sharma P."/>
+</authorList>
+<dbReference type="PubMed" id="15534175"/>
+<dbReference type="DOI" id="10.1001/archneur.61.11.1652"/>
+</citation>
+<scope>ASSOCIATION OF VARIANT GLN-534 WITH SUSCEPTIBILITY TO ISCHSTR</scope>
+</reference>
+<reference key="42">
+<citation type="journal article" date="2004" name="Blood" volume="103" first="3381" last="3387">
+<title>Functional characterization of factor V-Ile359Thr: a novel mutation associated with thrombosis.</title>
+<authorList>
+<person name="Steen M."/>
+<person name="Norstroem E.A."/>
+<person name="Tholander A.-L."/>
+<person name="Bolton-Maggs P.H.B."/>
+<person name="Mumford A."/>
+<person name="McVey J.H."/>
+<person name="Tuddenham E.G.D."/>
+<person name="Dahlbaeck B."/>
+</authorList>
+<dbReference type="PubMed" id="14695241"/>
+<dbReference type="DOI" id="10.1182/blood-2003-06-2092"/>
+</citation>
+<scope>CHARACTERIZATION OF VARIANT THPH2 THR-387</scope>
+</reference>
+<reference key="43">
+<citation type="journal article" date="2006" name="Science" volume="314" first="268" last="274">
+<title>The consensus coding sequences of human breast and colorectal cancers.</title>
+<authorList>
+<person name="Sjoeblom T."/>
+<person name="Jones S."/>
+<person name="Wood L.D."/>
+<person name="Parsons D.W."/>
+<person name="Lin J."/>
+<person name="Barber T.D."/>
+<person name="Mandelker D."/>
+<person name="Leary R.J."/>
+<person name="Ptak J."/>
+<person name="Silliman N."/>
+<person name="Szabo S."/>
+<person name="Buckhaults P."/>
+<person name="Farrell C."/>
+<person name="Meeh P."/>
+<person name="Markowitz S.D."/>
+<person name="Willis J."/>
+<person name="Dawson D."/>
+<person name="Willson J.K.V."/>
+<person name="Gazdar A.F."/>
+<person name="Hartigan J."/>
+<person name="Wu L."/>
+<person name="Liu C."/>
+<person name="Parmigiani G."/>
+<person name="Park B.H."/>
+<person name="Bachman K.E."/>
+<person name="Papadopoulos N."/>
+<person name="Vogelstein B."/>
+<person name="Kinzler K.W."/>
+<person name="Velculescu V.E."/>
+</authorList>
+<dbReference type="PubMed" id="16959974"/>
+<dbReference type="DOI" id="10.1126/science.1133427"/>
+</citation>
+<scope>VARIANT [LARGE SCALE ANALYSIS] ALA-775</scope>
+</reference>
+<comment type="function">
+<text>Central regulator of hemostasis. It serves as a critical cofactor for the prothrombinase activity of factor Xa that results in the activation of prothrombin to thrombin.</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="18 27 29 38">Inhibited by SERPINA5.</text>
+</comment>
+<comment type="subunit">
+<text>Factor Va, the activated form of factor V, is composed of a heavy chain and a light chain, non-covalently bound. The interaction between the two chains is calcium-dependent. Forms heterodimer with SERPINA5.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="5">Secreted</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text>Plasma.</text>
+</comment>
+<comment type="domain">
+<text>Domain B contains 35 x 9 AA tandem repeats, and 2 x 17 AA repeats.</text>
+</comment>
+<comment type="PTM">
+<text>Thrombin activates factor V proteolytically to the active cofactor, factor Va (formation of a heavy chain at the N-terminus and a light chain at the C-terminus).</text>
+</comment>
+<comment type="PTM">
+<text evidence="24 31 33">Sulfation is required for efficient thrombin cleavage and activation and for full procoagulant activity.</text>
+</comment>
+<comment type="PTM">
+<text evidence="31">Activated protein C inactivates factor V and factor Va by proteolytic degradation.</text>
+</comment>
+<comment type="PTM">
+<text evidence="25">Phosphorylated by FAM20C in the extracellular medium.</text>
+</comment>
+<comment type="disease" evidence="9 14">
+<disease id="DI-00486">
+<name>Factor V deficiency</name>
+<acronym>FA5D</acronym>
+<description>A blood coagulation disorder leading to a hemorrhagic diathesis known as parahemophilia.</description>
+<dbReference type="MIM" id="227400"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="8 9 11 13 15 16 22 32 37">
+<disease id="DI-01101">
+<name>Thrombophilia due to activated protein C resistance</name>
+<acronym>THPH2</acronym>
+<description>A hemostatic disorder due to defective degradation of factor V by activated protein C. It is characterized by a poor anticoagulant response to activated protein C resulting in tendency to thrombosis.</description>
+<dbReference type="MIM" id="188055"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="35">
+<disease id="DI-01300">
+<name>Budd-Chiari syndrome</name>
+<acronym>BDCHS</acronym>
+<description>A syndrome caused by obstruction of hepatic venous outflow involving either the hepatic veins or the terminal segment of the inferior vena cava. Obstructions are generally caused by thrombosis and lead to hepatic congestion and ischemic necrosis. Clinical manifestations observed in the majority of patients include hepatomegaly, right upper quadrant pain and abdominal ascites. Budd-Chiari syndrome is associated with a combination of disease states including primary myeloproliferative syndromes and thrombophilia due to factor V Leiden, protein C deficiency and antithrombin III deficiency. Budd-Chiari syndrome is a rare but typical complication in patients with polycythemia vera.</description>
+<dbReference type="MIM" id="600880"/>
+</disease>
+<text>Disease susceptibility is associated with variations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="19">
+<disease id="DI-01835">
+<name>Ischemic stroke</name>
+<acronym>ISCHSTR</acronym>
+<description>A stroke is an acute neurologic event leading to death of neural tissue of the brain and resulting in loss of motor, sensory and/or cognitive function. Ischemic strokes, resulting from vascular occlusion, is considered to be a highly complex disease consisting of a group of heterogeneous disorders with multiple genetic and environmental risk factors.</description>
+<dbReference type="MIM" id="601367"/>
+</disease>
+<text>Disease susceptibility is associated with variations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="10">
+<disease id="DI-03350">
+<name>Pregnancy loss, recurrent, 1</name>
+<acronym>RPRGL1</acronym>
+<description>A common complication of pregnancy, resulting in spontaneous abortion before the fetus has reached viability. The term includes all miscarriages from the time of conception until 24 weeks of gestation. Recurrent pregnancy loss is defined as 3 or more consecutive spontaneous abortions.</description>
+<dbReference type="MIM" id="614389"/>
+</disease>
+<text>Disease susceptibility is associated with variations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="41">Belongs to the multicopper oxidase family.</text>
+</comment>
+<comment type="sequence caution" evidence="41">
+<conflict type="erroneous gene model prediction">
+<sequence resource="EMBL-CDS" id="ABD23003" version="1"/>
+</conflict>
+</comment>
+<comment type="online information" name="Wikipedia">
+<link uri="https://en.wikipedia.org/wiki/Factor_V"/>
+<text>Factor V entry</text>
+</comment>
+<comment type="online information" name="SeattleSNPs">
+<link uri="http://pga.gs.washington.edu/data/f5/"/>
+</comment>
+<comment type="online information" name="SHMPD">
+<link uri="http://shmpd.bii.a-star.edu.sg/gene.php?genestart=A&amp;genename=F5"/>
+<text>The Singapore human mutation and polymorphism database</text>
+</comment>
+<dbReference type="EMBL" id="M16967">
+<property type="protein sequence ID" value="AAA52424.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32779">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32755">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32756">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32757">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32758">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32759">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32760">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32761">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32762">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32763">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32764">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32765">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32766">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32767">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32768">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32769">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32770">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32771">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32772">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32773">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32774">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32775">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32776">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32777">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L32778">
+<property type="protein sequence ID" value="AAB59401.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY364535">
+<property type="protein sequence ID" value="AAQ55063.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z99572">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK291613">
+<property type="protein sequence ID" value="BAF84302.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M14335">
+<property type="protein sequence ID" value="AAB59532.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="DQ377944">
+<property type="protein sequence ID" value="ABD23003.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ297255">
+<property type="protein sequence ID" value="CAC82573.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS1281.1"/>
+<dbReference type="PIR" id="A56172">
+<property type="entry name" value="KFHU5"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000121.2">
+<property type="nucleotide sequence ID" value="NM_000130.4"/>
+</dbReference>
+<dbReference type="PDB" id="1CZS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A=2065-2224"/>
+</dbReference>
+<dbReference type="PDB" id="1CZT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.87"/>
+<property type="chains" value="A=2065-2224"/>
+</dbReference>
+<dbReference type="PDB" id="1CZV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B=2065-2224"/>
+</dbReference>
+<dbReference type="PDB" id="1FV4">
+<property type="method" value="Model"/>
+<property type="chains" value="H=29-691, L=1574-2224"/>
+</dbReference>
+<dbReference type="PDB" id="1Y61">
+<property type="method" value="Model"/>
+<property type="chains" value="H=29-737, L=1574-2224"/>
+</dbReference>
+<dbReference type="PDB" id="3P6Z">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="C/I=685-737"/>
+</dbReference>
+<dbReference type="PDB" id="3P70">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.55"/>
+<property type="chains" value="M/N/O/P=685-737"/>
+</dbReference>
+<dbReference type="PDB" id="3S9C">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="B=1561-1574"/>
+</dbReference>
+<dbReference type="PDBsum" id="1CZS"/>
+<dbReference type="PDBsum" id="1CZT"/>
+<dbReference type="PDBsum" id="1CZV"/>
+<dbReference type="PDBsum" id="1FV4"/>
+<dbReference type="PDBsum" id="1Y61"/>
+<dbReference type="PDBsum" id="3P6Z"/>
+<dbReference type="PDBsum" id="3P70"/>
+<dbReference type="PDBsum" id="3S9C"/>
+<dbReference type="SMR" id="P12259"/>
+<dbReference type="BioGRID" id="108452">
+<property type="interactions" value="13"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-47331N"/>
+<dbReference type="IntAct" id="P12259">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="MINT" id="P12259"/>
+<dbReference type="STRING" id="9606.ENSP00000356771"/>
+<dbReference type="BindingDB" id="P12259"/>
+<dbReference type="ChEMBL" id="CHEMBL3618"/>
+<dbReference type="DrugBank" id="DB13151">
+<property type="generic name" value="Anti-inhibitor coagulant complex"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB09130">
+<property type="generic name" value="Copper"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00055">
+<property type="generic name" value="Drotrecogin alfa"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB11571">
+<property type="generic name" value="Human thrombin"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB11312">
+<property type="generic name" value="Protein C"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB13149">
+<property type="generic name" value="Protein S human"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB11300">
+<property type="generic name" value="Thrombin"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB11572">
+<property type="generic name" value="Thrombin alfa"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB05777">
+<property type="generic name" value="Thrombomodulin Alfa"/>
+</dbReference>
+<dbReference type="CarbonylDB" id="P12259"/>
+<dbReference type="GlyConnect" id="1120">
+<property type="glycosylation" value="16 N-Linked glycans (9 sites)"/>
+</dbReference>
+<dbReference type="GlyGen" id="P12259">
+<property type="glycosylation" value="59 sites, 2 N-linked glycans (2 sites), 5 O-linked glycans (30 sites)"/>
+</dbReference>
+<dbReference type="iPTMnet" id="P12259"/>
+<dbReference type="PhosphoSitePlus" id="P12259"/>
+<dbReference type="BioMuta" id="F5"/>
+<dbReference type="DMDM" id="308153653"/>
+<dbReference type="CPTAC" id="non-CPTAC-2648"/>
+<dbReference type="jPOST" id="P12259"/>
+<dbReference type="MassIVE" id="P12259"/>
+<dbReference type="MaxQB" id="P12259"/>
+<dbReference type="PaxDb" id="P12259"/>
+<dbReference type="PeptideAtlas" id="P12259"/>
+<dbReference type="PRIDE" id="P12259"/>
+<dbReference type="ProteomicsDB" id="52838"/>
+<dbReference type="Antibodypedia" id="863">
+<property type="antibodies" value="381 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="2153"/>
+<dbReference type="Ensembl" id="ENST00000367797">
+<property type="protein sequence ID" value="ENSP00000356771"/>
+<property type="gene ID" value="ENSG00000198734"/>
+</dbReference>
+<dbReference type="GeneID" id="2153"/>
+<dbReference type="KEGG" id="hsa:2153"/>
+<dbReference type="UCSC" id="uc001ggg.2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="2153"/>
+<dbReference type="DisGeNET" id="2153"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000198734.10"/>
+<dbReference type="GeneCards" id="F5"/>
+<dbReference type="GeneReviews" id="F5"/>
+<dbReference type="HGNC" id="HGNC:3542">
+<property type="gene designation" value="F5"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000198734">
+<property type="expression patterns" value="Tissue enhanced (brain, liver, placenta)"/>
+</dbReference>
+<dbReference type="MalaCards" id="F5"/>
+<dbReference type="MIM" id="188055">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="227400">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="600880">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="601367">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="612309">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="614389">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P12259"/>
+<dbReference type="OpenTargets" id="ENSG00000198734"/>
+<dbReference type="Orphanet" id="131">
+<property type="disease" value="Budd-Chiari syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="329217">
+<property type="disease" value="Cerebral sinovenous thrombosis"/>
+</dbReference>
+<dbReference type="Orphanet" id="326">
+<property type="disease" value="Congenital factor V deficiency"/>
+</dbReference>
+<dbReference type="Orphanet" id="391320">
+<property type="disease" value="East Texas bleeding disorder"/>
+</dbReference>
+<dbReference type="Orphanet" id="64738">
+<property type="disease" value="NON RARE IN EUROPE: Non rare thrombophilia"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA159"/>
+<dbReference type="eggNOG" id="ENOG502QSUG">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000158556"/>
+<dbReference type="HOGENOM" id="CLU_000948_0_0_1"/>
+<dbReference type="InParanoid" id="P12259"/>
+<dbReference type="KO" id="K03902"/>
+<dbReference type="OrthoDB" id="454773at2759"/>
+<dbReference type="PhylomeDB" id="P12259"/>
+<dbReference type="TreeFam" id="TF329807"/>
+<dbReference type="PathwayCommons" id="P12259"/>
+<dbReference type="Reactome" id="R-HSA-114608">
+<property type="pathway name" value="Platelet degranulation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-140875">
+<property type="pathway name" value="Common Pathway of Fibrin Clot Formation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-204005">
+<property type="pathway name" value="COPII-mediated vesicle transport"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-381426">
+<property type="pathway name" value="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5694530">
+<property type="pathway name" value="Cargo concentration in the ER"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8957275">
+<property type="pathway name" value="Post-translational protein phosphorylation"/>
+</dbReference>
+<dbReference type="SIGNOR" id="P12259"/>
+<dbReference type="BioGRID-ORCS" id="2153">
+<property type="hits" value="1 hit in 872 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="F5">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P12259"/>
+<dbReference type="GeneWiki" id="Factor_V"/>
+<dbReference type="GenomeRNAi" id="2153"/>
+<dbReference type="Pharos" id="P12259">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P12259"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
+<dbReference type="RNAct" id="P12259">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000198734">
+<property type="expression patterns" value="Expressed in liver and 181 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="P12259">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P12259">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030134">
+<property type="term" value="C:COPII-coated ER to Golgi transport vesicle"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005788">
+<property type="term" value="C:endoplasmic reticulum lumen"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033116">
+<property type="term" value="C:endoplasmic reticulum-Golgi intermediate compartment membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005615">
+<property type="term" value="C:extracellular space"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903561">
+<property type="term" value="C:extracellular vesicle"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000139">
+<property type="term" value="C:Golgi membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031091">
+<property type="term" value="C:platelet alpha granule"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031093">
+<property type="term" value="C:platelet alpha granule lumen"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005507">
+<property type="term" value="F:copper ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008015">
+<property type="term" value="P:blood circulation"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007596">
+<property type="term" value="P:blood coagulation"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044267">
+<property type="term" value="P:cellular protein metabolic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048208">
+<property type="term" value="P:COPII vesicle coating"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006888">
+<property type="term" value="P:endoplasmic reticulum to Golgi vesicle-mediated transport"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002576">
+<property type="term" value="P:platelet degranulation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043687">
+<property type="term" value="P:post-translational protein modification"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="CDD" id="cd00057">
+<property type="entry name" value="FA58C"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.120.260">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.40.420">
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009271">
+<property type="entry name" value="Coagulation_factor_V_LSPD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011707">
+<property type="entry name" value="Cu-oxidase_3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033138">
+<property type="entry name" value="Cu_oxidase_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008972">
+<property type="entry name" value="Cupredoxin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000421">
+<property type="entry name" value="FA58C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024715">
+<property type="entry name" value="Factor_5/8-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008979">
+<property type="entry name" value="Galactose-bd-like_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07732">
+<property type="entry name" value="Cu-oxidase_3"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00754">
+<property type="entry name" value="F5_F8_type_C"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06049">
+<property type="entry name" value="LSPR"/>
+<property type="match status" value="21"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF000354">
+<property type="entry name" value="Factors_V_VIII"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00231">
+<property type="entry name" value="FA58C"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF49503">
+<property type="entry name" value="SSF49503"/>
+<property type="match status" value="6"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF49785">
+<property type="entry name" value="SSF49785"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01285">
+<property type="entry name" value="FA58C_1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01286">
+<property type="entry name" value="FA58C_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50022">
+<property type="entry name" value="FA58C_3"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00079">
+<property type="entry name" value="MULTICOPPER_OXIDASE1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0094">Blood coagulation</keyword>
+<keyword id="KW-0106">Calcium</keyword>
+<keyword id="KW-0186">Copper</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0356">Hemostasis</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0765">Sulfation</keyword>
+<keyword id="KW-0792">Thrombophilia</keyword>
+<keyword id="KW-0865">Zymogen</keyword>
+<feature type="signal peptide">
+<location>
+<begin position="1"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="chain" description="Coagulation factor V" id="PRO_0000002978">
+<location>
+<begin position="29"/>
+<end position="2224"/>
+</location>
+</feature>
+<feature type="chain" description="Coagulation factor V heavy chain" id="PRO_0000002979">
+<location>
+<begin position="29"/>
+<end position="737"/>
+</location>
+</feature>
+<feature type="propeptide" description="Activation peptide (connecting region)" id="PRO_0000002980">
+<location>
+<begin position="738"/>
+<end position="1573"/>
+</location>
+</feature>
+<feature type="chain" description="Coagulation factor V light chain" id="PRO_0000002981">
+<location>
+<begin position="1574"/>
+<end position="2224"/>
+</location>
+</feature>
+<feature type="domain" description="F5/8 type A 1">
+<location>
+<begin position="30"/>
+<end position="329"/>
+</location>
+</feature>
+<feature type="domain" description="Plastocyanin-like 1">
+<location>
+<begin position="30"/>
+<end position="193"/>
+</location>
+</feature>
+<feature type="domain" description="Plastocyanin-like 2">
+<location>
+<begin position="203"/>
+<end position="329"/>
+</location>
+</feature>
+<feature type="domain" description="F5/8 type A 2">
+<location>
+<begin position="348"/>
+<end position="684"/>
+</location>
+</feature>
+<feature type="domain" description="Plastocyanin-like 3">
+<location>
+<begin position="348"/>
+<end position="526"/>
+</location>
+</feature>
+<feature type="domain" description="Plastocyanin-like 4">
+<location>
+<begin position="536"/>
+<end position="684"/>
+</location>
+</feature>
+<feature type="repeat" description="1-1">
+<location>
+<begin position="895"/>
+<end position="911"/>
+</location>
+</feature>
+<feature type="repeat" description="1-2">
+<location>
+<begin position="912"/>
+<end position="928"/>
+</location>
+</feature>
+<feature type="repeat" description="2-1">
+<location>
+<begin position="1185"/>
+<end position="1193"/>
+</location>
+</feature>
+<feature type="repeat" description="2-2">
+<location>
+<begin position="1194"/>
+<end position="1202"/>
+</location>
+</feature>
+<feature type="repeat" description="2-3">
+<location>
+<begin position="1203"/>
+<end position="1211"/>
+</location>
+</feature>
+<feature type="repeat" description="2-4">
+<location>
+<begin position="1212"/>
+<end position="1220"/>
+</location>
+</feature>
+<feature type="repeat" description="2-5">
+<location>
+<begin position="1221"/>
+<end position="1229"/>
+</location>
+</feature>
+<feature type="repeat" description="2-6">
+<location>
+<begin position="1230"/>
+<end position="1238"/>
+</location>
+</feature>
+<feature type="repeat" description="2-7">
+<location>
+<begin position="1239"/>
+<end position="1247"/>
+</location>
+</feature>
+<feature type="repeat" description="2-8">
+<location>
+<begin position="1248"/>
+<end position="1256"/>
+</location>
+</feature>
+<feature type="repeat" description="2-9">
+<location>
+<begin position="1257"/>
+<end position="1265"/>
+</location>
+</feature>
+<feature type="repeat" description="2-10">
+<location>
+<begin position="1266"/>
+<end position="1274"/>
+</location>
+</feature>
+<feature type="repeat" description="2-11">
+<location>
+<begin position="1275"/>
+<end position="1283"/>
+</location>
+</feature>
+<feature type="repeat" description="2-12">
+<location>
+<begin position="1284"/>
+<end position="1292"/>
+</location>
+</feature>
+<feature type="repeat" description="2-13">
+<location>
+<begin position="1293"/>
+<end position="1301"/>
+</location>
+</feature>
+<feature type="repeat" description="2-14">
+<location>
+<begin position="1302"/>
+<end position="1310"/>
+</location>
+</feature>
+<feature type="repeat" description="2-15">
+<location>
+<begin position="1311"/>
+<end position="1319"/>
+</location>
+</feature>
+<feature type="repeat" description="2-16">
+<location>
+<begin position="1320"/>
+<end position="1328"/>
+</location>
+</feature>
+<feature type="repeat" description="2-17">
+<location>
+<begin position="1329"/>
+<end position="1337"/>
+</location>
+</feature>
+<feature type="repeat" description="2-18">
+<location>
+<begin position="1338"/>
+<end position="1346"/>
+</location>
+</feature>
+<feature type="repeat" description="2-19">
+<location>
+<begin position="1347"/>
+<end position="1355"/>
+</location>
+</feature>
+<feature type="repeat" description="2-20">
+<location>
+<begin position="1356"/>
+<end position="1364"/>
+</location>
+</feature>
+<feature type="repeat" description="2-21">
+<location>
+<begin position="1365"/>
+<end position="1373"/>
+</location>
+</feature>
+<feature type="repeat" description="2-22">
+<location>
+<begin position="1374"/>
+<end position="1382"/>
+</location>
+</feature>
+<feature type="repeat" description="2-23">
+<location>
+<begin position="1383"/>
+<end position="1391"/>
+</location>
+</feature>
+<feature type="repeat" description="2-24">
+<location>
+<begin position="1392"/>
+<end position="1400"/>
+</location>
+</feature>
+<feature type="repeat" description="2-25">
+<location>
+<begin position="1401"/>
+<end position="1409"/>
+</location>
+</feature>
+<feature type="repeat" description="2-26">
+<location>
+<begin position="1410"/>
+<end position="1418"/>
+</location>
+</feature>
+<feature type="repeat" description="2-27">
+<location>
+<begin position="1419"/>
+<end position="1427"/>
+</location>
+</feature>
+<feature type="repeat" description="2-28">
+<location>
+<begin position="1428"/>
+<end position="1436"/>
+</location>
+</feature>
+<feature type="repeat" description="2-29">
+<location>
+<begin position="1437"/>
+<end position="1445"/>
+</location>
+</feature>
+<feature type="repeat" description="2-30">
+<location>
+<begin position="1446"/>
+<end position="1454"/>
+</location>
+</feature>
+<feature type="repeat" description="2-31">
+<location>
+<begin position="1455"/>
+<end position="1463"/>
+</location>
+</feature>
+<feature type="repeat" description="2-32">
+<location>
+<begin position="1464"/>
+<end position="1472"/>
+</location>
+</feature>
+<feature type="repeat" description="2-33">
+<location>
+<begin position="1473"/>
+<end position="1481"/>
+</location>
+</feature>
+<feature type="repeat" description="2-34">
+<location>
+<begin position="1482"/>
+<end position="1490"/>
+</location>
+</feature>
+<feature type="repeat" description="2-35">
+<location>
+<begin position="1493"/>
+<end position="1501"/>
+</location>
+</feature>
+<feature type="domain" description="F5/8 type A 3">
+<location>
+<begin position="1578"/>
+<end position="1907"/>
+</location>
+</feature>
+<feature type="domain" description="Plastocyanin-like 5">
+<location>
+<begin position="1578"/>
+<end position="1751"/>
+</location>
+</feature>
+<feature type="domain" description="Plastocyanin-like 6">
+<location>
+<begin position="1761"/>
+<end position="1907"/>
+</location>
+</feature>
+<feature type="domain" description="F5/8 type C 1" evidence="7">
+<location>
+<begin position="1907"/>
+<end position="2061"/>
+</location>
+</feature>
+<feature type="domain" description="F5/8 type C 2" evidence="7">
+<location>
+<begin position="2066"/>
+<end position="2221"/>
+</location>
+</feature>
+<feature type="region of interest" description="B">
+<location>
+<begin position="692"/>
+<end position="1573"/>
+</location>
+</feature>
+<feature type="region of interest" description="2 X 17 AA tandem repeats">
+<location>
+<begin position="895"/>
+<end position="928"/>
+</location>
+</feature>
+<feature type="region of interest" description="35 X 9 AA approximate tandem repeats of [TNP]-L-S-P-D-L-S-Q-T">
+<location>
+<begin position="1185"/>
+<end position="1501"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium" evidence="5">
+<location>
+<position position="139"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium" evidence="5">
+<location>
+<position position="140"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Copper" evidence="5">
+<location>
+<position position="1843"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Copper" evidence="5">
+<location>
+<position position="1845"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by activated protein C" evidence="31">
+<location>
+<begin position="334"/>
+<end position="335"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by activated protein C" evidence="31">
+<location>
+<begin position="534"/>
+<end position="535"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by activated protein C" evidence="31">
+<location>
+<begin position="707"/>
+<end position="708"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by thrombin" evidence="28">
+<location>
+<begin position="737"/>
+<end position="738"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by activated protein C" evidence="31">
+<location>
+<begin position="1022"/>
+<end position="1023"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by thrombin" evidence="28">
+<location>
+<begin position="1046"/>
+<end position="1047"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by thrombin" evidence="28">
+<location>
+<begin position="1573"/>
+<end position="1574"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="4">
+<location>
+<position position="640"/>
+</location>
+</feature>
+<feature type="modified residue" description="Sulfotyrosine" evidence="6">
+<location>
+<position position="693"/>
+</location>
+</feature>
+<feature type="modified residue" description="Sulfotyrosine" evidence="6">
+<location>
+<position position="724"/>
+</location>
+</feature>
+<feature type="modified residue" description="Sulfotyrosine" evidence="6">
+<location>
+<position position="726"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by FAM20C" evidence="25">
+<location>
+<position position="859"/>
+</location>
+</feature>
+<feature type="modified residue" description="Sulfotyrosine" evidence="6">
+<location>
+<position position="1522"/>
+</location>
+</feature>
+<feature type="modified residue" description="Sulfotyrosine" evidence="6">
+<location>
+<position position="1538"/>
+</location>
+</feature>
+<feature type="modified residue" description="Sulfotyrosine" evidence="6">
+<location>
+<position position="1543"/>
+</location>
+</feature>
+<feature type="modified residue" description="Sulfotyrosine" evidence="6">
+<location>
+<position position="1593"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="51"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="55"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="239"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="20 21">
+<location>
+<position position="297"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="382"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="21">
+<location>
+<position position="460"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="468"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="554"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="741"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="752"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="760"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="776"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="782"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="21">
+<location>
+<position position="821"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="938"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="21">
+<location>
+<position position="977"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="1074"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="1083"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="1103"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="1106"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="1479"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="1499"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="21">
+<location>
+<position position="1559"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="1703"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="2010"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="6">
+<location>
+<position position="2209"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="7">
+<location>
+<begin position="167"/>
+<end position="193"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="7">
+<location>
+<begin position="248"/>
+<end position="329"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="7">
+<location>
+<begin position="500"/>
+<end position="526"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="7">
+<location>
+<begin position="603"/>
+<end position="684"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="41">
+<location>
+<begin position="1725"/>
+<end position="1751"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="7">
+<location>
+<begin position="1907"/>
+<end position="2061"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="7">
+<location>
+<begin position="2066"/>
+<end position="2221"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs9332485." id="VAR_021297" evidence="40">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="15"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6019." id="VAR_013886" evidence="8 40">
+<original>D</original>
+<variation>H</variation>
+<location>
+<position position="107"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In Hong Kong; does not predispose to clinical thrombosis; dbSNP:rs118203905." id="VAR_013620" evidence="36 39">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="334"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In THPH2; Cambridge; dbSNP:rs118203906." id="VAR_013621" evidence="37">
+<original>R</original>
+<variation>T</variation>
+<location>
+<position position="334"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In THPH2; Liverpool; mutant protein is expressed with an additional carbohydrate chain; dbSNP:rs118203911." id="VAR_032698" evidence="15 16">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="387"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6033." id="VAR_013887" evidence="8 40">
+<original>M</original>
+<variation>T</variation>
+<location>
+<position position="413"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6020." id="VAR_013622" evidence="8 17 36 40">
+<original>R</original>
+<variation>K</variation>
+<location>
+<position position="513"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In THPH2; factor V Leiden; associated with susceptibility to Budd-Chiari syndrome; associated with susceptibility to ischemic stroke; dbSNP:rs6025." id="VAR_001213" evidence="8 9 22 32 40">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="534"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In THPH2; Nijkerk; dbSNP:rs1453479152." id="VAR_032699" evidence="11">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="613"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a colorectal cancer sample; somatic mutation." id="VAR_035817" evidence="23">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="775"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs13306350." id="VAR_047740">
+<original>S</original>
+<variation>R</variation>
+<location>
+<position position="781"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6031." id="VAR_013888" evidence="8 40">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="809"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6018." id="VAR_013889" evidence="8 40">
+<original>N</original>
+<variation>T</variation>
+<location>
+<position position="817"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs4524." id="VAR_001214" evidence="8 12 26 28 40">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="858"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs4525." id="VAR_001215" evidence="8 12 26 28 40">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="865"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs9332695." id="VAR_021298" evidence="40">
+<original>T</original>
+<variation>S</variation>
+<location>
+<position position="915"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6032." id="VAR_013890" evidence="8 12 26 28 40">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="925"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs9332604." id="VAR_021299" evidence="40">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="969"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs9332605." id="VAR_021300" evidence="40">
+<original>R</original>
+<variation>L</variation>
+<location>
+<position position="980"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6005." id="VAR_013891" evidence="8 40">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="1146"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1046712." id="VAR_013892" evidence="26 34 40">
+<original>L</original>
+<variation>I</variation>
+<location>
+<position position="1285"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1800595." id="VAR_013893" evidence="9 34">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="1327"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs13306334." id="VAR_047741" evidence="12 28">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="1397"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs9332608." id="VAR_021301" evidence="40">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="1404"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6007." id="VAR_013894" evidence="8 40">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="1530"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6011." id="VAR_013895" evidence="8">
+<original>T</original>
+<variation>S</variation>
+<location>
+<position position="1685"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FA5D; Seoul 2; dbSNP:rs118203907." id="VAR_032700" evidence="9 11">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="1730"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6034." id="VAR_013896" evidence="8">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="1749"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6030." id="VAR_013897" evidence="8 28 30">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="1764"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6026." id="VAR_013898" evidence="8">
+<original>M</original>
+<variation>I</variation>
+<location>
+<position position="1820"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FA5D; impairs both factor V secretion and activity; dbSNP:rs118203910." id="VAR_032701" evidence="14">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="2102"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In THPH2." id="VAR_017329" evidence="13">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="2102"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs9332701." id="VAR_021302" evidence="40">
+<original>M</original>
+<variation>T</variation>
+<location>
+<position position="2148"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6679078." id="VAR_034603">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="2185"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6027." id="VAR_013899" evidence="8">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="2222"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 7; ABD23003." ref="7" evidence="41">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="741"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA52424 and 8; CAC82573." ref="1 8" evidence="41">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="908"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; BAF84302." ref="5" evidence="41">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="991"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA52424." ref="1" evidence="41">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="2213"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="1569"/>
+<end position="1571"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="2072"/>
+<end position="2074"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="2075"/>
+<end position="2077"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="2079"/>
+<end position="2081"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="2082"/>
+<end position="2085"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="2093"/>
+<end position="2095"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="2098"/>
+<end position="2100"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="2107"/>
+<end position="2109"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="2111"/>
+<end position="2113"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="2123"/>
+<end position="2139"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="2141"/>
+<end position="2143"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="2146"/>
+<end position="2163"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="2182"/>
+<end position="2185"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="2188"/>
+<end position="2211"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="2213"/>
+<end position="2222"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1CZT"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1CZV"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3S9C"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19690332"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000250"/>
+<evidence key="6" type="ECO:0000255"/>
+<evidence key="7" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00081"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10391209"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10942390"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11018168"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11435304"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11758222"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11858490"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12393490"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14617013"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14695241"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15140131"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15534175"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16263699"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16335952"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16710414"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16959974"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2168225"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26091039"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2827731"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2844223"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3110773"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6323392"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7874144"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7989361"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8164741"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8204629"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8713778"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9245936"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9454741"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9454742"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9556620"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9746807"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000269">
+<source ref="3"/>
+</evidence>
+<evidence key="41" type="ECO:0000305"/>
+<sequence length="2224" mass="251703" checksum="24AEF3FEA7332E37" modified="2010-10-05" version="4" precursor="true">MFPGCPRLWVLVVLGTSWVGWGSQGTEAAQLRQFYVAAQGISWSYRPEPTNSSLNLSVTSFKKIVYREYEPYFKKEKPQSTISGLLGPTLYAEVGDIIKVHFKNKADKPLSIHPQGIRYSKLSEGASYLDHTFPAEKMDDAVAPGREYTYEWSISEDSGPTHDDPPCLTHIYYSHENLIEDFNSGLIGPLLICKKGTLTEGGTQKTFDKQIVLLFAVFDESKSWSQSSSLMYTVNGYVNGTMPDITVCAHDHISWHLLGMSSGPELFSIHFNGQVLEQNHHKVSAITLVSATSTTANMTVGPEGKWIISSLTPKHLQAGMQAYIDIKNCPKKTRNLKKITREQRRHMKRWEYFIAAEEVIWDYAPVIPANMDKKYRSQHLDNFSNQIGKHYKKVMYTQYEDESFTKHTVNPNMKEDGILGPIIRAQVRDTLKIVFKNMASRPYSIYPHGVTFSPYEDEVNSSFTSGRNNTMIRAVQPGETYTYKWNILEFDEPTENDAQCLTRPYYSDVDIMRDIASGLIGLLLICKSRSLDRRGIQRAADIEQQAVFAVFDENKSWYLEDNINKFCENPDEVKRDDPKFYESNIMSTINGYVPESITTLGFCFDDTVQWHFCSVGTQNEILTIHFTGHSFIYGKRHEDTLTLFPMRGESVTVTMDNVGTWMLTSMNSSPRSKKLRLKFRDVKCIPDDDEDSYEIFEPPESTVMATRKMHDRLEPEDEESDADYDYQNRLAAALGIRSFRNSSLNQEEEEFNLTALALENGTEFVSSNTDIIVGSNYSSPSNISKFTVNNLAEPQKAPSHQQATTAGSPLRHLIGKNSVLNSSTAEHSSPYSEDPIEDPLQPDVTGIRLLSLGAGEFKSQEHAKHKGPKVERDQAAKHRFSWMKLLAHKVGRHLSQDTGSPSGMRPWEDLPSQDTGSPSRMRPWKDPPSDLLLLKQSNSSKILVGRWHLASEKGSYEIIQDTDEDTAVNNWLISPQNASRAWGESTPLANKPGKQSGHPKFPRVRHKSLQVRQDGGKSRLKKSQFLIKTRKKKKEKHTHHAPLSPRTFHPLRSEAYNTFSERRLKHSLVLHKSNETSLPTDLNQTLPSMDFGWIASLPDHNQNSSNDTGQASCPPGLYQTVPPEEHYQTFPIQDPDQMHSTSDPSHRSSSPELSEMLEYDRSHKSFPTDISQMSPSSEHEVWQTVISPDLSQVTLSPELSQTNLSPDLSHTTLSPELIQRNLSPALGQMPISPDLSHTTLSPDLSHTTLSLDLSQTNLSPELSQTNLSPALGQMPLSPDLSHTTLSLDFSQTNLSPELSHMTLSPELSQTNLSPALGQMPISPDLSHTTLSLDFSQTNLSPELSQTNLSPALGQMPLSPDPSHTTLSLDLSQTNLSPELSQTNLSPDLSEMPLFADLSQIPLTPDLDQMTLSPDLGETDLSPNFGQMSLSPDLSQVTLSPDISDTTLLPDLSQISPPPDLDQIFYPSESSQSLLLQEFNESFPYPDLGQMPSPSSPTLNDTFLSKEFNPLVIVGLSKDGTDYIEIIPKEEVQSSEDDYAEIDYVPYDDPYKTDVRTNINSSRDPDNIAAWYLRSNNGNRRNYYIAAEEISWDYSEFVQRETDIEDSDDIPEDTTYKKVVFRKYLDSTFTKRDPRGEYEEHLGILGPIIRAEVDDVIQVRFKNLASRPYSLHAHGLSYEKSSEGKTYEDDSPEWFKEDNAVQPNSSYTYVWHATERSGPESPGSACRAWAYYSAVNPEKDIHSGLIGPLLICQKGILHKDSNMPMDMREFVLLFMTFDEKKSWYYEKKSRSSWRLTSSEMKKSHEFHAINGMIYSLPGLKMYEQEWVRLHLLNIGGSQDIHVVHFHGQTLLENGNKQHQLGVWPLLPGSFKTLEMKASKPGWWLLNTEVGENQRAGMQTPFLIMDRDCRMPMGLSTGIISDSQIKASEFLGYWEPRLARLNNGGSYNAWSVEKLAAEFASKPWIQVDMQKEVIITGIQTQGAKHYLKSCYTTEFYVAYSSNQINWQIFKGNSTRNVMYFNGNSDASTIKENQFDPPIVARYIRISPTRAYNRPTLRLELQGCEVNGCSTPLGMENGKIENKQITASSFKKSWWGDYWEPFRARLNAQGRVNAWQAKANNNKQWLEIDLLKIKKITAIITQGCKSLSSEMYVKSYTIHYSEQGVEWKPYRLKSSMVDKIFEGNTNTKGHVKNFFNPPIISRFIRVIPKTWNQSIALRLELFGCDIY</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

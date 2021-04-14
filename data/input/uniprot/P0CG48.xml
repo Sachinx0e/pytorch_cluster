@@ -1,0 +1,4568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2010-08-10" modified="2020-10-07" version="111">
+<accession>P0CG48</accession>
+<accession>P02248</accession>
+<accession>P02249</accession>
+<accession>P02250</accession>
+<accession>P62988</accession>
+<accession>Q29120</accession>
+<accession>Q6LBL4</accession>
+<accession>Q6LDU5</accession>
+<accession>Q8WYN8</accession>
+<accession>Q91887</accession>
+<accession>Q91888</accession>
+<accession>Q9BWD6</accession>
+<accession>Q9BX98</accession>
+<accession>Q9UEF2</accession>
+<accession>Q9UEG1</accession>
+<accession>Q9UEK8</accession>
+<accession>Q9UPK7</accession>
+<name>UBC_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Polyubiquitin-C</fullName>
+</recommendedName>
+<component>
+<recommendedName>
+<fullName>Ubiquitin</fullName>
+</recommendedName>
+</component>
+</protein>
+<gene>
+<name type="primary">UBC</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1985" name="EMBO J." volume="4" first="755" last="759">
+<title>The human ubiquitin multigene family: some genes contain multiple directly repeated ubiquitin coding sequences.</title>
+<authorList>
+<person name="Wiborg O."/>
+<person name="Pedersen M.S."/>
+<person name="Wind A."/>
+<person name="Berglund L.E."/>
+<person name="Marcker K.A."/>
+<person name="Vuust J."/>
+</authorList>
+<dbReference type="PubMed" id="2988935"/>
+<dbReference type="DOI" id="10.1002/j.1460-2075.1985.tb03693.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1998" name="J. Biochem." volume="124" first="35" last="39">
+<title>Cloning of human polyubiquitin cDNAs and a ubiquitin-binding assay involving its in vitro translation product.</title>
+<authorList>
+<person name="Kim N.S."/>
+<person name="Yamaguchi T."/>
+<person name="Sekine S."/>
+<person name="Saeki M."/>
+<person name="Iwamuro S."/>
+<person name="Kato S."/>
+</authorList>
+<dbReference type="PubMed" id="9644242"/>
+<dbReference type="DOI" id="10.1093/oxfordjournals.jbchem.a022093"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2003" name="J. Mol. Evol." volume="57" first="737" last="744">
+<title>Lineage-specific homogenization of the polyubiquitin gene among human and great apes.</title>
+<authorList>
+<person name="Tachikui H."/>
+<person name="Saitou N."/>
+<person name="Nakajima T."/>
+<person name="Hayasaka I."/>
+<person name="Ishida T."/>
+<person name="Inoue I."/>
+</authorList>
+<dbReference type="PubMed" id="14745543"/>
+<dbReference type="DOI" id="10.1007/s00239-003-2532-4"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="346" last="351">
+<title>The finished DNA sequence of human chromosome 12.</title>
+<authorList>
+<person name="Scherer S.E."/>
+<person name="Muzny D.M."/>
+<person name="Buhay C.J."/>
+<person name="Chen R."/>
+<person name="Cree A."/>
+<person name="Ding Y."/>
+<person name="Dugan-Rocha S."/>
+<person name="Gill R."/>
+<person name="Gunaratne P."/>
+<person name="Harris R.A."/>
+<person name="Hawes A.C."/>
+<person name="Hernandez J."/>
+<person name="Hodgson A.V."/>
+<person name="Hume J."/>
+<person name="Jackson A."/>
+<person name="Khan Z.M."/>
+<person name="Kovar-Smith C."/>
+<person name="Lewis L.R."/>
+<person name="Lozado R.J."/>
+<person name="Metzker M.L."/>
+<person name="Milosavljevic A."/>
+<person name="Miner G.R."/>
+<person name="Montgomery K.T."/>
+<person name="Morgan M.B."/>
+<person name="Nazareth L.V."/>
+<person name="Scott G."/>
+<person name="Sodergren E."/>
+<person name="Song X.-Z."/>
+<person name="Steffen D."/>
+<person name="Lovering R.C."/>
+<person name="Wheeler D.A."/>
+<person name="Worley K.C."/>
+<person name="Yuan Y."/>
+<person name="Zhang Z."/>
+<person name="Adams C.Q."/>
+<person name="Ansari-Lari M.A."/>
+<person name="Ayele M."/>
+<person name="Brown M.J."/>
+<person name="Chen G."/>
+<person name="Chen Z."/>
+<person name="Clerc-Blankenburg K.P."/>
+<person name="Davis C."/>
+<person name="Delgado O."/>
+<person name="Dinh H.H."/>
+<person name="Draper H."/>
+<person name="Gonzalez-Garay M.L."/>
+<person name="Havlak P."/>
+<person name="Jackson L.R."/>
+<person name="Jacob L.S."/>
+<person name="Kelly S.H."/>
+<person name="Li L."/>
+<person name="Li Z."/>
+<person name="Liu J."/>
+<person name="Liu W."/>
+<person name="Lu J."/>
+<person name="Maheshwari M."/>
+<person name="Nguyen B.-V."/>
+<person name="Okwuonu G.O."/>
+<person name="Pasternak S."/>
+<person name="Perez L.M."/>
+<person name="Plopper F.J.H."/>
+<person name="Santibanez J."/>
+<person name="Shen H."/>
+<person name="Tabor P.E."/>
+<person name="Verduzco D."/>
+<person name="Waldron L."/>
+<person name="Wang Q."/>
+<person name="Williams G.A."/>
+<person name="Zhang J."/>
+<person name="Zhou J."/>
+<person name="Allen C.C."/>
+<person name="Amin A.G."/>
+<person name="Anyalebechi V."/>
+<person name="Bailey M."/>
+<person name="Barbaria J.A."/>
+<person name="Bimage K.E."/>
+<person name="Bryant N.P."/>
+<person name="Burch P.E."/>
+<person name="Burkett C.E."/>
+<person name="Burrell K.L."/>
+<person name="Calderon E."/>
+<person name="Cardenas V."/>
+<person name="Carter K."/>
+<person name="Casias K."/>
+<person name="Cavazos I."/>
+<person name="Cavazos S.R."/>
+<person name="Ceasar H."/>
+<person name="Chacko J."/>
+<person name="Chan S.N."/>
+<person name="Chavez D."/>
+<person name="Christopoulos C."/>
+<person name="Chu J."/>
+<person name="Cockrell R."/>
+<person name="Cox C.D."/>
+<person name="Dang M."/>
+<person name="Dathorne S.R."/>
+<person name="David R."/>
+<person name="Davis C.M."/>
+<person name="Davy-Carroll L."/>
+<person name="Deshazo D.R."/>
+<person name="Donlin J.E."/>
+<person name="D'Souza L."/>
+<person name="Eaves K.A."/>
+<person name="Egan A."/>
+<person name="Emery-Cohen A.J."/>
+<person name="Escotto M."/>
+<person name="Flagg N."/>
+<person name="Forbes L.D."/>
+<person name="Gabisi A.M."/>
+<person name="Garza M."/>
+<person name="Hamilton C."/>
+<person name="Henderson N."/>
+<person name="Hernandez O."/>
+<person name="Hines S."/>
+<person name="Hogues M.E."/>
+<person name="Huang M."/>
+<person name="Idlebird D.G."/>
+<person name="Johnson R."/>
+<person name="Jolivet A."/>
+<person name="Jones S."/>
+<person name="Kagan R."/>
+<person name="King L.M."/>
+<person name="Leal B."/>
+<person name="Lebow H."/>
+<person name="Lee S."/>
+<person name="LeVan J.M."/>
+<person name="Lewis L.C."/>
+<person name="London P."/>
+<person name="Lorensuhewa L.M."/>
+<person name="Loulseged H."/>
+<person name="Lovett D.A."/>
+<person name="Lucier A."/>
+<person name="Lucier R.L."/>
+<person name="Ma J."/>
+<person name="Madu R.C."/>
+<person name="Mapua P."/>
+<person name="Martindale A.D."/>
+<person name="Martinez E."/>
+<person name="Massey E."/>
+<person name="Mawhiney S."/>
+<person name="Meador M.G."/>
+<person name="Mendez S."/>
+<person name="Mercado C."/>
+<person name="Mercado I.C."/>
+<person name="Merritt C.E."/>
+<person name="Miner Z.L."/>
+<person name="Minja E."/>
+<person name="Mitchell T."/>
+<person name="Mohabbat F."/>
+<person name="Mohabbat K."/>
+<person name="Montgomery B."/>
+<person name="Moore N."/>
+<person name="Morris S."/>
+<person name="Munidasa M."/>
+<person name="Ngo R.N."/>
+<person name="Nguyen N.B."/>
+<person name="Nickerson E."/>
+<person name="Nwaokelemeh O.O."/>
+<person name="Nwokenkwo S."/>
+<person name="Obregon M."/>
+<person name="Oguh M."/>
+<person name="Oragunye N."/>
+<person name="Oviedo R.J."/>
+<person name="Parish B.J."/>
+<person name="Parker D.N."/>
+<person name="Parrish J."/>
+<person name="Parks K.L."/>
+<person name="Paul H.A."/>
+<person name="Payton B.A."/>
+<person name="Perez A."/>
+<person name="Perrin W."/>
+<person name="Pickens A."/>
+<person name="Primus E.L."/>
+<person name="Pu L.-L."/>
+<person name="Puazo M."/>
+<person name="Quiles M.M."/>
+<person name="Quiroz J.B."/>
+<person name="Rabata D."/>
+<person name="Reeves K."/>
+<person name="Ruiz S.J."/>
+<person name="Shao H."/>
+<person name="Sisson I."/>
+<person name="Sonaike T."/>
+<person name="Sorelle R.P."/>
+<person name="Sutton A.E."/>
+<person name="Svatek A.F."/>
+<person name="Svetz L.A."/>
+<person name="Tamerisa K.S."/>
+<person name="Taylor T.R."/>
+<person name="Teague B."/>
+<person name="Thomas N."/>
+<person name="Thorn R.D."/>
+<person name="Trejos Z.Y."/>
+<person name="Trevino B.K."/>
+<person name="Ukegbu O.N."/>
+<person name="Urban J.B."/>
+<person name="Vasquez L.I."/>
+<person name="Vera V.A."/>
+<person name="Villasana D.M."/>
+<person name="Wang L."/>
+<person name="Ward-Moore S."/>
+<person name="Warren J.T."/>
+<person name="Wei X."/>
+<person name="White F."/>
+<person name="Williamson A.L."/>
+<person name="Wleczyk R."/>
+<person name="Wooden H.S."/>
+<person name="Wooden S.H."/>
+<person name="Yen J."/>
+<person name="Yoon L."/>
+<person name="Yoon V."/>
+<person name="Zorrilla S.E."/>
+<person name="Nelson D."/>
+<person name="Kucherlapati R."/>
+<person name="Weinstock G."/>
+<person name="Gibbs R.A."/>
+</authorList>
+<dbReference type="PubMed" id="16541075"/>
+<dbReference type="DOI" id="10.1038/nature04569"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Brain</tissue>
+<tissue>Liver</tissue>
+<tissue>Lung</tissue>
+<tissue>Placenta</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1996" name="Gene" volume="175" first="179" last="185">
+<title>Heterogeneous structure of the polyubiquitin gene UbC of HeLa S3 cells.</title>
+<authorList>
+<person name="Nenoi M."/>
+<person name="Mita K."/>
+<person name="Ichimura S."/>
+<person name="Cartwright I.L."/>
+<person name="Takahashi E."/>
+<person name="Yamauchi M."/>
+<person name="Tsuji H."/>
+</authorList>
+<dbReference type="PubMed" id="8917096"/>
+<dbReference type="DOI" id="10.1016/0378-1119(96)00145-x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-611</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1975" name="Nature" volume="255" first="423" last="424">
+<title>Molecular conservation of 74 amino acid sequence of ubiquitin between cattle and man.</title>
+<authorList>
+<person name="Schlesinger D.H."/>
+<person name="Goldstein G."/>
+</authorList>
+<dbReference type="PubMed" id="1128706"/>
+<dbReference type="DOI" id="10.1038/255423a0"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-74</scope>
+</reference>
+<reference key="8">
+<citation type="submission" date="2008-12" db="UniProtKB">
+<authorList>
+<person name="Lubec G."/>
+<person name="Chen W.-Q."/>
+<person name="Sun Y."/>
+</authorList>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-27; 30-42 AND 55-72</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<source>
+<tissue>Fetal brain cortex</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2006" name="J. Biol. Chem." volume="281" first="10825" last="10838">
+<title>Alzheimer disease-specific conformation of hyperphosphorylated paired helical filament-tau is polyubiquitinated through Lys-48, Lys-11, and Lys-6 ubiquitin conjugation.</title>
+<authorList>
+<person name="Cripps D."/>
+<person name="Thomas S.N."/>
+<person name="Jeng Y."/>
+<person name="Yang F."/>
+<person name="Davies P."/>
+<person name="Yang A.J."/>
+</authorList>
+<dbReference type="PubMed" id="16443603"/>
+<dbReference type="DOI" id="10.1074/jbc.m512786200"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1-27 AND 43-54</scope>
+<scope>UBIQUITINATION AT LYS-6; LYS-11 AND LYS-48</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1998" name="Genetics" volume="148" first="867" last="876">
+<title>Higher frequency of concerted evolutionary events in rodents than in man at the polyubiquitin gene VNTR locus.</title>
+<authorList>
+<person name="Nenoi M."/>
+<person name="Mita K."/>
+<person name="Ichimura S."/>
+<person name="Kawano A."/>
+</authorList>
+<dbReference type="PubMed" id="9504932"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 77-685</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1987" name="Biochem. Biophys. Res. Commun." volume="147" first="581" last="587">
+<title>Cloning and sequence analysis of a cDNA encoding poly-ubiquitin in human ovarian granulosa cells.</title>
+<authorList>
+<person name="Einspanier R."/>
+<person name="Sharma H.S."/>
+<person name="Scheit K.H."/>
+</authorList>
+<dbReference type="PubMed" id="2820408"/>
+<dbReference type="DOI" id="10.1016/0006-291x(87)90970-3"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 417-685</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2006" name="Mol. Cell" volume="21" first="737" last="748">
+<title>Differential regulation of EGF receptor internalization and degradation by multiubiquitination within the kinase domain.</title>
+<authorList>
+<person name="Huang F."/>
+<person name="Kirkpatrick D."/>
+<person name="Jiang X."/>
+<person name="Gygi S.P."/>
+<person name="Sorkin A."/>
+</authorList>
+<dbReference type="PubMed" id="16543144"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2006.02.018"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>UBIQUITINATION AT LYS-11; LYS-29; LYS-48 AND LYS-63</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="53533" last="53543">
+<title>Functional regulation of FEZ1 by the U-box-type ubiquitin ligase E4B contributes to neuritogenesis.</title>
+<authorList>
+<person name="Okumura F."/>
+<person name="Hatakeyama S."/>
+<person name="Matsumoto M."/>
+<person name="Kamura T."/>
+<person name="Nakayama K."/>
+</authorList>
+<dbReference type="PubMed" id="15466860"/>
+<dbReference type="DOI" id="10.1074/jbc.m402916200"/>
+</citation>
+<scope>UBIQUITINATION AT LYS-27</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="12411" last="12416">
+<title>Polyubiquitination of proliferating cell nuclear antigen by HLTF and SHPRH prevents genomic instability from stalled replication forks.</title>
+<authorList>
+<person name="Motegi A."/>
+<person name="Liaw H.-J."/>
+<person name="Lee K.-Y."/>
+<person name="Roest H.P."/>
+<person name="Maas A."/>
+<person name="Wu X."/>
+<person name="Moinova H."/>
+<person name="Markowitz S.D."/>
+<person name="Ding H."/>
+<person name="Hoeijmakers J.H.J."/>
+<person name="Myung K."/>
+</authorList>
+<dbReference type="PubMed" id="18719106"/>
+<dbReference type="DOI" id="10.1073/pnas.0805685105"/>
+</citation>
+<scope>UBIQUITINATION AT LYS-63</scope>
+<scope>MUTAGENESIS OF LYS-48 AND LYS-63</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2009" name="Biochem. Soc. Trans." volume="37" first="937" last="953">
+<title>The emerging complexity of protein ubiquitination.</title>
+<authorList>
+<person name="Komander D."/>
+</authorList>
+<dbReference type="PubMed" id="19754430"/>
+<dbReference type="DOI" id="10.1042/bst0370937"/>
+</citation>
+<scope>REVIEW</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2014" name="Biochem. J." volume="460" first="127" last="139">
+<title>Parkin is activated by PINK1-dependent phosphorylation of ubiquitin at Ser65.</title>
+<authorList>
+<person name="Kazlauskaite A."/>
+<person name="Kondapalli C."/>
+<person name="Gourlay R."/>
+<person name="Campbell D.G."/>
+<person name="Ritorto M.S."/>
+<person name="Hofmann K."/>
+<person name="Alessi D.R."/>
+<person name="Knebel A."/>
+<person name="Trost M."/>
+<person name="Muqit M.M."/>
+</authorList>
+<dbReference type="PubMed" id="24660806"/>
+<dbReference type="DOI" id="10.1042/bj20140334"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-65</scope>
+<scope>MUTAGENESIS OF SER-65</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2014" name="J. Cell Biol." volume="205" first="143" last="153">
+<title>PINK1 phosphorylates ubiquitin to activate Parkin E3 ubiquitin ligase activity.</title>
+<authorList>
+<person name="Kane L.A."/>
+<person name="Lazarou M."/>
+<person name="Fogel A.I."/>
+<person name="Li Y."/>
+<person name="Yamano K."/>
+<person name="Sarraf S.A."/>
+<person name="Banerjee S."/>
+<person name="Youle R.J."/>
+</authorList>
+<dbReference type="PubMed" id="24751536"/>
+<dbReference type="DOI" id="10.1083/jcb.201402104"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-65</scope>
+<scope>MUTAGENESIS OF SER-65</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2014" name="Nature" volume="510" first="162" last="166">
+<title>Ubiquitin is phosphorylated by PINK1 to activate parkin.</title>
+<authorList>
+<person name="Koyano F."/>
+<person name="Okatsu K."/>
+<person name="Kosako H."/>
+<person name="Tamura Y."/>
+<person name="Go E."/>
+<person name="Kimura M."/>
+<person name="Kimura Y."/>
+<person name="Tsuchiya H."/>
+<person name="Yoshihara H."/>
+<person name="Hirokawa T."/>
+<person name="Endo T."/>
+<person name="Fon E.A."/>
+<person name="Trempe J.F."/>
+<person name="Saeki Y."/>
+<person name="Tanaka K."/>
+<person name="Matsuda N."/>
+</authorList>
+<dbReference type="PubMed" id="24784582"/>
+<dbReference type="DOI" id="10.1038/nature13392"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-65</scope>
+<scope>MUTAGENESIS OF SER-65</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2017" name="Mol. Cell" volume="66" first="503" last="516">
+<title>Ubiquitin Modification by the E3 Ligase/ADP-Ribosyltransferase Dtx3L/Parp9.</title>
+<authorList>
+<person name="Yang C.S."/>
+<person name="Jividen K."/>
+<person name="Spencer A."/>
+<person name="Dworak N."/>
+<person name="Ni L."/>
+<person name="Oostdyk L.T."/>
+<person name="Chatterjee M."/>
+<person name="Kusmider B."/>
+<person name="Reon B."/>
+<person name="Parlak M."/>
+<person name="Gorbunova V."/>
+<person name="Abbas T."/>
+<person name="Jeffery E."/>
+<person name="Sherman N.E."/>
+<person name="Paschal B.M."/>
+</authorList>
+<dbReference type="PubMed" id="28525742"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2017.04.028"/>
+</citation>
+<scope>ADP-RIBOSYLATION AT GLY-76</scope>
+<scope>MUTAGENESIS OF HIS-68; ARG-72; ARG-74 AND GLY-76</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="1987" name="J. Mol. Biol." volume="194" first="531" last="544">
+<title>Structure of ubiquitin refined at 1.8-A resolution.</title>
+<authorList>
+<person name="Vijay-Kumar S."/>
+<person name="Bugg C.E."/>
+<person name="Cook W.J."/>
+</authorList>
+<dbReference type="PubMed" id="3041007"/>
+<dbReference type="DOI" id="10.1016/0022-2836(87)90679-6"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS)</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="1994" name="Biochem. J." volume="299" first="151" last="158">
+<title>Synthetic, structural and biological studies of the ubiquitin system: the total chemical synthesis of ubiquitin.</title>
+<authorList>
+<person name="Ramage R."/>
+<person name="Green J."/>
+<person name="Muir T.W."/>
+<person name="Ogunjobi O.M."/>
+<person name="Love S."/>
+<person name="Shaw K."/>
+</authorList>
+<dbReference type="PubMed" id="8166633"/>
+<dbReference type="DOI" id="10.1042/bj2990151"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS)</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="1994" name="J. Mol. Biol." volume="236" first="601" last="609">
+<title>Structure of tetraubiquitin shows how multiubiquitin chains can be formed.</title>
+<authorList>
+<person name="Cook W.J."/>
+<person name="Jeffrey L.C."/>
+<person name="Kasperek E."/>
+<person name="Pickart C.M."/>
+</authorList>
+<dbReference type="PubMed" id="8107144"/>
+<dbReference type="DOI" id="10.1006/jmbi.1994.1169"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS)</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2001" name="Acta Crystallogr. D" volume="57" first="341" last="344">
+<title>Structure of a new crystal form of tetraubiquitin.</title>
+<authorList>
+<person name="Phillips C.L."/>
+<person name="Thrower J."/>
+<person name="Pickart C.M."/>
+<person name="Hill C.P."/>
+</authorList>
+<dbReference type="PubMed" id="11173499"/>
+<dbReference type="DOI" id="10.1107/s090744490001800x"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS)</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2002" name="Cell" volume="111" first="1041" last="1054">
+<title>Crystal structure of a UBP-family deubiquitinating enzyme in isolation and in complex with ubiquitin aldehyde.</title>
+<authorList>
+<person name="Hu M."/>
+<person name="Li P."/>
+<person name="Li M."/>
+<person name="Li W."/>
+<person name="Yao T."/>
+<person name="Wu J.-W."/>
+<person name="Gu W."/>
+<person name="Cohen R.E."/>
+<person name="Shi Y."/>
+</authorList>
+<dbReference type="PubMed" id="12507430"/>
+<dbReference type="DOI" id="10.1016/s0092-8674(02)01199-6"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 1-75 IN COMPLEX WITH USP7</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2011" name="EMBO Rep." volume="12" first="350" last="357">
+<title>Polyubiquitin binding and cross-reactivity in the USP domain deubiquitinase USP21.</title>
+<authorList>
+<person name="Ye Y."/>
+<person name="Akutsu M."/>
+<person name="Reyes-Turcu F."/>
+<person name="Enchev R.I."/>
+<person name="Wilkinson K.D."/>
+<person name="Komander D."/>
+</authorList>
+<dbReference type="PubMed" id="21399617"/>
+<dbReference type="DOI" id="10.1038/embor.2011.17"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.59 ANGSTROMS) OF 1-75 IN COMPLEX WITH USP21</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2010" name="Nat. Struct. Mol. Biol." volume="17" first="939" last="947">
+<title>Lys11-linked ubiquitin chains adopt compact conformations and are preferentially hydrolyzed by the deubiquitinase Cezanne.</title>
+<authorList>
+<person name="Bremm A."/>
+<person name="Freund S.M."/>
+<person name="Komander D."/>
+</authorList>
+<dbReference type="PubMed" id="20622874"/>
+<dbReference type="DOI" id="10.1038/nsmb.1873"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 1-76</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2013" name="Cell" volume="154" first="169" last="184">
+<title>OTU deubiquitinases reveal mechanisms of linkage specificity and enable ubiquitin chain restriction analysis.</title>
+<authorList>
+<person name="Mevissen T.E."/>
+<person name="Hospenthal M.K."/>
+<person name="Geurink P.P."/>
+<person name="Elliott P.R."/>
+<person name="Akutsu M."/>
+<person name="Arnaudo N."/>
+<person name="Ekkebus R."/>
+<person name="Kulathu Y."/>
+<person name="Wauer T."/>
+<person name="El Oualid F."/>
+<person name="Freund S.M."/>
+<person name="Ovaa H."/>
+<person name="Komander D."/>
+</authorList>
+<dbReference type="PubMed" id="23827681"/>
+<dbReference type="DOI" id="10.1016/j.cell.2013.05.046"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.03 ANGSTROMS) OF 1-76 IN COMPLEX WITH YOD1</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2015" name="EMBO J." volume="34" first="307" last="325">
+<title>Ubiquitin Ser65 phosphorylation affects ubiquitin structure, chain assembly and hydrolysis.</title>
+<authorList>
+<person name="Wauer T."/>
+<person name="Swatek K.N."/>
+<person name="Wagstaff J.L."/>
+<person name="Gladkova C."/>
+<person name="Pruneda J.N."/>
+<person name="Michel M.A."/>
+<person name="Gersch M."/>
+<person name="Johnson C.M."/>
+<person name="Freund S.M."/>
+<person name="Komander D."/>
+</authorList>
+<dbReference type="PubMed" id="25527291"/>
+<dbReference type="DOI" id="10.15252/embj.201489847"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.90 ANGSTROMS) OF 153-228 PHOSPHORYLATED AT SER-65</scope>
+<scope>PHOSPHORYLATION AT SER-65</scope>
+</reference>
+<comment type="function">
+<molecule>Ubiquitin</molecule>
+<text evidence="17 19">Exists either covalently attached to another protein, or free (unanchored). When covalently bound, it is conjugated to target proteins via an isopeptide bond either as a monomer (monoubiquitin), a polymer linked via different Lys residues of the ubiquitin (polyubiquitin chains) or a linear polymer linked via the initiator Met of the ubiquitin (linear polyubiquitin chains). Polyubiquitin chains, when attached to a target protein, have different functions depending on the Lys residue of the ubiquitin that is linked: Lys-6-linked may be involved in DNA repair; Lys-11-linked is involved in ERAD (endoplasmic reticulum-associated degradation) and in cell-cycle regulation; Lys-29-linked is involved in lysosomal degradation; Lys-33-linked is involved in kinase modification; Lys-48-linked is involved in protein degradation via the proteasome; Lys-63-linked is involved in endocytosis, DNA-damage responses as well as in signaling processes leading to activation of the transcription factor NF-kappa-B. Linear polymer chains formed via attachment by the initiator Met lead to cell signaling. Ubiquitin is usually conjugated to Lys residues of target proteins, however, in rare cases, conjugation to Cys or Ser residues has been observed. When polyubiquitin is free (unanchored-polyubiquitin), it also has distinct roles, such as in activation of protein kinases, and in signaling.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-1569435">
+<id>Q9UNQ0</id>
+<label>ABCG2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-954387">
+<id>Q16186</id>
+<label>ADRM1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>11</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-346622">
+<id>Q9ULH1</id>
+<label>ASAP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-310968">
+<id>O43150</id>
+<label>ASAP2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-946068">
+<id>P54252-1</id>
+<label>ATXN3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-6968951">
+<id>Q9HB09-1</id>
+<label>BCL2L12</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-2341576">
+<id>P35226</id>
+<label>BMI1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-1001438">
+<id>O60566</id>
+<label>BUB1B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-2876678">
+<id>Q9H305</id>
+<label>CDIP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-444308">
+<id>P06493</id>
+<label>CDK1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-7331284">
+<id>Q99062</id>
+<label>CSF3R</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-77321">
+<id>Q9UER7</id>
+<label>DAXX</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-724310">
+<id>Q15038</id>
+<label>DAZAP2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-716083">
+<id>O43583</id>
+<label>DENR</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-2806959">
+<id>Q6ICB0</id>
+<label>DESI1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-1755174">
+<id>Q86Y01</id>
+<label>DTX1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-374260">
+<id>Q15717</id>
+<label>ELAVL1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-12135243">
+<id>O95208-2</id>
+<label>EPN2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-11978259">
+<id>Q92567-2</id>
+<label>FAM168A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-3904795">
+<id>P25098</id>
+<label>GRK2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-81279">
+<id>Q9Y6K9</id>
+<label>IKBKG</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-2696013">
+<id>Q13887</id>
+<label>KLF5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-1348">
+<id>P06239</id>
+<label>LCK</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-7886448">
+<id>P48357-3</id>
+<label>LEPR</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-1047372">
+<id>Q9UDY8</id>
+<label>MALT1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-448104">
+<id>Q9Y6R4</id>
+<label>MAP3K4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-358684">
+<id>O43318</id>
+<label>MAP3K7</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-2341610">
+<id>Q9NX47</id>
+<label>MARCHF5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-389668">
+<id>Q00987</id>
+<label>MDM2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-11980301">
+<id>Q8N3F0</id>
+<label>MTURN</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-447544">
+<id>P01106</id>
+<label>MYC</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-742698">
+<id>Q14596</id>
+<label>NBR1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-713635">
+<id>O43639</id>
+<label>NCK2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-3905796">
+<id>Q14934</id>
+<label>NFATC4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-307386">
+<id>P25963</id>
+<label>NFKBIA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-355676">
+<id>P09874</id>
+<label>PARP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-2129767">
+<id>P35227</id>
+<label>PCGF2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-373552">
+<id>Q96CS7</id>
+<label>PLEKHB2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-769257">
+<id>Q9NRQ2</id>
+<label>PLSCR4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-2827270">
+<id>Q9Y253</id>
+<label>POLH</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-741774">
+<id>Q9UNA4</id>
+<label>POLI</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-1383528">
+<id>P17252</id>
+<label>PRKCA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-359318">
+<id>P55036</id>
+<label>PSMD4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-954531">
+<id>P54727</id>
+<label>RAD23B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-3916363">
+<id>Q96NR8</id>
+<label>RDH12</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-73886">
+<id>Q04206</id>
+<label>RELA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-752324">
+<id>Q8N488</id>
+<label>RYBP</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-2880236">
+<id>Q9H4L4</id>
+<label>SENP3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-346595">
+<id>Q96B97</id>
+<label>SH3KBP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-77848">
+<id>Q9Y5X1</id>
+<label>SNX9</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+<label>SQSTM1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-752333">
+<id>Q92783</id>
+<label>STAM</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-529518">
+<id>Q86VP1</id>
+<label>TAX1BP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-366083">
+<id>P04637</id>
+<label>TP53</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>15</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-359276">
+<id>Q9Y4K3</id>
+<label>TRAF6</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-749370">
+<id>Q9BSL1</id>
+<label>UBAC1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-1051028">
+<id>P60604</id>
+<label>UBE2G2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-11026619">
+<id>Q05086-3</id>
+<label>UBE3A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-947187">
+<id>Q9UHD9</id>
+<label>UBQLN2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-517127">
+<id>P98170</id>
+<label>XIAP</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-2510804">
+<id>Q5VVQ6</id>
+<label>YOD1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-8028844">
+<id>O76080</id>
+<label>ZFAND5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-527853">
+<id>Q9UGI0</id>
+<label>ZRANB1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-5717">
+<id>P40087</id>
+<label>DDI1</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-6174">
+<id>P48510</id>
+<label>DSK2</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-7987880">
+<id>Q61088</id>
+<label>Fzd4</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-998011">
+<id>O88522</id>
+<label>Ikbkg</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-14668">
+<id>P32628</id>
+<label>RAD23</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-4437395">
+<id>Q84L31</id>
+<label>RAD23C</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-7266339">
+<id>Q62921</id>
+<label>Rbck1</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-7061954">
+<id>P04325</id>
+<label>rev</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-2620423">
+<id>P55034</id>
+<label>RPN10</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-7710745">
+<id>O48726</id>
+<label>RPN13</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>9</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+</interactant>
+<interactant intactId="EBI-7091763">
+<id>Q9EPK8</id>
+<label>Trpv4</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<molecule>Ubiquitin</molecule>
+<subcellularLocation>
+<location evidence="14">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="14">Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="PTM">
+<molecule>Ubiquitin</molecule>
+<text evidence="20 21 22 23">Phosphorylated at Ser-65 by PINK1 during mitophagy. Phosphorylated ubiquitin specifically binds and activates parkin (PRKN), triggering mitophagy (PubMed:24660806, PubMed:24751536, PubMed:24784582, PubMed:25527291). Phosphorylation does not affect E1-mediated E2 charging of ubiquitin but affects discharging of E2 enzymes to form polyubiquitin chains. It also affects deubiquitination by deubiquitinase enzymes such as USP30 (PubMed:25527291).</text>
+</comment>
+<comment type="PTM">
+<molecule>Ubiquitin</molecule>
+<text evidence="24">Mono-ADP-ribosylated at the C-terminus by PARP9, a component of the PPAR9-DTX3L complex. ADP-ribosylation requires processing by E1 and E2 enzymes and prevents ubiquitin conjugation to substrates such as histones.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Ubiquitin is encoded by 4 different genes. UBA52 and RPS27A genes code for a single copy of ubiquitin fused to the ribosomal proteins L40 and S27a, respectively. UBB and UBC genes code for a polyubiquitin precursor with exact head to tail repeats, the number of repeats differ between species and strains.</text>
+</comment>
+<comment type="miscellaneous">
+<text>For the sake of clarity sequence features are annotated only for the first chain, and are not repeated for each of the following chains.</text>
+</comment>
+<comment type="similarity">
+<text evidence="25">Belongs to the ubiquitin family.</text>
+</comment>
+<dbReference type="EMBL" id="M26880">
+<property type="protein sequence ID" value="AAA36789.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB009010">
+<property type="protein sequence ID" value="BAA23632.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB089613">
+<property type="protein sequence ID" value="BAC56951.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC126309">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC039193">
+<property type="protein sequence ID" value="AAH39193.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D63791">
+<property type="protein sequence ID" value="BAA09860.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB003730">
+<property type="protein sequence ID" value="BAA23486.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M17597">
+<property type="protein sequence ID" value="AAA36787.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS9260.1"/>
+<dbReference type="PIR" id="A02574">
+<property type="entry name" value="UQHU"/>
+</dbReference>
+<dbReference type="PIR" id="A22005">
+<property type="entry name" value="UQHUC"/>
+</dbReference>
+<dbReference type="PIR" id="A29526">
+<property type="entry name" value="A29526"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_066289.3">
+<property type="nucleotide sequence ID" value="NM_021009.6"/>
+</dbReference>
+<dbReference type="PDB" id="1C3T">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1CMX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="B/D=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1D3Z">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1F9J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1FXT">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1G6J">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1GJZ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=1-51"/>
+</dbReference>
+<dbReference type="PDB" id="1NBF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="C/D=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1OGW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.32"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1Q5W">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1S1Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="B/D=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1SIF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.18"/>
+<property type="chains" value="A=6-76"/>
+</dbReference>
+<dbReference type="PDB" id="1TBE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1UBI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1UBQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1UD7">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1XD3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.45"/>
+<property type="chains" value="B/D=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="1XQQ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1YX5">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1YX6">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1ZGU">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="1ZO6">
+<property type="method" value="Model"/>
+<property type="chains" value="B/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2AYO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.50"/>
+<property type="chains" value="B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2BGF">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2DEN">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2FUH">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2G45">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.99"/>
+<property type="chains" value="B/E=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2GBJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.35"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2GBK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.99"/>
+<property type="chains" value="A/B/C/D=10-76"/>
+</dbReference>
+<dbReference type="PDB" id="2GBM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A/B/C/D=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2GBN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2GBR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2GMI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2HTH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2IBI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="B=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="2J7Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="B/D=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="2JF5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2JRI">
+<property type="method" value="NMR"/>
+<property type="chains" value="B/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2JY6">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2JZZ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2K25">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="2K6D">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="2K8B">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2K8C">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2KDF">
+<property type="method" value="NMR"/>
+<property type="chains" value="B/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2KHW">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2KJH">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="2KLG">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2KN5">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2KX0">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=74-151"/>
+</dbReference>
+<dbReference type="PDB" id="2L3Z">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2LD9">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=76-152"/>
+</dbReference>
+<dbReference type="PDB" id="2LVO">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2LVP">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2LVQ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2LZ6">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="2MBO">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="2MBQ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="2MCN">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="2MI8">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="2MJ5">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="2MOR">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="2MRE">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="2MWS">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="2N2K">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=609-684, B=609-679"/>
+</dbReference>
+<dbReference type="PDB" id="2NR2">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2O6V">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2OJR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2PE9">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2PEA">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2RR9">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2RU6">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="2W9N">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A=1-152"/>
+</dbReference>
+<dbReference type="PDB" id="2WDT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="B/D=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="2XEW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B/C/D/E/F/G/H/I/J/K/L=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2Y5B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="B/F=1-152"/>
+</dbReference>
+<dbReference type="PDB" id="2Z59">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2ZCB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A/B/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="2ZVN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/C/E/G=1-152"/>
+</dbReference>
+<dbReference type="PDB" id="2ZVO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/G=1-152"/>
+</dbReference>
+<dbReference type="PDB" id="3A33">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3ALB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B/C/D=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3AUL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.39"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3B08">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/D/G/J=1-152"/>
+</dbReference>
+<dbReference type="PDB" id="3B0A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/D=1-152"/>
+</dbReference>
+<dbReference type="PDB" id="3BY4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="B=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="3C0R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.31"/>
+<property type="chains" value="B/D=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="3DVG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="X/Y=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3DVN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="U/V/X/Y=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3EEC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3EFU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.84"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3EHV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.81"/>
+<property type="chains" value="A/B/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3H7P">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3H7S">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3HM3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.96"/>
+<property type="chains" value="A/B/C/D=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3I3T">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.59"/>
+<property type="chains" value="B/D/F/H=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="3IFW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="B=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="3IHP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="C/D=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="3JSV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3JVZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.30"/>
+<property type="chains" value="X/Y=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3JW0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="X/Y=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3K9O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="B=76-151"/>
+</dbReference>
+<dbReference type="PDB" id="3K9P">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3KVF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="B=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="3KW5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.83"/>
+<property type="chains" value="B=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="3LDZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="E/F/G=1-73"/>
+</dbReference>
+<dbReference type="PDB" id="3MHS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.89"/>
+<property type="chains" value="D=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3MTN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="B/D=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3N30">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3N32">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3N3K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="B=5-76"/>
+</dbReference>
+<dbReference type="PDB" id="3NS8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.71"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3O65">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="B/D/F/H=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="3OFI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="C/D=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3OJ3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3OJ4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.40"/>
+<property type="chains" value="B/E=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3ONS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=1-72"/>
+</dbReference>
+<dbReference type="PDB" id="3PRM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="B/D=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="3PT2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="B=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="3PTF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="C/D=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3Q3F">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.17"/>
+<property type="chains" value="A=2-76"/>
+</dbReference>
+<dbReference type="PDB" id="3RUL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B/C/D=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="3TMP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.91"/>
+<property type="chains" value="B/D/F/H=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3U30">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.43"/>
+<property type="chains" value="A/D=1-152"/>
+</dbReference>
+<dbReference type="PDB" id="3UGB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3V6C">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="B=74-150"/>
+</dbReference>
+<dbReference type="PDB" id="3V6E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="B=74-150"/>
+</dbReference>
+<dbReference type="PDB" id="3VFK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="3VUW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A/B/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3VUX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3VUY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.98"/>
+<property type="chains" value="A/B/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3WXE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="B=533-680"/>
+</dbReference>
+<dbReference type="PDB" id="3WXF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="B/D=533-680"/>
+</dbReference>
+<dbReference type="PDB" id="3ZLZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3ZNH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="B=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="3ZNI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.21"/>
+<property type="chains" value="D/H/L/P=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="3ZNZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="B=1-152"/>
+</dbReference>
+<dbReference type="PDB" id="4AP4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.21"/>
+<property type="chains" value="C/F=608-684"/>
+</dbReference>
+<dbReference type="PDB" id="4AUQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.18"/>
+<property type="chains" value="C/F=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="4BOS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="C/E=609-684, F=612-625"/>
+</dbReference>
+<dbReference type="PDB" id="4BOZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.03"/>
+<property type="chains" value="B/C/E=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="4BVU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="C=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="4DDG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.30"/>
+<property type="chains" value="D/E/F/G/H/I/M/N/O/P/Q/R=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="4DDI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.80"/>
+<property type="chains" value="G/H/I/J/K/L=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="4DHJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="B/F/J/M=1-76, D/H=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="4DHZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.11"/>
+<property type="chains" value="B=1-76, E=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="4FJV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.05"/>
+<property type="chains" value="B/D=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="4HK2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="A/B/C/D=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="4HXD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.85"/>
+<property type="chains" value="A/C=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="4I6L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.49"/>
+<property type="chains" value="B=77-150"/>
+</dbReference>
+<dbReference type="PDB" id="4I6N">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="B/D=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="4IG7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="B=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="4IUM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.45"/>
+<property type="chains" value="B=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="4JQW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="C=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="4K1R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.63"/>
+<property type="chains" value="B/D=607-684"/>
+</dbReference>
+<dbReference type="PDB" id="4K7S">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.76"/>
+<property type="chains" value="A/B/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="4K7U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.76"/>
+<property type="chains" value="A/B/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="4K7W">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.76"/>
+<property type="chains" value="A/B/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="4KSK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="C/D=76-152"/>
+</dbReference>
+<dbReference type="PDB" id="4KSL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.83"/>
+<property type="chains" value="C/D/F/H/J/L/N/P/R/T/V/X=76-228"/>
+</dbReference>
+<dbReference type="PDB" id="4LCD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="E/F=609-683"/>
+</dbReference>
+<dbReference type="PDB" id="4LDT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="B/D=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="4MDK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.61"/>
+<property type="chains" value="E/F/G/H=608-684"/>
+</dbReference>
+<dbReference type="PDB" id="4MM3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.75"/>
+<property type="chains" value="A=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="4MSM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.74"/>
+<property type="chains" value="B/D=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="4MSQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="B/D=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="4NQK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.70"/>
+<property type="chains" value="E/F/G/H/I/J=608-684"/>
+</dbReference>
+<dbReference type="PDB" id="4UN2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.51"/>
+<property type="chains" value="A=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="4V3K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.04"/>
+<property type="chains" value="B/E=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="4V3L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.53"/>
+<property type="chains" value="B/D=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="4WZP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=153-228"/>
+</dbReference>
+<dbReference type="PDB" id="4XOK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="4XOL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.91"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="4ZQS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=533-684"/>
+</dbReference>
+<dbReference type="PDB" id="5A5B">
+<property type="method" value="EM"/>
+<property type="resolution" value="9.50"/>
+<property type="chains" value="9=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="5AF4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B/C/D/E/F/G/H=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="5AF5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.68"/>
+<property type="chains" value="A=1-73"/>
+</dbReference>
+<dbReference type="PDB" id="5AF6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.40"/>
+<property type="chains" value="A/B/C/D/E=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="5AIT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.40"/>
+<property type="chains" value="C/F=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="5AIU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.21"/>
+<property type="chains" value="C/F=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="5B83">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.69"/>
+<property type="chains" value="A/D=1-304"/>
+</dbReference>
+<dbReference type="PDB" id="5C7J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="C/D=1-74"/>
+</dbReference>
+<dbReference type="PDB" id="5C7M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.03"/>
+<property type="chains" value="B/C=1-75"/>
+</dbReference>
+<dbReference type="PDB" id="5E6J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.85"/>
+<property type="chains" value="B/E=609-683"/>
+</dbReference>
+<dbReference type="PDB" id="5H07">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.59"/>
+<property type="chains" value="A=1-228"/>
+</dbReference>
+<dbReference type="PDB" id="5NL4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.32"/>
+<property type="chains" value="A/B/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="5NLF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="5NLI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.53"/>
+<property type="chains" value="A/B/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="5NMC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="5OE7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.95"/>
+<property type="chains" value="B=1-146"/>
+</dbReference>
+<dbReference type="PDB" id="5OHV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="5OXH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="5OXI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.63"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="5UDH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.24"/>
+<property type="chains" value="E=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="5WQ4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B=1-152"/>
+</dbReference>
+<dbReference type="PDB" id="5ZQ3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.18"/>
+<property type="chains" value="C/D=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="5ZQ4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.22"/>
+<property type="chains" value="C/D=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="5ZQ5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.49"/>
+<property type="chains" value="B/D=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="5ZQ6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.01"/>
+<property type="chains" value="B/D=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="5ZQ7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.85"/>
+<property type="chains" value="B/D=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="6A43">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6A44">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6AQR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="D=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="6B7M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="B/C=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="6B7O">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="B/C=609-684"/>
+</dbReference>
+<dbReference type="PDB" id="6EQI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6K2U">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.55"/>
+<property type="chains" value="B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6KBE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.34"/>
+<property type="chains" value="G=1-152"/>
+</dbReference>
+<dbReference type="PDB" id="6N13">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6N6R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A/C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6NQA">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.54"/>
+<property type="chains" value="L=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6NXK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6OI4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.76"/>
+<property type="chains" value="C/D=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6P5B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="E=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6Q00">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="0.85"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6QML">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="C/F=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6RYA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.21"/>
+<property type="chains" value="B/D/F=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6S53">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="D/F/J/L=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6SQR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.18"/>
+<property type="chains" value="I=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6T9L">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.60"/>
+<property type="chains" value="O=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6TNF">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.80"/>
+<property type="chains" value="C=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6TTU">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.70"/>
+<property type="chains" value="U=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6ULH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.97"/>
+<property type="chains" value="E=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6UMP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="E=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6UMS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.34"/>
+<property type="chains" value="E=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6V5D">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6VAE">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.50"/>
+<property type="chains" value="C/D=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6VAF">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.90"/>
+<property type="chains" value="D=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6VEN">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.37"/>
+<property type="chains" value="K=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6W9D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.19"/>
+<property type="chains" value="C/F/I=1-76"/>
+</dbReference>
+<dbReference type="PDB" id="6W9R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.82"/>
+<property type="chains" value="M/N/O/P/Q/R/S/T/U/V/W/X=609-683"/>
+</dbReference>
+<dbReference type="PDB" id="6W9S">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="B=77-151"/>
+</dbReference>
+<dbReference type="PDB" id="7BXG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.71"/>
+<property type="chains" value="D=1-76"/>
+</dbReference>
+<dbReference type="PDBsum" id="1C3T"/>
+<dbReference type="PDBsum" id="1CMX"/>
+<dbReference type="PDBsum" id="1D3Z"/>
+<dbReference type="PDBsum" id="1F9J"/>
+<dbReference type="PDBsum" id="1FXT"/>
+<dbReference type="PDBsum" id="1G6J"/>
+<dbReference type="PDBsum" id="1GJZ"/>
+<dbReference type="PDBsum" id="1NBF"/>
+<dbReference type="PDBsum" id="1OGW"/>
+<dbReference type="PDBsum" id="1Q5W"/>
+<dbReference type="PDBsum" id="1S1Q"/>
+<dbReference type="PDBsum" id="1SIF"/>
+<dbReference type="PDBsum" id="1TBE"/>
+<dbReference type="PDBsum" id="1UBI"/>
+<dbReference type="PDBsum" id="1UBQ"/>
+<dbReference type="PDBsum" id="1UD7"/>
+<dbReference type="PDBsum" id="1XD3"/>
+<dbReference type="PDBsum" id="1XQQ"/>
+<dbReference type="PDBsum" id="1YX5"/>
+<dbReference type="PDBsum" id="1YX6"/>
+<dbReference type="PDBsum" id="1ZGU"/>
+<dbReference type="PDBsum" id="1ZO6"/>
+<dbReference type="PDBsum" id="2AYO"/>
+<dbReference type="PDBsum" id="2BGF"/>
+<dbReference type="PDBsum" id="2DEN"/>
+<dbReference type="PDBsum" id="2FUH"/>
+<dbReference type="PDBsum" id="2G45"/>
+<dbReference type="PDBsum" id="2GBJ"/>
+<dbReference type="PDBsum" id="2GBK"/>
+<dbReference type="PDBsum" id="2GBM"/>
+<dbReference type="PDBsum" id="2GBN"/>
+<dbReference type="PDBsum" id="2GBR"/>
+<dbReference type="PDBsum" id="2GMI"/>
+<dbReference type="PDBsum" id="2HTH"/>
+<dbReference type="PDBsum" id="2IBI"/>
+<dbReference type="PDBsum" id="2J7Q"/>
+<dbReference type="PDBsum" id="2JF5"/>
+<dbReference type="PDBsum" id="2JRI"/>
+<dbReference type="PDBsum" id="2JY6"/>
+<dbReference type="PDBsum" id="2JZZ"/>
+<dbReference type="PDBsum" id="2K25"/>
+<dbReference type="PDBsum" id="2K6D"/>
+<dbReference type="PDBsum" id="2K8B"/>
+<dbReference type="PDBsum" id="2K8C"/>
+<dbReference type="PDBsum" id="2KDF"/>
+<dbReference type="PDBsum" id="2KHW"/>
+<dbReference type="PDBsum" id="2KJH"/>
+<dbReference type="PDBsum" id="2KLG"/>
+<dbReference type="PDBsum" id="2KN5"/>
+<dbReference type="PDBsum" id="2KX0"/>
+<dbReference type="PDBsum" id="2L3Z"/>
+<dbReference type="PDBsum" id="2LD9"/>
+<dbReference type="PDBsum" id="2LVO"/>
+<dbReference type="PDBsum" id="2LVP"/>
+<dbReference type="PDBsum" id="2LVQ"/>
+<dbReference type="PDBsum" id="2LZ6"/>
+<dbReference type="PDBsum" id="2MBO"/>
+<dbReference type="PDBsum" id="2MBQ"/>
+<dbReference type="PDBsum" id="2MCN"/>
+<dbReference type="PDBsum" id="2MI8"/>
+<dbReference type="PDBsum" id="2MJ5"/>
+<dbReference type="PDBsum" id="2MOR"/>
+<dbReference type="PDBsum" id="2MRE"/>
+<dbReference type="PDBsum" id="2MWS"/>
+<dbReference type="PDBsum" id="2N2K"/>
+<dbReference type="PDBsum" id="2NR2"/>
+<dbReference type="PDBsum" id="2O6V"/>
+<dbReference type="PDBsum" id="2OJR"/>
+<dbReference type="PDBsum" id="2PE9"/>
+<dbReference type="PDBsum" id="2PEA"/>
+<dbReference type="PDBsum" id="2RR9"/>
+<dbReference type="PDBsum" id="2RU6"/>
+<dbReference type="PDBsum" id="2W9N"/>
+<dbReference type="PDBsum" id="2WDT"/>
+<dbReference type="PDBsum" id="2XEW"/>
+<dbReference type="PDBsum" id="2Y5B"/>
+<dbReference type="PDBsum" id="2Z59"/>
+<dbReference type="PDBsum" id="2ZCB"/>
+<dbReference type="PDBsum" id="2ZVN"/>
+<dbReference type="PDBsum" id="2ZVO"/>
+<dbReference type="PDBsum" id="3A33"/>
+<dbReference type="PDBsum" id="3ALB"/>
+<dbReference type="PDBsum" id="3AUL"/>
+<dbReference type="PDBsum" id="3B08"/>
+<dbReference type="PDBsum" id="3B0A"/>
+<dbReference type="PDBsum" id="3BY4"/>
+<dbReference type="PDBsum" id="3C0R"/>
+<dbReference type="PDBsum" id="3DVG"/>
+<dbReference type="PDBsum" id="3DVN"/>
+<dbReference type="PDBsum" id="3EEC"/>
+<dbReference type="PDBsum" id="3EFU"/>
+<dbReference type="PDBsum" id="3EHV"/>
+<dbReference type="PDBsum" id="3H7P"/>
+<dbReference type="PDBsum" id="3H7S"/>
+<dbReference type="PDBsum" id="3HM3"/>
+<dbReference type="PDBsum" id="3I3T"/>
+<dbReference type="PDBsum" id="3IFW"/>
+<dbReference type="PDBsum" id="3IHP"/>
+<dbReference type="PDBsum" id="3JSV"/>
+<dbReference type="PDBsum" id="3JVZ"/>
+<dbReference type="PDBsum" id="3JW0"/>
+<dbReference type="PDBsum" id="3K9O"/>
+<dbReference type="PDBsum" id="3K9P"/>
+<dbReference type="PDBsum" id="3KVF"/>
+<dbReference type="PDBsum" id="3KW5"/>
+<dbReference type="PDBsum" id="3LDZ"/>
+<dbReference type="PDBsum" id="3MHS"/>
+<dbReference type="PDBsum" id="3MTN"/>
+<dbReference type="PDBsum" id="3N30"/>
+<dbReference type="PDBsum" id="3N32"/>
+<dbReference type="PDBsum" id="3N3K"/>
+<dbReference type="PDBsum" id="3NS8"/>
+<dbReference type="PDBsum" id="3O65"/>
+<dbReference type="PDBsum" id="3OFI"/>
+<dbReference type="PDBsum" id="3OJ3"/>
+<dbReference type="PDBsum" id="3OJ4"/>
+<dbReference type="PDBsum" id="3ONS"/>
+<dbReference type="PDBsum" id="3PRM"/>
+<dbReference type="PDBsum" id="3PT2"/>
+<dbReference type="PDBsum" id="3PTF"/>
+<dbReference type="PDBsum" id="3Q3F"/>
+<dbReference type="PDBsum" id="3RUL"/>
+<dbReference type="PDBsum" id="3TMP"/>
+<dbReference type="PDBsum" id="3U30"/>
+<dbReference type="PDBsum" id="3UGB"/>
+<dbReference type="PDBsum" id="3V6C"/>
+<dbReference type="PDBsum" id="3V6E"/>
+<dbReference type="PDBsum" id="3VFK"/>
+<dbReference type="PDBsum" id="3VUW"/>
+<dbReference type="PDBsum" id="3VUX"/>
+<dbReference type="PDBsum" id="3VUY"/>
+<dbReference type="PDBsum" id="3WXE"/>
+<dbReference type="PDBsum" id="3WXF"/>
+<dbReference type="PDBsum" id="3ZLZ"/>
+<dbReference type="PDBsum" id="3ZNH"/>
+<dbReference type="PDBsum" id="3ZNI"/>
+<dbReference type="PDBsum" id="3ZNZ"/>
+<dbReference type="PDBsum" id="4AP4"/>
+<dbReference type="PDBsum" id="4AUQ"/>
+<dbReference type="PDBsum" id="4BOS"/>
+<dbReference type="PDBsum" id="4BOZ"/>
+<dbReference type="PDBsum" id="4BVU"/>
+<dbReference type="PDBsum" id="4DDG"/>
+<dbReference type="PDBsum" id="4DDI"/>
+<dbReference type="PDBsum" id="4DHJ"/>
+<dbReference type="PDBsum" id="4DHZ"/>
+<dbReference type="PDBsum" id="4FJV"/>
+<dbReference type="PDBsum" id="4HK2"/>
+<dbReference type="PDBsum" id="4HXD"/>
+<dbReference type="PDBsum" id="4I6L"/>
+<dbReference type="PDBsum" id="4I6N"/>
+<dbReference type="PDBsum" id="4IG7"/>
+<dbReference type="PDBsum" id="4IUM"/>
+<dbReference type="PDBsum" id="4JQW"/>
+<dbReference type="PDBsum" id="4K1R"/>
+<dbReference type="PDBsum" id="4K7S"/>
+<dbReference type="PDBsum" id="4K7U"/>
+<dbReference type="PDBsum" id="4K7W"/>
+<dbReference type="PDBsum" id="4KSK"/>
+<dbReference type="PDBsum" id="4KSL"/>
+<dbReference type="PDBsum" id="4LCD"/>
+<dbReference type="PDBsum" id="4LDT"/>
+<dbReference type="PDBsum" id="4MDK"/>
+<dbReference type="PDBsum" id="4MM3"/>
+<dbReference type="PDBsum" id="4MSM"/>
+<dbReference type="PDBsum" id="4MSQ"/>
+<dbReference type="PDBsum" id="4NQK"/>
+<dbReference type="PDBsum" id="4UN2"/>
+<dbReference type="PDBsum" id="4V3K"/>
+<dbReference type="PDBsum" id="4V3L"/>
+<dbReference type="PDBsum" id="4WZP"/>
+<dbReference type="PDBsum" id="4XOK"/>
+<dbReference type="PDBsum" id="4XOL"/>
+<dbReference type="PDBsum" id="4ZQS"/>
+<dbReference type="PDBsum" id="5A5B"/>
+<dbReference type="PDBsum" id="5AF4"/>
+<dbReference type="PDBsum" id="5AF5"/>
+<dbReference type="PDBsum" id="5AF6"/>
+<dbReference type="PDBsum" id="5AIT"/>
+<dbReference type="PDBsum" id="5AIU"/>
+<dbReference type="PDBsum" id="5B83"/>
+<dbReference type="PDBsum" id="5C7J"/>
+<dbReference type="PDBsum" id="5C7M"/>
+<dbReference type="PDBsum" id="5E6J"/>
+<dbReference type="PDBsum" id="5H07"/>
+<dbReference type="PDBsum" id="5NL4"/>
+<dbReference type="PDBsum" id="5NLF"/>
+<dbReference type="PDBsum" id="5NLI"/>
+<dbReference type="PDBsum" id="5NMC"/>
+<dbReference type="PDBsum" id="5OE7"/>
+<dbReference type="PDBsum" id="5OHV"/>
+<dbReference type="PDBsum" id="5OXH"/>
+<dbReference type="PDBsum" id="5OXI"/>
+<dbReference type="PDBsum" id="5UDH"/>
+<dbReference type="PDBsum" id="5WQ4"/>
+<dbReference type="PDBsum" id="5ZQ3"/>
+<dbReference type="PDBsum" id="5ZQ4"/>
+<dbReference type="PDBsum" id="5ZQ5"/>
+<dbReference type="PDBsum" id="5ZQ6"/>
+<dbReference type="PDBsum" id="5ZQ7"/>
+<dbReference type="PDBsum" id="6A43"/>
+<dbReference type="PDBsum" id="6A44"/>
+<dbReference type="PDBsum" id="6AQR"/>
+<dbReference type="PDBsum" id="6B7M"/>
+<dbReference type="PDBsum" id="6B7O"/>
+<dbReference type="PDBsum" id="6EQI"/>
+<dbReference type="PDBsum" id="6K2U"/>
+<dbReference type="PDBsum" id="6KBE"/>
+<dbReference type="PDBsum" id="6N13"/>
+<dbReference type="PDBsum" id="6N6R"/>
+<dbReference type="PDBsum" id="6NQA"/>
+<dbReference type="PDBsum" id="6NXK"/>
+<dbReference type="PDBsum" id="6OI4"/>
+<dbReference type="PDBsum" id="6P5B"/>
+<dbReference type="PDBsum" id="6Q00"/>
+<dbReference type="PDBsum" id="6QML"/>
+<dbReference type="PDBsum" id="6RYA"/>
+<dbReference type="PDBsum" id="6S53"/>
+<dbReference type="PDBsum" id="6SQR"/>
+<dbReference type="PDBsum" id="6T9L"/>
+<dbReference type="PDBsum" id="6TNF"/>
+<dbReference type="PDBsum" id="6TTU"/>
+<dbReference type="PDBsum" id="6ULH"/>
+<dbReference type="PDBsum" id="6UMP"/>
+<dbReference type="PDBsum" id="6UMS"/>
+<dbReference type="PDBsum" id="6V5D"/>
+<dbReference type="PDBsum" id="6VAE"/>
+<dbReference type="PDBsum" id="6VAF"/>
+<dbReference type="PDBsum" id="6VEN"/>
+<dbReference type="PDBsum" id="6W9D"/>
+<dbReference type="PDBsum" id="6W9R"/>
+<dbReference type="PDBsum" id="6W9S"/>
+<dbReference type="PDBsum" id="7BXG"/>
+<dbReference type="BMRB" id="P0CG48"/>
+<dbReference type="SASBDB" id="P0CG48"/>
+<dbReference type="SMR" id="P0CG48"/>
+<dbReference type="BioGRID" id="113164">
+<property type="interactions" value="1707"/>
+</dbReference>
+<dbReference type="IntAct" id="P0CG48">
+<property type="interactions" value="194"/>
+</dbReference>
+<dbReference type="MINT" id="P0CG48"/>
+<dbReference type="STRING" id="9606.ENSP00000441543"/>
+<dbReference type="DrugBank" id="DB04464">
+<property type="generic name" value="N-Formylmethionine"/>
+</dbReference>
+<dbReference type="MoonDB" id="P0CG48">
+<property type="type" value="Predicted"/>
+</dbReference>
+<dbReference type="iPTMnet" id="P0CG48"/>
+<dbReference type="PhosphoSitePlus" id="P0CG48"/>
+<dbReference type="SwissPalm" id="P0CG48"/>
+<dbReference type="BioMuta" id="UBC"/>
+<dbReference type="DMDM" id="391358178"/>
+<dbReference type="EPD" id="P0CG48"/>
+<dbReference type="jPOST" id="P0CG48"/>
+<dbReference type="MassIVE" id="P0CG48"/>
+<dbReference type="MaxQB" id="P0CG48"/>
+<dbReference type="PaxDb" id="P0CG48"/>
+<dbReference type="PeptideAtlas" id="P0CG48"/>
+<dbReference type="PRIDE" id="P0CG48"/>
+<dbReference type="ProteomicsDB" id="52475"/>
+<dbReference type="TopDownProteomics" id="P0CG48"/>
+<dbReference type="ABCD" id="P0CG48">
+<property type="antibodies" value="3 sequenced antibodies"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="3954">
+<property type="antibodies" value="209 antibodies"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000339647">
+<property type="protein sequence ID" value="ENSP00000344818"/>
+<property type="gene ID" value="ENSG00000150991"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000536769">
+<property type="protein sequence ID" value="ENSP00000441543"/>
+<property type="gene ID" value="ENSG00000150991"/>
+</dbReference>
+<dbReference type="GeneID" id="7316"/>
+<dbReference type="KEGG" id="hsa:7316"/>
+<dbReference type="UCSC" id="uc001ugs.5">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="7316"/>
+<dbReference type="DisGeNET" id="7316"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000150991.14"/>
+<dbReference type="GeneCards" id="UBC"/>
+<dbReference type="HGNC" id="HGNC:12468">
+<property type="gene designation" value="UBC"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000150991">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MIM" id="191340">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P0CG48"/>
+<dbReference type="OpenTargets" id="ENSG00000150991"/>
+<dbReference type="eggNOG" id="KOG0001">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000163900"/>
+<dbReference type="HOGENOM" id="CLU_010412_1_1_1"/>
+<dbReference type="InParanoid" id="P0CG48"/>
+<dbReference type="KO" id="K08770"/>
+<dbReference type="OMA" id="HESQRTI"/>
+<dbReference type="OrthoDB" id="1536766at2759"/>
+<dbReference type="TreeFam" id="TF354256"/>
+<dbReference type="PathwayCommons" id="P0CG48"/>
+<dbReference type="Reactome" id="R-HSA-110312">
+<property type="pathway name" value="Translesion synthesis by REV1"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-110314">
+<property type="pathway name" value="Recognition of DNA damage by PCNA-containing replication complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-110320">
+<property type="pathway name" value="Translesion Synthesis by POLH"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1169091">
+<property type="pathway name" value="Activation of NF-kappaB in B cells"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1169408">
+<property type="pathway name" value="ISG15 antiviral mechanism"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1234176">
+<property type="pathway name" value="Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1236382">
+<property type="pathway name" value="Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1236974">
+<property type="pathway name" value="ER-Phagosome pathway"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1253288">
+<property type="pathway name" value="Downregulation of ERBB4 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1295596">
+<property type="pathway name" value="Spry regulation of FGF signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1358803">
+<property type="pathway name" value="Downregulation of ERBB2:ERBB3 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-162588">
+<property type="pathway name" value="Budding and maturation of HIV virion"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-168638">
+<property type="pathway name" value="NOD1/2 Signaling Pathway"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-168927">
+<property type="pathway name" value="TICAM1, RIP1-mediated IKK complex recruitment"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-168928">
+<property type="pathway name" value="DDX58/IFIH1-mediated induction of interferon-alpha/beta"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-174048">
+<property type="pathway name" value="APC/C:Cdc20 mediated degradation of Cyclin B"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-174084">
+<property type="pathway name" value="Autodegradation of Cdh1 by Cdh1:APC/C"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-174113">
+<property type="pathway name" value="SCF-beta-TrCP mediated degradation of Emi1"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-174154">
+<property type="pathway name" value="APC/C:Cdc20 mediated degradation of Securin"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-174178">
+<property type="pathway name" value="APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-174184">
+<property type="pathway name" value="Cdc20:Phospho-APC/C mediated degradation of Cyclin A"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-174490">
+<property type="pathway name" value="Membrane binding and targetting of GAG proteins"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-175474">
+<property type="pathway name" value="Assembly Of The HIV Virion"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-179409">
+<property type="pathway name" value="APC-Cdc20 mediated degradation of Nek2A"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-180534">
+<property type="pathway name" value="Vpu mediated degradation of CD4"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-180585">
+<property type="pathway name" value="Vif-mediated degradation of APOBEC3G"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-182971">
+<property type="pathway name" value="EGFR downregulation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-187577">
+<property type="pathway name" value="SCF(Skp2)-mediated degradation of p27/p21"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-195253">
+<property type="pathway name" value="Degradation of beta-catenin by the destruction complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-201681">
+<property type="pathway name" value="TCF dependent signaling in response to WNT"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-202424">
+<property type="pathway name" value="Downstream TCR signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-205043">
+<property type="pathway name" value="NRIF signals cell death from the nucleus"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-209543">
+<property type="pathway name" value="p75NTR recruits signalling complexes"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-209560">
+<property type="pathway name" value="NF-kB is activated and signals survival"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-211733">
+<property type="pathway name" value="Regulation of activated PAK-2p34 by proteasome mediated degradation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2122947">
+<property type="pathway name" value="NOTCH1 Intracellular Domain Regulates Transcription"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2122948">
+<property type="pathway name" value="Activated NOTCH1 Transmits Signal to the Nucleus"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2173788">
+<property type="pathway name" value="Downregulation of TGF-beta receptor signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2173791">
+<property type="pathway name" value="TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2173795">
+<property type="pathway name" value="Downregulation of SMAD2/3:SMAD4 transcriptional activity"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2173796">
+<property type="pathway name" value="SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2467813">
+<property type="pathway name" value="Separation of Sister Chromatids"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2559580">
+<property type="pathway name" value="Oxidative Stress Induced Senescence"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2559582">
+<property type="pathway name" value="Senescence-Associated Secretory Phenotype (SASP)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2559585">
+<property type="pathway name" value="Oncogene Induced Senescence"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2565942">
+<property type="pathway name" value="Regulation of PLK1 Activity at G2/M Transition"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2644606">
+<property type="pathway name" value="Constitutive Signaling by NOTCH1 PEST Domain Mutants"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2672351">
+<property type="pathway name" value="Stimuli-sensing channels"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2691232">
+<property type="pathway name" value="Constitutive Signaling by NOTCH1 HD Domain Mutants"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2871837">
+<property type="pathway name" value="FCERI mediated NF-kB activation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2894862">
+<property type="pathway name" value="Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2979096">
+<property type="pathway name" value="NOTCH2 Activation and Transmission of Signal to the Nucleus"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3134975">
+<property type="pathway name" value="Regulation of innate immune responses to cytosolic DNA"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3322077">
+<property type="pathway name" value="Glycogen synthesis"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-349425">
+<property type="pathway name" value="Autodegradation of the E3 ubiquitin ligase COP1"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3769402">
+<property type="pathway name" value="Deactivation of the beta-catenin transactivating complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3785653">
+<property type="pathway name" value="Myoclonic epilepsy of Lafora"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-382556">
+<property type="pathway name" value="ABC-family proteins mediated transport"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-400253">
+<property type="pathway name" value="Circadian Clock"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-445989">
+<property type="pathway name" value="TAK1 activates NFkB by phosphorylation and activation of IKKs complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-450302">
+<property type="pathway name" value="activated TAK1 mediates p38 MAPK activation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-450321">
+<property type="pathway name" value="JNK (c-Jun kinases) phosphorylation and activation mediated by activated human TAK1"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-450408">
+<property type="pathway name" value="AUF1 (hnRNP D0) binds and destabilizes mRNA"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-4608870">
+<property type="pathway name" value="Asymmetric localization of PCP proteins"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-4641257">
+<property type="pathway name" value="Degradation of AXIN"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-4641258">
+<property type="pathway name" value="Degradation of DVL"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-4641263">
+<property type="pathway name" value="Regulation of FZD by ubiquitination"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5205685">
+<property type="pathway name" value="Pink/Parkin Mediated Mitophagy"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-532668">
+<property type="pathway name" value="N-glycan trimming in the ER and Calnexin/Calreticulin cycle"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5357905">
+<property type="pathway name" value="Regulation of TNFR1 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5357956">
+<property type="pathway name" value="TNFR1-induced NFkappaB signaling pathway"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5358346">
+<property type="pathway name" value="Hedgehog ligand biogenesis"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5362768">
+<property type="pathway name" value="Hh mutants that don't undergo autocatalytic processing are degraded by ERAD"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5607761">
+<property type="pathway name" value="Dectin-1 mediated noncanonical NF-kB signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5607764">
+<property type="pathway name" value="CLEC7A (Dectin-1) signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5610780">
+<property type="pathway name" value="Degradation of GLI1 by the proteasome"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5610783">
+<property type="pathway name" value="Degradation of GLI2 by the proteasome"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5610785">
+<property type="pathway name" value="GLI3 is processed to GLI3R by the proteasome"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5632684">
+<property type="pathway name" value="Hedgehog 'on' state"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5654726">
+<property type="pathway name" value="Negative regulation of FGFR1 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5654727">
+<property type="pathway name" value="Negative regulation of FGFR2 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5654732">
+<property type="pathway name" value="Negative regulation of FGFR3 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5654733">
+<property type="pathway name" value="Negative regulation of FGFR4 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5655862">
+<property type="pathway name" value="Translesion synthesis by POLK"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5656121">
+<property type="pathway name" value="Translesion synthesis by POLI"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5656169">
+<property type="pathway name" value="Termination of translesion DNA synthesis"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5658442">
+<property type="pathway name" value="Regulation of RAS by GAPs"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5668541">
+<property type="pathway name" value="TNFR2 non-canonical NF-kB pathway"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5675221">
+<property type="pathway name" value="Negative regulation of MAPK pathway"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5675482">
+<property type="pathway name" value="Regulation of necroptotic cell death"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5676590">
+<property type="pathway name" value="NIK--&gt;noncanonical NF-kB signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5678895">
+<property type="pathway name" value="Defective CFTR causes cystic fibrosis"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5684264">
+<property type="pathway name" value="MAP3K8 (TPL2)-dependent MAPK1/3 activation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5685942">
+<property type="pathway name" value="HDR through Homologous Recombination (HRR)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5687128">
+<property type="pathway name" value="MAPK6/MAPK4 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5689603">
+<property type="pathway name" value="UCH proteinases"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5689877">
+<property type="pathway name" value="Josephin domain DUBs"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5689880">
+<property type="pathway name" value="Ub-specific processing proteases"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5689896">
+<property type="pathway name" value="Ovarian tumor domain proteases"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5689901">
+<property type="pathway name" value="Metalloprotease DUBs"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5693565">
+<property type="pathway name" value="Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5693607">
+<property type="pathway name" value="Processing of DNA double-strand break ends"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5696394">
+<property type="pathway name" value="DNA Damage Recognition in GG-NER"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5696395">
+<property type="pathway name" value="Formation of Incision Complex in GG-NER"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5696397">
+<property type="pathway name" value="Gap-filling DNA repair synthesis and ligation in GG-NER"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5696400">
+<property type="pathway name" value="Dual Incision in GG-NER"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6781823">
+<property type="pathway name" value="Formation of TC-NER Pre-Incision Complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6781827">
+<property type="pathway name" value="Transcription-Coupled Nucleotide Excision Repair (TC-NER)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6782135">
+<property type="pathway name" value="Dual incision in TC-NER"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6782210">
+<property type="pathway name" value="Gap-filling DNA repair synthesis and ligation in TC-NER"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6783310">
+<property type="pathway name" value="Fanconi Anemia Pathway"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6804756">
+<property type="pathway name" value="Regulation of TP53 Activity through Phosphorylation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6804757">
+<property type="pathway name" value="Regulation of TP53 Degradation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6804760">
+<property type="pathway name" value="Regulation of TP53 Activity through Methylation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6807004">
+<property type="pathway name" value="Negative regulation of MET activity"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-68827">
+<property type="pathway name" value="CDT1 association with the CDC6:ORC:origin complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-68949">
+<property type="pathway name" value="Orc1 removal from chromatin"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-69017">
+<property type="pathway name" value="CDK-mediated phosphorylation and removal of Cdc6"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-69231">
+<property type="pathway name" value="Cyclin D associated events in G1"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-69481">
+<property type="pathway name" value="G2/M Checkpoints"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-69541">
+<property type="pathway name" value="Stabilization of p53"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-69601">
+<property type="pathway name" value="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-75815">
+<property type="pathway name" value="Ubiquitin-dependent degradation of Cyclin D"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8849469">
+<property type="pathway name" value="PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8852276">
+<property type="pathway name" value="The role of GTSE1 in G2/M progression after G2 checkpoint"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8854050">
+<property type="pathway name" value="FBXL7 down-regulates AURKA during mitotic entry and in early mitosis"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8856825">
+<property type="pathway name" value="Cargo recognition for clathrin-mediated endocytosis"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8856828">
+<property type="pathway name" value="Clathrin-mediated endocytosis"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8863795">
+<property type="pathway name" value="Downregulation of ERBB2 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8866652">
+<property type="pathway name" value="Synthesis of active ubiquitin: roles of E1 and E2 enzymes"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8866654">
+<property type="pathway name" value="E3 ubiquitin ligases ubiquitinate target proteins"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8875360">
+<property type="pathway name" value="InlB-mediated entry of Listeria monocytogenes into host cell"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8876493">
+<property type="pathway name" value="InlA-mediated entry of Listeria monocytogenes into host cells"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8939236">
+<property type="pathway name" value="RUNX1 regulates transcription of genes involved in differentiation of HSCs"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8939902">
+<property type="pathway name" value="Regulation of RUNX2 expression and activity"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8941858">
+<property type="pathway name" value="Regulation of RUNX3 expression and activity"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8948747">
+<property type="pathway name" value="Regulation of PTEN localization"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8948751">
+<property type="pathway name" value="Regulation of PTEN stability and activity"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8951664">
+<property type="pathway name" value="Neddylation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-901032">
+<property type="pathway name" value="ER Quality Control Compartment (ERQC)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9010553">
+<property type="pathway name" value="Regulation of expression of SLITs and ROBOs"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9013507">
+<property type="pathway name" value="NOTCH3 Activation and Transmission of Signal to the Nucleus"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9013973">
+<property type="pathway name" value="TICAM1-dependent activation of IRF3/IRF7"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9014325">
+<property type="pathway name" value="TICAM1,TRAF6-dependent induction of TAK1 complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9020702">
+<property type="pathway name" value="Interleukin-1 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9033241">
+<property type="pathway name" value="Peroxisomal protein import"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-912631">
+<property type="pathway name" value="Regulation of signaling by CBL"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-917729">
+<property type="pathway name" value="Endosomal Sorting Complex Required For Transport (ESCRT)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-917937">
+<property type="pathway name" value="Iron uptake and transport"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-936440">
+<property type="pathway name" value="Negative regulators of DDX58/IFIH1 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-936964">
+<property type="pathway name" value="Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-937039">
+<property type="pathway name" value="IRAK1 recruits IKK complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-937041">
+<property type="pathway name" value="IKK complex recruitment mediated by RIP1"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-937042">
+<property type="pathway name" value="IRAK2 mediated activation of TAK1 complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-937072">
+<property type="pathway name" value="TRAF6-mediated induction of TAK1 complex within TLR4 complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9604323">
+<property type="pathway name" value="Negative regulation of NOTCH4 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9613829">
+<property type="pathway name" value="Chaperone Mediated Autophagy"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9615710">
+<property type="pathway name" value="Late endosomal microautophagy"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9636383">
+<property type="pathway name" value="Prevention of phagosomal-lysosomal fusion"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9637628">
+<property type="pathway name" value="Modulation by Mtb of host immune system"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9645460">
+<property type="pathway name" value="Alpha-protein kinase 1 signaling pathway"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9646399">
+<property type="pathway name" value="Aggrephagy"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9664873">
+<property type="pathway name" value="Pexophagy"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-975110">
+<property type="pathway name" value="TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-975144">
+<property type="pathway name" value="IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-975163">
+<property type="pathway name" value="IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-977225">
+<property type="pathway name" value="Amyloid fiber formation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-983168">
+<property type="pathway name" value="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+</dbReference>
+<dbReference type="SIGNOR" id="P0CG48"/>
+<dbReference type="BioGRID-ORCS" id="7316">
+<property type="hits" value="362 hits in 875 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="UBC">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P0CG48"/>
+<dbReference type="GeneWiki" id="Ubiquitin_C"/>
+<dbReference type="GenomeRNAi" id="7316"/>
+<dbReference type="Pharos" id="P0CG48">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P0CG48"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 12"/>
+</dbReference>
+<dbReference type="RNAct" id="P0CG48">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000150991">
+<property type="expression patterns" value="Expressed in Brodmann (1909) area 46 and 250 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="P0CG48">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P0CG48">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030666">
+<property type="term" value="C:endocytic vesicle membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005789">
+<property type="term" value="C:endoplasmic reticulum membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010008">
+<property type="term" value="C:endosome membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005615">
+<property type="term" value="C:extracellular space"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043657">
+<property type="term" value="C:host cell"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005741">
+<property type="term" value="C:mitochondrial outer membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031982">
+<property type="term" value="C:vesicle"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002020">
+<property type="term" value="F:protease binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031386">
+<property type="term" value="F:protein tag"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003723">
+<property type="term" value="F:RNA binding"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031625">
+<property type="term" value="F:ubiquitin protein ligase binding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000187">
+<property type="term" value="P:activation of MAPK activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031145">
+<property type="term" value="P:anaphase-promoting complex-dependent catabolic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044267">
+<property type="term" value="P:cellular protein metabolic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019221">
+<property type="term" value="P:cytokine-mediated signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042769">
+<property type="term" value="P:DNA damage response, detection of DNA damage"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016197">
+<property type="term" value="P:endosomal transport"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070987">
+<property type="term" value="P:error-free translesion synthesis"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042276">
+<property type="term" value="P:error-prone translesion synthesis"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070911">
+<property type="term" value="P:global genome nucleotide-excision repair"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007249">
+<property type="term" value="P:I-kappaB kinase/NF-kappaB signaling"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070498">
+<property type="term" value="P:interleukin-1-mediated signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036297">
+<property type="term" value="P:interstrand cross-link repair"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0075733">
+<property type="term" value="P:intracellular transport of virus"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007254">
+<property type="term" value="P:JNK cascade"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061024">
+<property type="term" value="P:membrane organization"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019941">
+<property type="term" value="P:modification-dependent protein catabolic process"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002755">
+<property type="term" value="P:MyD88-dependent toll-like receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002756">
+<property type="term" value="P:MyD88-independent toll-like receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043066">
+<property type="term" value="P:negative regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000122">
+<property type="term" value="P:negative regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030512">
+<property type="term" value="P:negative regulation of transforming growth factor beta receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070423">
+<property type="term" value="P:nucleotide-binding oligomerization domain containing signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000715">
+<property type="term" value="P:nucleotide-excision repair, DNA damage recognition"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000717">
+<property type="term" value="P:nucleotide-excision repair, DNA duplex unwinding"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006297">
+<property type="term" value="P:nucleotide-excision repair, DNA gap filling"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033683">
+<property type="term" value="P:nucleotide-excision repair, DNA incision"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006296">
+<property type="term" value="P:nucleotide-excision repair, DNA incision, 5'-to lesion"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006294">
+<property type="term" value="P:nucleotide-excision repair, preincision complex assembly"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043065">
+<property type="term" value="P:positive regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051092">
+<property type="term" value="P:positive regulation of NF-kappaB transcription factor activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016579">
+<property type="term" value="P:protein deubiquitination"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000209">
+<property type="term" value="P:protein polyubiquitination"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006625">
+<property type="term" value="P:protein targeting to peroxisome"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016567">
+<property type="term" value="P:protein ubiquitination"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043488">
+<property type="term" value="P:regulation of mRNA stability"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061418">
+<property type="term" value="P:regulation of transcription from RNA polymerase II promoter in response to hypoxia"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051403">
+<property type="term" value="P:stress-activated MAPK cascade"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006283">
+<property type="term" value="P:transcription-coupled nucleotide-excision repair"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007179">
+<property type="term" value="P:transforming growth factor beta receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019985">
+<property type="term" value="P:translesion synthesis"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055085">
+<property type="term" value="P:transmembrane transport"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035666">
+<property type="term" value="P:TRIF-dependent toll-like receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019058">
+<property type="term" value="P:viral life cycle"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019068">
+<property type="term" value="P:virion assembly"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016055">
+<property type="term" value="P:Wnt signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000626">
+<property type="entry name" value="Ubiquitin-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029071">
+<property type="entry name" value="Ubiquitin-like_domsf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019954">
+<property type="entry name" value="Ubiquitin_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR019956">
+<property type="entry name" value="Ubiquitin_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00240">
+<property type="entry name" value="ubiquitin"/>
+<property type="match status" value="9"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00348">
+<property type="entry name" value="UBIQUITIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00213">
+<property type="entry name" value="UBQ"/>
+<property type="match status" value="9"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54236">
+<property type="entry name" value="SSF54236"/>
+<property type="match status" value="9"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00299">
+<property type="entry name" value="UBIQUITIN_1"/>
+<property type="match status" value="9"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50053">
+<property type="entry name" value="UBIQUITIN_2"/>
+<property type="match status" value="9"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0013">ADP-ribosylation</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<feature type="chain" description="Ubiquitin" id="PRO_0000396178">
+<location>
+<begin position="1"/>
+<end position="76"/>
+</location>
+</feature>
+<feature type="chain" description="Ubiquitin" id="PRO_0000396179">
+<location>
+<begin position="77"/>
+<end position="152"/>
+</location>
+</feature>
+<feature type="chain" description="Ubiquitin" id="PRO_0000396180">
+<location>
+<begin position="153"/>
+<end position="228"/>
+</location>
+</feature>
+<feature type="chain" description="Ubiquitin" id="PRO_0000396181">
+<location>
+<begin position="229"/>
+<end position="304"/>
+</location>
+</feature>
+<feature type="chain" description="Ubiquitin" id="PRO_0000396182">
+<location>
+<begin position="305"/>
+<end position="380"/>
+</location>
+</feature>
+<feature type="chain" description="Ubiquitin" id="PRO_0000396183">
+<location>
+<begin position="381"/>
+<end position="456"/>
+</location>
+</feature>
+<feature type="chain" description="Ubiquitin" id="PRO_0000396184">
+<location>
+<begin position="457"/>
+<end position="532"/>
+</location>
+</feature>
+<feature type="chain" description="Ubiquitin" id="PRO_0000396185">
+<location>
+<begin position="533"/>
+<end position="608"/>
+</location>
+</feature>
+<feature type="chain" description="Ubiquitin" id="PRO_0000396186">
+<location>
+<begin position="609"/>
+<end position="684"/>
+</location>
+</feature>
+<feature type="propeptide" id="PRO_0000396187">
+<location>
+<position position="685"/>
+</location>
+</feature>
+<feature type="domain" description="Ubiquitin-like 1" evidence="15">
+<location>
+<begin position="1"/>
+<end position="76"/>
+</location>
+</feature>
+<feature type="domain" description="Ubiquitin-like 2" evidence="15">
+<location>
+<begin position="77"/>
+<end position="152"/>
+</location>
+</feature>
+<feature type="domain" description="Ubiquitin-like 3" evidence="15">
+<location>
+<begin position="153"/>
+<end position="228"/>
+</location>
+</feature>
+<feature type="domain" description="Ubiquitin-like 4" evidence="15">
+<location>
+<begin position="229"/>
+<end position="304"/>
+</location>
+</feature>
+<feature type="domain" description="Ubiquitin-like 5" evidence="15">
+<location>
+<begin position="305"/>
+<end position="380"/>
+</location>
+</feature>
+<feature type="domain" description="Ubiquitin-like 6" evidence="15">
+<location>
+<begin position="381"/>
+<end position="456"/>
+</location>
+</feature>
+<feature type="domain" description="Ubiquitin-like 7" evidence="15">
+<location>
+<begin position="457"/>
+<end position="532"/>
+</location>
+</feature>
+<feature type="domain" description="Ubiquitin-like 8" evidence="15">
+<location>
+<begin position="533"/>
+<end position="608"/>
+</location>
+</feature>
+<feature type="domain" description="Ubiquitin-like 9" evidence="15">
+<location>
+<begin position="609"/>
+<end position="684"/>
+</location>
+</feature>
+<feature type="binding site" description="Activating enzyme">
+<location>
+<position position="54"/>
+</location>
+</feature>
+<feature type="binding site" description="Activating enzyme">
+<location>
+<position position="72"/>
+</location>
+</feature>
+<feature type="site" description="Essential for function">
+<location>
+<position position="68"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PINK1" evidence="20 21 22 23">
+<location>
+<position position="65"/>
+</location>
+</feature>
+<feature type="modified residue" description="ADP-ribosylglycine" evidence="24">
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="16">
+<location>
+<position position="6"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="16 17">
+<location>
+<position position="11"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="26">
+<location>
+<position position="27"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="17">
+<location>
+<position position="29"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="16 17">
+<location>
+<position position="48"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="17 18">
+<location>
+<position position="63"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Gly-Lys) (interchain with K-? in acceptor proteins)">
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on HLTF-mediated polyubiquitination of PCNA." evidence="18">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="48"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes HLTF-mediated polyubiquitination of PCNA." evidence="18">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="63"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Prevents phosphorylation in case of mitophagy." evidence="20 21 22">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="65"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Phosphomimetic mutant that binds and activates PRKN." evidence="21">
+<original>S</original>
+<variation>D</variation>
+<location>
+<position position="65"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of DTX3L-mediated polyubiquitination of histone H3 and H4." evidence="24">
+<original>H</original>
+<variation>G</variation>
+<location>
+<position position="68"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on ADP-ribosylation." evidence="24">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="72"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on ADP-ribosylation, when associated with K-74." evidence="24">
+<original>R</original>
+<variation>K</variation>
+<location>
+<position position="72"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on ADP-ribosylation." evidence="24">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="74"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on ADP-ribosylation, when associated with K-72." evidence="24">
+<original>R</original>
+<variation>K</variation>
+<location>
+<position position="74"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of ADP-ribosylation." evidence="24">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; AC126309." ref="4" evidence="25">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="190"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 6; BAA09860." ref="6" evidence="25">
+<original>V</original>
+<variation>G</variation>
+<location>
+<position position="397"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="383"/>
+<end position="386"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="392"/>
+<end position="395"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="403"/>
+<end position="411"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="418"/>
+<end position="420"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="421"/>
+<end position="425"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="428"/>
+<end position="430"/>
+</location>
+</feature>
+<feature type="helix" evidence="8">
+<location>
+<begin position="436"/>
+<end position="438"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="446"/>
+<end position="451"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="458"/>
+<end position="463"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="468"/>
+<end position="472"/>
+</location>
+</feature>
+<feature type="helix" evidence="9">
+<location>
+<begin position="479"/>
+<end position="490"/>
+</location>
+</feature>
+<feature type="helix" evidence="9">
+<location>
+<begin position="494"/>
+<end position="496"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="497"/>
+<end position="501"/>
+</location>
+</feature>
+<feature type="helix" evidence="9">
+<location>
+<begin position="513"/>
+<end position="515"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="522"/>
+<end position="527"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="534"/>
+<end position="539"/>
+</location>
+</feature>
+<feature type="strand" evidence="12">
+<location>
+<begin position="540"/>
+<end position="542"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="544"/>
+<end position="548"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="555"/>
+<end position="566"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="570"/>
+<end position="572"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="573"/>
+<end position="577"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="579"/>
+<end position="581"/>
+</location>
+</feature>
+<feature type="strand" evidence="12">
+<location>
+<begin position="586"/>
+<end position="588"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="589"/>
+<end position="591"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="598"/>
+<end position="603"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="610"/>
+<end position="615"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="616"/>
+<end position="618"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="620"/>
+<end position="624"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="627"/>
+<end position="630"/>
+</location>
+</feature>
+<feature type="helix" evidence="13">
+<location>
+<begin position="631"/>
+<end position="642"/>
+</location>
+</feature>
+<feature type="helix" evidence="13">
+<location>
+<begin position="646"/>
+<end position="648"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="649"/>
+<end position="653"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="654"/>
+<end position="657"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="658"/>
+<end position="661"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="662"/>
+<end position="664"/>
+</location>
+</feature>
+<feature type="helix" evidence="13">
+<location>
+<begin position="665"/>
+<end position="667"/>
+</location>
+</feature>
+<feature type="turn" evidence="10">
+<location>
+<begin position="668"/>
+<end position="670"/>
+</location>
+</feature>
+<feature type="strand" evidence="11">
+<location>
+<begin position="671"/>
+<end position="673"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="674"/>
+<end position="679"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1G6J"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2KLG"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3B08"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3N3K"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3VUX"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4BVU"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4K1R"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5B83"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5H07"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5OXH"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6EQI"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6N6R"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6Q00"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000250"/>
+<evidence key="15" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00214"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16443603"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16543144"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18719106"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19754430"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24660806"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24751536"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24784582"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25527291"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28525742"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000305"/>
+<evidence key="26" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="15466860"/>
+</source>
+</evidence>
+<sequence length="685" mass="77039" checksum="B6E7BC06FEE77196" modified="2012-06-13" version="3" precursor="true">MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGV</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

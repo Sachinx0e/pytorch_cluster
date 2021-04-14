@@ -1,0 +1,4851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-10-11" modified="2020-10-07" version="212">
+<accession>Q13501</accession>
+<accession>A6NFN7</accession>
+<accession>B2R661</accession>
+<accession>B3KUW5</accession>
+<accession>Q13446</accession>
+<accession>Q9BUV7</accession>
+<accession>Q9BVS6</accession>
+<accession>Q9UEU1</accession>
+<name>SQSTM_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Sequestosome-1</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>EBI3-associated protein of 60 kDa</fullName>
+<shortName>EBIAP</shortName>
+<shortName>p60</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Phosphotyrosine-independent ligand for the Lck SH2 domain of 62 kDa</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Ubiquitin-binding protein p62</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">SQSTM1</name>
+<name type="synonym">ORCA</name>
+<name type="synonym">OSIL</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1996" name="J. Virol." volume="70" first="1143" last="1153">
+<title>A novel interleukin-12 p40-related protein induced by latent Epstein-Barr virus infection in B lymphocytes.</title>
+<authorList>
+<person name="Devergne O."/>
+<person name="Hummel M."/>
+<person name="Koeppen H."/>
+<person name="Le Beau M.M."/>
+<person name="Nathanson E.C."/>
+<person name="Kieff E."/>
+<person name="Birkenbach M."/>
+</authorList>
+<dbReference type="PubMed" id="8551575"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>PROTEIN SEQUENCE OF 345-361 AND 394-411</scope>
+<scope>INTERACTION WITH EBI3</scope>
+<source>
+<tissue>B-cell</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="Proc. Natl. Acad. Sci. U.S.A." volume="93" first="5991" last="5995">
+<title>Molecular cloning of a phosphotyrosine-independent ligand of the p56lck SH2 domain.</title>
+<authorList>
+<person name="Joung I."/>
+<person name="Strominger J.L."/>
+<person name="Shin J."/>
+</authorList>
+<dbReference type="PubMed" id="8650207"/>
+<dbReference type="DOI" id="10.1073/pnas.93.12.5991"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>PROTEIN SEQUENCE OF 51-96; 184-187; 213-217; 239-264 AND 268-281</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INTERACTION WITH LCK</scope>
+<scope>MUTAGENESIS OF TYR-9</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2)</scope>
+<source>
+<tissue>Caudate nucleus</tissue>
+<tissue>Trachea</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Nature" volume="431" first="268" last="274">
+<title>The DNA sequence and comparative analysis of human chromosome 5.</title>
+<authorList>
+<person name="Schmutz J."/>
+<person name="Martin J."/>
+<person name="Terry A."/>
+<person name="Couronne O."/>
+<person name="Grimwood J."/>
+<person name="Lowry S."/>
+<person name="Gordon L.A."/>
+<person name="Scott D."/>
+<person name="Xie G."/>
+<person name="Huang W."/>
+<person name="Hellsten U."/>
+<person name="Tran-Gyamfi M."/>
+<person name="She X."/>
+<person name="Prabhakar S."/>
+<person name="Aerts A."/>
+<person name="Altherr M."/>
+<person name="Bajorek E."/>
+<person name="Black S."/>
+<person name="Branscomb E."/>
+<person name="Caoile C."/>
+<person name="Challacombe J.F."/>
+<person name="Chan Y.M."/>
+<person name="Denys M."/>
+<person name="Detter J.C."/>
+<person name="Escobar J."/>
+<person name="Flowers D."/>
+<person name="Fotopulos D."/>
+<person name="Glavina T."/>
+<person name="Gomez M."/>
+<person name="Gonzales E."/>
+<person name="Goodstein D."/>
+<person name="Grigoriev I."/>
+<person name="Groza M."/>
+<person name="Hammon N."/>
+<person name="Hawkins T."/>
+<person name="Haydu L."/>
+<person name="Israni S."/>
+<person name="Jett J."/>
+<person name="Kadner K."/>
+<person name="Kimball H."/>
+<person name="Kobayashi A."/>
+<person name="Lopez F."/>
+<person name="Lou Y."/>
+<person name="Martinez D."/>
+<person name="Medina C."/>
+<person name="Morgan J."/>
+<person name="Nandkeshwar R."/>
+<person name="Noonan J.P."/>
+<person name="Pitluck S."/>
+<person name="Pollard M."/>
+<person name="Predki P."/>
+<person name="Priest J."/>
+<person name="Ramirez L."/>
+<person name="Retterer J."/>
+<person name="Rodriguez A."/>
+<person name="Rogers S."/>
+<person name="Salamov A."/>
+<person name="Salazar A."/>
+<person name="Thayer N."/>
+<person name="Tice H."/>
+<person name="Tsai M."/>
+<person name="Ustaszewska A."/>
+<person name="Vo N."/>
+<person name="Wheeler J."/>
+<person name="Wu K."/>
+<person name="Yang J."/>
+<person name="Dickson M."/>
+<person name="Cheng J.-F."/>
+<person name="Eichler E.E."/>
+<person name="Olsen A."/>
+<person name="Pennacchio L.A."/>
+<person name="Rokhsar D.S."/>
+<person name="Richardson P."/>
+<person name="Lucas S.M."/>
+<person name="Myers R.M."/>
+<person name="Rubin E.M."/>
+</authorList>
+<dbReference type="PubMed" id="15372022"/>
+<dbReference type="DOI" id="10.1038/nature02919"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2)</scope>
+<source>
+<tissue>Pancreas</tissue>
+<tissue>Placenta</tissue>
+<tissue>Skin</tissue>
+<tissue>Uterus</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1998" name="FEBS Lett." volume="435" first="138" last="142">
+<title>Genomic structure and promoter analysis of the p62 gene encoding a non-proteasomal multiubiquitin chain binding protein.</title>
+<authorList>
+<person name="Vadlamudi R.K."/>
+<person name="Shin J."/>
+</authorList>
+<dbReference type="PubMed" id="9762895"/>
+<dbReference type="DOI" id="10.1016/s0014-5793(98)01021-7"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-72</scope>
+<scope>INDUCTION</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1999" name="Am. J. Pathol." volume="154" first="1701" last="1710">
+<title>Analysis of intracytoplasmic hyaline bodies in a hepatocellular carcinoma. Demonstration of p62 as major constituent.</title>
+<authorList>
+<person name="Stumptner C."/>
+<person name="Heid H."/>
+<person name="Fuchsbichler A."/>
+<person name="Hauser H."/>
+<person name="Mischinger H.-J."/>
+<person name="Zatloukal K."/>
+<person name="Denk H."/>
+</authorList>
+<dbReference type="PubMed" id="10362795"/>
+<dbReference type="DOI" id="10.1016/s0002-9440(10)65426-0"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 51-60; 166-174 AND 379-388</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1995" name="Proc. Natl. Acad. Sci. U.S.A." volume="92" first="12338" last="12342">
+<title>Phosphotyrosine-independent binding of a 62-kDa protein to the src homology 2 (SH2) domain of p56lck and its regulation by phosphorylation of Ser-59 in the lck unique N-terminal region.</title>
+<authorList>
+<person name="Park I."/>
+<person name="Chung J."/>
+<person name="Walsh C.T."/>
+<person name="Yun Y."/>
+<person name="Strominger J.L."/>
+<person name="Shin J."/>
+</authorList>
+<dbReference type="PubMed" id="8618896"/>
+<dbReference type="DOI" id="10.1073/pnas.92.26.12338"/>
+</citation>
+<scope>INTERACTION WITH LCK AND RASA1</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1996" name="J. Biol. Chem." volume="271" first="20235" last="20237">
+<title>p62, a phosphotyrosine-independent ligand of the SH2 domain of p56lck, belongs to a new class of ubiquitin-binding proteins.</title>
+<authorList>
+<person name="Vadlamudi R.K."/>
+<person name="Joung I."/>
+<person name="Strominger J.L."/>
+<person name="Shin J."/>
+</authorList>
+<dbReference type="PubMed" id="8702753"/>
+<dbReference type="DOI" id="10.1074/jbc.271.34.20235"/>
+</citation>
+<scope>INTERACTION WITH UBIQUITIN</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1996" name="J. Biol. Chem." volume="271" first="27197" last="27200">
+<title>A p56(lck) ligand serves as a coactivator of an orphan nuclear hormone receptor.</title>
+<authorList>
+<person name="Marcus S.L."/>
+<person name="Winrow C.J."/>
+<person name="Capone J.P."/>
+<person name="Rachubinski R.A."/>
+</authorList>
+<dbReference type="PubMed" id="8910285"/>
+<dbReference type="DOI" id="10.1074/jbc.271.44.27197"/>
+</citation>
+<scope>INTERACTION WITH NR2F2</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1998" name="Mol. Cell. Biol." volume="18" first="3069" last="3080">
+<title>Localization of atypical protein kinase C isoforms into lysosome-targeted endosomes through interaction with p62.</title>
+<authorList>
+<person name="Sanchez P."/>
+<person name="De Carcer G."/>
+<person name="Sandoval I.V."/>
+<person name="Moscat J."/>
+<person name="Diaz-Meco M.T."/>
+</authorList>
+<dbReference type="PubMed" id="9566925"/>
+<dbReference type="DOI" id="10.1128/mcb.18.5.3069"/>
+</citation>
+<scope>INTERACTION WITH PRKCI AND PRKCZ</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1999" name="EMBO J." volume="18" first="3044" last="3053">
+<title>The interaction of p62 with RIP links the atypical PKCs to NF-kappaB activation.</title>
+<authorList>
+<person name="Sanz L."/>
+<person name="Sanchez P."/>
+<person name="Lallena M.-J."/>
+<person name="Diaz-Meco M.T."/>
+<person name="Moscat J."/>
+</authorList>
+<dbReference type="PubMed" id="10356400"/>
+<dbReference type="DOI" id="10.1093/emboj/18.11.3044"/>
+</citation>
+<scope>INTERACTION WITH RIPK1; PRKCZ; PRKCI; IKBKB; TRADD AND TNFRSF1A</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2000" name="Biochem. Biophys. Res. Commun." volume="269" first="521" last="525">
+<title>p62 functions as a p38 MAP kinase regulator.</title>
+<authorList>
+<person name="Sudo T."/>
+<person name="Maruyama M."/>
+<person name="Osada H."/>
+</authorList>
+<dbReference type="PubMed" id="10708586"/>
+<dbReference type="DOI" id="10.1006/bbrc.2000.2333"/>
+</citation>
+<scope>INTERACTION WITH MAPKAPK5</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2000" name="EMBO J." volume="19" first="1576" last="1586">
+<title>The atypical PKC-interacting protein p62 channels NF-kappaB activation by the IL-1-TRAF6 pathway.</title>
+<authorList>
+<person name="Sanz L."/>
+<person name="Diaz-Meco M.T."/>
+<person name="Nakano H."/>
+<person name="Moscat J."/>
+</authorList>
+<dbReference type="PubMed" id="10747026"/>
+<dbReference type="DOI" id="10.1093/emboj/19.7.1576"/>
+</citation>
+<scope>INTERACTION WITH TRAF6 AND RIPK1</scope>
+<scope>DOMAIN</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2001" name="J. Biol. Chem." volume="276" first="7709" last="7712">
+<title>The atypical protein kinase C-interacting protein p62 is a scaffold for NF-kappaB activation by nerve growth factor.</title>
+<authorList>
+<person name="Wooten M.W."/>
+<person name="Seibenhener M.L."/>
+<person name="Mamidipudi V."/>
+<person name="Diaz-Meco M.T."/>
+<person name="Barker P.A."/>
+<person name="Moscat J."/>
+</authorList>
+<dbReference type="PubMed" id="11244088"/>
+<dbReference type="DOI" id="10.1074/jbc.c000869200"/>
+</citation>
+<scope>INTERACTION WITH NTRK1; TRAF6; NGFR AND PRKCZ</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2002" name="Am. J. Pathol." volume="160" first="255" last="263">
+<title>p62 Is a common component of cytoplasmic inclusions in protein aggregation diseases.</title>
+<authorList>
+<person name="Zatloukal K."/>
+<person name="Stumptner C."/>
+<person name="Fuchsbichler A."/>
+<person name="Heid H."/>
+<person name="Schnoelzer M."/>
+<person name="Kenner L."/>
+<person name="Kleinert R."/>
+<person name="Prinz M."/>
+<person name="Aguzzi A."/>
+<person name="Denk H."/>
+</authorList>
+<dbReference type="PubMed" id="11786419"/>
+<dbReference type="DOI" id="10.1016/s0002-9440(10)64369-6"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2002" name="FEBS Lett." volume="510" first="57" last="61">
+<title>p62 forms a ternary complex with PKCzeta and PAR-4 and antagonizes PAR-4-induced PKCzeta inhibition.</title>
+<authorList>
+<person name="Chang S."/>
+<person name="Kim J.H."/>
+<person name="Shin J."/>
+</authorList>
+<dbReference type="PubMed" id="11755531"/>
+<dbReference type="DOI" id="10.1016/s0014-5793(01)03224-0"/>
+</citation>
+<scope>INTERACTION WITH PAWR AND PRKCZ</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2002" name="Hepatology" volume="35" first="1053" last="1062">
+<title>Mallory body -- a disease-associated type of sequestosome.</title>
+<authorList>
+<person name="Stumptner C."/>
+<person name="Fuchsbichler A."/>
+<person name="Heid H."/>
+<person name="Zatloukal K."/>
+<person name="Denk H."/>
+</authorList>
+<dbReference type="PubMed" id="11981755"/>
+<dbReference type="DOI" id="10.1053/jhep.2002.32674"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="4730" last="4739">
+<title>Association of the atypical protein kinase C-interacting protein p62/ZIP with nerve growth factor receptor TrkA regulates receptor trafficking and Erk5 signaling.</title>
+<authorList>
+<person name="Geetha T."/>
+<person name="Wooten M.W."/>
+</authorList>
+<dbReference type="PubMed" id="12471037"/>
+<dbReference type="DOI" id="10.1074/jbc.m208468200"/>
+</citation>
+<scope>INTERACTION WITH NTRK1; NTRK2 AND NTRK3</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="34568" last="34581">
+<title>Interaction codes within the family of mammalian Phox and Bem1p domain-containing proteins.</title>
+<authorList>
+<person name="Lamark T."/>
+<person name="Perander M."/>
+<person name="Outzen H."/>
+<person name="Kristiansen K."/>
+<person name="Oevervatn A."/>
+<person name="Michaelsen E."/>
+<person name="Bjoerkoey G."/>
+<person name="Johansen T."/>
+</authorList>
+<dbReference type="PubMed" id="12813044"/>
+<dbReference type="DOI" id="10.1074/jbc.m303221200"/>
+</citation>
+<scope>INTERACTION WITH PRKCI; PRKCZ; MAP2K5 AND NBR1</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF LYS-7; LYS-13; 21-ARG-ARG-22; TYR-67; ASP-69; ASP-71; ASP-73; ASP-80 AND GLU-82</scope>
+<scope>DIMERIZATION</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2003" name="Mol. Cell" volume="12" first="39" last="50">
+<title>PB1 domain-mediated heterodimerization in NADPH oxidase and signaling complexes of atypical protein kinase C with Par6 and p62.</title>
+<authorList>
+<person name="Wilson M.I."/>
+<person name="Gill D.J."/>
+<person name="Perisic O."/>
+<person name="Quinn M.T."/>
+<person name="Williams R.L."/>
+</authorList>
+<dbReference type="PubMed" id="12887891"/>
+<dbReference type="DOI" id="10.1016/s1097-2765(03)00246-6"/>
+</citation>
+<scope>INTERACTION WITH PRKCZ</scope>
+<scope>DOMAIN</scope>
+<scope>OLIGOMERIZATION</scope>
+<scope>MUTAGENESIS OF LYS-7; ASP-69 AND ASP-73</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2003" name="Oncogene" volume="22" first="2322" last="2333">
+<title>p62 overexpression in breast tumors and regulation by prostate-derived Ets factor in breast cancer cells.</title>
+<authorList>
+<person name="Thompson H.G.R."/>
+<person name="Harris J.W."/>
+<person name="Wold B.J."/>
+<person name="Lin F."/>
+<person name="Brody J.P."/>
+</authorList>
+<dbReference type="PubMed" id="12700667"/>
+<dbReference type="DOI" id="10.1038/sj.onc.1206325"/>
+</citation>
+<scope>INDUCTION</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2004" name="Brain Res." volume="1012" first="42" last="51">
+<title>Transcriptional activation of p62/A170/ZIP during the formation of the aggregates: possible mechanisms and the role in Lewy body formation in Parkinson's disease.</title>
+<authorList>
+<person name="Nakaso K."/>
+<person name="Yoshimoto Y."/>
+<person name="Nakano T."/>
+<person name="Takeshima T."/>
+<person name="Fukuhara Y."/>
+<person name="Yasui K."/>
+<person name="Araga S."/>
+<person name="Yanagawa T."/>
+<person name="Ishii T."/>
+<person name="Nakashima K."/>
+</authorList>
+<dbReference type="PubMed" id="15158159"/>
+<dbReference type="DOI" id="10.1016/j.brainres.2004.03.029"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2004" name="Mol. Cell. Biol." volume="24" first="8055" last="8068">
+<title>Sequestosome 1/p62 is a polyubiquitin chain binding protein involved in ubiquitin proteasome degradation.</title>
+<authorList>
+<person name="Seibenhener M.L."/>
+<person name="Babu J.R."/>
+<person name="Geetha T."/>
+<person name="Wong H.C."/>
+<person name="Krishna N.R."/>
+<person name="Wooten M.W."/>
+</authorList>
+<dbReference type="PubMed" id="15340068"/>
+<dbReference type="DOI" id="10.1128/mcb.24.18.8055-8068.2004"/>
+</citation>
+<scope>INTERACTION WITH TRAF6; PSMC2 AND PSMD4</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF LEU-398; PHE-406; LEU-413; LEU-417 AND ILE-431</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="35625" last="35629">
+<title>The p62 scaffold regulates nerve growth factor-induced NF-kappaB activation by influencing TRAF6 polyubiquitination.</title>
+<authorList>
+<person name="Wooten M.W."/>
+<person name="Geetha T."/>
+<person name="Seibenhener M.L."/>
+<person name="Babu J.R."/>
+<person name="Diaz-Meco M.T."/>
+<person name="Moscat J."/>
+</authorList>
+<dbReference type="PubMed" id="16079148"/>
+<dbReference type="DOI" id="10.1074/jbc.c500237200"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2005" name="J. Cell Biol." volume="171" first="603" last="614">
+<title>p62/SQSTM1 forms protein aggregates degraded by autophagy and has a protective effect on huntingtin-induced cell death.</title>
+<authorList>
+<person name="Bjorkoy G."/>
+<person name="Lamark T."/>
+<person name="Brech A."/>
+<person name="Outzen H."/>
+<person name="Perander M."/>
+<person name="Overvatn A."/>
+<person name="Stenmark H."/>
+<person name="Johansen T."/>
+</authorList>
+<dbReference type="PubMed" id="16286508"/>
+<dbReference type="DOI" id="10.1083/jcb.200507002"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>HOMOOLIGOMERIZATION</scope>
+<scope>INTERACTION WITH MAP1LC3B</scope>
+<scope>POSSIBLE PROTECTIVE ROLE IN HD</scope>
+<scope>MUTAGENESIS OF ASP-69 AND ILE-431</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2005" name="J. Neurochem." volume="94" first="192" last="203">
+<title>Sequestosome 1/p62 shuttles polyubiquitinated tau for proteasomal degradation.</title>
+<authorList>
+<person name="Babu J.R."/>
+<person name="Geetha T."/>
+<person name="Wooten M.W."/>
+</authorList>
+<dbReference type="PubMed" id="15953362"/>
+<dbReference type="DOI" id="10.1111/j.1471-4159.2005.03181.x"/>
+</citation>
+<scope>INTERACTION WITH MAPT</scope>
+<scope>DOMAIN</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2005" name="Mol. Cell. Biol." volume="25" first="4010" last="4022">
+<title>The LIM protein Ajuba influences interleukin-1-induced NF-kappaB activation by affecting the assembly and activity of the protein kinase Czeta/p62/TRAF6 signaling complex.</title>
+<authorList>
+<person name="Feng Y."/>
+<person name="Longmore G.D."/>
+</authorList>
+<dbReference type="PubMed" id="15870274"/>
+<dbReference type="DOI" id="10.1128/mcb.25.10.4010-4022.2005"/>
+</citation>
+<scope>INTERACTION WITH AJUBA AND LIMD1</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2005" name="Mol. Cell. Neurosci." volume="29" first="222" last="231">
+<title>Inhibition of sequestosome 1/p62 up-regulation prevents aggregation of ubiquitinated proteins induced by prostaglandin J2 without reducing its neurotoxicity.</title>
+<authorList>
+<person name="Wang Z."/>
+<person name="Figueiredo-Pereira M.E."/>
+</authorList>
+<dbReference type="PubMed" id="15911346"/>
+<dbReference type="DOI" id="10.1016/j.mcn.2005.02.011"/>
+</citation>
+<scope>INDUCTION</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2005" name="Nat. Biotechnol." volume="23" first="94" last="101">
+<title>Immunoaffinity profiling of tyrosine phosphorylation in cancer cells.</title>
+<authorList>
+<person name="Rush J."/>
+<person name="Moritz A."/>
+<person name="Lee K.A."/>
+<person name="Guo A."/>
+<person name="Goss V.L."/>
+<person name="Spek E.J."/>
+<person name="Zhang H."/>
+<person name="Zha X.-M."/>
+<person name="Polakiewicz R.D."/>
+<person name="Comb M.J."/>
+</authorList>
+<dbReference type="PubMed" id="15592455"/>
+<dbReference type="DOI" id="10.1038/nbt1046"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT TYR-148</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2005" name="Science" volume="308" first="1599" last="1603">
+<title>The kinase domain of titin controls muscle gene expression and protein turnover.</title>
+<authorList>
+<person name="Lange S."/>
+<person name="Xiang F."/>
+<person name="Yakovenko A."/>
+<person name="Vihola A."/>
+<person name="Hackman P."/>
+<person name="Rostkova E."/>
+<person name="Kristensen J."/>
+<person name="Brandmeier B."/>
+<person name="Franzen G."/>
+<person name="Hedberg B."/>
+<person name="Gunnarsson L.G."/>
+<person name="Hughes S.M."/>
+<person name="Marchand S."/>
+<person name="Sejersen T."/>
+<person name="Richard I."/>
+<person name="Edstroem L."/>
+<person name="Ehler E."/>
+<person name="Udd B."/>
+<person name="Gautel M."/>
+</authorList>
+<dbReference type="PubMed" id="15802564"/>
+<dbReference type="DOI" id="10.1126/science.1110463"/>
+</citation>
+<scope>INTERACTION WITH NBR1 AND TRIM55</scope>
+<scope>PHOSPHORYLATION</scope>
+<scope>DOMAINS</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2006" name="Cell" volume="127" first="635" last="648">
+<title>Global, in vivo, and site-specific phosphorylation dynamics in signaling networks.</title>
+<authorList>
+<person name="Olsen J.V."/>
+<person name="Blagoev B."/>
+<person name="Gnad F."/>
+<person name="Macek B."/>
+<person name="Kumar C."/>
+<person name="Mortensen P."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="17081983"/>
+<dbReference type="DOI" id="10.1016/j.cell.2006.09.026"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-332</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="33">
+<citation type="journal article" date="2006" name="Nat. Biotechnol." volume="24" first="1285" last="1292">
+<title>A probability-based approach for high-throughput protein phosphorylation analysis and site localization.</title>
+<authorList>
+<person name="Beausoleil S.A."/>
+<person name="Villen J."/>
+<person name="Gerber S.A."/>
+<person name="Rush J."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="16964243"/>
+<dbReference type="DOI" id="10.1038/nbt1240"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-269 AND SER-272</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="34">
+<citation type="journal article" date="2007" name="J. Biol. Chem." volume="282" first="24131" last="24145">
+<title>p62/SQSTM1 binds directly to Atg8/LC3 to facilitate degradation of ubiquitinated protein aggregates by autophagy.</title>
+<authorList>
+<person name="Pankiv S."/>
+<person name="Clausen T.H."/>
+<person name="Lamark T."/>
+<person name="Brech A."/>
+<person name="Bruun J.A."/>
+<person name="Outzen H."/>
+<person name="Overvatn A."/>
+<person name="Bjorkoy G."/>
+<person name="Johansen T."/>
+</authorList>
+<dbReference type="PubMed" id="17580304"/>
+<dbReference type="DOI" id="10.1074/jbc.m702824200"/>
+</citation>
+<scope>INTERACTION WITH GABARAP; GABARAPL1; GABARAPL2; MAP1LC3A AND MAP1LC3B</scope>
+<scope>MUTAGENESIS OF 323-GLU-GLU-324; SER-332; 335-ASP--ASP-337; TRP-338 AND SER-342</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="2008" name="Mol. Cell" volume="31" first="438" last="448">
+<title>Kinase-selective enrichment enables quantitative phosphoproteomics of the kinome across the cell cycle.</title>
+<authorList>
+<person name="Daub H."/>
+<person name="Olsen J.V."/>
+<person name="Bairlein M."/>
+<person name="Gnad F."/>
+<person name="Oppermann F.S."/>
+<person name="Korner R."/>
+<person name="Greff Z."/>
+<person name="Keri G."/>
+<person name="Stemmann O."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="18691976"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2008.07.007"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-269 AND SER-272</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="36">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="10762" last="10767">
+<title>A quantitative atlas of mitotic phosphorylation.</title>
+<authorList>
+<person name="Dephoure N."/>
+<person name="Zhou C."/>
+<person name="Villen J."/>
+<person name="Beausoleil S.A."/>
+<person name="Bakalarski C.E."/>
+<person name="Elledge S.J."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="18669648"/>
+<dbReference type="DOI" id="10.1073/pnas.0805139105"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-170; THR-269; SER-272; SER-328; SER-332 AND SER-366</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="37">
+<citation type="journal article" date="2009" name="Anal. Chem." volume="81" first="4493" last="4501">
+<title>Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach.</title>
+<authorList>
+<person name="Gauci S."/>
+<person name="Helbig A.O."/>
+<person name="Slijper M."/>
+<person name="Krijgsveld J."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="19413330"/>
+<dbReference type="DOI" id="10.1021/ac9004309"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="2009" name="Mol. Cell. Proteomics" volume="8" first="1751" last="1764">
+<title>Large-scale proteomics analysis of the human kinome.</title>
+<authorList>
+<person name="Oppermann F.S."/>
+<person name="Gnad F."/>
+<person name="Olsen J.V."/>
+<person name="Hornberger R."/>
+<person name="Greff Z."/>
+<person name="Keri G."/>
+<person name="Mann M."/>
+<person name="Daub H."/>
+</authorList>
+<dbReference type="PubMed" id="19369195"/>
+<dbReference type="DOI" id="10.1074/mcp.m800588-mcp200"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="2009" name="Sci. Signal." volume="2" first="RA46" last="RA46">
+<title>Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions.</title>
+<authorList>
+<person name="Mayya V."/>
+<person name="Lundgren D.H."/>
+<person name="Hwang S.-I."/>
+<person name="Rezaul K."/>
+<person name="Wu L."/>
+<person name="Eng J.K."/>
+<person name="Rodionov V."/>
+<person name="Han D.K."/>
+</authorList>
+<dbReference type="PubMed" id="19690332"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000007"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-355 AND SER-361</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Leukemic T-cell</tissue>
+</source>
+</reference>
+<reference key="40">
+<citation type="journal article" date="2010" name="Autophagy" volume="6" first="330" last="344">
+<title>p62/SQSTM1 and ALFY interact to facilitate the formation of p62 bodies/ALIS and their degradation by autophagy.</title>
+<authorList>
+<person name="Clausen T.H."/>
+<person name="Lamark T."/>
+<person name="Isakson P."/>
+<person name="Finley K."/>
+<person name="Larsen K.B."/>
+<person name="Brech A."/>
+<person name="Overvatn A."/>
+<person name="Stenmark H."/>
+<person name="Bjorkoy G."/>
+<person name="Simonsen A."/>
+<person name="Johansen T."/>
+</authorList>
+<dbReference type="PubMed" id="20168092"/>
+<dbReference type="DOI" id="10.4161/auto.6.3.11226"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH WDFY3</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="41">
+<citation type="journal article" date="2010" name="Autophagy" volume="6" first="614" last="621">
+<title>Keap1 facilitates p62-mediated ubiquitin aggregate clearance via autophagy.</title>
+<authorList>
+<person name="Fan W."/>
+<person name="Tang Z."/>
+<person name="Chen D."/>
+<person name="Moughon D."/>
+<person name="Ding X."/>
+<person name="Chen S."/>
+<person name="Zhu M."/>
+<person name="Zhong Q."/>
+</authorList>
+<dbReference type="PubMed" id="20495340"/>
+<dbReference type="DOI" id="10.4161/auto.6.5.12189"/>
+</citation>
+<scope>INTERACTION WITH KEAP1</scope>
+</reference>
+<reference key="42">
+<citation type="journal article" date="2010" name="J. Biol. Chem." volume="285" first="22576" last="22591">
+<title>p62/SQSTM1 is a target gene for transcription factor NRF2 and creates a positive feedback loop by inducing antioxidant response element-driven gene transcription.</title>
+<authorList>
+<person name="Jain A."/>
+<person name="Lamark T."/>
+<person name="Sjoettem E."/>
+<person name="Larsen K.B."/>
+<person name="Awuh J.A."/>
+<person name="Oevervatn A."/>
+<person name="McMahon M."/>
+<person name="Hayes J.D."/>
+<person name="Johansen T."/>
+</authorList>
+<dbReference type="PubMed" id="20452972"/>
+<dbReference type="DOI" id="10.1074/jbc.m110.118976"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH KEAP1</scope>
+<scope>INDUCTION</scope>
+<scope>MUTAGENESIS OF ASP-347; THR-350; GLY-351 AND GLU-352</scope>
+</reference>
+<reference key="43">
+<citation type="journal article" date="2010" name="J. Cell Biol." volume="191" first="1159" last="1172">
+<title>Formin follows function: a muscle-specific isoform of FHOD3 is regulated by CK2 phosphorylation and promotes myofibril maintenance.</title>
+<authorList>
+<person name="Iskratsch T."/>
+<person name="Lange S."/>
+<person name="Dwyer J."/>
+<person name="Kho A.L."/>
+<person name="dos Remedios C."/>
+<person name="Ehler E."/>
+</authorList>
+<dbReference type="PubMed" id="21149568"/>
+<dbReference type="DOI" id="10.1083/jcb.201005060"/>
+</citation>
+<scope>INTERACTION WITH FHOD3</scope>
+</reference>
+<reference key="44">
+<citation type="journal article" date="2010" name="J. Virol." volume="84" first="5997" last="6006">
+<title>p62/sequestosome-1 associates with and sustains the expression of retroviral restriction factor TRIM5alpha.</title>
+<authorList>
+<person name="O'Connor C."/>
+<person name="Pertel T."/>
+<person name="Gray S."/>
+<person name="Robia S.L."/>
+<person name="Bakowska J.C."/>
+<person name="Luban J."/>
+<person name="Campbell E.M."/>
+</authorList>
+<dbReference type="PubMed" id="20357094"/>
+<dbReference type="DOI" id="10.1128/jvi.02412-09"/>
+</citation>
+<scope>INTERACTION WITH TRIM5</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="45">
+<citation type="journal article" date="2010" name="Sci. Signal." volume="3" first="RA3" last="RA3">
+<title>Quantitative phosphoproteomics reveals widespread full phosphorylation site occupancy during mitosis.</title>
+<authorList>
+<person name="Olsen J.V."/>
+<person name="Vermeulen M."/>
+<person name="Santamaria A."/>
+<person name="Kumar C."/>
+<person name="Miller M.L."/>
+<person name="Jensen L.J."/>
+<person name="Gnad F."/>
+<person name="Cox J."/>
+<person name="Jensen T.S."/>
+<person name="Nigg E.A."/>
+<person name="Brunak S."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="20068231"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000475"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-170; SER-207; SER-249; SER-266; SER-272 AND SER-332</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="46">
+<citation type="journal article" date="2011" name="Arch. Neurol." volume="68" first="1440" last="1446">
+<title>SQSTM1 mutations in familial and sporadic amyotrophic lateral sclerosis.</title>
+<authorList>
+<person name="Fecto F."/>
+<person name="Yan J."/>
+<person name="Vemula S.P."/>
+<person name="Liu E."/>
+<person name="Yang Y."/>
+<person name="Chen W."/>
+<person name="Zheng J.G."/>
+<person name="Shi Y."/>
+<person name="Siddique N."/>
+<person name="Arrat H."/>
+<person name="Donkervoort S."/>
+<person name="Ajroud-Driss S."/>
+<person name="Sufit R.L."/>
+<person name="Heller S.L."/>
+<person name="Deng H.X."/>
+<person name="Siddique T."/>
+</authorList>
+<dbReference type="PubMed" id="22084127"/>
+<dbReference type="DOI" id="10.1001/archneurol.2011.250"/>
+</citation>
+<scope>INVOLVEMENT IN FTDALS3</scope>
+<scope>VARIANTS FTDALS3 VAL-33; ILE-153; LEU-228; LYS-238 DEL; PRO-318; CYS-321; PRO-370; LEU-392; SER-411 AND ARG-425</scope>
+</reference>
+<reference key="47">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="48">
+<citation type="journal article" date="2011" name="Biochemistry" volume="50" first="9076" last="9087">
+<title>Independent interactions of ubiquitin-binding domains in a ubiquitin-mediated ternary complex.</title>
+<authorList>
+<person name="Garner T.P."/>
+<person name="Strachan J."/>
+<person name="Shedden E.C."/>
+<person name="Long J.E."/>
+<person name="Cavey J.R."/>
+<person name="Shaw B."/>
+<person name="Layfield R."/>
+<person name="Searle M.S."/>
+</authorList>
+<dbReference type="PubMed" id="21923101"/>
+<dbReference type="DOI" id="10.1021/bi201137e"/>
+</citation>
+<scope>IDENTIFICATION IN A COMPLEX WITH ZFAND5 AND UBIQUITIN</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="49">
+<citation type="journal article" date="2011" name="Sci. Signal." volume="4" first="RS3" last="RS3">
+<title>System-wide temporal characterization of the proteome and phosphoproteome of human embryonic stem cell differentiation.</title>
+<authorList>
+<person name="Rigbolt K.T."/>
+<person name="Prokhorova T.A."/>
+<person name="Akimov V."/>
+<person name="Henningsen J."/>
+<person name="Johansen P.T."/>
+<person name="Kratchmarova I."/>
+<person name="Kassem M."/>
+<person name="Mann M."/>
+<person name="Olsen J.V."/>
+<person name="Blagoev B."/>
+</authorList>
+<dbReference type="PubMed" id="21406692"/>
+<dbReference type="DOI" id="10.1126/scisignal.2001570"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-272</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="50">
+<citation type="journal article" date="2012" name="Autophagy" volume="8" first="767" last="779">
+<title>The deubiquitinating enzyme USP36 controls selective autophagy activation by ubiquitinated proteins.</title>
+<authorList>
+<person name="Taillebourg E."/>
+<person name="Gregoire I."/>
+<person name="Viargues P."/>
+<person name="Jacomin A.C."/>
+<person name="Thevenon D."/>
+<person name="Faure M."/>
+<person name="Fauvarque M.O."/>
+</authorList>
+<dbReference type="PubMed" id="22622177"/>
+<dbReference type="DOI" id="10.4161/auto.19381"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="51">
+<citation type="journal article" date="2012" name="Biochim. Biophys. Acta" volume="1823" first="316" last="326">
+<title>TRIM13 regulates ER stress induced autophagy and clonogenic ability of the cells.</title>
+<authorList>
+<person name="Tomar D."/>
+<person name="Singh R."/>
+<person name="Singh A.K."/>
+<person name="Pandya C.D."/>
+<person name="Singh R."/>
+</authorList>
+<dbReference type="PubMed" id="22178386"/>
+<dbReference type="DOI" id="10.1016/j.bbamcr.2011.11.015"/>
+</citation>
+<scope>INTERACTION WITH TRIM13</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="52">
+<citation type="journal article" date="2012" name="Cell Death Differ." volume="19" first="1525" last="1535">
+<title>TP53INP1, a tumor suppressor, interacts with LC3 and ATG8-family proteins through the LC3-interacting region (LIR) and promotes autophagy-dependent cell death.</title>
+<authorList>
+<person name="Seillier M."/>
+<person name="Peuget S."/>
+<person name="Gayet O."/>
+<person name="Gauthier C."/>
+<person name="N'guessan P."/>
+<person name="Monte M."/>
+<person name="Carrier A."/>
+<person name="Iovanna J.L."/>
+<person name="Dusetti N.J."/>
+</authorList>
+<dbReference type="PubMed" id="22421968"/>
+<dbReference type="DOI" id="10.1038/cdd.2012.30"/>
+</citation>
+<scope>INTERACTION WITH MAP1LC3A</scope>
+</reference>
+<reference key="53">
+<citation type="journal article" date="2012" name="PLoS ONE" volume="7" first="E40440" last="E40440">
+<title>The E3-ubiquitin ligase TRIM50 interacts with HDAC6 and p62, and promotes the sequestration and clearance of ubiquitinated proteins into the aggresome.</title>
+<authorList>
+<person name="Fusco C."/>
+<person name="Micale L."/>
+<person name="Egorov M."/>
+<person name="Monti M."/>
+<person name="D'Addetta E.V."/>
+<person name="Augello B."/>
+<person name="Cozzolino F."/>
+<person name="Calcagni A."/>
+<person name="Fontana A."/>
+<person name="Polishchuk R.S."/>
+<person name="Didelot G."/>
+<person name="Reymond A."/>
+<person name="Pucci P."/>
+<person name="Merla G."/>
+</authorList>
+<dbReference type="PubMed" id="22792322"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0040440"/>
+</citation>
+<scope>INTERACTION WITH TRIM50</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="54">
+<citation type="journal article" date="2012" name="Proc. Natl. Acad. Sci. U.S.A." volume="109" first="12449" last="12454">
+<title>N-terminal acetylome analyses and functional insights of the N-terminal acetyltransferase NatB.</title>
+<authorList>
+<person name="Van Damme P."/>
+<person name="Lasa M."/>
+<person name="Polevoda B."/>
+<person name="Gazquez C."/>
+<person name="Elosegui-Artola A."/>
+<person name="Kim D.S."/>
+<person name="De Juan-Pardo E."/>
+<person name="Demeyer K."/>
+<person name="Hole K."/>
+<person name="Larrea E."/>
+<person name="Timmerman E."/>
+<person name="Prieto J."/>
+<person name="Arnesen T."/>
+<person name="Sherman F."/>
+<person name="Gevaert K."/>
+<person name="Aldabe R."/>
+</authorList>
+<dbReference type="PubMed" id="22814378"/>
+<dbReference type="DOI" id="10.1073/pnas.1210303109"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT ALA-2</scope>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT ALA-2 (ISOFORM 2)</scope>
+<scope>CLEAVAGE OF INITIATOR METHIONINE [LARGE SCALE ANALYSIS]</scope>
+<scope>CLEAVAGE OF INITIATOR METHIONINE [LARGE SCALE ANALYSIS] (ISOFORM 2)</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="55">
+<citation type="journal article" date="2013" name="Autophagy" volume="9" first="1955" last="1964">
+<title>TRAF6 mediates ubiquitination of KIF23/MKLP1 and is required for midbody ring degradation by selective autophagy.</title>
+<authorList>
+<person name="Isakson P."/>
+<person name="Lystad A.H."/>
+<person name="Breen K."/>
+<person name="Koster G."/>
+<person name="Stenmark H."/>
+<person name="Simonsen A."/>
+</authorList>
+<dbReference type="PubMed" id="24128730"/>
+<dbReference type="DOI" id="10.4161/auto.26085"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="56">
+<citation type="journal article" date="2013" name="Cell Metab." volume="17" first="73" last="84">
+<title>Sestrins activate Nrf2 by promoting p62-dependent autophagic degradation of Keap1 and prevent oxidative liver damage.</title>
+<authorList>
+<person name="Bae S.H."/>
+<person name="Sung S.H."/>
+<person name="Oh S.Y."/>
+<person name="Lim J.M."/>
+<person name="Lee S.K."/>
+<person name="Park Y.N."/>
+<person name="Lee H.E."/>
+<person name="Kang D."/>
+<person name="Rhee S.G."/>
+</authorList>
+<dbReference type="PubMed" id="23274085"/>
+<dbReference type="DOI" id="10.1016/j.cmet.2012.12.002"/>
+</citation>
+<scope>INTERACTION WITH SESN1 AND SESN2</scope>
+</reference>
+<reference key="57">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+<dbReference type="DOI" id="10.1021/pr300630k"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-170; THR-269; SER-272; SER-332 AND SER-366</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="58">
+<citation type="journal article" date="2013" name="JAMA Neurol." volume="70" first="1403" last="1410">
+<title>SQSTM1 mutations in French patients with frontotemporal dementia or frontotemporal dementia with amyotrophic lateral sclerosis.</title>
+<authorList>
+<consortium name="French Clinical and Genetic Research Network on FTD/FTD-ALS"/>
+<person name="Le Ber I."/>
+<person name="Camuzat A."/>
+<person name="Guerreiro R."/>
+<person name="Bouya-Ahmed K."/>
+<person name="Bras J."/>
+<person name="Nicolas G."/>
+<person name="Gabelle A."/>
+<person name="Didic M."/>
+<person name="De Septenville A."/>
+<person name="Millecamps S."/>
+<person name="Lenglet T."/>
+<person name="Latouche M."/>
+<person name="Kabashi E."/>
+<person name="Campion D."/>
+<person name="Hannequin D."/>
+<person name="Hardy J."/>
+<person name="Brice A."/>
+</authorList>
+<dbReference type="PubMed" id="24042580"/>
+<dbReference type="DOI" id="10.1001/jamaneurol.2013.3849"/>
+</citation>
+<scope>INVOLVEMENT IN FTDALS3</scope>
+<scope>VARIANTS FTDALS3 VAL-33; VAL-381; LEU-387 AND LEU-392</scope>
+</reference>
+<reference key="59">
+<citation type="journal article" date="2013" name="J. Cell Sci." volume="126" first="3237" last="3247">
+<title>The LIR motif - crucial for selective autophagy.</title>
+<authorList>
+<person name="Birgisdottir A.B."/>
+<person name="Lamark T."/>
+<person name="Johansen T."/>
+</authorList>
+<dbReference type="PubMed" id="23908376"/>
+<dbReference type="DOI" id="10.1242/jcs.126128"/>
+</citation>
+<scope>LIR MOTIF</scope>
+</reference>
+<reference key="60">
+<citation type="journal article" date="2013" name="Nature" volume="502" first="254" last="257">
+<title>Autophagy promotes primary ciliogenesis by removing OFD1 from centriolar satellites.</title>
+<authorList>
+<person name="Tang Z."/>
+<person name="Lin M.G."/>
+<person name="Stowe T.R."/>
+<person name="Chen S."/>
+<person name="Zhu M."/>
+<person name="Stearns T."/>
+<person name="Franco B."/>
+<person name="Zhong Q."/>
+</authorList>
+<dbReference type="PubMed" id="24089205"/>
+<dbReference type="DOI" id="10.1038/nature12606"/>
+</citation>
+<scope>INTERACTION WITH MAP1LC3B</scope>
+</reference>
+<reference key="61">
+<citation type="journal article" date="2014" name="Dev. Cell" volume="30" first="394" last="409">
+<title>TRIM proteins regulate autophagy and can target autophagic substrates by direct recognition.</title>
+<authorList>
+<person name="Mandell M.A."/>
+<person name="Jain A."/>
+<person name="Arko-Mensah J."/>
+<person name="Chauhan S."/>
+<person name="Kimura T."/>
+<person name="Dinkins C."/>
+<person name="Silvestri G."/>
+<person name="Munch J."/>
+<person name="Kirchhoff F."/>
+<person name="Simonsen A."/>
+<person name="Wei Y."/>
+<person name="Levine B."/>
+<person name="Johansen T."/>
+<person name="Deretic V."/>
+</authorList>
+<dbReference type="PubMed" id="25127057"/>
+<dbReference type="DOI" id="10.1016/j.devcel.2014.06.013"/>
+</citation>
+<scope>INTERACTION WITH TRIM5</scope>
+</reference>
+<reference key="62">
+<citation type="journal article" date="2014" name="FEBS J." volume="281" first="3816" last="3827">
+<title>Sestrin2 promotes Unc-51-like kinase 1 mediated phosphorylation of p62/sequestosome-1.</title>
+<authorList>
+<person name="Ro S.H."/>
+<person name="Semple I.A."/>
+<person name="Park H."/>
+<person name="Park H."/>
+<person name="Park H.W."/>
+<person name="Kim M."/>
+<person name="Kim J.S."/>
+<person name="Lee J.H."/>
+</authorList>
+<dbReference type="PubMed" id="25040165"/>
+<dbReference type="DOI" id="10.1111/febs.12905"/>
+</citation>
+<scope>INTERACTION WITH SESN2 AND ULK1</scope>
+<scope>PHOSPHORYLATION AT SER-403 BY ULK1</scope>
+</reference>
+<reference key="63">
+<citation type="journal article" date="2014" name="EMBO Rep." volume="15" first="557" last="565">
+<title>Structural determinants in GABARAP required for the selective binding and recruitment of ALFY to LC3B-positive structures.</title>
+<authorList>
+<person name="Lystad A.H."/>
+<person name="Ichimura Y."/>
+<person name="Takagi K."/>
+<person name="Yang Y."/>
+<person name="Pankiv S."/>
+<person name="Kanegae Y."/>
+<person name="Kageyama S."/>
+<person name="Suzuki M."/>
+<person name="Saito I."/>
+<person name="Mizushima T."/>
+<person name="Komatsu M."/>
+<person name="Simonsen A."/>
+</authorList>
+<dbReference type="PubMed" id="24668264"/>
+<dbReference type="DOI" id="10.1002/embr.201338003"/>
+</citation>
+<scope>INTERACTION WITH GABARAP</scope>
+<scope>MUTAGENESIS OF TRP-338</scope>
+</reference>
+<reference key="64">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-24; SER-176; SER-233; SER-306 AND SER-366</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="65">
+<citation type="journal article" date="2014" name="Proc. Natl. Acad. Sci. U.S.A." volume="111" first="E5282" last="E5291">
+<title>Disruption of FAT10-MAD2 binding inhibits tumor progression.</title>
+<authorList>
+<person name="Theng S.S."/>
+<person name="Wang W."/>
+<person name="Mah W.C."/>
+<person name="Chan C."/>
+<person name="Zhuo J."/>
+<person name="Gao Y."/>
+<person name="Qin H."/>
+<person name="Lim L."/>
+<person name="Chong S.S."/>
+<person name="Song J."/>
+<person name="Lee C.G."/>
+</authorList>
+<dbReference type="PubMed" id="25422469"/>
+<dbReference type="DOI" id="10.1073/pnas.1403383111"/>
+</citation>
+<scope>INTERACTION WITH UBD</scope>
+</reference>
+<reference key="66">
+<citation type="journal article" date="2010" name="Haematologica" volume="95" first="2161" last="2163">
+<title>SQSTM1-NUP214: a new gene fusion in adult T-cell acute lymphoblastic leukemia.</title>
+<authorList>
+<person name="Gorello P."/>
+<person name="La Starza R."/>
+<person name="Di Giacomo D."/>
+<person name="Messina M."/>
+<person name="Puzzolo M.C."/>
+<person name="Crescenzi B."/>
+<person name="Santoro A."/>
+<person name="Chiaretti S."/>
+<person name="Mecucci C."/>
+</authorList>
+<dbReference type="PubMed" id="20851865"/>
+<dbReference type="DOI" id="10.3324/haematol.2010.029769"/>
+</citation>
+<scope>DISEASE</scope>
+<scope>CHROMOSOMAL TRANSLOCATION WITH NU214</scope>
+</reference>
+<reference key="67">
+<citation type="journal article" date="2015" name="J. Alzheimers Dis." volume="43" first="625" last="630">
+<title>A phenotype of atypical apraxia of speech in a family carrying SQSTM1 mutation.</title>
+<authorList>
+<person name="Boutoleau-Bretonniere C."/>
+<person name="Camuzat A."/>
+<person name="Le Ber I."/>
+<person name="Bouya-Ahmed K."/>
+<person name="Guerreiro R."/>
+<person name="Deruet A.L."/>
+<person name="Evrard C."/>
+<person name="Bras J."/>
+<person name="Lamy E."/>
+<person name="Auffray-Calvier E."/>
+<person name="Pallardy A."/>
+<person name="Hardy J."/>
+<person name="Brice A."/>
+<person name="Derkinderen P."/>
+<person name="Vercelletto M."/>
+</authorList>
+<dbReference type="PubMed" id="25114083"/>
+<dbReference type="DOI" id="10.3233/jad-141512"/>
+</citation>
+<scope>INVOLVEMENT IN FTDALS3</scope>
+<scope>VARIANT FTDALS3 LYS-238 DEL</scope>
+</reference>
+<reference key="68">
+<citation type="journal article" date="2015" name="Neurology" volume="85" first="665" last="674">
+<title>SQSTM1 splice site mutation in distal myopathy with rimmed vacuoles.</title>
+<authorList>
+<person name="Bucelli R.C."/>
+<person name="Arhzaouy K."/>
+<person name="Pestronk A."/>
+<person name="Pittman S.K."/>
+<person name="Rojas L."/>
+<person name="Sue C.M."/>
+<person name="Evilae A."/>
+<person name="Hackman P."/>
+<person name="Udd B."/>
+<person name="Harms M.B."/>
+<person name="Weihl C.C."/>
+</authorList>
+<dbReference type="PubMed" id="26208961"/>
+<dbReference type="DOI" id="10.1212/wnl.0000000000001864"/>
+</citation>
+<scope>INVOLVEMENT IN DMRV</scope>
+</reference>
+<reference key="69">
+<citation type="journal article" date="2016" name="Am. J. Hum. Genet." volume="99" first="735" last="743">
+<title>Absence of the autophagy adaptor SQSTM1/p62 causes childhood-onset neurodegeneration with ataxia, dystonia, and gaze palsy.</title>
+<authorList>
+<person name="Haack T.B."/>
+<person name="Ignatius E."/>
+<person name="Calvo-Garrido J."/>
+<person name="Iuso A."/>
+<person name="Isohanni P."/>
+<person name="Maffezzini C."/>
+<person name="Loennqvist T."/>
+<person name="Suomalainen A."/>
+<person name="Gorza M."/>
+<person name="Kremer L.S."/>
+<person name="Graf E."/>
+<person name="Hartig M."/>
+<person name="Berutti R."/>
+<person name="Paucar M."/>
+<person name="Svenningsson P."/>
+<person name="Stranneheim H."/>
+<person name="Brandberg G."/>
+<person name="Wedell A."/>
+<person name="Kurian M.A."/>
+<person name="Hayflick S.A."/>
+<person name="Venco P."/>
+<person name="Tiranti V."/>
+<person name="Strom T.M."/>
+<person name="Dichgans M."/>
+<person name="Horvath R."/>
+<person name="Holinski-Feder E."/>
+<person name="Freyer C."/>
+<person name="Meitinger T."/>
+<person name="Prokisch H."/>
+<person name="Senderek J."/>
+<person name="Wredenberg A."/>
+<person name="Carroll C.J."/>
+<person name="Klopstock T."/>
+</authorList>
+<dbReference type="PubMed" id="27545679"/>
+<dbReference type="DOI" id="10.1016/j.ajhg.2016.06.026"/>
+</citation>
+<scope>INVOLVEMENT IN NADGP</scope>
+</reference>
+<reference key="70">
+<citation type="journal article" date="2016" name="Cell" volume="166" first="152" last="166">
+<title>An ER-associated pathway defines endosomal architecture for controlled cargo transport.</title>
+<authorList>
+<person name="Jongsma M.L."/>
+<person name="Berlin I."/>
+<person name="Wijdeven R.H."/>
+<person name="Janssen L."/>
+<person name="Janssen G.M."/>
+<person name="Garstka M.A."/>
+<person name="Janssen H."/>
+<person name="Mensink M."/>
+<person name="van Veelen P.A."/>
+<person name="Spaapen R.M."/>
+<person name="Neefjes J."/>
+</authorList>
+<dbReference type="PubMed" id="27368102"/>
+<dbReference type="DOI" id="10.1016/j.cell.2016.05.078"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>UBIQUITINATION</scope>
+</reference>
+<reference key="71">
+<citation type="journal article" date="2016" name="Cell Rep." volume="17" first="2183" last="2194">
+<title>RNF166 Determines Recruitment of Adaptor Proteins during Antibacterial Autophagy.</title>
+<authorList>
+<person name="Heath R.J."/>
+<person name="Goel G."/>
+<person name="Baxt L.A."/>
+<person name="Rush J.S."/>
+<person name="Mohanan V."/>
+<person name="Paulus G.L.C."/>
+<person name="Jani V."/>
+<person name="Lassen K.G."/>
+<person name="Xavier R.J."/>
+</authorList>
+<dbReference type="PubMed" id="27880896"/>
+<dbReference type="DOI" id="10.1016/j.celrep.2016.11.005"/>
+</citation>
+<scope>UBIQUITINATION</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="72">
+<citation type="journal article" date="2017" name="Cell Rep." volume="19" first="188" last="202">
+<title>Keap1/cullin3 modulates p62/SQSTM1 activity via UBA domain ubiquitination.</title>
+<authorList>
+<person name="Lee Y."/>
+<person name="Chou T.F."/>
+<person name="Pittman S.K."/>
+<person name="Keith A.L."/>
+<person name="Razani B."/>
+<person name="Weihl C.C."/>
+</authorList>
+<dbReference type="PubMed" id="28380357"/>
+<dbReference type="DOI" id="10.1016/j.celrep.2017.03.030"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>UBIQUITINATION AT LYS-420</scope>
+<scope>MUTAGENESIS OF LYS-420</scope>
+</reference>
+<reference key="73">
+<citation type="journal article" date="2017" name="Nat. Struct. Mol. Biol." volume="24" first="325" last="336">
+<title>Site-specific mapping of the human SUMO proteome reveals co-modification with phosphorylation.</title>
+<authorList>
+<person name="Hendriks I.A."/>
+<person name="Lyon D."/>
+<person name="Young C."/>
+<person name="Jensen L.J."/>
+<person name="Vertegaal A.C."/>
+<person name="Nielsen M.L."/>
+</authorList>
+<dbReference type="PubMed" id="28112733"/>
+<dbReference type="DOI" id="10.1038/nsmb.3366"/>
+</citation>
+<scope>SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-435</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="74">
+<citation type="journal article" date="2018" name="EMBO J." volume="37">
+<title>TRIM16 controls assembly and degradation of protein aggregates by modulating the p62-NRF2 axis and autophagy.</title>
+<authorList>
+<person name="Jena K.K."/>
+<person name="Kolapalli S.P."/>
+<person name="Mehto S."/>
+<person name="Nath P."/>
+<person name="Das B."/>
+<person name="Sahoo P.K."/>
+<person name="Ahad A."/>
+<person name="Syed G.H."/>
+<person name="Raghav S.K."/>
+<person name="Senapati S."/>
+<person name="Chauhan S."/>
+<person name="Chauhan S."/>
+</authorList>
+<dbReference type="PubMed" id="30143514"/>
+<dbReference type="DOI" id="10.15252/embj.201798358"/>
+</citation>
+<scope>INTERACTION WITH TRIM16</scope>
+</reference>
+<reference key="75">
+<citation type="journal article" date="2018" name="EMBO J." volume="37" first="351" last="366">
+<title>LRRC25 inhibits type I IFN signaling by targeting ISG15-associated RIG-I for autophagic degradation.</title>
+<authorList>
+<person name="Du Y."/>
+<person name="Duan T."/>
+<person name="Feng Y."/>
+<person name="Liu Q."/>
+<person name="Lin M."/>
+<person name="Cui J."/>
+<person name="Wang R.F."/>
+</authorList>
+<dbReference type="PubMed" id="29288164"/>
+<dbReference type="DOI" id="10.15252/embj.201796781"/>
+</citation>
+<scope>INTERACTION WITH LRRC25</scope>
+</reference>
+<reference key="76">
+<citation type="journal article" date="2017" name="J. Cell Biol." volume="216" first="1301" last="1320">
+<title>The BEACH-containing protein WDR81 coordinates p62 and LC3C to promote aggrephagy.</title>
+<authorList>
+<person name="Liu X."/>
+<person name="Li Y."/>
+<person name="Wang X."/>
+<person name="Xing R."/>
+<person name="Liu K."/>
+<person name="Gan Q."/>
+<person name="Tang C."/>
+<person name="Gao Z."/>
+<person name="Jian Y."/>
+<person name="Luo S."/>
+<person name="Guo W."/>
+<person name="Yang C."/>
+</authorList>
+<dbReference type="PubMed" id="28404643"/>
+<dbReference type="DOI" id="10.1083/jcb.201608039"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH WDR81</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="77">
+<citation type="journal article" date="2017" name="Nat. Microbiol." volume="2" first="1543" last="1557">
+<title>TRIM23 mediates virus-induced autophagy via activation of TBK1.</title>
+<authorList>
+<person name="Sparrer K.M.J."/>
+<person name="Gableske S."/>
+<person name="Zurenski M.A."/>
+<person name="Parker Z.M."/>
+<person name="Full F."/>
+<person name="Baumgart G.J."/>
+<person name="Kato J."/>
+<person name="Pacheco-Rodriguez G."/>
+<person name="Liang C."/>
+<person name="Pornillos O."/>
+<person name="Moss J."/>
+<person name="Vaughan M."/>
+<person name="Gack M.U."/>
+</authorList>
+<dbReference type="PubMed" id="28871090"/>
+<dbReference type="DOI" id="10.1038/s41564-017-0017-2"/>
+</citation>
+<scope>INTERACTION WITH TRIM23</scope>
+</reference>
+<reference key="78">
+<citation type="journal article" date="2018" name="EMBO J." volume="37">
+<title>Attenuation of cGAS-STING signaling is mediated by a p62/SQSTM1-dependent autophagy pathway activated by TBK1.</title>
+<authorList>
+<person name="Prabakaran T."/>
+<person name="Bodda C."/>
+<person name="Krapp C."/>
+<person name="Zhang B.C."/>
+<person name="Christensen M.H."/>
+<person name="Sun C."/>
+<person name="Reinert L."/>
+<person name="Cai Y."/>
+<person name="Jensen S.B."/>
+<person name="Skouboe M.K."/>
+<person name="Nyengaard J.R."/>
+<person name="Thompson C.B."/>
+<person name="Lebbink R.J."/>
+<person name="Sen G.C."/>
+<person name="van Loo G."/>
+<person name="Nielsen R."/>
+<person name="Komatsu M."/>
+<person name="Nejsum L.N."/>
+<person name="Jakobsen M.R."/>
+<person name="Gyrd-Hansen M."/>
+<person name="Paludan S.R."/>
+</authorList>
+<dbReference type="PubMed" id="29496741"/>
+<dbReference type="DOI" id="10.15252/embj.201797858"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>PHOSPHORYLATION AT SER-403</scope>
+<scope>MUTAGENESIS OF SER-403</scope>
+</reference>
+<reference key="79">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="37409" last="37412">
+<title>Structure of the ubiquitin-associated domain of p62 (SQSTM1) and implications for mutations that cause Paget's disease of bone.</title>
+<authorList>
+<person name="Ciani B."/>
+<person name="Layfield R."/>
+<person name="Cavey J.R."/>
+<person name="Sheppard P.W."/>
+<person name="Searle M.S."/>
+</authorList>
+<dbReference type="PubMed" id="12857745"/>
+<dbReference type="DOI" id="10.1074/jbc.m307416200"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 387-436</scope>
+<scope>CHARACTERIZATION OF VARIANT LEU-392</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="80">
+<citation type="journal article" date="2008" name="J. Biol. Chem." volume="283" first="5427" last="5440">
+<title>Ubiquitin recognition by the ubiquitin-associated domain of p62 involves a novel conformational switch.</title>
+<authorList>
+<person name="Long J."/>
+<person name="Gallagher T.R."/>
+<person name="Cavey J.R."/>
+<person name="Sheppard P.W."/>
+<person name="Ralston S.H."/>
+<person name="Layfield R."/>
+<person name="Searle M.S."/>
+</authorList>
+<dbReference type="PubMed" id="18083707"/>
+<dbReference type="DOI" id="10.1074/jbc.m704973200"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 387-436</scope>
+<scope>INTERACTION WITH UBIQUITIN</scope>
+</reference>
+<reference key="81">
+<citation type="journal article" date="2008" name="Proteins" volume="71" first="227" last="240">
+<title>Conformation and dynamics of the three-helix bundle UBA domain of p62 from experiment and simulation.</title>
+<authorList>
+<person name="Evans C.L."/>
+<person name="Long J.E."/>
+<person name="Gallagher T.R."/>
+<person name="Hirst J.D."/>
+<person name="Searle M.S."/>
+</authorList>
+<dbReference type="PubMed" id="17932931"/>
+<dbReference type="DOI" id="10.1002/prot.21692"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 387-436</scope>
+</reference>
+<reference key="82">
+<citation type="journal article" date="2010" name="J. Mol. Biol." volume="396" first="178" last="194">
+<title>Dimerisation of the UBA domain of p62 inhibits ubiquitin binding and regulates NF-kappaB signalling.</title>
+<authorList>
+<person name="Long J."/>
+<person name="Garner T.P."/>
+<person name="Pandya M.J."/>
+<person name="Craven C.J."/>
+<person name="Chen P."/>
+<person name="Shaw B."/>
+<person name="Williamson M.P."/>
+<person name="Layfield R."/>
+<person name="Searle M.S."/>
+</authorList>
+<dbReference type="PubMed" id="19931284"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2009.11.032"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 387-436</scope>
+<scope>SUBUNIT</scope>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF GLU-409 AND GLY-410</scope>
+<scope>CHARACTERIZATION OF VARIANT PDB3 ARG-425</scope>
+</reference>
+<reference key="83">
+<citation type="journal article" date="2002" name="Am. J. Hum. Genet." volume="70" first="1582" last="1588">
+<title>Recurrent mutation of the gene encoding sequestosome 1 (SQSTM1/p62) in Paget disease of bone.</title>
+<authorList>
+<person name="Laurin N."/>
+<person name="Brown J.P."/>
+<person name="Morissette J."/>
+<person name="Raymond V."/>
+</authorList>
+<dbReference type="PubMed" id="11992264"/>
+<dbReference type="DOI" id="10.1086/340731"/>
+</citation>
+<scope>VARIANT PDB3 LEU-392</scope>
+<scope>VARIANTS VAL-117 AND GLN-274</scope>
+</reference>
+<reference key="84">
+<citation type="journal article" date="2002" name="Hum. Mol. Genet." volume="11" first="2735" last="2739">
+<title>Domain-specific mutations in sequestosome 1 (SQSTM1) cause familial and sporadic Paget's disease.</title>
+<authorList>
+<person name="Hocking L.J."/>
+<person name="Lucas G.J.A."/>
+<person name="Daroszewska A."/>
+<person name="Mangion J."/>
+<person name="Olavesen M."/>
+<person name="Cundy T."/>
+<person name="Nicholson G.C."/>
+<person name="Ward L."/>
+<person name="Bennett S.T."/>
+<person name="Wuyts W."/>
+<person name="Van Hul W."/>
+<person name="Ralston S.H."/>
+</authorList>
+<dbReference type="PubMed" id="12374763"/>
+<dbReference type="DOI" id="10.1093/hmg/11.22.2735"/>
+</citation>
+<scope>VARIANT PDB3 LEU-392</scope>
+</reference>
+<reference key="85">
+<citation type="journal article" date="2003" name="J. Bone Miner. Res." volume="18" first="1748" last="1753">
+<title>Three novel mutations in SQSTM1 identified in familial Paget's disease of bone.</title>
+<authorList>
+<person name="Johnson-Pais T.L."/>
+<person name="Wisdom J.H."/>
+<person name="Weldon K.S."/>
+<person name="Cody J.D."/>
+<person name="Hansen M.F."/>
+<person name="Singer F.R."/>
+<person name="Leach R.J."/>
+</authorList>
+<dbReference type="PubMed" id="14584883"/>
+<dbReference type="DOI" id="10.1359/jbmr.2003.18.10.1748"/>
+</citation>
+<scope>VARIANT PDB3 LEU-387</scope>
+</reference>
+<reference key="86">
+<citation type="journal article" date="2004" name="Arthritis Rheum." volume="50" first="1650" last="1654">
+<title>Familial Paget's disease in The Netherlands: occurrence, identification of new mutations in the sequestosome 1 gene, and their clinical associations.</title>
+<authorList>
+<person name="Eekhoff E.W.M."/>
+<person name="Karperien M."/>
+<person name="Houtsma D."/>
+<person name="Zwinderman A.H."/>
+<person name="Dragoiescu C."/>
+<person name="Kneppers A.L.J."/>
+<person name="Papapoulos S.E."/>
+</authorList>
+<dbReference type="PubMed" id="15146436"/>
+<dbReference type="DOI" id="10.1002/art.20224"/>
+</citation>
+<scope>VARIANTS PDB3 LEU-392; PRO-399; THR-404 AND ARG-425</scope>
+</reference>
+<reference key="87">
+<citation type="journal article" date="2004" name="Bone" volume="35" first="277" last="282">
+<title>Identification of SQSTM1 mutations in familial Paget's disease in Australian pedigrees.</title>
+<authorList>
+<person name="Good D.A."/>
+<person name="Busfield F."/>
+<person name="Fletcher B.H."/>
+<person name="Lovelock P.K."/>
+<person name="Duffy D.L."/>
+<person name="Kesting J.B."/>
+<person name="Andersen J."/>
+<person name="Shaw J.T.E."/>
+</authorList>
+<dbReference type="PubMed" id="15207768"/>
+<dbReference type="DOI" id="10.1016/j.bone.2004.01.010"/>
+</citation>
+<scope>VARIANT PDB3 LEU-392</scope>
+</reference>
+<reference key="88">
+<citation type="journal article" date="2004" name="J. Bone Miner. Res." volume="19" first="1013" last="1017">
+<title>Two novel mutations at exon 8 of the Sequestosome 1 (SQSTM1) gene in an Italian series of patients affected by Paget's disease of bone (PDB).</title>
+<authorList>
+<person name="Falchetti A."/>
+<person name="Di Stefano M."/>
+<person name="Marini F."/>
+<person name="Del Monte F."/>
+<person name="Mavilia C."/>
+<person name="Strigoli D."/>
+<person name="De Feo M.L."/>
+<person name="Isaia G."/>
+<person name="Masi L."/>
+<person name="Amedei A."/>
+<person name="Cioppi F."/>
+<person name="Ghinoi V."/>
+<person name="Maddali Bongi S."/>
+<person name="Di Fede G."/>
+<person name="Sferrazza C."/>
+<person name="Rini G.B."/>
+<person name="Melchiorre D."/>
+<person name="Matucci-Cerinic M."/>
+<person name="Brandi M.L."/>
+</authorList>
+<dbReference type="PubMed" id="15125799"/>
+<dbReference type="DOI" id="10.1359/jbmr.040203"/>
+</citation>
+<scope>VARIANTS PDB3 LEU-392; VAL-404 AND ARG-425</scope>
+</reference>
+<reference key="89">
+<citation type="journal article" date="2004" name="J. Bone Miner. Res." volume="19" first="1122" last="1127">
+<title>Novel UBA domain mutations of SQSTM1 in Paget's disease of bone: genotype phenotype correlation, functional analysis, and structural consequences.</title>
+<authorList>
+<person name="Hocking L.J."/>
+<person name="Lucas G.J.A."/>
+<person name="Daroszewska A."/>
+<person name="Cundy T."/>
+<person name="Nicholson G.C."/>
+<person name="Donath J."/>
+<person name="Walsh J.P."/>
+<person name="Finlayson C."/>
+<person name="Cavey J.R."/>
+<person name="Ciani B."/>
+<person name="Sheppard P.W."/>
+<person name="Searle M.S."/>
+<person name="Layfield R."/>
+<person name="Ralston S.H."/>
+</authorList>
+<dbReference type="PubMed" id="15176995"/>
+<dbReference type="DOI" id="10.1359/jbmr.0403015"/>
+</citation>
+<scope>VARIANTS PDB3 VAL-404; SER-411 AND ARG-425</scope>
+<scope>CHARACTERIZATION OF VARIANTS VAL-404; SER-411 AND ARG-425</scope>
+</reference>
+<reference key="90">
+<citation type="journal article" date="2007" name="J. Proteome Res." volume="6" first="2331" last="2340">
+<title>Detection and validation of non-synonymous coding SNPs from orthogonal analysis of shotgun proteomics data.</title>
+<authorList>
+<person name="Bunger M.K."/>
+<person name="Cargile B.J."/>
+<person name="Sevinsky J.R."/>
+<person name="Deyanova E."/>
+<person name="Yates N.A."/>
+<person name="Hendrickson R.C."/>
+<person name="Stephenson J.L. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="17488105"/>
+<dbReference type="DOI" id="10.1021/pr0700908"/>
+</citation>
+<scope>VARIANT GLU-238</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="91">
+<citation type="journal article" date="2014" name="Acta Neuropathol." volume="128" first="397" last="410">
+<title>Rare mutations in SQSTM1 modify susceptibility to frontotemporal lobar degeneration.</title>
+<authorList>
+<person name="van der Zee J."/>
+<person name="Van Langenhove T."/>
+<person name="Kovacs G.G."/>
+<person name="Dillen L."/>
+<person name="Deschamps W."/>
+<person name="Engelborghs S."/>
+<person name="Matej R."/>
+<person name="Vandenbulcke M."/>
+<person name="Sieben A."/>
+<person name="Dermaut B."/>
+<person name="Smets K."/>
+<person name="Van Damme P."/>
+<person name="Merlin C."/>
+<person name="Laureys A."/>
+<person name="Van Den Broeck M."/>
+<person name="Mattheijssens M."/>
+<person name="Peeters K."/>
+<person name="Benussi L."/>
+<person name="Binetti G."/>
+<person name="Ghidoni R."/>
+<person name="Borroni B."/>
+<person name="Padovani A."/>
+<person name="Archetti S."/>
+<person name="Pastor P."/>
+<person name="Razquin C."/>
+<person name="Ortega-Cubero S."/>
+<person name="Hernandez I."/>
+<person name="Boada M."/>
+<person name="Ruiz A."/>
+<person name="de Mendonca A."/>
+<person name="Miltenberger-Miltenyi G."/>
+<person name="do Couto F.S."/>
+<person name="Sorbi S."/>
+<person name="Nacmias B."/>
+<person name="Bagnoli S."/>
+<person name="Graff C."/>
+<person name="Chiang H.H."/>
+<person name="Thonberg H."/>
+<person name="Perneczky R."/>
+<person name="Diehl-Schmid J."/>
+<person name="Alexopoulos P."/>
+<person name="Frisoni G.B."/>
+<person name="Bonvicini C."/>
+<person name="Synofzik M."/>
+<person name="Maetzler W."/>
+<person name="vom Hagen J.M."/>
+<person name="Schoels L."/>
+<person name="Haack T.B."/>
+<person name="Strom T.M."/>
+<person name="Prokisch H."/>
+<person name="Dols-Icardo O."/>
+<person name="Clarimon J."/>
+<person name="Lleo A."/>
+<person name="Santana I."/>
+<person name="Almeida M.R."/>
+<person name="Santiago B."/>
+<person name="Heneka M.T."/>
+<person name="Jessen F."/>
+<person name="Ramirez A."/>
+<person name="Sanchez-Valle R."/>
+<person name="Llado A."/>
+<person name="Gelpi E."/>
+<person name="Sarafov S."/>
+<person name="Tournev I."/>
+<person name="Jordanova A."/>
+<person name="Parobkova E."/>
+<person name="Fabrizi G.M."/>
+<person name="Testi S."/>
+<person name="Salmon E."/>
+<person name="Stroebel T."/>
+<person name="Santens P."/>
+<person name="Robberecht W."/>
+<person name="De Jonghe P."/>
+<person name="Martin J.J."/>
+<person name="Cras P."/>
+<person name="Vandenberghe R."/>
+<person name="De Deyn P.P."/>
+<person name="Cruts M."/>
+<person name="Sleegers K."/>
+<person name="Van Broeckhoven C."/>
+</authorList>
+<dbReference type="PubMed" id="24899140"/>
+<dbReference type="DOI" id="10.1007/s00401-014-1298-7"/>
+</citation>
+<scope>INVOLVEMENT IN FTDALS3</scope>
+<scope>VARIANTS FTDALS3 VAL-16; VAL-33; GLU-80; MET-90; TRP-107; ASN-129; CYS-212; VAL-219; PRO-226; LEU-228; THR-232; LYS-238 DEL; ASN-258; CYS-321; GLY-329; LEU-348; LEU-387; LEU-392 AND PRO-430</scope>
+<scope>VARIANTS VAL-17; ARG-103; GLN-107; TYR-108; HIS-110; VAL-117; SER-118; GLY-119; SER-125; CYS-139; ILE-153; LEU-180; HIS-217; GLU-238; 265-SER-ARG-266 DELINS SER-ARG; ASP-274; ILE-278; VAL-308; LYS-319; GLY-334 DEL; THR-349 AND LEU-439</scope>
+</reference>
+<comment type="function">
+<text evidence="21 22 26 28 29 33 43 44 46 47 48 49 53 54 56 64 70 78 81 82 85">Autophagy receptor required for selective macroautophagy (aggrephagy). Functions as a bridge between polyubiquitinated cargo and autophagosomes. Interacts directly with both the cargo to become degraded and an autophagy modifier of the MAP1 LC3 family (PubMed:16286508, PubMed:20168092, PubMed:24128730, PubMed:28404643, PubMed:22622177). Along with WDFY3, involved in the formation and autophagic degradation of cytoplasmic ubiquitin-containing inclusions (p62 bodies, ALIS/aggresome-like induced structures). Along with WDFY3, required to recruit ubiquitinated proteins to PML bodies in the nucleus (PubMed:24128730, PubMed:20168092). May regulate the activation of NFKB1 by TNF-alpha, nerve growth factor (NGF) and interleukin-1. May play a role in titin/TTN downstream signaling in muscle cells. May regulate signaling cascades through ubiquitination. Adapter that mediates the interaction between TRAF6 and CYLD (By similarity). May be involved in cell differentiation, apoptosis, immune response and regulation of K(+) channels. Involved in endosome organization by retaining vesicles in the perinuclear cloud: following ubiquitination by RNF26, attracts specific vesicle-associated adapters, forming a molecular bridge that restrains cognate vesicles in the perinuclear region and organizes the endosomal pathway for efficient cargo transport (PubMed:27368102). Promotes relocalization of 'Lys-63'-linked ubiquitinated STING1 to autophagosomes (PubMed:29496741). Acts as an activator of the NFE2L2/NRF2 pathway via interaction with KEAP1: interaction inactivates the BCR(KEAP1) complex, promoting nuclear accumulation of NFE2L2/NRF2 and subsequent expression of cytoprotective genes (PubMed:20452972, PubMed:28380357).</text>
+</comment>
+<comment type="subunit">
+<text evidence="20 26 27 28 29 30 33 35 37 43 44 45 47 49 51 52 53 54 55 56 57 59 60 62 63 65 66 69 71 73 75 76 82 83 84 85 86 87 88 89 90 91 92 96">Homooligomer or heterooligomer; may form homotypic arrays. Dimerization interferes with ubiquitin binding. Interacts directly with PRKCI and PRKCZ (Probable). Forms ternary complexes with PRKCZ and KCNAB2 or PRKCZ and GABBR3. Also interacts with KCNAB1, GABRR1, GABRR2 and GABRR3. Forms an NGF-induced complex with IKBKB, PRKCI and TRAF6 (By similarity). Interacts with EBI3, LCK, RASA1, PRKCZ, PRKCI, NR2F2, NTRK1, NTRK2, NTRK3, NBR1, MAP2K5, TRIM13, TRIM55 and MAPKAPK5. Interacts with the proteasome subunits PSMD4 and PSMC2. Interacts with K63-polyubiquitinated MAPT/TAU. Interacts with IKBKB through PRKCZ and PRKCI. Interacts with NGFR through TRAF6 and bridges that complex to NTRK1. Forms a complex with MAP2K5 and PRKCZ or PRKCI. Component of a ternary complex with PAWR and PRKCZ. Upon TNF-alpha stimulation, interacts with RIPK1 probably bridging IKBKB to the TNF-R1 complex composed of TNF-R1/TNFRSF1A, TRADD and RIPK1. Forms a complex with JUB/Ajuba, PRKCZ and TRAF6. Interacts with TRAF6 and CYLD. Identified in a complex with TRAF6 and CYLD (By similarity). Identified in a heterotrimeric complex with ubiquitin and ZFAND5, where ZFAND5 and SQSTM1 both interact with the same ubiquitin molecule. Directly interacts with MAP1LC3A and MAP1LC3B, as well as with other MAP1 LC3 family members, including GABARAP, GABARAPL1 and GABARAPL2; these interactions are necessary for the recruitment MAP1 LC3 family members to inclusion bodies containing polyubiquitinated protein aggregates and for their degradation by autophagy. Interacts with FHOD3. Interacts with TRMI5. Interacts with SESN1 (PubMed:23274085). Interacts with SESN2 (PubMed:23274085, PubMed:25040165). Interacts with ULK1 (PubMed:25040165). Interacts with UBD (PubMed:25422469). Interacts with WDR81; the interaction is direct and regulates the interaction of SQSTM1 with ubiquitinated proteins (PubMed:28404643). Interacts with WDFY3; this interaction is required to recruit WDFY3 to cytoplasmic bodies and to PML bodies (PubMed:20168092). Interacts with TRIM23 (PubMed:28871090). Interacts with LRRC25 (PubMed:29288164). Interacts with TRIM50 (PubMed:22792322). Interacts with TRIM16 (PubMed:30143514). Interacts with STING1; leading to relocalization of STING1 to autophagosomes. Interacts (when phosphorylated at Ser-349) with KEAP1; the interaction is direct and inactivates the BCR(KEAP1) complex by sequestering KEAP1 in inclusion bodies, promoting its degradation (PubMed:20495340, PubMed:20452972).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-747185">
+<id>O95817</id>
+<label>BAG3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-295634">
+<id>Q16543</id>
+<label>CDC37</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-724310">
+<id>Q15038</id>
+<label>DAZAP2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-6395541">
+<id>Q2V2M9</id>
+<label>FHOD3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-6395505">
+<id>Q2V2M9-4</id>
+<label>FHOD3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-712001">
+<id>O95166</id>
+<label>GABARAP</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>14</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-746969">
+<id>Q9H0R8</id>
+<label>GABARAPL1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>15</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-720116">
+<id>P60520</id>
+<label>GABARAPL2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>19</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-466029">
+<id>P42858</id>
+<label>HTT</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-81279">
+<id>Q9Y6K9</id>
+<label>IKBKG</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-751001">
+<id>Q14145</id>
+<label>KEAP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>18</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-5323863">
+<id>Q5S007</id>
+<label>LRRK2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>18</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-1047372">
+<id>Q9UDY8</id>
+<label>MALT1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-720768">
+<id>Q9H492</id>
+<label>MAP1LC3A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>10</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-373144">
+<id>Q9GZQ8</id>
+<label>MAP1LC3B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>24</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-2603996">
+<id>Q9BXW4</id>
+<label>MAP1LC3C</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-307294">
+<id>Q13163</id>
+<label>MAP2K5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-742698">
+<id>Q14596</id>
+<label>NBR1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-1028226">
+<id>P04629</id>
+<label>NTRK1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-748974">
+<id>Q96CV9</id>
+<label>OPTN</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-12181987">
+<id>P50542-3</id>
+<label>PEX5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-286199">
+<id>P41743</id>
+<label>PRKCI</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>10</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-355227">
+<id>Q12923</id>
+<label>PTPN13</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-746453">
+<id>P54725</id>
+<label>RAD23A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-3939642">
+<id>P58004</id>
+<label>SESN2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>9</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-346595">
+<id>Q96B97</id>
+<label>SH3KBP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-347161">
+<id>P84022</id>
+<label>SMAD3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+<label>SQSTM1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>10</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-359276">
+<id>Q9Y4K3</id>
+<label>TRAF6</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-3390054">
+<id>P0CG48</id>
+<label>UBC</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-286357">
+<id>P11473</id>
+<label>VDR</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-2684">
+<id>P38182</id>
+<label>ATG8</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-647110">
+<id>Q9Z2X8</id>
+<label>Keap1</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-346715">
+<id>P28700</id>
+<label>Rxra</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-8390771">
+<id>O70405</id>
+<label>Ulk1</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-307104">
+<id>Q13501</id>
+</interactant>
+<interactant intactId="EBI-779991">
+<id>P12504</id>
+<label>vif</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="54 65">Cytoplasm</location>
+<location evidence="54 65">Cytosol</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Late endosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Lysosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cytoplasmic vesicle</location>
+<location>Autophagosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location>Endoplasmic reticulum</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="54">Nucleus</location>
+<location evidence="54">PML body</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="20">Cytoplasm</location>
+<location evidence="20">Myofibril</location>
+<location evidence="20">Sarcomere</location>
+</subcellularLocation>
+<text evidence="54">In cardiac muscle, localizes to the sarcomeric band (By similarity). Commonly found in inclusion bodies containing polyubiquitinated protein aggregates. In neurodegenerative diseases, detected in Lewy bodies in Parkinson disease, neurofibrillary tangles in Alzheimer disease, and HTT aggregates in Huntington disease. In protein aggregate diseases of the liver, found in large amounts in Mallory bodies of alcoholic and nonalcoholic steatohepatitis, hyaline bodies in hepatocellular carcinoma, and in SERPINA1 aggregates. Enriched in Rosenthal fibers of pilocytic astrocytoma. In the cytoplasm, observed in both membrane-free ubiquitin-containing protein aggregates (sequestosomes) and membrane-surrounded autophagosomes. Colocalizes with TRIM13 in the perinuclear endoplasmic reticulum. Co-localizes with TRIM5 in cytoplasmic bodies. When nuclear export is blocked by treatment with leptomycin B, accumulates in PML bodies.</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q13501-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q13501-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_015841"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="89">Ubiquitously expressed.</text>
+</comment>
+<comment type="induction">
+<text evidence="34 46 56 93">By proteasomal inhibitor PSI and prostaglandin J2 (PGJ2) (at protein level). By phorbol 12-myristate 13-acetate (PMA). Expression is directly activated by NFE2L2/NRF2; creating a positive feeback loop (PubMed:20452972).</text>
+</comment>
+<comment type="domain">
+<text evidence="36 43">The UBA domain binds specifically 'Lys-63'-linked polyubiquitin chains of polyubiquitinated substrates. Mediates the interaction with TRIM55. Both the UBA and PB1 domains are necessary and sufficient for the localization into the ubiquitin-containing inclusion bodies.</text>
+</comment>
+<comment type="domain">
+<text evidence="35 37 44 82">The PB1 domain mediates homooligomerization and interactions with FHOD3, MAP2K5, NBR1, PRKCI, PRKCZ and WDR81. Both the PB1 and UBA domains are necessary and sufficient for the localization into the ubiquitin-containing inclusion bodies.</text>
+</comment>
+<comment type="domain">
+<text evidence="28">The ZZ-type zinc finger mediates the interaction with RIPK1.</text>
+</comment>
+<comment type="domain">
+<text evidence="67">The LIR (LC3-interacting region) motif mediates the interaction with ATG8 family proteins.</text>
+</comment>
+<comment type="PTM">
+<text evidence="22 44 73 85">Phosphorylated. May be phosphorylated by PRKCZ (By similarity). Phosphorylated in vitro by TTN (PubMed:15802564). Phosphorylation at Ser-403 by ULK1 is stimulated by SESN2 (PubMed:25040165). Phosphorylated at Ser-403 by TBK1, leading to promote relocalization of 'Lys-63'-linked ubiquitinated STING1 to autophagosomes (PubMed:29496741). Phosphorylation at Ser-349 by MTOR promotes interaction with KEAP1 and inactivation of the BCR(KEAP1) complex, promoting NFE2L2/NRF2 nuclear accumulation and expression of phase II detoxifying enzymes (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="78 80 81">Ubiquitinated by RNF26: ubiquitinated SQSTM1 attracts specific vesicle-associated adapters, forming a molecular bridge that restrains cognate vesicles in the perinuclear region and organizes the endosomal pathway for efficient cargo transport (PubMed:27368102). Deubiquitination by USP15 releases target vesicles for fast transport into the cell periphery (PubMed:27368102). Ubiquitinated by the BCR(KEAP1) complex at Lys-420, increasing SQSTM1 sequestering activity and promoting its degradation (PubMed:28380357). Ubiquitinated via 'Lys-29' and 'Lys-33'-linked polyubiquitination leading to xenophagic targeting of bacteria and inhibition of their replication (PubMed:27880896).</text>
+</comment>
+<comment type="disease" evidence="31 32 38 39 40 41 42 53">
+<disease id="DI-04539">
+<name>Paget disease of bone 3</name>
+<acronym>PDB3</acronym>
+<description>A disorder of bone remodeling characterized by increased bone turnover affecting one or more sites throughout the skeleton, primarily the axial skeleton. Osteoclastic overactivity followed by compensatory osteoblastic activity leads to a structurally disorganized mosaic of bone (woven bone), which is mechanically weaker, larger, less compact, more vascular, and more susceptible to fracture than normal adult lamellar bone.</description>
+<dbReference type="MIM" id="167250"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease">
+<text evidence="49">In a cell model for Huntington disease (HD), appears to form a shell surrounding aggregates of mutant HTT that may protect cells from apoptosis, possibly by recruiting autophagosomal components to the polyubiquitinated protein aggregates.</text>
+</comment>
+<comment type="disease" evidence="61 68 72 74">
+<disease id="DI-04471">
+<name>Frontotemporal dementia and/or amyotrophic lateral sclerosis 3</name>
+<acronym>FTDALS3</acronym>
+<description>A neurodegenerative disorder characterized by frontotemporal dementia and/or amyotrophic lateral sclerosis in affected individuals. There is high intrafamilial variation. Frontotemporal dementia is characterized by frontal and temporal lobe atrophy associated with neuronal loss, gliosis, and dementia. Patients exhibit progressive changes in social, behavioral, and/or language function. Amyotrophic lateral sclerosis is characterized by the death of motor neurons in the brain, brainstem, and spinal cord, resulting in fatal paralysis. Some FTDALS3 patients may also develop Paget disease of bone.</description>
+<dbReference type="MIM" id="616437"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="79">
+<disease id="DI-04862">
+<name>Neurodegeneration with ataxia, dystonia, and gaze palsy, childhood-onset</name>
+<acronym>NADGP</acronym>
+<description>A neurodegenerative disorder characterized by gait abnormalities, ataxia, dysarthria, dystonia, vertical gaze palsy, and cognitive decline. Disease onset is in childhood or adolescence. NADGP transmission pattern is consistent with autosomal recessive inheritance.</description>
+<dbReference type="MIM" id="617145"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="77">
+<disease id="DI-04886">
+<name>Myopathy, distal, with rimmed vacuoles</name>
+<acronym>DMRV</acronym>
+<description>An autosomal dominant myopathy with adult onset, characterized by muscle weakness of the distal upper and lower limbs, walking difficulties, and proximal weakness of the shoulder girdle muscles. Muscle biopsy shows rimmed vacuoles.</description>
+<dbReference type="MIM" id="617158"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease">
+<text evidence="58">A chromosomal aberration involving SQSTM1 is found in a form of acute lymphoblastic leukemia. Translocation t(5;9)(q35;q34) with NUP214.</text>
+</comment>
+<dbReference type="EMBL" id="U41806">
+<property type="protein sequence ID" value="AAA93299.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U46751">
+<property type="protein sequence ID" value="AAC52070.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK098077">
+<property type="protein sequence ID" value="BAG53577.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK312451">
+<property type="protein sequence ID" value="BAG35358.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC008393">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC000951">
+<property type="protein sequence ID" value="AAH00951.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC001874">
+<property type="protein sequence ID" value="AAH01874.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC003139">
+<property type="protein sequence ID" value="AAH03139.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC017222">
+<property type="protein sequence ID" value="AAH17222.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC019111">
+<property type="protein sequence ID" value="AAH19111.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF060494">
+<property type="protein sequence ID" value="AAC64516.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS34317.1">
+<molecule id="Q13501-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS47355.1">
+<molecule id="Q13501-2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001135770.1">
+<molecule id="Q13501-2"/>
+<property type="nucleotide sequence ID" value="NM_001142298.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001135771.1">
+<molecule id="Q13501-2"/>
+<property type="nucleotide sequence ID" value="NM_001142299.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_003891.1">
+<molecule id="Q13501-1"/>
+<property type="nucleotide sequence ID" value="NM_003900.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016865499.1">
+<property type="nucleotide sequence ID" value="XM_017010010.1"/>
+</dbReference>
+<dbReference type="PDB" id="1Q02">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=387-436"/>
+</dbReference>
+<dbReference type="PDB" id="2JY7">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=387-436"/>
+</dbReference>
+<dbReference type="PDB" id="2JY8">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=387-436"/>
+</dbReference>
+<dbReference type="PDB" id="2K0B">
+<property type="method" value="NMR"/>
+<property type="chains" value="X=387-436"/>
+</dbReference>
+<dbReference type="PDB" id="2KNV">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=387-436"/>
+</dbReference>
+<dbReference type="PDB" id="4MJS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="B/D/F/H/J/L/N/P/R/T/V/X=3-102"/>
+</dbReference>
+<dbReference type="PDB" id="4UF8">
+<property type="method" value="EM"/>
+<property type="resolution" value="10.90"/>
+<property type="chains" value="A/B/C/I=3-102"/>
+</dbReference>
+<dbReference type="PDB" id="4UF9">
+<property type="method" value="EM"/>
+<property type="resolution" value="10.30"/>
+<property type="chains" value="A/B/D=1-122"/>
+</dbReference>
+<dbReference type="PDB" id="5YP7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.42"/>
+<property type="chains" value="A/D=126-180"/>
+</dbReference>
+<dbReference type="PDB" id="5YP8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.45"/>
+<property type="chains" value="A/B=126-180"/>
+</dbReference>
+<dbReference type="PDB" id="5YPA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=126-180"/>
+</dbReference>
+<dbReference type="PDB" id="5YPB">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A/B/C/D=126-180"/>
+</dbReference>
+<dbReference type="PDB" id="5YPC">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.96"/>
+<property type="chains" value="A/B/C/D=126-180"/>
+</dbReference>
+<dbReference type="PDB" id="5YPE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.85"/>
+<property type="chains" value="A/B/C/D=126-180"/>
+</dbReference>
+<dbReference type="PDB" id="5YPF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.95"/>
+<property type="chains" value="A/B/C/D=126-180"/>
+</dbReference>
+<dbReference type="PDB" id="5YPG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B=126-180"/>
+</dbReference>
+<dbReference type="PDB" id="5YPH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.63"/>
+<property type="chains" value="A/B=126-180"/>
+</dbReference>
+<dbReference type="PDB" id="6JM4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="A/B/C/D=1-102"/>
+</dbReference>
+<dbReference type="PDB" id="6KHZ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B/C/D=125-169"/>
+</dbReference>
+<dbReference type="PDB" id="6MJ7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.41"/>
+<property type="chains" value="A=120-171"/>
+</dbReference>
+<dbReference type="PDB" id="6TGY">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.50"/>
+<property type="chains" value="A=1-122"/>
+</dbReference>
+<dbReference type="PDB" id="6TH3">
+<property type="method" value="EM"/>
+<property type="resolution" value="4.00"/>
+<property type="chains" value="A/B/C=1-122"/>
+</dbReference>
+<dbReference type="PDBsum" id="1Q02"/>
+<dbReference type="PDBsum" id="2JY7"/>
+<dbReference type="PDBsum" id="2JY8"/>
+<dbReference type="PDBsum" id="2K0B"/>
+<dbReference type="PDBsum" id="2KNV"/>
+<dbReference type="PDBsum" id="4MJS"/>
+<dbReference type="PDBsum" id="4UF8"/>
+<dbReference type="PDBsum" id="4UF9"/>
+<dbReference type="PDBsum" id="5YP7"/>
+<dbReference type="PDBsum" id="5YP8"/>
+<dbReference type="PDBsum" id="5YPA"/>
+<dbReference type="PDBsum" id="5YPB"/>
+<dbReference type="PDBsum" id="5YPC"/>
+<dbReference type="PDBsum" id="5YPE"/>
+<dbReference type="PDBsum" id="5YPF"/>
+<dbReference type="PDBsum" id="5YPG"/>
+<dbReference type="PDBsum" id="5YPH"/>
+<dbReference type="PDBsum" id="6JM4"/>
+<dbReference type="PDBsum" id="6KHZ"/>
+<dbReference type="PDBsum" id="6MJ7"/>
+<dbReference type="PDBsum" id="6TGY"/>
+<dbReference type="PDBsum" id="6TH3"/>
+<dbReference type="BMRB" id="Q13501"/>
+<dbReference type="SMR" id="Q13501"/>
+<dbReference type="BioGRID" id="114397">
+<property type="interactions" value="512"/>
+</dbReference>
+<dbReference type="CORUM" id="Q13501"/>
+<dbReference type="DIP" id="DIP-34443N"/>
+<dbReference type="ELM" id="Q13501"/>
+<dbReference type="IntAct" id="Q13501">
+<property type="interactions" value="177"/>
+</dbReference>
+<dbReference type="MINT" id="Q13501"/>
+<dbReference type="STRING" id="9606.ENSP00000374455"/>
+<dbReference type="ChEMBL" id="CHEMBL4295816"/>
+<dbReference type="MoonDB" id="Q13501">
+<property type="type" value="Predicted"/>
+</dbReference>
+<dbReference type="iPTMnet" id="Q13501"/>
+<dbReference type="PhosphoSitePlus" id="Q13501"/>
+<dbReference type="SwissPalm" id="Q13501"/>
+<dbReference type="BioMuta" id="SQSTM1"/>
+<dbReference type="DMDM" id="74735628"/>
+<dbReference type="EPD" id="Q13501"/>
+<dbReference type="jPOST" id="Q13501"/>
+<dbReference type="MassIVE" id="Q13501"/>
+<dbReference type="MaxQB" id="Q13501"/>
+<dbReference type="PaxDb" id="Q13501"/>
+<dbReference type="PeptideAtlas" id="Q13501"/>
+<dbReference type="PRIDE" id="Q13501"/>
+<dbReference type="ProteomicsDB" id="59496">
+<molecule id="Q13501-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="59497">
+<molecule id="Q13501-2"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="761">
+<property type="antibodies" value="1248 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="8878"/>
+<dbReference type="Ensembl" id="ENST00000360718">
+<molecule id="Q13501-2"/>
+<property type="protein sequence ID" value="ENSP00000353944"/>
+<property type="gene ID" value="ENSG00000161011"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000389805">
+<molecule id="Q13501-1"/>
+<property type="protein sequence ID" value="ENSP00000374455"/>
+<property type="gene ID" value="ENSG00000161011"/>
+</dbReference>
+<dbReference type="GeneID" id="8878"/>
+<dbReference type="KEGG" id="hsa:8878"/>
+<dbReference type="UCSC" id="uc003mkw.5">
+<molecule id="Q13501-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="8878"/>
+<dbReference type="DisGeNET" id="8878"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000161011.19"/>
+<dbReference type="GeneCards" id="SQSTM1"/>
+<dbReference type="HGNC" id="HGNC:11280">
+<property type="gene designation" value="SQSTM1"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000161011">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MalaCards" id="SQSTM1"/>
+<dbReference type="MIM" id="167250">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="601530">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="616437">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="617145">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="617158">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q13501"/>
+<dbReference type="OpenTargets" id="ENSG00000161011"/>
+<dbReference type="Orphanet" id="803">
+<property type="disease" value="Amyotrophic lateral sclerosis"/>
+</dbReference>
+<dbReference type="Orphanet" id="275864">
+<property type="disease" value="Behavioral variant of frontotemporal dementia"/>
+</dbReference>
+<dbReference type="Orphanet" id="603">
+<property type="disease" value="Distal myopathy, Welander type"/>
+</dbReference>
+<dbReference type="Orphanet" id="275872">
+<property type="disease" value="Frontotemporal dementia with motor neuron disease"/>
+</dbReference>
+<dbReference type="Orphanet" id="280110">
+<property type="disease" value="NON RARE IN EUROPE: Paget disease of bone"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA36109"/>
+<dbReference type="eggNOG" id="KOG4582">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000002781"/>
+<dbReference type="HOGENOM" id="CLU_038011_1_0_1"/>
+<dbReference type="InParanoid" id="Q13501"/>
+<dbReference type="KO" id="K14381"/>
+<dbReference type="OMA" id="WHPLQWF"/>
+<dbReference type="OrthoDB" id="1275680at2759"/>
+<dbReference type="PhylomeDB" id="Q13501"/>
+<dbReference type="TreeFam" id="TF328470"/>
+<dbReference type="PathwayCommons" id="Q13501"/>
+<dbReference type="Reactome" id="R-HSA-205043">
+<property type="pathway name" value="NRIF signals cell death from the nucleus"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-209543">
+<property type="pathway name" value="p75NTR recruits signalling complexes"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-209560">
+<property type="pathway name" value="NF-kB is activated and signals survival"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5205685">
+<property type="pathway name" value="Pink/Parkin Mediated Mitophagy"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9020702">
+<property type="pathway name" value="Interleukin-1 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9664873">
+<property type="pathway name" value="Pexophagy"/>
+</dbReference>
+<dbReference type="SignaLink" id="Q13501"/>
+<dbReference type="SIGNOR" id="Q13501"/>
+<dbReference type="BioGRID-ORCS" id="8878">
+<property type="hits" value="12 hits in 877 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="SQSTM1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="Q13501"/>
+<dbReference type="GeneWiki" id="Sequestosome_1"/>
+<dbReference type="GenomeRNAi" id="8878"/>
+<dbReference type="Pharos" id="Q13501">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q13501"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="RNAct" id="Q13501">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000161011">
+<property type="expression patterns" value="Expressed in left adrenal gland cortex and 249 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q13501">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q13501">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016235">
+<property type="term" value="C:aggresome"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044753">
+<property type="term" value="C:amphisome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044754">
+<property type="term" value="C:autolysosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005776">
+<property type="term" value="C:autophagosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005783">
+<property type="term" value="C:endoplasmic reticulum"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016234">
+<property type="term" value="C:inclusion body"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043231">
+<property type="term" value="C:intracellular membrane-bounded organelle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005770">
+<property type="term" value="C:late endosome"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097413">
+<property type="term" value="C:Lewy body"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000932">
+<property type="term" value="C:P-body"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000407">
+<property type="term" value="C:phagophore assembly site"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016605">
+<property type="term" value="C:PML body"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030017">
+<property type="term" value="C:sarcomere"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097225">
+<property type="term" value="C:sperm midpiece"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019899">
+<property type="term" value="F:enzyme binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035255">
+<property type="term" value="F:ionotropic glutamate receptor binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070530">
+<property type="term" value="F:K63-linked polyubiquitin modification-dependent protein binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019901">
+<property type="term" value="F:protein kinase binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005080">
+<property type="term" value="F:protein kinase C binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044877">
+<property type="term" value="F:protein-containing complex binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030971">
+<property type="term" value="F:receptor tyrosine kinase binding"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042169">
+<property type="term" value="F:SH2 domain binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043130">
+<property type="term" value="F:ubiquitin binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031625">
+<property type="term" value="F:ubiquitin protein ligase binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035973">
+<property type="term" value="P:aggrephagy"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006915">
+<property type="term" value="P:apoptotic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006914">
+<property type="term" value="P:autophagy"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000422">
+<property type="term" value="P:autophagy of mitochondrion"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030154">
+<property type="term" value="P:cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016197">
+<property type="term" value="P:endosomal transport"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007032">
+<property type="term" value="P:endosome organization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002376">
+<property type="term" value="P:immune system process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070498">
+<property type="term" value="P:interleukin-1-mediated signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035556">
+<property type="term" value="P:intracellular signal transduction"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016236">
+<property type="term" value="P:macroautophagy"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007005">
+<property type="term" value="P:mitochondrion organization"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000423">
+<property type="term" value="P:mitophagy"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043066">
+<property type="term" value="P:negative regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031397">
+<property type="term" value="P:negative regulation of protein ubiquitination"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000122">
+<property type="term" value="P:negative regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043065">
+<property type="term" value="P:positive regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900273">
+<property type="term" value="P:positive regulation of long-term synaptic potentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903078">
+<property type="term" value="P:positive regulation of protein localization to plasma membrane"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001934">
+<property type="term" value="P:positive regulation of protein phosphorylation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008104">
+<property type="term" value="P:protein localization"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905719">
+<property type="term" value="P:protein localization to perinuclear region of cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043122">
+<property type="term" value="P:regulation of I-kappaB kinase/NF-kappaB signaling"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010821">
+<property type="term" value="P:regulation of mitochondrion organization"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061635">
+<property type="term" value="P:regulation of protein complex stability"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046578">
+<property type="term" value="P:regulation of Ras protein signal transduction"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002931">
+<property type="term" value="P:response to ischemia"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0098780">
+<property type="term" value="P:response to mitochondrial depolarisation"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061912">
+<property type="term" value="P:selective autophagy"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006511">
+<property type="term" value="P:ubiquitin-dependent protein catabolic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="CDD" id="cd06402">
+<property type="entry name" value="PB1_p62"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd14320">
+<property type="entry name" value="UBA_SQSTM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="DisProt" id="DP01111"/>
+<dbReference type="Gene3D" id="3.30.60.90">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="IDEAL" id="IID00383"/>
+<dbReference type="InterPro" id="IPR000270">
+<property type="entry name" value="PB1_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR034866">
+<property type="entry name" value="PB1_p62"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033741">
+<property type="entry name" value="SQSTM_UBA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015940">
+<property type="entry name" value="UBA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009060">
+<property type="entry name" value="UBA-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000433">
+<property type="entry name" value="Znf_ZZ"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR043145">
+<property type="entry name" value="Znf_ZZ_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00564">
+<property type="entry name" value="PB1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF16577">
+<property type="entry name" value="UBA_5"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00569">
+<property type="entry name" value="ZZ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00666">
+<property type="entry name" value="PB1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00165">
+<property type="entry name" value="UBA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00291">
+<property type="entry name" value="ZnF_ZZ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46934">
+<property type="entry name" value="SSF46934"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51745">
+<property type="entry name" value="PB1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50030">
+<property type="entry name" value="UBA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01357">
+<property type="entry name" value="ZF_ZZ_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50135">
+<property type="entry name" value="ZF_ZZ_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0036">Amyotrophic lateral sclerosis</keyword>
+<keyword id="KW-0053">Apoptosis</keyword>
+<keyword id="KW-0072">Autophagy</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0968">Cytoplasmic vesicle</keyword>
+<keyword id="KW-0221">Differentiation</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0256">Endoplasmic reticulum</keyword>
+<keyword id="KW-0967">Endosome</keyword>
+<keyword id="KW-0391">Immunity</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0458">Lysosome</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0523">Neurodegeneration</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<keyword id="KW-0863">Zinc-finger</keyword>
+<feature type="initiator methionine" description="Removed" evidence="16">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Sequestosome-1" id="PRO_0000072176">
+<location>
+<begin position="2"/>
+<end position="440"/>
+</location>
+</feature>
+<feature type="domain" description="PB1" evidence="25">
+<location>
+<begin position="3"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="domain" description="UBA" evidence="23">
+<location>
+<begin position="389"/>
+<end position="434"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="ZZ-type" evidence="24">
+<location>
+<begin position="122"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with LCK" evidence="89">
+<location>
+<begin position="2"/>
+<end position="50"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with PRKCZ and dimerization" evidence="21">
+<location>
+<begin position="43"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with PAWR" evidence="30">
+<location>
+<begin position="50"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with GABRR3" evidence="21">
+<location>
+<begin position="122"/>
+<end position="224"/>
+</location>
+</feature>
+<feature type="region of interest" description="LIM protein-binding (LB)">
+<location>
+<begin position="170"/>
+<end position="220"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with NTRK1" evidence="21">
+<location>
+<begin position="269"/>
+<end position="440"/>
+</location>
+</feature>
+<feature type="region of interest" description="MAP1LC3B-binding" evidence="51">
+<location>
+<begin position="321"/>
+<end position="342"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with KEAP1" evidence="56">
+<location>
+<begin position="347"/>
+<end position="352"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="TRAF6-binding">
+<location>
+<begin position="228"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="LIR">
+<location>
+<begin position="336"/>
+<end position="341"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Ser-rich">
+<location>
+<begin position="272"/>
+<end position="294"/>
+</location>
+</feature>
+<feature type="site" description="Breakpoint for translocation to form the NUP214-SQSTM1 fusion protein" evidence="58">
+<location>
+<begin position="252"/>
+<end position="253"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylalanine" evidence="16">
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="18">
+<location>
+<position position="24"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine" evidence="8">
+<location>
+<position position="148"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="11 14 17">
+<location>
+<position position="170"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="18">
+<location>
+<position position="176"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="14">
+<location>
+<position position="207"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="18">
+<location>
+<position position="233"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="14">
+<location>
+<position position="249"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="14">
+<location>
+<position position="266"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="9 11 12 17">
+<location>
+<position position="269"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9 11 12 14 15 17">
+<location>
+<position position="272"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="18">
+<location>
+<position position="306"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="11">
+<location>
+<position position="328"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="10 11 14 17">
+<location>
+<position position="332"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="22">
+<location>
+<position position="349"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="13">
+<location>
+<position position="355"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="13">
+<location>
+<position position="361"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="22">
+<location>
+<position position="365"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="11 17 18">
+<location>
+<position position="366"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by ULK1 and TBK1" evidence="73 85">
+<location>
+<position position="403"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="80">
+<location>
+<position position="91"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="80">
+<location>
+<position position="189"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="81">
+<location>
+<position position="420"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)" evidence="19">
+<location>
+<position position="435"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_015841" evidence="94 95">
+<location>
+<begin position="1"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs1554162295." id="VAR_073899" evidence="72">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="16"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs141502868." id="VAR_073900" evidence="72">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="17"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs200396166." id="VAR_073901" evidence="61 68 72">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="33"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs148366738." id="VAR_073902" evidence="72">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="80"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs181263868." id="VAR_073903" evidence="72">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="90"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs748170760." id="VAR_073904" evidence="72">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="103"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_073905" evidence="72">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="107"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs771903158." id="VAR_073906" evidence="72">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="107"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_073907" evidence="72">
+<original>D</original>
+<variation>Y</variation>
+<location>
+<position position="108"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1267306593." id="VAR_073908" evidence="72">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="110"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs147810437." id="VAR_023590" evidence="31 72">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs200152247." id="VAR_073909" evidence="72">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="118"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs548787835." id="VAR_073910" evidence="72">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="119"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs769325755." id="VAR_073911" evidence="72">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="125"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs753212399." id="VAR_073912" evidence="72">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="129"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs750256905." id="VAR_073913" evidence="72">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="139"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs145056421." id="VAR_073914" evidence="61 72">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="153"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_073915" evidence="72">
+<original>S</original>
+<variation>L</variation>
+<location>
+<position position="180"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs201263163." id="VAR_073916" evidence="72">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="212"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs761822261." id="VAR_073917" evidence="72">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="217"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3." id="VAR_073918" evidence="72">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="219"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs765200636." id="VAR_073919" evidence="72">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="226"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs151191977." id="VAR_073920" evidence="61 72">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="228"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs1225746517." id="VAR_073921" evidence="72">
+<original>P</original>
+<variation>T</variation>
+<location>
+<position position="232"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Polymorphism; confirmed at protein level; dbSNP:rs11548633." id="VAR_068915" evidence="50 72">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="238"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3." id="VAR_073922" evidence="61 72 74">
+<location>
+<position position="238"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs774986849." id="VAR_073923" evidence="72">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="258"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_073924" evidence="72">
+<original>RS</original>
+<variation>SR</variation>
+<location>
+<begin position="265"/>
+<end position="266"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55793208." id="VAR_061707" evidence="72">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="274"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_023591" evidence="31">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="274"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs200445838." id="VAR_073925" evidence="72">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="278"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs541356917." id="VAR_073926" evidence="72">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="308"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3." id="VAR_073927" evidence="61">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="318"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs61748794." id="VAR_073928" evidence="72">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="319"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs140226523." id="VAR_073929" evidence="61 72">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="321"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs148294622." id="VAR_073930" evidence="72">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="329"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_073931" evidence="72">
+<location>
+<position position="334"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs772889843." id="VAR_073932" evidence="72">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="348"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs774512680." id="VAR_073933" evidence="72">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="349"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs143956614." id="VAR_073934" evidence="61">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="370"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs772122047." id="VAR_073935" evidence="68">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="381"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PDB3 and FTDALS3; dbSNP:rs776749939." id="VAR_023592" evidence="38 68 72">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="387"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PDB3 and FTDALS3; no effect on polyubiquitin-binding; dbSNP:rs104893941." id="VAR_023593" evidence="31 32 36 39 40 42 61 68 72">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="392"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PDB3; dbSNP:rs1561609625." id="VAR_023594" evidence="40">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="399"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PDB3; dbSNP:rs1247551175." id="VAR_023595" evidence="40">
+<original>M</original>
+<variation>T</variation>
+<location>
+<position position="404"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PDB3; loss of polyubiquitin-binding; dbSNP:rs771966860." id="VAR_023596" evidence="39 41">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="404"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PDB3 and FTDALS3; no effect on polyubiquitin-binding; dbSNP:rs143511494." id="VAR_023597" evidence="41 61">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="411"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PDB3 and FTDALS3; loss of polyubiquitin-binding and increased activation of NF-kappa-B; dbSNP:rs757212984." id="VAR_023598" evidence="39 40 41 53 61">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="425"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTDALS3; dbSNP:rs770118706." id="VAR_073936" evidence="72">
+<original>T</original>
+<variation>P</variation>
+<location>
+<position position="430"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs199854262." id="VAR_073937" evidence="72">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="439"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of interactions with PRKCZ, PRCKI and NBR1. Loss of dimerization; when associated with A-69." evidence="35 37">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="7"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on interaction with LCK." evidence="89">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="9"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on interaction with PRKCI." evidence="35">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="13"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of interaction with PRKCI. Alters dimerization." evidence="35">
+<original>RR</original>
+<variation>AA</variation>
+<location>
+<begin position="21"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on interaction with PRKCZ." evidence="35">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on interactions with PRKCZ, PRKCI and NBR1. Loss of localization in cytoplasmic inclusion bodies. Loss of dimerization; when associated with A-7." evidence="35 37 49">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on interaction with PRKCI." evidence="35">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="71"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on interactions with PRKCZ and PRKCI." evidence="35 37">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on interaction with PRKCI." evidence="35">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="80"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on interaction with PRKCI." evidence="35">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="82"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on MAP1LC3B-binding." evidence="51">
+<original>EE</original>
+<variation>AA</variation>
+<location>
+<begin position="323"/>
+<end position="324"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on MAP1LC3B-binding." evidence="51">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="332"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="75% decrease in MAP1LC3B-binding." evidence="51">
+<original>DDD</original>
+<variation>ADA</variation>
+<location>
+<begin position="335"/>
+<end position="337"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strong decrease in MAP1LC3B-binding, disrupts interaction with GABARAP." evidence="51 71">
+<original>W</original>
+<variation>A</variation>
+<location>
+<position position="338"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on MAP1LC3B-binding." evidence="51">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="342"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly decreased interaction with KEAP1." evidence="56">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="347"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly decreased interaction with KEAP1." evidence="56">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="350"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly decreased interaction with KEAP1." evidence="56">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="351"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly decreased interaction with KEAP1." evidence="56">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="352"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on polyubiquitin-binding." evidence="43">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="398"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolished ability to promote relocalization of 'Lys-63'-linked ubiquitinated STING1 to autophagosomes." evidence="85">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="403"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of polyubiquitin-binding." evidence="43">
+<original>F</original>
+<variation>V</variation>
+<location>
+<position position="406"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased activation of NF-kappa-B." evidence="53">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="409"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased activation of NF-kappa-B." evidence="53">
+<original>G</original>
+<variation>K</variation>
+<location>
+<position position="410"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on polyubiquitin-binding." evidence="43">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="413"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of polyubiquitin-binding." evidence="43">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="417"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased ubiquitination by the BCR(KEAP1) complex, leading to decreased sequestering activity." evidence="81">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="420"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Partial loss of polyubiquitin-binding. Loss of localization to cytoplasmic inclusion bodies." evidence="43 49">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="431"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA93299." ref="1" evidence="96">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="321"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="5"/>
+<end position="10"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="13"/>
+<end position="15"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="19"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="36"/>
+<end position="39"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="43"/>
+<end position="54"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="62"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="66"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="74"/>
+<end position="76"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="80"/>
+<end position="88"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="92"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="120"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="turn" evidence="6">
+<location>
+<begin position="129"/>
+<end position="131"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="132"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="139"/>
+<end position="147"/>
+</location>
+</feature>
+<feature type="helix" evidence="6">
+<location>
+<begin position="152"/>
+<end position="156"/>
+</location>
+</feature>
+<feature type="turn" evidence="6">
+<location>
+<begin position="157"/>
+<end position="162"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="165"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="388"/>
+<end position="390"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="392"/>
+<end position="402"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="403"/>
+<end position="405"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="409"/>
+<end position="411"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="412"/>
+<end position="419"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="420"/>
+<end position="422"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="424"/>
+<end position="431"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="432"/>
+<end position="434"/>
+</location>
+</feature>
+<feature type="initiator methionine" description="Removed" evidence="16">
+<location sequence="Q13501-2">
+<position position="1"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylalanine" evidence="16">
+<location sequence="Q13501-2">
+<position position="2"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1Q02"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2JY7"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2JY8"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4MJS"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6KHZ"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6MJ7"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6TGY"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="15592455"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="16964243"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="17081983"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="18669648"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="18691976"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19690332"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="20068231"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="21406692"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="22814378"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="24275569"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="28112733"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000250"/>
+<evidence key="21" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="O08623"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q64337"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00212"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00228"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01081"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10356400"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10708586"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10747026"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11244088"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11755531"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11992264"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12374763"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12471037"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12700667"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12813044"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12857745"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12887891"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14584883"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15125799"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15146436"/>
+</source>
+</evidence>
+<evidence key="41" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15176995"/>
+</source>
+</evidence>
+<evidence key="42" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15207768"/>
+</source>
+</evidence>
+<evidence key="43" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15340068"/>
+</source>
+</evidence>
+<evidence key="44" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15802564"/>
+</source>
+</evidence>
+<evidence key="45" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15870274"/>
+</source>
+</evidence>
+<evidence key="46" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15911346"/>
+</source>
+</evidence>
+<evidence key="47" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15953362"/>
+</source>
+</evidence>
+<evidence key="48" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16079148"/>
+</source>
+</evidence>
+<evidence key="49" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16286508"/>
+</source>
+</evidence>
+<evidence key="50" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17488105"/>
+</source>
+</evidence>
+<evidence key="51" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17580304"/>
+</source>
+</evidence>
+<evidence key="52" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18083707"/>
+</source>
+</evidence>
+<evidence key="53" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19931284"/>
+</source>
+</evidence>
+<evidence key="54" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20168092"/>
+</source>
+</evidence>
+<evidence key="55" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20357094"/>
+</source>
+</evidence>
+<evidence key="56" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20452972"/>
+</source>
+</evidence>
+<evidence key="57" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20495340"/>
+</source>
+</evidence>
+<evidence key="58" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20851865"/>
+</source>
+</evidence>
+<evidence key="59" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21149568"/>
+</source>
+</evidence>
+<evidence key="60" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21923101"/>
+</source>
+</evidence>
+<evidence key="61" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22084127"/>
+</source>
+</evidence>
+<evidence key="62" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22178386"/>
+</source>
+</evidence>
+<evidence key="63" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22421968"/>
+</source>
+</evidence>
+<evidence key="64" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22622177"/>
+</source>
+</evidence>
+<evidence key="65" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22792322"/>
+</source>
+</evidence>
+<evidence key="66" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23274085"/>
+</source>
+</evidence>
+<evidence key="67" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23908376"/>
+</source>
+</evidence>
+<evidence key="68" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24042580"/>
+</source>
+</evidence>
+<evidence key="69" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24089205"/>
+</source>
+</evidence>
+<evidence key="70" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24128730"/>
+</source>
+</evidence>
+<evidence key="71" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24668264"/>
+</source>
+</evidence>
+<evidence key="72" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24899140"/>
+</source>
+</evidence>
+<evidence key="73" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25040165"/>
+</source>
+</evidence>
+<evidence key="74" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25114083"/>
+</source>
+</evidence>
+<evidence key="75" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25127057"/>
+</source>
+</evidence>
+<evidence key="76" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25422469"/>
+</source>
+</evidence>
+<evidence key="77" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26208961"/>
+</source>
+</evidence>
+<evidence key="78" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27368102"/>
+</source>
+</evidence>
+<evidence key="79" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27545679"/>
+</source>
+</evidence>
+<evidence key="80" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27880896"/>
+</source>
+</evidence>
+<evidence key="81" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28380357"/>
+</source>
+</evidence>
+<evidence key="82" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28404643"/>
+</source>
+</evidence>
+<evidence key="83" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28871090"/>
+</source>
+</evidence>
+<evidence key="84" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="29288164"/>
+</source>
+</evidence>
+<evidence key="85" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="29496741"/>
+</source>
+</evidence>
+<evidence key="86" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30143514"/>
+</source>
+</evidence>
+<evidence key="87" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8551575"/>
+</source>
+</evidence>
+<evidence key="88" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8618896"/>
+</source>
+</evidence>
+<evidence key="89" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8650207"/>
+</source>
+</evidence>
+<evidence key="90" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8702753"/>
+</source>
+</evidence>
+<evidence key="91" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8910285"/>
+</source>
+</evidence>
+<evidence key="92" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9566925"/>
+</source>
+</evidence>
+<evidence key="93" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9762895"/>
+</source>
+</evidence>
+<evidence key="94" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="95" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="96" type="ECO:0000305"/>
+<sequence length="440" mass="47687" checksum="462D94C171F337CD" modified="1996-11-01" version="1">MASLTVKAYLLGKEDAAREIRRFSFCCSPEPEAEAEAAAGPGPCERLLSRVAALFPALRPGGFQAHYRDEDGDLVAFSSDEELTMAMSYVKDDIFRIYIKEKKECRRDHRPPCAQEAPRNMVHPNVICDGCNGPVVGTRYKCSVCPDYDLCSVCEGKGLHRGHTKLAFPSPFGHLSEGFSHSRWLRKVKHGHFGWPGWEMGPPGNWSPRPPRAGEARPGPTAESASGPSEDPSVNFLKNVGESVAAALSPLGIEVDIDVEHGGKRSRLTPVSPESSSTEEKSSSQPSSCCSDPSKPGGNVEGATQSLAEQMRKIALESEGRPEEQMESDNCSGGDDDWTHLSSKEVDPSTGELQSLQMPESEGPSSLDPSQEGPTGLKEAALYPHLPPEADPRLIESLSQMLSMGFSDEGGWLTRLLQTKNYDIGAALDTIQYSKHPPPL</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

@@ -1,0 +1,1268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1995-02-01" modified="2020-08-12" version="203">
+<accession>Q07813</accession>
+<name>BAX_MOUSE</name>
+<protein>
+<recommendedName>
+<fullName>Apoptosis regulator BAX</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary">Bax</name>
+</gene>
+<organism>
+<name type="scientific">Mus musculus</name>
+<name type="common">Mouse</name>
+<dbReference type="NCBI Taxonomy" id="10090"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Glires</taxon>
+<taxon>Rodentia</taxon>
+<taxon>Myomorpha</taxon>
+<taxon>Muroidea</taxon>
+<taxon>Muridae</taxon>
+<taxon>Murinae</taxon>
+<taxon>Mus</taxon>
+<taxon>Mus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Cell" volume="74" first="609" last="619">
+<title>Bcl-2 heterodimerizes in vivo with a conserved homolog, Bax, that accelerates programmed cell death.</title>
+<authorList>
+<person name="Oltvai Z.N."/>
+<person name="Milliman C.L."/>
+<person name="Korsmeyer S.J."/>
+</authorList>
+<dbReference type="PubMed" id="8358790"/>
+<dbReference type="DOI" id="10.1016/0092-8674(93)90509-o"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>INTERACTION WITH BCL2</scope>
+<scope>FUNCTION</scope>
+<source>
+<strain>C57BL/6 X DBA/2</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain>FVB/N-3</strain>
+<tissue>Mammary tumor</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Mol. Cell" volume="15" first="901" last="912">
+<title>Inhibition of both the extrinsic and intrinsic death pathways through nonhomotypic death-fold interactions.</title>
+<authorList>
+<person name="Nam Y.J."/>
+<person name="Mani K."/>
+<person name="Ashton A.W."/>
+<person name="Peng C.F."/>
+<person name="Krishnamurthy B."/>
+<person name="Hayakawa Y."/>
+<person name="Lee P."/>
+<person name="Korsmeyer S.J."/>
+<person name="Kitsis R.N."/>
+</authorList>
+<dbReference type="PubMed" id="15383280"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2004.08.020"/>
+</citation>
+<scope>INTERACTION WITH NOL3</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="PLoS Biol." volume="4" first="593" last="605">
+<title>IAN family critically regulates survival and development of T lymphocytes.</title>
+<authorList>
+<person name="Nitta T."/>
+<person name="Nasreen M."/>
+<person name="Seike T."/>
+<person name="Goji A."/>
+<person name="Ohigashi I."/>
+<person name="Miyazaki T."/>
+<person name="Ohta T."/>
+<person name="Kanno M."/>
+<person name="Takahama Y."/>
+</authorList>
+<dbReference type="PubMed" id="16509771"/>
+<dbReference type="DOI" id="10.1371/journal.pbio.0040103"/>
+</citation>
+<scope>INTERACTION WITH GIMAP3 AND GIMAP5</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2010" name="Cell" volume="143" first="1174" last="1189">
+<title>A tissue-specific atlas of mouse protein phosphorylation and expression.</title>
+<authorList>
+<person name="Huttlin E.L."/>
+<person name="Jedrychowski M.P."/>
+<person name="Elias J.E."/>
+<person name="Goswami T."/>
+<person name="Rad R."/>
+<person name="Beausoleil S.A."/>
+<person name="Villen J."/>
+<person name="Haas W."/>
+<person name="Sowa M.E."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="21183079"/>
+<dbReference type="DOI" id="10.1016/j.cell.2010.12.001"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Brain</tissue>
+<tissue>Brown adipose tissue</tissue>
+<tissue>Heart</tissue>
+<tissue>Kidney</tissue>
+<tissue>Liver</tissue>
+<tissue>Lung</tissue>
+<tissue>Pancreas</tissue>
+<tissue>Spleen</tissue>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2008" name="PLoS Pathog." volume="4" first="E25" last="E25">
+<title>Structural and biochemical bases for the inhibition of autophagy and apoptosis by viral BCL-2 of murine gamma-herpesvirus 68.</title>
+<authorList>
+<person name="Ku B."/>
+<person name="Woo J.S."/>
+<person name="Liang C."/>
+<person name="Lee K.H."/>
+<person name="Hong H.S."/>
+<person name="E X."/>
+<person name="Kim K.S."/>
+<person name="Jung J.U."/>
+<person name="Oh B.H."/>
+</authorList>
+<dbReference type="PubMed" id="18248095"/>
+<dbReference type="DOI" id="10.1371/journal.ppat.0040025"/>
+</citation>
+<scope>INTERACTION WITH MURINE GAMMAHERPESVIRUS 68 PROTEIN VBCL2</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2011" name="Cell Res." volume="21" first="627" last="641">
+<title>Evidence that inhibition of BAX activation by BCL-2 involves its tight and preferential interaction with the BH3 domain of BAX.</title>
+<authorList>
+<person name="Ku B."/>
+<person name="Liang C."/>
+<person name="Jung J.U."/>
+<person name="Oh B.H."/>
+</authorList>
+<dbReference type="PubMed" id="21060336"/>
+<dbReference type="DOI" id="10.1038/cr.2010.149"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 52-82 IN COMPLEX WITH BCL2</scope>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH BCL2 AND BCL2L2</scope>
+</reference>
+<comment type="function">
+<text evidence="8 9">Accelerates programmed cell death by binding to, and antagonizing the apoptosis repressor BCL2 or its adenovirus homolog E1B 19k protein. Under stress conditions, undergoes a conformation change that causes translocation to the mitochondrion membrane, leading to the release of cytochrome c that then triggers apoptosis. Promotes activation of CASP3, and thereby apoptosis. BAX deficiency leads to lymphoid hyperplasia and male sterility, because of the cessation of sperm production.</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 5 6 8 9">Homodimer. Forms higher oligomers under stress conditions. Forms heterooligomers with BAK (By similarity). Interacts with BCL2L11. Interaction with BCL2L11 promotes BAX oligomerization and association with mitochondrial membranes, with subsequent release of cytochrome c (PubMed:21060336). Forms heterodimers with BCL2 (PubMed:8358790, PubMed:21060336). Forms heterodimers with BCL2L1 isoform Bcl-X(L), BCL2L2, MCL1 and A1. Interacts with SH3GLB1 and HN. Interacts with SFN and YWHAZ; the interaction occurs in the cytoplasm. Under stress conditions, JNK-mediated phosphorylation of SFN and YWHAZ, releases BAX to mitochondria. Interacts with RNF144B, which regulates the ubiquitin-dependent stability of BAX. Interacts with CLU under stress conditions that cause a conformation change leading to BAX oligomerization and association with mitochondria. Does not interact with CLU in unstressed cells (By similarity). Interacts with FAIM2/LFG2 (By similarity). Interacts with BOP (By similarity). Interacts (via a C-terminal 33 residues) with NOL3 (via CARD domain); inhibits BAX activation and translocationand consequently cytochrome c release from mitochondria (PubMed:15383280). Interacts with GIMAP3/IAN4 and GIMAP5/IAN5; this interaction is increased, when cells initiate apoptosis upon IL2 withdrawal (PubMed:16509771).</text>
+</comment>
+<comment type="subunit">
+<text evidence="7">(Microbial infection) Interacts with gamma-herpesvirus 68 protein vBCL2.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-700711">
+<id>Q07813</id>
+</interactant>
+<interactant intactId="EBI-526314">
+<id>P10417</id>
+<label>Bcl2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-700711">
+<id>Q07813</id>
+</interactant>
+<interactant intactId="EBI-371750">
+<id>O75460</id>
+<label>ERN1</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-15666406">
+<id>Q07813-1</id>
+</interactant>
+<interactant intactId="EBI-15666406">
+<id>Q07813-1</id>
+<label>Bax</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-15666406">
+<id>Q07813-1</id>
+</interactant>
+<interactant intactId="EBI-526406">
+<id>O43521</id>
+<label>BCL2L11</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform Alpha</molecule>
+<subcellularLocation>
+<location evidence="3">Mitochondrion outer membrane</location>
+<topology evidence="4">Single-pass membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="3">Cytoplasm</location>
+</subcellularLocation>
+<text evidence="3">Colocalizes with 14-3-3 proteins in the cytoplasm. Under stress conditions, undergoes a conformation change that causes release from JNK-phosphorylated 14-3-3 proteins and translocation to the mitochondrion membrane (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform Beta</molecule>
+<subcellularLocation>
+<location evidence="2">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Isoform Gamma</molecule>
+<subcellularLocation>
+<location evidence="2">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q07813-1</id>
+<name>Alpha</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q07813-2</id>
+<name>Beta</name>
+<sequence type="not described"/>
+</isoform>
+<isoform>
+<id>Q07813-3</id>
+<name>Gamma</name>
+<sequence type="not described"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text>Expressed in a wide variety of tissues.</text>
+</comment>
+<comment type="domain">
+<text evidence="2">Intact BH3 motif is required by BIK, BID, BAK, BAD and BAX for their pro-apoptotic activity and for their interaction with anti-apoptotic members of the Bcl-2 family.</text>
+</comment>
+<comment type="similarity">
+<text evidence="10">Belongs to the Bcl-2 family.</text>
+</comment>
+<dbReference type="EMBL" id="L22472">
+<property type="protein sequence ID" value="AAA03622.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC018228">
+<property type="protein sequence ID" value="AAH18228.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC053380">
+<property type="protein sequence ID" value="AAH53380.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS21246.1">
+<molecule id="Q07813-1"/>
+</dbReference>
+<dbReference type="PIR" id="D47538">
+<property type="entry name" value="D47538"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_031553.1">
+<molecule id="Q07813-1"/>
+<property type="nucleotide sequence ID" value="NM_007527.3"/>
+</dbReference>
+<dbReference type="PDB" id="2XA0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="C/D=52-82"/>
+</dbReference>
+<dbReference type="PDB" id="5W62">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=1-192"/>
+</dbReference>
+<dbReference type="PDBsum" id="2XA0"/>
+<dbReference type="PDBsum" id="5W62"/>
+<dbReference type="SMR" id="Q07813"/>
+<dbReference type="BioGRID" id="198304">
+<property type="interactions" value="23"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-2031">
+<property type="entry name" value="BAX oligomer"/>
+</dbReference>
+<dbReference type="CORUM" id="Q07813"/>
+<dbReference type="DIP" id="DIP-29541N"/>
+<dbReference type="ELM" id="Q07813"/>
+<dbReference type="IntAct" id="Q07813">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="MINT" id="Q07813"/>
+<dbReference type="STRING" id="10090.ENSMUSP00000033093"/>
+<dbReference type="ChEMBL" id="CHEMBL3414407"/>
+<dbReference type="iPTMnet" id="Q07813"/>
+<dbReference type="PhosphoSitePlus" id="Q07813"/>
+<dbReference type="SwissPalm" id="Q07813"/>
+<dbReference type="EPD" id="Q07813"/>
+<dbReference type="jPOST" id="Q07813"/>
+<dbReference type="PaxDb" id="Q07813"/>
+<dbReference type="PeptideAtlas" id="Q07813"/>
+<dbReference type="PRIDE" id="Q07813"/>
+<dbReference type="TopDownProteomics" id="Q07813-1">
+<molecule id="Q07813-1"/>
+</dbReference>
+<dbReference type="ABCD" id="Q07813">
+<property type="antibodies" value="1 sequenced antibody"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="3777">
+<property type="antibodies" value="1973 antibodies"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENSMUST00000033093">
+<molecule id="Q07813-1"/>
+<property type="protein sequence ID" value="ENSMUSP00000033093"/>
+<property type="gene ID" value="ENSMUSG00000003873"/>
+</dbReference>
+<dbReference type="GeneID" id="12028"/>
+<dbReference type="KEGG" id="mmu:12028"/>
+<dbReference type="UCSC" id="uc009gvh.1">
+<molecule id="Q07813-1"/>
+<property type="organism name" value="mouse"/>
+</dbReference>
+<dbReference type="CTD" id="581"/>
+<dbReference type="MGI" id="MGI:99702">
+<property type="gene designation" value="Bax"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG4728">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT01000000214466"/>
+<dbReference type="HOGENOM" id="CLU_085401_2_2_1"/>
+<dbReference type="InParanoid" id="Q07813"/>
+<dbReference type="KO" id="K02159"/>
+<dbReference type="OMA" id="RDHVINW"/>
+<dbReference type="OrthoDB" id="1218929at2759"/>
+<dbReference type="PhylomeDB" id="Q07813"/>
+<dbReference type="TreeFam" id="TF315834"/>
+<dbReference type="Reactome" id="R-MMU-111457">
+<property type="pathway name" value="Release of apoptotic factors from the mitochondria"/>
+</dbReference>
+<dbReference type="Reactome" id="R-MMU-114294">
+<property type="pathway name" value="Activation, translocation and oligomerization of BAX"/>
+</dbReference>
+<dbReference type="Reactome" id="R-MMU-6804114">
+<property type="pathway name" value="TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest"/>
+</dbReference>
+<dbReference type="BioGRID-ORCS" id="12028">
+<property type="hits" value="1 hit in 18 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="Bax">
+<property type="organism name" value="mouse"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q07813"/>
+<dbReference type="Proteomes" id="UP000000589">
+<property type="component" value="Chromosome 7"/>
+</dbReference>
+<dbReference type="RNAct" id="Q07813">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSMUSG00000003873">
+<property type="expression patterns" value="Expressed in epiblast (generic) and 305 other tissues"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q07813">
+<property type="organism ID" value="MM"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097145">
+<property type="term" value="C:BAK complex"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097144">
+<property type="term" value="C:BAX complex"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097136">
+<property type="term" value="C:Bcl-2 family protein complex"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071944">
+<property type="term" value="C:cell periphery"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005783">
+<property type="term" value="C:endoplasmic reticulum"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005789">
+<property type="term" value="C:endoplasmic reticulum membrane"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031966">
+<property type="term" value="C:mitochondrial membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005741">
+<property type="term" value="C:mitochondrial outer membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005757">
+<property type="term" value="C:mitochondrial permeability transition pore complex"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005635">
+<property type="term" value="C:nuclear envelope"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048471">
+<property type="term" value="C:perinuclear region of cytoplasm"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046930">
+<property type="term" value="C:pore complex"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051400">
+<property type="term" value="F:BH domain binding"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051434">
+<property type="term" value="F:BH3 domain binding"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015267">
+<property type="term" value="F:channel activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051087">
+<property type="term" value="F:chaperone binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031072">
+<property type="term" value="F:heat shock protein binding"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030544">
+<property type="term" value="F:Hsp70 protein binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008289">
+<property type="term" value="F:lipid binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046982">
+<property type="term" value="F:protein heterodimerization activity"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042803">
+<property type="term" value="F:protein homodimerization activity"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044877">
+<property type="term" value="F:protein-containing complex binding"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006919">
+<property type="term" value="P:activation of cysteine-type endopeptidase activity involved in apoptotic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008635">
+<property type="term" value="P:activation of cysteine-type endopeptidase activity involved in apoptotic process by cytochrome c"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097296">
+<property type="term" value="P:activation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008637">
+<property type="term" value="P:apoptotic mitochondrial changes"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006915">
+<property type="term" value="P:apoptotic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902262">
+<property type="term" value="P:apoptotic process involved in blood vessel morphogenesis"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902263">
+<property type="term" value="P:apoptotic process involved in embryonic digit morphogenesis"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097190">
+<property type="term" value="P:apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001783">
+<property type="term" value="P:B cell apoptotic process"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001782">
+<property type="term" value="P:B cell homeostasis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002358">
+<property type="term" value="P:B cell homeostatic proliferation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002352">
+<property type="term" value="P:B cell negative selection"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990117">
+<property type="term" value="P:B cell receptor apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001974">
+<property type="term" value="P:blood vessel remodeling"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008283">
+<property type="term" value="P:cell population proliferation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045333">
+<property type="term" value="P:cellular respiration"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006974">
+<property type="term" value="P:cellular response to DNA damage stimulus"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071310">
+<property type="term" value="P:cellular response to organic substance"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034644">
+<property type="term" value="P:cellular response to UV"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021987">
+<property type="term" value="P:cerebral cortex development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045136">
+<property type="term" value="P:development of secondary sexual characteristics"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035234">
+<property type="term" value="P:ectopic germ cell programmed cell death"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010248">
+<property type="term" value="P:establishment or maintenance of transmembrane electrochemical gradient"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097191">
+<property type="term" value="P:extrinsic apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097192">
+<property type="term" value="P:extrinsic apoptotic signaling pathway in absence of ligand"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008625">
+<property type="term" value="P:extrinsic apoptotic signaling pathway via death domain receptors"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009566">
+<property type="term" value="P:fertilization"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007281">
+<property type="term" value="P:germ cell development"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006687">
+<property type="term" value="P:glycosphingolipid metabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048872">
+<property type="term" value="P:homeostasis of number of cells"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048873">
+<property type="term" value="P:homeostasis of number of cells within a tissue"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021854">
+<property type="term" value="P:hypothalamus development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007007">
+<property type="term" value="P:inner mitochondrial membrane organization"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097193">
+<property type="term" value="P:intrinsic apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072332">
+<property type="term" value="P:intrinsic apoptotic signaling pathway by p53 class mediator"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008630">
+<property type="term" value="P:intrinsic apoptotic signaling pathway in response to DNA damage"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070059">
+<property type="term" value="P:intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001822">
+<property type="term" value="P:kidney development"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001776">
+<property type="term" value="P:leukocyte homeostasis"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035108">
+<property type="term" value="P:limb morphogenesis"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008584">
+<property type="term" value="P:male gonad development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043653">
+<property type="term" value="P:mitochondrial fragmentation involved in apoptotic process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008053">
+<property type="term" value="P:mitochondrial fusion"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070584">
+<property type="term" value="P:mitochondrion morphogenesis"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002262">
+<property type="term" value="P:myeloid cell homeostasis"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:2001234">
+<property type="term" value="P:negative regulation of apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008285">
+<property type="term" value="P:negative regulation of cell population proliferation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032471">
+<property type="term" value="P:negative regulation of endoplasmic reticulum calcium ion concentration"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048147">
+<property type="term" value="P:negative regulation of fibroblast proliferation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010917">
+<property type="term" value="P:negative regulation of mitochondrial membrane potential"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043524">
+<property type="term" value="P:negative regulation of neuron apoptotic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033137">
+<property type="term" value="P:negative regulation of peptidyl-serine phosphorylation"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032091">
+<property type="term" value="P:negative regulation of protein binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007399">
+<property type="term" value="P:nervous system development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051402">
+<property type="term" value="P:neuron apoptotic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001764">
+<property type="term" value="P:neuron migration"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042475">
+<property type="term" value="P:odontogenesis of dentin-containing tooth"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007008">
+<property type="term" value="P:outer mitochondrial membrane organization"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001541">
+<property type="term" value="P:ovarian follicle development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902512">
+<property type="term" value="P:positive regulation of apoptotic DNA fragmentation"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043065">
+<property type="term" value="P:positive regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060058">
+<property type="term" value="P:positive regulation of apoptotic process involved in mammary gland involution"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002904">
+<property type="term" value="P:positive regulation of B cell apoptotic process"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010524">
+<property type="term" value="P:positive regulation of calcium ion transport into cytosol"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048087">
+<property type="term" value="P:positive regulation of developmental pigmentation"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900103">
+<property type="term" value="P:positive regulation of endoplasmic reticulum unfolded protein response"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2001241">
+<property type="term" value="P:positive regulation of extrinsic apoptotic signaling pathway in absence of ligand"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:2001244">
+<property type="term" value="P:positive regulation of intrinsic apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902110">
+<property type="term" value="P:positive regulation of mitochondrial membrane permeability involved in apoptotic process"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043525">
+<property type="term" value="P:positive regulation of neuron apoptotic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031334">
+<property type="term" value="P:positive regulation of protein-containing complex assembly"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090200">
+<property type="term" value="P:positive regulation of release of cytochrome c from mitochondria"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051281">
+<property type="term" value="P:positive regulation of release of sequestered calcium ion into cytosol"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048597">
+<property type="term" value="P:post-embryonic camera-type eye morphogenesis"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009791">
+<property type="term" value="P:post-embryonic development"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001844">
+<property type="term" value="P:protein insertion into mitochondrial membrane involved in apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051726">
+<property type="term" value="P:regulation of cell cycle"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043281">
+<property type="term" value="P:regulation of cysteine-type endopeptidase activity involved in apoptotic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033599">
+<property type="term" value="P:regulation of mammary gland epithelial cell proliferation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902108">
+<property type="term" value="P:regulation of mitochondrial membrane permeability involved in apoptotic process"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902445">
+<property type="term" value="P:regulation of mitochondrial membrane permeability involved in programmed necrotic cell death"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043523">
+<property type="term" value="P:regulation of neuron apoptotic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006808">
+<property type="term" value="P:regulation of nitrogen utilization"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001836">
+<property type="term" value="P:release of cytochrome c from mitochondria"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032976">
+<property type="term" value="P:release of matrix enzymes from mitochondria"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048678">
+<property type="term" value="P:response to axon injury"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010332">
+<property type="term" value="P:response to gamma radiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010212">
+<property type="term" value="P:response to ionizing radiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009651">
+<property type="term" value="P:response to salt stress"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009636">
+<property type="term" value="P:response to toxic substance"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009611">
+<property type="term" value="P:response to wounding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060041">
+<property type="term" value="P:retina development in camera-type eye"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046666">
+<property type="term" value="P:retinal cell programmed cell death"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060011">
+<property type="term" value="P:Sertoli cell proliferation"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007548">
+<property type="term" value="P:sex differentiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048515">
+<property type="term" value="P:spermatid differentiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007283">
+<property type="term" value="P:spermatogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001777">
+<property type="term" value="P:T cell homeostatic proliferation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070242">
+<property type="term" value="P:thymocyte apoptotic process"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060068">
+<property type="term" value="P:vagina development"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016032">
+<property type="term" value="P:viral process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.437.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026304">
+<property type="entry name" value="BAX"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002475">
+<property type="entry name" value="Bcl2-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020717">
+<property type="entry name" value="Bcl2_BH1_motif_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020726">
+<property type="entry name" value="Bcl2_BH2_motif_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020728">
+<property type="entry name" value="Bcl2_BH3_motif_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036834">
+<property type="entry name" value="Blc2-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026298">
+<property type="entry name" value="Blc2_fam"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11256">
+<property type="entry name" value="PTHR11256"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11256:SF42">
+<property type="entry name" value="PTHR11256:SF42"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00452">
+<property type="entry name" value="Bcl-2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01862">
+<property type="entry name" value="BCL2FAMILY"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56854">
+<property type="entry name" value="SSF56854"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50062">
+<property type="entry name" value="BCL2_FAMILY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01080">
+<property type="entry name" value="BH1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01258">
+<property type="entry name" value="BH2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01259">
+<property type="entry name" value="BH3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0053">Apoptosis</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0945">Host-virus interaction</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0496">Mitochondrion</keyword>
+<keyword id="KW-1000">Mitochondrion outer membrane</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Apoptosis regulator BAX" id="PRO_0000143057">
+<location>
+<begin position="1"/>
+<end position="192"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="4">
+<location>
+<begin position="172"/>
+<end position="192"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="BH3">
+<location>
+<begin position="59"/>
+<end position="73"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="BH1">
+<location>
+<begin position="98"/>
+<end position="118"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="BH2">
+<location>
+<begin position="150"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylmethionine" evidence="3">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="16"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="54"/>
+<end position="70"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="74"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="88"/>
+<end position="99"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="100"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="107"/>
+<end position="124"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="131"/>
+<end position="147"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="149"/>
+<end position="154"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="155"/>
+<end position="158"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="159"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="170"/>
+<end position="172"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="173"/>
+<end position="188"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5W62"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q07812"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255"/>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15383280"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16509771"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18248095"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21060336"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8358790"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000305"/>
+<sequence length="192" mass="21395" checksum="D2E0B3566579FAFF" modified="1995-02-01" version="1">MDGSGEQLGSGGPTSSEQIMKTGAFLLQGFIQDRAGRMAGETPELTLEQPPQDASTKKLSECLRRIGDELDSNMELQRMIADVDTDSPREVFFRVAADMFADGNFNWGRVVALFYFASKLVLKALCTKVPELIRTIMGWTLDFLRERLLVWIQDQGGWEGLLSYFGTPTWQTVTIFVAGVLTASLTIWKKMG</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

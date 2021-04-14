@@ -1,0 +1,1960 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1990-04-01" modified="2020-10-07" version="214">
+<accession>P15976</accession>
+<accession>Q96GB8</accession>
+<name>GATA1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Erythroid transcription factor</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Eryf1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>GATA-binding factor 1</fullName>
+<shortName>GATA-1</shortName>
+<shortName>GF-1</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>NF-E1 DNA-binding protein</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">GATA1</name>
+<name type="synonym">ERYF1</name>
+<name type="synonym">GF1</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1990" name="Nature" volume="343" first="92" last="96">
+<title>Structure and evolution of a human erythroid transcription factor.</title>
+<authorList>
+<person name="Trainor C.D."/>
+<person name="Evans T."/>
+<person name="Felsenfeld G."/>
+<person name="Boguski M.S."/>
+</authorList>
+<dbReference type="PubMed" id="2104960"/>
+<dbReference type="DOI" id="10.1038/343092a0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Bone marrow</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1990" name="Proc. Natl. Acad. Sci. U.S.A." volume="87" first="668" last="672">
+<title>The major human erythroid DNA-binding protein (GF-1): primary sequence and localization of the gene to the X chromosome.</title>
+<authorList>
+<person name="Zon L.I."/>
+<person name="Tsai S.-F."/>
+<person name="Burgess S."/>
+<person name="Matsudaira P."/>
+<person name="Bruns G.A.P."/>
+<person name="Orkin S.H."/>
+</authorList>
+<dbReference type="PubMed" id="2300555"/>
+<dbReference type="DOI" id="10.1073/pnas.87.2.668"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+<source>
+<tissue>Erythrocyte</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2005" name="Nature" volume="434" first="325" last="337">
+<title>The DNA sequence of the human X chromosome.</title>
+<authorList>
+<person name="Ross M.T."/>
+<person name="Grafham D.V."/>
+<person name="Coffey A.J."/>
+<person name="Scherer S."/>
+<person name="McLay K."/>
+<person name="Muzny D."/>
+<person name="Platzer M."/>
+<person name="Howell G.R."/>
+<person name="Burrows C."/>
+<person name="Bird C.P."/>
+<person name="Frankish A."/>
+<person name="Lovell F.L."/>
+<person name="Howe K.L."/>
+<person name="Ashurst J.L."/>
+<person name="Fulton R.S."/>
+<person name="Sudbrak R."/>
+<person name="Wen G."/>
+<person name="Jones M.C."/>
+<person name="Hurles M.E."/>
+<person name="Andrews T.D."/>
+<person name="Scott C.E."/>
+<person name="Searle S."/>
+<person name="Ramser J."/>
+<person name="Whittaker A."/>
+<person name="Deadman R."/>
+<person name="Carter N.P."/>
+<person name="Hunt S.E."/>
+<person name="Chen R."/>
+<person name="Cree A."/>
+<person name="Gunaratne P."/>
+<person name="Havlak P."/>
+<person name="Hodgson A."/>
+<person name="Metzker M.L."/>
+<person name="Richards S."/>
+<person name="Scott G."/>
+<person name="Steffen D."/>
+<person name="Sodergren E."/>
+<person name="Wheeler D.A."/>
+<person name="Worley K.C."/>
+<person name="Ainscough R."/>
+<person name="Ambrose K.D."/>
+<person name="Ansari-Lari M.A."/>
+<person name="Aradhya S."/>
+<person name="Ashwell R.I."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Ballabio A."/>
+<person name="Banerjee R."/>
+<person name="Barker G.E."/>
+<person name="Barlow K.F."/>
+<person name="Barrett I.P."/>
+<person name="Bates K.N."/>
+<person name="Beare D.M."/>
+<person name="Beasley H."/>
+<person name="Beasley O."/>
+<person name="Beck A."/>
+<person name="Bethel G."/>
+<person name="Blechschmidt K."/>
+<person name="Brady N."/>
+<person name="Bray-Allen S."/>
+<person name="Bridgeman A.M."/>
+<person name="Brown A.J."/>
+<person name="Brown M.J."/>
+<person name="Bonnin D."/>
+<person name="Bruford E.A."/>
+<person name="Buhay C."/>
+<person name="Burch P."/>
+<person name="Burford D."/>
+<person name="Burgess J."/>
+<person name="Burrill W."/>
+<person name="Burton J."/>
+<person name="Bye J.M."/>
+<person name="Carder C."/>
+<person name="Carrel L."/>
+<person name="Chako J."/>
+<person name="Chapman J.C."/>
+<person name="Chavez D."/>
+<person name="Chen E."/>
+<person name="Chen G."/>
+<person name="Chen Y."/>
+<person name="Chen Z."/>
+<person name="Chinault C."/>
+<person name="Ciccodicola A."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Clerc-Blankenburg K."/>
+<person name="Clifford K."/>
+<person name="Cobley V."/>
+<person name="Cole C.G."/>
+<person name="Conquer J.S."/>
+<person name="Corby N."/>
+<person name="Connor R.E."/>
+<person name="David R."/>
+<person name="Davies J."/>
+<person name="Davis C."/>
+<person name="Davis J."/>
+<person name="Delgado O."/>
+<person name="Deshazo D."/>
+<person name="Dhami P."/>
+<person name="Ding Y."/>
+<person name="Dinh H."/>
+<person name="Dodsworth S."/>
+<person name="Draper H."/>
+<person name="Dugan-Rocha S."/>
+<person name="Dunham A."/>
+<person name="Dunn M."/>
+<person name="Durbin K.J."/>
+<person name="Dutta I."/>
+<person name="Eades T."/>
+<person name="Ellwood M."/>
+<person name="Emery-Cohen A."/>
+<person name="Errington H."/>
+<person name="Evans K.L."/>
+<person name="Faulkner L."/>
+<person name="Francis F."/>
+<person name="Frankland J."/>
+<person name="Fraser A.E."/>
+<person name="Galgoczy P."/>
+<person name="Gilbert J."/>
+<person name="Gill R."/>
+<person name="Gloeckner G."/>
+<person name="Gregory S.G."/>
+<person name="Gribble S."/>
+<person name="Griffiths C."/>
+<person name="Grocock R."/>
+<person name="Gu Y."/>
+<person name="Gwilliam R."/>
+<person name="Hamilton C."/>
+<person name="Hart E.A."/>
+<person name="Hawes A."/>
+<person name="Heath P.D."/>
+<person name="Heitmann K."/>
+<person name="Hennig S."/>
+<person name="Hernandez J."/>
+<person name="Hinzmann B."/>
+<person name="Ho S."/>
+<person name="Hoffs M."/>
+<person name="Howden P.J."/>
+<person name="Huckle E.J."/>
+<person name="Hume J."/>
+<person name="Hunt P.J."/>
+<person name="Hunt A.R."/>
+<person name="Isherwood J."/>
+<person name="Jacob L."/>
+<person name="Johnson D."/>
+<person name="Jones S."/>
+<person name="de Jong P.J."/>
+<person name="Joseph S.S."/>
+<person name="Keenan S."/>
+<person name="Kelly S."/>
+<person name="Kershaw J.K."/>
+<person name="Khan Z."/>
+<person name="Kioschis P."/>
+<person name="Klages S."/>
+<person name="Knights A.J."/>
+<person name="Kosiura A."/>
+<person name="Kovar-Smith C."/>
+<person name="Laird G.K."/>
+<person name="Langford C."/>
+<person name="Lawlor S."/>
+<person name="Leversha M."/>
+<person name="Lewis L."/>
+<person name="Liu W."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Loulseged H."/>
+<person name="Loveland J.E."/>
+<person name="Lovell J.D."/>
+<person name="Lozado R."/>
+<person name="Lu J."/>
+<person name="Lyne R."/>
+<person name="Ma J."/>
+<person name="Maheshwari M."/>
+<person name="Matthews L.H."/>
+<person name="McDowall J."/>
+<person name="McLaren S."/>
+<person name="McMurray A."/>
+<person name="Meidl P."/>
+<person name="Meitinger T."/>
+<person name="Milne S."/>
+<person name="Miner G."/>
+<person name="Mistry S.L."/>
+<person name="Morgan M."/>
+<person name="Morris S."/>
+<person name="Mueller I."/>
+<person name="Mullikin J.C."/>
+<person name="Nguyen N."/>
+<person name="Nordsiek G."/>
+<person name="Nyakatura G."/>
+<person name="O'dell C.N."/>
+<person name="Okwuonu G."/>
+<person name="Palmer S."/>
+<person name="Pandian R."/>
+<person name="Parker D."/>
+<person name="Parrish J."/>
+<person name="Pasternak S."/>
+<person name="Patel D."/>
+<person name="Pearce A.V."/>
+<person name="Pearson D.M."/>
+<person name="Pelan S.E."/>
+<person name="Perez L."/>
+<person name="Porter K.M."/>
+<person name="Ramsey Y."/>
+<person name="Reichwald K."/>
+<person name="Rhodes S."/>
+<person name="Ridler K.A."/>
+<person name="Schlessinger D."/>
+<person name="Schueler M.G."/>
+<person name="Sehra H.K."/>
+<person name="Shaw-Smith C."/>
+<person name="Shen H."/>
+<person name="Sheridan E.M."/>
+<person name="Shownkeen R."/>
+<person name="Skuce C.D."/>
+<person name="Smith M.L."/>
+<person name="Sotheran E.C."/>
+<person name="Steingruber H.E."/>
+<person name="Steward C.A."/>
+<person name="Storey R."/>
+<person name="Swann R.M."/>
+<person name="Swarbreck D."/>
+<person name="Tabor P.E."/>
+<person name="Taudien S."/>
+<person name="Taylor T."/>
+<person name="Teague B."/>
+<person name="Thomas K."/>
+<person name="Thorpe A."/>
+<person name="Timms K."/>
+<person name="Tracey A."/>
+<person name="Trevanion S."/>
+<person name="Tromans A.C."/>
+<person name="d'Urso M."/>
+<person name="Verduzco D."/>
+<person name="Villasana D."/>
+<person name="Waldron L."/>
+<person name="Wall M."/>
+<person name="Wang Q."/>
+<person name="Warren J."/>
+<person name="Warry G.L."/>
+<person name="Wei X."/>
+<person name="West A."/>
+<person name="Whitehead S.L."/>
+<person name="Whiteley M.N."/>
+<person name="Wilkinson J.E."/>
+<person name="Willey D.L."/>
+<person name="Williams G."/>
+<person name="Williams L."/>
+<person name="Williamson A."/>
+<person name="Williamson H."/>
+<person name="Wilming L."/>
+<person name="Woodmansey R.L."/>
+<person name="Wray P.W."/>
+<person name="Yen J."/>
+<person name="Zhang J."/>
+<person name="Zhou J."/>
+<person name="Zoghbi H."/>
+<person name="Zorilla S."/>
+<person name="Buck D."/>
+<person name="Reinhardt R."/>
+<person name="Poustka A."/>
+<person name="Rosenthal A."/>
+<person name="Lehrach H."/>
+<person name="Meindl A."/>
+<person name="Minx P.J."/>
+<person name="Hillier L.W."/>
+<person name="Willard H.F."/>
+<person name="Wilson R.K."/>
+<person name="Waterston R.H."/>
+<person name="Rice C.M."/>
+<person name="Vaudin M."/>
+<person name="Coulson A."/>
+<person name="Nelson D.L."/>
+<person name="Weinstock G."/>
+<person name="Sulston J.E."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Gibbs R.A."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+<person name="Bentley D.R."/>
+</authorList>
+<dbReference type="PubMed" id="15772651"/>
+<dbReference type="DOI" id="10.1038/nature03440"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+<source>
+<tissue>Bone marrow</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1995" name="Proc. Natl. Acad. Sci. U.S.A." volume="92" first="11598" last="11602">
+<title>Alternative translation initiation site usage results in two functionally distinct forms of the GATA-1 transcription factor.</title>
+<authorList>
+<person name="Calligaris R."/>
+<person name="Bottardi S."/>
+<person name="Cogoi S."/>
+<person name="Apezteguia I."/>
+<person name="Santoro C."/>
+</authorList>
+<dbReference type="PubMed" id="8524811"/>
+<dbReference type="DOI" id="10.1073/pnas.92.25.11598"/>
+</citation>
+<scope>ALTERNATIVE INITIATION (ISOFORM 3)</scope>
+<scope>SUBUNIT</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1998" name="Nature" volume="396" first="594" last="598">
+<title>Regulation of activity of the transcription factor GATA-1 by acetylation.</title>
+<authorList>
+<person name="Boyes J."/>
+<person name="Byfield P."/>
+<person name="Nakatani Y."/>
+<person name="Ogryzko V."/>
+</authorList>
+<dbReference type="PubMed" id="9859997"/>
+<dbReference type="DOI" id="10.1038/25166"/>
+</citation>
+<scope>INTERACTION WITH EP300</scope>
+<scope>ACETYLATION AT LYS-233; LYS-245 AND LYS-246</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2006" name="Nat. Genet." volume="38" first="807" last="812">
+<title>An inherited mutation leading to production of only the short isoform of GATA-1 is associated with impaired erythropoiesis.</title>
+<authorList>
+<person name="Hollanda L.M."/>
+<person name="Lima C.S."/>
+<person name="Cunha A.F."/>
+<person name="Albuquerque D.M."/>
+<person name="Vassallo J."/>
+<person name="Ozelo M.C."/>
+<person name="Joazeiro P.P."/>
+<person name="Saad S.T."/>
+<person name="Costa F.F."/>
+</authorList>
+<dbReference type="PubMed" id="16783379"/>
+<dbReference type="DOI" id="10.1038/ng1825"/>
+</citation>
+<scope>INVOLVEMENT IN XLAWT</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2006" name="Proc. Natl. Acad. Sci. U.S.A." volume="103" first="45" last="50">
+<title>PDSM, a motif for phosphorylation-dependent SUMO modification.</title>
+<authorList>
+<person name="Hietakangas V."/>
+<person name="Anckar J."/>
+<person name="Blomster H.A."/>
+<person name="Fujimoto M."/>
+<person name="Palvimo J.J."/>
+<person name="Nakai A."/>
+<person name="Sistonen L."/>
+</authorList>
+<dbReference type="PubMed" id="16371476"/>
+<dbReference type="DOI" id="10.1073/pnas.0503698102"/>
+</citation>
+<scope>SUMOYLATION AT LYS-137</scope>
+<scope>PHOSPHORYLATION AT SER-142</scope>
+<scope>MUTAGENESIS OF LYS-137 AND SER-142</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2007" name="Mol. Cell. Biol." volume="27" first="4261" last="4272">
+<title>GATA-1 and Gfi-1B interplay to regulate Bcl-xL transcription.</title>
+<authorList>
+<person name="Kuo Y.-Y."/>
+<person name="Chang Z.-F."/>
+</authorList>
+<dbReference type="PubMed" id="17420275"/>
+<dbReference type="DOI" id="10.1128/mcb.02212-06"/>
+</citation>
+<scope>INTERACTION WITH GFI1B</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2012" name="PLoS ONE" volume="7" first="E29518" last="E29518">
+<title>Knockdown of ZNF268, which is transcriptionally downregulated by GATA-1, promotes proliferation of K562 cells.</title>
+<authorList>
+<person name="Zeng Y."/>
+<person name="Wang W."/>
+<person name="Ma J."/>
+<person name="Wang X."/>
+<person name="Guo M."/>
+<person name="Li W."/>
+</authorList>
+<dbReference type="PubMed" id="22235304"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0029518"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DNA-BINDING</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+<dbReference type="DOI" id="10.1021/pr300630k"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-116 AND SER-131</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2014" name="Genes Cells" volume="19" first="28" last="51">
+<title>CCAR1/CoCoA pair-mediated recruitment of the Mediator defines a novel pathway for GATA1 function.</title>
+<authorList>
+<person name="Mizuta S."/>
+<person name="Minami T."/>
+<person name="Fujita H."/>
+<person name="Kaminaga C."/>
+<person name="Matsui K."/>
+<person name="Ishino R."/>
+<person name="Fujita A."/>
+<person name="Oda K."/>
+<person name="Kawai A."/>
+<person name="Hasegawa N."/>
+<person name="Urahama N."/>
+<person name="Roeder R.G."/>
+<person name="Ito M."/>
+</authorList>
+<dbReference type="PubMed" id="24245781"/>
+<dbReference type="DOI" id="10.1111/gtc.12104"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH MED1; CCAR1 AND CALCOCO1</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2015" name="J. Immunol." volume="195" first="80" last="86">
+<title>A novel in-frame deletion in the leucine zipper domain of C/EBPepsilon leads to neutrophil-specific granule deficiency.</title>
+<authorList>
+<person name="Wada T."/>
+<person name="Akagi T."/>
+<person name="Muraoka M."/>
+<person name="Toma T."/>
+<person name="Kaji K."/>
+<person name="Agematsu K."/>
+<person name="Koeffler H.P."/>
+<person name="Yokota T."/>
+<person name="Yachie A."/>
+</authorList>
+<dbReference type="PubMed" id="26019275"/>
+<dbReference type="DOI" id="10.4049/jimmunol.1402222"/>
+</citation>
+<scope>INTERACTION WITH CEBPE</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2000" name="Nat. Genet." volume="24" first="266" last="270">
+<title>Familial dyserythropoietic anaemia and thrombocytopenia due to an inherited mutation in GATA1.</title>
+<authorList>
+<person name="Nichols K.E."/>
+<person name="Crispino J.D."/>
+<person name="Poncz M."/>
+<person name="White J.G."/>
+<person name="Orkin S.H."/>
+<person name="Maris J.M."/>
+<person name="Weiss M.J."/>
+</authorList>
+<dbReference type="PubMed" id="10700180"/>
+<dbReference type="DOI" id="10.1038/73480"/>
+</citation>
+<scope>VARIANT XDAT MET-205</scope>
+<scope>INTERACTION WITH ZFPM1</scope>
+<scope>CHARACTERIZATION OF VARIANT XDAT MET-205</scope>
+<scope>MUTAGENESIS OF CYS-204</scope>
+<source>
+<tissue>Peripheral blood</tissue>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2001" name="Blood" volume="98" first="85" last="92">
+<title>Platelet characteristics in patients with X-linked macrothrombocytopenia because of a novel GATA1 mutation.</title>
+<authorList>
+<person name="Freson K."/>
+<person name="Devriendt K."/>
+<person name="Matthijs G."/>
+<person name="Van Hoof A."/>
+<person name="De Vos R."/>
+<person name="Thys C."/>
+<person name="Minner K."/>
+<person name="Hoylaerts M.F."/>
+<person name="Vermylen J."/>
+<person name="Van Geet C."/>
+</authorList>
+<dbReference type="PubMed" id="11418466"/>
+<dbReference type="DOI" id="10.1182/blood.v98.1.85"/>
+</citation>
+<scope>VARIANT XDAT GLY-218</scope>
+<scope>INTERACTION WITH ZFPM1</scope>
+<scope>CHARACTERIZATION OF VARIANT XDAT GLY-218</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2001" name="Blood" volume="98" first="2681" last="2688">
+<title>X-linked thrombocytopenia caused by a novel mutation of GATA-1.</title>
+<authorList>
+<person name="Mehaffey M.G."/>
+<person name="Newton A.L."/>
+<person name="Gandhi M.J."/>
+<person name="Crossley M."/>
+<person name="Drachman J.G."/>
+</authorList>
+<dbReference type="PubMed" id="11675338"/>
+<dbReference type="DOI" id="10.1182/blood.v98.9.2681"/>
+</citation>
+<scope>VARIANT XDAT SER-208</scope>
+<scope>INTERACTION WITH ZFPM1</scope>
+<scope>CHARACTERIZATION OF VARIANT XDAT SER-208</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2002" name="Blood" volume="100" first="2040" last="2045">
+<title>X-linked thrombocytopenia with thalassemia from a mutation in the amino finger of GATA-1 affecting DNA binding rather than FOG-1 interaction.</title>
+<authorList>
+<person name="Yu C."/>
+<person name="Niakan K.K."/>
+<person name="Matsushita M."/>
+<person name="Stamatoyannopoulos G."/>
+<person name="Orkin S.H."/>
+<person name="Raskind W.H."/>
+</authorList>
+<dbReference type="PubMed" id="12200364"/>
+<dbReference type="DOI" id="10.1182/blood-2002-02-0387"/>
+</citation>
+<scope>VARIANT XLTT GLN-216</scope>
+<scope>INTERACTION WITH ZFPM1</scope>
+<scope>CHARACTERIZATION OF VARIANT XLTT GLN-216</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2002" name="Hum. Mol. Genet." volume="11" first="147" last="152">
+<title>Different substitutions at residue D218 of the X-linked transcription factor GATA1 lead to altered clinical severity of macrothrombocytopenia and anemia and are associated with variable skewed X inactivation.</title>
+<authorList>
+<person name="Freson K."/>
+<person name="Matthijs G."/>
+<person name="Thys C."/>
+<person name="Marieen P."/>
+<person name="Hoylaerts M.F."/>
+<person name="Vermylen J."/>
+<person name="Van Geet C."/>
+</authorList>
+<dbReference type="PubMed" id="11809723"/>
+<dbReference type="DOI" id="10.1093/hmg/11.2.147"/>
+</citation>
+<scope>VARIANT XDAT TYR-218</scope>
+<scope>INTERACTION WITH ZFPM1</scope>
+<scope>CHARACTERIZATION OF VARIANT XDAT TYR-218</scope>
+</reference>
+<comment type="function">
+<text evidence="13 14">Transcriptional activator or repressor which probably serves as a general switch factor for erythroid development. It binds to DNA sites with the consensus sequence 5'-[AT]GATA[AG]-3' within regulatory regions of globin genes and of other genes expressed in erythroid cells. Activates the transcription of genes involved in erythroid differentiation of K562 erythroleukemia cells, including HBB, HBG1/2, ALAS2 and HMBS (PubMed:24245781).</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 5 6 7 8 9 12 14 15 16 17">May form homodimers or heterodimers with other isoforms. Interacts (via the N-terminal zinc finger) with ZFPM1. Interacts with GFI1B. Interacts with PIAS4; the interaction enhances sumoylation and represses the transactivational activity in a sumoylation-independent manner. Interacts with LMCD1. Interacts with BRD3 (By similarity). Interacts with CREBBP; the interaction stimulates acetylation and transcriptional activity in vivo (By similarity). Interacts with EP300. Interacts with MED1, CCAR1 and CALCOCO1. Interacts with CEBPE (PubMed:26019275).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3909284">
+<id>P15976</id>
+</interactant>
+<interactant intactId="EBI-1104933">
+<id>Q8N4L8</id>
+<label>CCDC24</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3909284">
+<id>P15976</id>
+</interactant>
+<interactant intactId="EBI-10244131">
+<id>Q8TES7-6</id>
+<label>FBF1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3909284">
+<id>P15976</id>
+</interactant>
+<interactant intactId="EBI-725515">
+<id>O43559</id>
+<label>FRS3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3909284">
+<id>P15976</id>
+</interactant>
+<interactant intactId="EBI-5460660">
+<id>Q96MH2</id>
+<label>HEXIM2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3909284">
+<id>P15976</id>
+</interactant>
+<interactant intactId="EBI-740785">
+<id>P49639</id>
+<label>HOXA1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3909284">
+<id>P15976</id>
+</interactant>
+<interactant intactId="EBI-10172150">
+<id>P60370</id>
+<label>KRTAP10-5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3909284">
+<id>P15976</id>
+</interactant>
+<interactant intactId="EBI-1044640">
+<id>Q9BYQ4</id>
+<label>KRTAP9-2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3909284">
+<id>P15976</id>
+</interactant>
+<interactant intactId="EBI-394459">
+<id>Q15648</id>
+<label>MED1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3909284">
+<id>P15976</id>
+</interactant>
+<interactant intactId="EBI-1053424">
+<id>O43741</id>
+<label>PRKAB2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3909284">
+<id>P15976</id>
+</interactant>
+<interactant intactId="EBI-744267">
+<id>Q96JH8</id>
+<label>RADIL</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3909284">
+<id>P15976</id>
+</interactant>
+<interactant intactId="EBI-491274">
+<id>P06400</id>
+<label>RB1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3909284">
+<id>P15976</id>
+</interactant>
+<interactant intactId="EBI-3942619">
+<id>Q8IX07</id>
+<label>ZFPM1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3909284">
+<id>P15976</id>
+</interactant>
+<interactant intactId="EBI-629985">
+<id>P08107</id>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3909284">
+<id>P15976</id>
+</interactant>
+<interactant intactId="EBI-971782">
+<id>P13405</id>
+<label>Rb1</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3909284">
+<id>P15976</id>
+</interactant>
+<interactant intactId="EBI-4394596">
+<id>O35615</id>
+<label>Zfpm1</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-742909">
+<id>Q9H6L4</id>
+<label>ARMC7</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-1104933">
+<id>Q8N4L8</id>
+<label>CCDC24</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-947551">
+<id>Q9H2X0</id>
+<label>CHRD</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-742953">
+<id>Q9BY27</id>
+<label>DGCR6L</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-2339898">
+<id>Q9NW38</id>
+<label>FANCL</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-741101">
+<id>Q13643</id>
+<label>FHL3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-725515">
+<id>O43559</id>
+<label>FRS3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-740785">
+<id>P49639</id>
+<label>HOXA1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-2556193">
+<id>Q63ZY3</id>
+<label>KANK2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-751260">
+<id>Q9BYR7</id>
+<label>KRTAP3-2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-10302392">
+<id>Q9BYQ6</id>
+<label>KRTAP4-11</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-11993254">
+<id>Q9BYR2</id>
+<label>KRTAP4-5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-741037">
+<id>Q9BRK4</id>
+<label>LZTS2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-724076">
+<id>Q99750</id>
+<label>MDFI</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-2340269">
+<id>Q13064</id>
+<label>MKRN3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-748265">
+<id>P78337</id>
+<label>PITX1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-769257">
+<id>Q9NRQ2</id>
+<label>PLSCR4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-1053424">
+<id>O43741</id>
+<label>PRKAB2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-750487">
+<id>Q8WW24</id>
+<label>TEKT4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-11741437">
+<id>Q08117-2</id>
+<label>TLE5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-359224">
+<id>Q13077</id>
+<label>TRAF1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9090198">
+<id>P15976-2</id>
+</interactant>
+<interactant intactId="EBI-742327">
+<id>Q15654</id>
+<label>TRIP6</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<event type="alternative initiation"/>
+<isoform>
+<id>P15976-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P15976-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_014782"/>
+</isoform>
+<isoform>
+<id>P15976-3</id>
+<name>3</name>
+<name>GATA-1s</name>
+<sequence type="described" ref="VSP_041451"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="16">Erythrocytes.</text>
+</comment>
+<comment type="domain">
+<text evidence="2">The two fingers are functionally distinct and cooperate to achieve specific, stable DNA binding. The first finger is necessary only for full specificity and stability of binding, whereas the second one is required for binding (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="2">Highly phosphorylated on serine residues. Phosphorylation on Ser-310 is enhanced on erythroid differentiation. Phosphorylation on Ser-142 promotes sumoylation on Lys-137 (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="2">Sumoylation on Lys-137 is enhanced by phosphorylation on Ser-142 and by interaction with PIAS4. Sumoylation with SUMO1 has no effect on transcriptional activity (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="2 17">Acetylated at 2 conserved lysine-rich motifs by CREBBP in vitro. Acetylation does not affect DNA-binding in vitro but is essential to induce erythroid differentiation and for binding chromatin in vivo (By similarity). Acetylated on Lys-233, Lys-245 Lys-246 by EP300.</text>
+</comment>
+<comment type="disease" evidence="5 6 7 8">
+<disease id="DI-02443">
+<name>X-linked dyserythropoietic anemia and thrombocytopenia</name>
+<acronym>XDAT</acronym>
+<description>Disorder characterized by erythrocytes with abnormal size and shape, and paucity of platelets in peripheral blood. The bone marrow contains abundant and abnormally small megakaryocytes.</description>
+<dbReference type="MIM" id="300367"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="9">
+<disease id="DI-02461">
+<name>Thrombocytopenia with beta-thalassemia, X-linked</name>
+<acronym>XLTT</acronym>
+<description>An unusual form of thrombocytopenia associated with beta-thalassemia. Patients have splenomegaly and petechiae, moderate thrombocytopenia, prolonged bleeding time due to platelet dysfunction, reticulocytosis and unbalanced (hemo)globin chain synthesis resembling that of beta-thalassemia minor.</description>
+<dbReference type="MIM" id="314050"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="11">
+<disease id="DI-03055">
+<name>Anemia without thrombocytopenia, X-linked</name>
+<acronym>XLAWT</acronym>
+<description>A form of anemia characterized by abnormal morphology of erythrocytes and granulocytes in peripheral blood, bone marrow dysplasia with hypocellularity of erythroid and granulocytic lineages, and normal or increased number of megakaryocytes. Neutropenia of a variable degree is present in affected individuals.</description>
+<dbReference type="MIM" id="300835"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="miscellaneous">
+<molecule>Isoform 3</molecule>
+<text evidence="19">Produced by alternative initiation at Met-84 of isoform 1.</text>
+</comment>
+<comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+<link uri="http://atlasgeneticsoncology.org/Genes/GATA1ID40689chXp11.html"/>
+</comment>
+<dbReference type="EMBL" id="X17254">
+<property type="protein sequence ID" value="CAA35120.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M30601">
+<property type="protein sequence ID" value="AAA35885.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF196971">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC009797">
+<property type="protein sequence ID" value="AAH09797.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS14305.1">
+<molecule id="P15976-1"/>
+</dbReference>
+<dbReference type="PIR" id="A34888">
+<property type="entry name" value="A34888"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_002040.1">
+<molecule id="P15976-1"/>
+<property type="nucleotide sequence ID" value="NM_002049.3"/>
+</dbReference>
+<dbReference type="PDB" id="6G0Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.40"/>
+<property type="chains" value="B=309-319"/>
+</dbReference>
+<dbReference type="PDBsum" id="6G0Q"/>
+<dbReference type="SMR" id="P15976"/>
+<dbReference type="BioGRID" id="108893">
+<property type="interactions" value="90"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-41431N"/>
+<dbReference type="IntAct" id="P15976">
+<property type="interactions" value="58"/>
+</dbReference>
+<dbReference type="MINT" id="P15976"/>
+<dbReference type="STRING" id="9606.ENSP00000365858"/>
+<dbReference type="iPTMnet" id="P15976"/>
+<dbReference type="PhosphoSitePlus" id="P15976"/>
+<dbReference type="BioMuta" id="GATA1"/>
+<dbReference type="DMDM" id="120956"/>
+<dbReference type="MassIVE" id="P15976"/>
+<dbReference type="MaxQB" id="P15976"/>
+<dbReference type="PaxDb" id="P15976"/>
+<dbReference type="PeptideAtlas" id="P15976"/>
+<dbReference type="PRIDE" id="P15976"/>
+<dbReference type="ProteomicsDB" id="53260">
+<molecule id="P15976-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="53261">
+<molecule id="P15976-2"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="53262">
+<molecule id="P15976-3"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="372">
+<property type="antibodies" value="941 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="2623"/>
+<dbReference type="Ensembl" id="ENST00000376670">
+<molecule id="P15976-1"/>
+<property type="protein sequence ID" value="ENSP00000365858"/>
+<property type="gene ID" value="ENSG00000102145"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000651144">
+<molecule id="P15976-3"/>
+<property type="protein sequence ID" value="ENSP00000498550"/>
+<property type="gene ID" value="ENSG00000102145"/>
+</dbReference>
+<dbReference type="GeneID" id="2623"/>
+<dbReference type="KEGG" id="hsa:2623"/>
+<dbReference type="UCSC" id="uc004dkq.5">
+<molecule id="P15976-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="2623"/>
+<dbReference type="DisGeNET" id="2623"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000102145.13"/>
+<dbReference type="GeneCards" id="GATA1"/>
+<dbReference type="GeneReviews" id="GATA1"/>
+<dbReference type="HGNC" id="HGNC:4170">
+<property type="gene designation" value="GATA1"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000102145">
+<property type="expression patterns" value="Group enriched (blood, bone marrow)"/>
+</dbReference>
+<dbReference type="MalaCards" id="GATA1"/>
+<dbReference type="MIM" id="300367">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="300835">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="305371">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="314050">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P15976"/>
+<dbReference type="OpenTargets" id="ENSG00000102145"/>
+<dbReference type="Orphanet" id="86849">
+<property type="disease" value="Acute basophilic leukemia"/>
+</dbReference>
+<dbReference type="Orphanet" id="99887">
+<property type="disease" value="Acute megakaryoblastic leukemia in Down syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="231393">
+<property type="disease" value="Beta-thalassemia-X-linked thrombocytopenia syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="124">
+<property type="disease" value="Blackfan-Diamond anemia"/>
+</dbReference>
+<dbReference type="Orphanet" id="79277">
+<property type="disease" value="Congenital erythropoietic porphyria"/>
+</dbReference>
+<dbReference type="Orphanet" id="67044">
+<property type="disease" value="Thrombocytopenia with congenital dyserythropoietic anemia"/>
+</dbReference>
+<dbReference type="Orphanet" id="420611">
+<property type="disease" value="Transient myeloproliferative syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="363727">
+<property type="disease" value="X-linked dyserythropoietic anemia with abnormal platelets and neutropenia"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA28584"/>
+<dbReference type="eggNOG" id="KOG1601">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000161156"/>
+<dbReference type="HOGENOM" id="CLU_027524_1_1_1"/>
+<dbReference type="InParanoid" id="P15976"/>
+<dbReference type="KO" id="K09182"/>
+<dbReference type="OMA" id="YSKTGLY"/>
+<dbReference type="OrthoDB" id="807790at2759"/>
+<dbReference type="PhylomeDB" id="P15976"/>
+<dbReference type="TreeFam" id="TF315391"/>
+<dbReference type="PathwayCommons" id="P15976"/>
+<dbReference type="Reactome" id="R-HSA-8936459">
+<property type="pathway name" value="RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8939236">
+<property type="pathway name" value="RUNX1 regulates transcription of genes involved in differentiation of HSCs"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-983231">
+<property type="pathway name" value="Factors involved in megakaryocyte development and platelet production"/>
+</dbReference>
+<dbReference type="SignaLink" id="P15976"/>
+<dbReference type="SIGNOR" id="P15976"/>
+<dbReference type="BioGRID-ORCS" id="2623">
+<property type="hits" value="19 hits in 521 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="GATA1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="GATA1"/>
+<dbReference type="GenomeRNAi" id="2623"/>
+<dbReference type="Pharos" id="P15976">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P15976"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome X"/>
+</dbReference>
+<dbReference type="RNAct" id="P15976">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000102145">
+<property type="expression patterns" value="Expressed in bone marrow and 83 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="P15976">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P15976">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000790">
+<property type="term" value="C:nuclear chromatin"/>
+<property type="evidence" value="ECO:0000247"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032993">
+<property type="term" value="C:protein-DNA complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005667">
+<property type="term" value="C:transcription regulator complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017053">
+<property type="term" value="C:transcription repressor complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070742">
+<property type="term" value="F:C2H2 zinc finger domain binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031490">
+<property type="term" value="F:chromatin DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001228">
+<property type="term" value="F:DNA-binding transcription activator activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000981">
+<property type="term" value="F:DNA-binding transcription factor activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000247"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002039">
+<property type="term" value="F:p53 binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000978">
+<property type="term" value="F:RNA polymerase II cis-regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001085">
+<property type="term" value="F:RNA polymerase II transcription factor binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000977">
+<property type="term" value="F:RNA polymerase II transcription regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990837">
+<property type="term" value="F:sequence-specific double-stranded DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000976">
+<property type="term" value="F:transcription regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030221">
+<property type="term" value="P:basophil differentiation"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007596">
+<property type="term" value="P:blood coagulation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045165">
+<property type="term" value="P:cell fate commitment"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007267">
+<property type="term" value="P:cell-cell signaling"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097067">
+<property type="term" value="P:cellular response to thyroid hormone stimulus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097028">
+<property type="term" value="P:dendritic cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035162">
+<property type="term" value="P:embryonic hemopoiesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030222">
+<property type="term" value="P:eosinophil differentiation"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035854">
+<property type="term" value="P:eosinophil fate commitment"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048821">
+<property type="term" value="P:erythrocyte development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030218">
+<property type="term" value="P:erythrocyte differentiation"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048873">
+<property type="term" value="P:homeostasis of number of cells within a tissue"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001701">
+<property type="term" value="P:in utero embryonic development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008584">
+<property type="term" value="P:male gonad development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030219">
+<property type="term" value="P:megakaryocyte differentiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043066">
+<property type="term" value="P:negative regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030502">
+<property type="term" value="P:negative regulation of bone mineralization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008285">
+<property type="term" value="P:negative regulation of cell population proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:2001240">
+<property type="term" value="P:negative regulation of extrinsic apoptotic signaling pathway in absence of ligand"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000122">
+<property type="term" value="P:negative regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000678">
+<property type="term" value="P:negative regulation of transcription regulatory region DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070527">
+<property type="term" value="P:platelet aggregation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030220">
+<property type="term" value="P:platelet formation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045648">
+<property type="term" value="P:positive regulation of erythrocyte differentiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033690">
+<property type="term" value="P:positive regulation of osteoblast proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050731">
+<property type="term" value="P:positive regulation of peptidyl-tyrosine phosphorylation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045893">
+<property type="term" value="P:positive regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010724">
+<property type="term" value="P:regulation of definitive erythrocyte differentiation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010559">
+<property type="term" value="P:regulation of glycoprotein biosynthetic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902036">
+<property type="term" value="P:regulation of hematopoietic stem cell differentiation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045652">
+<property type="term" value="P:regulation of megakaryocyte differentiation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010725">
+<property type="term" value="P:regulation of primitive erythrocyte differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071733">
+<property type="term" value="P:transcriptional activation by promoter-enhancer looping"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="CDD" id="cd00202">
+<property type="entry name" value="ZnF_GATA"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.50.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029524">
+<property type="entry name" value="GATA-1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR039355">
+<property type="entry name" value="Transcription_factor_GATA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000679">
+<property type="entry name" value="Znf_GATA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013088">
+<property type="entry name" value="Znf_NHR/GATA"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10071">
+<property type="entry name" value="PTHR10071"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10071:SF190">
+<property type="entry name" value="PTHR10071:SF190"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00320">
+<property type="entry name" value="GATA"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00619">
+<property type="entry name" value="GATAZNFINGER"/>
+</dbReference>
+<dbReference type="SMART" id="SM00401">
+<property type="entry name" value="ZnF_GATA"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00344">
+<property type="entry name" value="GATA_ZN_FINGER_1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50114">
+<property type="entry name" value="GATA_ZN_FINGER_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0010">Activator</keyword>
+<keyword id="KW-0024">Alternative initiation</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<keyword id="KW-0863">Zinc-finger</keyword>
+<feature type="chain" description="Erythroid transcription factor" id="PRO_0000083397">
+<location>
+<begin position="1"/>
+<end position="413"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="GATA-type 1" evidence="4">
+<location>
+<begin position="204"/>
+<end position="228"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="GATA-type 2" evidence="4">
+<location>
+<begin position="258"/>
+<end position="282"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with MED1 and CCAR1" evidence="14">
+<location>
+<begin position="200"/>
+<end position="330"/>
+</location>
+</feature>
+<feature type="region of interest" description="Required for interaction with ZFPM1">
+<location>
+<begin position="203"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with CALCOCO1" evidence="14">
+<location>
+<begin position="249"/>
+<end position="315"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="26"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="72"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="116"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="131"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="10">
+<location>
+<position position="142"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="178"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="187"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine; by EP300" evidence="20">
+<location>
+<position position="233"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine; by EP300" evidence="20">
+<location>
+<position position="245"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine; by CREBBP" evidence="3">
+<location>
+<position position="246"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine; by EP300" evidence="20">
+<location>
+<position position="246"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine; by CREBBP" evidence="3">
+<location>
+<position position="252"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="3">
+<location>
+<position position="308"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="310"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine; by CREBBP" evidence="3">
+<location>
+<position position="312"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="3">
+<location>
+<position position="314"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="3">
+<location>
+<position position="315"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO)" evidence="10">
+<location>
+<position position="137"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_041451" evidence="19">
+<location>
+<begin position="1"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_014782" evidence="18">
+<original>QVNRPLTMRKDGIQTRNRKASGKGKKKRGSSLGGTGAAEGPAGGFMVVAGGSGSGNCGEVASGLTLGPPGTAHLYQGLGPVVLSGPVSHLMPFPGPLLGSPTGSFPTGPMPPTTSTTVVAPLSS</original>
+<variation>HQHYCGGSAQLMRAQSMASRGGVVSFSSCSQNSGQPKSLGPRHPLA</variation>
+<location>
+<begin position="290"/>
+<end position="413"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XDAT; severe impairment of ZFPM1 binding and erythroid differentiation in vitro; dbSNP:rs104894815." id="VAR_010115" evidence="5">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="205"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XDAT; partially disrupts the interaction with ZFPM1; dbSNP:rs137852312." id="VAR_012706" evidence="7">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="208"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XLTT; does not affect ZFPM1 binding; reduced affinity to palindromic GATA sites; supports erythroid maturation less efficiently than wild-type GATA1; dbSNP:rs104894809." id="VAR_033114" evidence="9">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="216"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XDAT; partially disrupts the interaction with ZFPM1; dbSNP:rs104894816." id="VAR_012707" evidence="6">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="218"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In XDAT; stronger loss of affinity than of G-218-GATA1 for ZFPM1 and disturbed GATA1 self-association; dbSNP:rs104894808." id="VAR_033115" evidence="8">
+<original>D</original>
+<variation>Y</variation>
+<location>
+<position position="218"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes sumoylation." evidence="10">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="137"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of sumoylation." evidence="10">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="142"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increased sumoylation in vitro." evidence="10">
+<original>S</original>
+<variation>D</variation>
+<location>
+<position position="142"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increase of dissociation rate from bound DNA." evidence="5">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="204"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P17679"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00094"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10700180"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11418466"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11675338"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11809723"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12200364"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16371476"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16783379"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17420275"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22235304"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24245781"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26019275"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8524811"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9859997"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000305"/>
+<evidence key="20" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="9859997"/>
+</source>
+</evidence>
+<sequence length="413" mass="42751" checksum="822BD2DE14B908AD" modified="1990-04-01" version="1">MEFPGLGSLGTSEPLPQFVDPALVSSTPESGVFFPSGPEGLDAAASSTAPSTATAAAAALAYYRDAEAYRHSPVFQVYPLLNCMEGIPGGSPYAGWAYGKTGLYPASTVCPTREDSPPQAVEDLDGKGSTSFLETLKTERLSPDLLTLGPALPSSLPVPNSAYGGPDFSSTFFSPTGSPLNSAAYSSPKLRGTLPLPPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGTQCTNCQTTTTTLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQTRNRKASGKGKKKRGSSLGGTGAAEGPAGGFMVVAGGSGSGNCGEVASGLTLGPPGTAHLYQGLGPVVLSGPVSHLMPFPGPLLGSPTGSFPTGPMPPTTSTTVVAPLSS</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

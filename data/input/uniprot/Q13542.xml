@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2003-09-19" modified="2020-10-07" version="165">
+<accession>Q13542</accession>
+<name>4EBP2_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="11">Eukaryotic translation initiation factor 4E-binding protein 2</fullName>
+<shortName evidence="11">4E-BP2</shortName>
+<shortName evidence="11">eIF4E-binding protein 2</shortName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="16">EIF4EBP2</name>
+</gene>
+<organism evidence="13">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Nature" volume="371" first="762" last="767">
+<title>Insulin-dependent stimulation of protein synthesis by phosphorylation of a regulator of 5'-cap function.</title>
+<authorList>
+<person name="Pause A."/>
+<person name="Belsham G.J."/>
+<person name="Gingras A.-C."/>
+<person name="Donze O."/>
+<person name="Lin T.-A."/>
+<person name="Lawrence J.C. Jr."/>
+<person name="Sonenberg N."/>
+</authorList>
+<dbReference type="PubMed" id="7935836"/>
+<dbReference type="DOI" id="10.1038/371762a0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>INTERACTION WITH EIF4E</scope>
+<source>
+<tissue>Placenta</tissue>
+</source>
+</reference>
+<reference key="2" evidence="15">
+<citation type="submission" date="2003-05" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full-length CDSs in BD Creator(TM) system donor vector.</title>
+<authorList>
+<person name="Kalnine N."/>
+<person name="Chen X."/>
+<person name="Rolfs A."/>
+<person name="Halleck A."/>
+<person name="Hines L."/>
+<person name="Eisenstein S."/>
+<person name="Koundinya M."/>
+<person name="Raphael J."/>
+<person name="Moreira D."/>
+<person name="Kelley T."/>
+<person name="LaBaer J."/>
+<person name="Lin Y."/>
+<person name="Phelan M."/>
+<person name="Farmer A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="3" evidence="13">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue evidence="13">Lung</tissue>
+<tissue evidence="14">Uterus</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="10762" last="10767">
+<title>A quantitative atlas of mitotic phosphorylation.</title>
+<authorList>
+<person name="Dephoure N."/>
+<person name="Zhou C."/>
+<person name="Villen J."/>
+<person name="Beausoleil S.A."/>
+<person name="Bakalarski C.E."/>
+<person name="Elledge S.J."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="18669648"/>
+<dbReference type="DOI" id="10.1073/pnas.0805139105"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-37 AND THR-46</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2009" name="Anal. Chem." volume="81" first="4493" last="4501">
+<title>Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach.</title>
+<authorList>
+<person name="Gauci S."/>
+<person name="Helbig A.O."/>
+<person name="Slijper M."/>
+<person name="Krijgsveld J."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="19413330"/>
+<dbReference type="DOI" id="10.1021/ac9004309"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2009" name="Sci. Signal." volume="2" first="RA46" last="RA46">
+<title>Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions.</title>
+<authorList>
+<person name="Mayya V."/>
+<person name="Lundgren D.H."/>
+<person name="Hwang S.-I."/>
+<person name="Rezaul K."/>
+<person name="Wu L."/>
+<person name="Eng J.K."/>
+<person name="Rodionov V."/>
+<person name="Han D.K."/>
+</authorList>
+<dbReference type="PubMed" id="19690332"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000007"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-37</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Leukemic T-cell</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+<dbReference type="DOI" id="10.1021/pr300630k"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2013" name="Structure" volume="21" first="2186" last="2196">
+<title>Interaction of the eukaryotic initiation factor 4E with 4E-BP2 at a dynamic bipartite interface.</title>
+<authorList>
+<person name="Lukhele S."/>
+<person name="Bah A."/>
+<person name="Lin H."/>
+<person name="Sonenberg N."/>
+<person name="Forman-Kay J.D."/>
+</authorList>
+<dbReference type="PubMed" id="24207126"/>
+<dbReference type="DOI" id="10.1016/j.str.2013.08.030"/>
+</citation>
+<scope>DOMAIN</scope>
+<scope>INTERACTION WITH EIF4E</scope>
+<scope>MUTAGENESIS OF 54-TYR--LEU-59</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2011" name="J. Pept. Sci." volume="17" first="650" last="657">
+<title>Structural scaffold for eIF4E binding selectivity of 4E-BP isoforms: crystal structure of eIF4E binding region of 4E-BP2 and its comparison with that of 4E-BP1.</title>
+<authorList>
+<person name="Fukuyo A."/>
+<person name="In Y."/>
+<person name="Ishida T."/>
+<person name="Tomoo K."/>
+</authorList>
+<dbReference type="PubMed" id="21661078"/>
+<dbReference type="DOI" id="10.1002/psc.1384"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 47-65 IN COMPLEX WITH EIF4E</scope>
+<scope>INTERACTION WITH EIF4E</scope>
+<scope>PHOSPHORYLATION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2015" name="Nature" volume="519" first="106" last="109">
+<title>Folding of an intrinsically disordered protein by phosphorylation as a regulatory switch.</title>
+<authorList>
+<person name="Bah A."/>
+<person name="Vernon R.M."/>
+<person name="Siddiqui Z."/>
+<person name="Krzeminski M."/>
+<person name="Muhandiram R."/>
+<person name="Zhao C."/>
+<person name="Sonenberg N."/>
+<person name="Kay L.E."/>
+<person name="Forman-Kay J.D."/>
+</authorList>
+<dbReference type="PubMed" id="25533957"/>
+<dbReference type="DOI" id="10.1038/nature13999"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 18-62</scope>
+<scope>PHOSPHORYLATION AT THR-37; THR-46; SER-65; THR-70 AND SER-83</scope>
+<scope>DOMAIN</scope>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH EIF4E</scope>
+<scope>MUTAGENESIS OF THR-37; GLY-39; THR-46 AND GLY-48</scope>
+</reference>
+<comment type="function">
+<text evidence="5 9">Repressor of translation initiation involved in synaptic plasticity, learning and memory formation (By similarity). Regulates EIF4E activity by preventing its assembly into the eIF4F complex: hypophosphorylated form of EIF4EBP2 competes with EIF4G1/EIF4G3 and strongly binds to EIF4E, leading to repress translation. In contrast, hyperphosphorylated form dissociates from EIF4E, allowing interaction between EIF4G1/EIF4G3 and EIF4E, leading to initiation of translation (PubMed:25533957). EIF4EBP2 is enriched in brain and acts as a regulator of synapse activity and neuronal stem cell renewal via its ability to repress translation initiation (By similarity). Mediates the regulation of protein translation by hormones, growth factors and other stimuli that signal through the MAP kinase and mTORC1 pathways (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="5 7 8 9 10">Hypophosphorylated EIF4EBP2 interacts with EIF4E; phosphorylation of EIF4EBP2 by mTORC1 causes dissociation of the complex allowing EIF4G1/EIF4G3 to bind and consequent initiation of translation (PubMed:7935836, PubMed:24207126, PubMed:21661078, PubMed:25533957). Interacts with RPTOR; promoting phosphorylation by mTORC1 (By similarity). Interacts with PCMT1; required to prevent isoaspartate accumulation and convert isoaspartate to Asp (By similarity).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-935137">
+<id>Q13542</id>
+</interactant>
+<interactant intactId="EBI-73440">
+<id>P06730</id>
+<label>EIF4E</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>12</experiments>
+</comment>
+<comment type="domain">
+<text evidence="6">The TOS motif mediates interaction with RPTOR, leading to promote phosphorylation by mTORC1 complex.</text>
+</comment>
+<comment type="domain">
+<text evidence="8 9">Intrinsically disordered protein that undergoes folding upon phosphorylation (PubMed:25533957). Hypophosphorylated form interacts strongly with EIF4E using (1) the YXXXXLPhi motif, that undergoes a disorder-to-helix transition upon binding and (2) the secondary EIF4E binding sites (residues 78-82) (PubMed:24207126, PubMed:25533957). Phosphorylation at Thr-37 and Thr-46 induces folding of region encompassing residues from Pro-18 to Arg-62 of into a four-stranded beta-domain that sequesters the helical YXXXXLPhi motif into a buried beta-strand, blocking accessibility to EIF4E. Protein phosphorylated at Thr-37 and Thr-46 is however unstable and subsequent phosphorylation at Ser-65, Thr-70 and Ser-83 is required to stabilize the fold, decreasing affinity for EIF4E by a factor of 4000 (PubMed:24207126, PubMed:25533957).</text>
+</comment>
+<comment type="PTM">
+<text evidence="7 8 9">Phosphorylation at Thr-37, Thr-46, Ser-65, Thr-70 and Ser-83 is mediated by MTOR and corresponds to the hyperphosphorylated form: it abolishes binding to EIF4E by inducing folding of intrinsically disordered regions (PubMed:24207126, PubMed:25533957). First phosphorylated at Thr-37 and Thr-46 by MTOR, inducing folding of region encompassing residues from Pro-18 to Arg-62 of into a four-stranded beta-domain that sequesters the helical YXXXXLPhi motif into a partly buried beta-strand, blocking accessibility to EIF4E. Protein phosphorylated at Thr-37 and Thr-46 is however unstable and subsequent phosphorylation at Ser-65, Thr-70 and Ser-83 is required to stabilize the fold, decreasing affinity for EIF4E by a factor of 4000 (PubMed:24207126, PubMed:25533957). Phosphorylated in response to insulin, EGF and PDGF.</text>
+</comment>
+<comment type="PTM">
+<text evidence="5">Deamidated at Asn-99 and Asn-102 to aspartate (Asp) in brain. Deamidation promotes interaction with RPTOR, subsequent phosphorylation by mTORC1 and increased translation, leading to impair kinetics of excitatory synaptic transmission. Deamidation takes place during postnatal development, when the PI3K-Akt-mTOR signaling is reduced, suggesting it acts as a compensatory mechanism to promote translation despite attenuated PI3K-Akt-mTOR signaling in neuron development. Deamidation converts Asn residues into a mixture of Asp and isoaspartate; interactions with PCMT1 is required to prevent isoaspartate accumulation and convert isoaspartate to Asp.</text>
+</comment>
+<comment type="similarity">
+<text evidence="12">Belongs to the eIF4E-binding protein family.</text>
+</comment>
+<comment type="online information" name="Protein Spotlight">
+<link uri="https://web.expasy.org/spotlight/back_issues/168/"/>
+<text>A question of perspective - Issue 168 of April 2015</text>
+</comment>
+<dbReference type="EMBL" id="L36056">
+<property type="protein sequence ID" value="AAA62270.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT007317">
+<property type="protein sequence ID" value="AAP35981.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC005057">
+<property type="protein sequence ID" value="AAH05057.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC050633">
+<property type="protein sequence ID" value="AAH50633.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS7303.1"/>
+<dbReference type="PIR" id="S50867">
+<property type="entry name" value="S50867"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_004087.1">
+<property type="nucleotide sequence ID" value="NM_004096.4"/>
+</dbReference>
+<dbReference type="PDB" id="2MX4">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=18-62"/>
+</dbReference>
+<dbReference type="PDB" id="3AM7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="B=47-65"/>
+</dbReference>
+<dbReference type="PDBsum" id="2MX4"/>
+<dbReference type="PDBsum" id="3AM7"/>
+<dbReference type="BMRB" id="Q13542"/>
+<dbReference type="SMR" id="Q13542"/>
+<dbReference type="BioGRID" id="108294">
+<property type="interactions" value="15"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-36572N"/>
+<dbReference type="ELM" id="Q13542"/>
+<dbReference type="IntAct" id="Q13542">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="MINT" id="Q13542"/>
+<dbReference type="STRING" id="9606.ENSP00000362314"/>
+<dbReference type="iPTMnet" id="Q13542"/>
+<dbReference type="MetOSite" id="Q13542"/>
+<dbReference type="PhosphoSitePlus" id="Q13542"/>
+<dbReference type="BioMuta" id="EIF4EBP2"/>
+<dbReference type="DMDM" id="34921510"/>
+<dbReference type="EPD" id="Q13542"/>
+<dbReference type="jPOST" id="Q13542"/>
+<dbReference type="MassIVE" id="Q13542"/>
+<dbReference type="MaxQB" id="Q13542"/>
+<dbReference type="PaxDb" id="Q13542"/>
+<dbReference type="PeptideAtlas" id="Q13542"/>
+<dbReference type="PRIDE" id="Q13542"/>
+<dbReference type="ProteomicsDB" id="59526"/>
+<dbReference type="Antibodypedia" id="29025">
+<property type="antibodies" value="270 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="1979"/>
+<dbReference type="Ensembl" id="ENST00000373218">
+<property type="protein sequence ID" value="ENSP00000362314"/>
+<property type="gene ID" value="ENSG00000148730"/>
+</dbReference>
+<dbReference type="GeneID" id="1979"/>
+<dbReference type="KEGG" id="hsa:1979"/>
+<dbReference type="UCSC" id="uc001jrb.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="1979"/>
+<dbReference type="DisGeNET" id="1979"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000148730.6"/>
+<dbReference type="GeneCards" id="EIF4EBP2"/>
+<dbReference type="HGNC" id="HGNC:3289">
+<property type="gene designation" value="EIF4EBP2"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000148730">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MIM" id="602224">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q13542"/>
+<dbReference type="OpenTargets" id="ENSG00000148730"/>
+<dbReference type="PharmGKB" id="PA27716"/>
+<dbReference type="eggNOG" id="ENOG502S44S">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000155342"/>
+<dbReference type="HOGENOM" id="CLU_111706_0_0_1"/>
+<dbReference type="InParanoid" id="Q13542"/>
+<dbReference type="KO" id="K18644"/>
+<dbReference type="OMA" id="HINNHDG"/>
+<dbReference type="OrthoDB" id="1597535at2759"/>
+<dbReference type="PhylomeDB" id="Q13542"/>
+<dbReference type="TreeFam" id="TF101530"/>
+<dbReference type="PathwayCommons" id="Q13542"/>
+<dbReference type="SIGNOR" id="Q13542"/>
+<dbReference type="BioGRID-ORCS" id="1979">
+<property type="hits" value="12 hits in 868 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="EIF4EBP2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="EIF4EBP2"/>
+<dbReference type="GenomeRNAi" id="1979"/>
+<dbReference type="Pharos" id="Q13542">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q13542"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Unplaced"/>
+</dbReference>
+<dbReference type="RNAct" id="Q13542">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000148730">
+<property type="expression patterns" value="Expressed in female gonad and 255 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q13542">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q13542">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0098794">
+<property type="term" value="C:postsynapse"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008190">
+<property type="term" value="F:eukaryotic initiation factor 4E binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030371">
+<property type="term" value="F:translation repressor activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019933">
+<property type="term" value="P:cAMP-mediated signaling"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008286">
+<property type="term" value="P:insulin receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007613">
+<property type="term" value="P:memory"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050804">
+<property type="term" value="P:modulation of chemical synaptic transmission"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045947">
+<property type="term" value="P:negative regulation of translational initiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048167">
+<property type="term" value="P:regulation of synaptic plasticity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035176">
+<property type="term" value="P:social behavior"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031929">
+<property type="term" value="P:TOR signaling"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006412">
+<property type="term" value="P:translation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="DisProt" id="DP01293"/>
+<dbReference type="IDEAL" id="IID00564"/>
+<dbReference type="InterPro" id="IPR008606">
+<property type="entry name" value="EIF4EBP"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05456">
+<property type="entry name" value="eIF_4EBP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0652">Protein synthesis inhibitor</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0810">Translation regulation</keyword>
+<feature type="chain" description="Eukaryotic translation initiation factor 4E-binding protein 2" id="PRO_0000190516">
+<location>
+<begin position="1"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="YXXXXLphi motif" evidence="8 9">
+<location>
+<begin position="54"/>
+<end position="60"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Secondary EIF4E binding site" evidence="8 9">
+<location>
+<begin position="78"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="TOS motif" evidence="6">
+<location>
+<begin position="116"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by MTOR" evidence="3 4 9">
+<location>
+<position position="37"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by MTOR" evidence="3 9">
+<location>
+<position position="46"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by MTOR" evidence="9">
+<location>
+<position position="65"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by MTOR" evidence="9">
+<location>
+<position position="70"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9">
+<location>
+<position position="83"/>
+</location>
+</feature>
+<feature type="modified residue" description="Deamidated asparagine" evidence="5">
+<location>
+<position position="99"/>
+</location>
+</feature>
+<feature type="modified residue" description="Deamidated asparagine" evidence="5">
+<location>
+<position position="102"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Acidic residues do not mimic phosphorylation state. Does not induce folding of the intrinsically disordered protein; when associated with D-46 or E-46." evidence="9">
+<original>T</original>
+<variation>D</variation>
+<variation>E</variation>
+<location>
+<position position="37"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes folding of the intrinsically disordered protein without affecting greatly affinity for EIF4E even when the protein is fully phosphorylated; when associated with V-48." evidence="9">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="39"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Acidic residues do not mimic phosphorylation state. Does not induce folding of the intrinsically disordered protein; when associated with D-37 or E-37." evidence="9">
+<original>T</original>
+<variation>D</variation>
+<variation>E</variation>
+<location>
+<position position="46"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes folding of the intrinsically disordered protein without affecting greatly affinity for EIF4E even when the protein is fully phosphorylated; when associated with V-39." evidence="9">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="48"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired binding to EIF4E." evidence="8">
+<original>YDRKFLL</original>
+<variation>AAAAAAA</variation>
+<location>
+<begin position="54"/>
+<end position="60"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired binding to EIF4E." evidence="8">
+<original>IPGVT</original>
+<variation>AAAAA</variation>
+<location>
+<begin position="78"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="19"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="27"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="42"/>
+<end position="45"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="56"/>
+<end position="60"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2MX4"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3AM7"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="18669648"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19690332"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P70445"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q13541"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21661078"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24207126"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25533957"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7935836"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="7935836"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000305"/>
+<evidence key="13" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAH05057.1"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAH50633.1"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAP35981.1"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000312">
+<source>
+<dbReference type="HGNC" id="HGNC:3289"/>
+</source>
+</evidence>
+<sequence length="120" mass="12939" checksum="B8F109261A504193" modified="1996-11-01" version="1">MSSSAGSGHQPSQSRAIPTRTVAISDAAQLPHDYCTTPGGTLFSTTPGGTRIIYDRKFLLDRRNSPMAQTPPCHLPNIPGVTSPGTLIEDSKVEVNNLNNLNNHDRKHAVGDDAQFEMDI</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

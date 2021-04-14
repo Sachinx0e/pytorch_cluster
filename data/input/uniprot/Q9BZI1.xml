@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2002-04-16" modified="2020-10-07" version="141">
+<accession>Q9BZI1</accession>
+<accession>Q68A19</accession>
+<accession>Q7Z2I7</accession>
+<name>IRX2_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Iroquois-class homeodomain protein IRX-2</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Homeodomain protein IRXA2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Iroquois homeobox protein 2</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">IRX2</name>
+<name type="synonym">IRXA2</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="2003-07" db="EMBL/GenBank/DDBJ databases">
+<title>Characterization of the human homeobox two-cluster Iroquois gene family.</title>
+<authorList>
+<person name="Hansen L."/>
+<person name="Wu Q."/>
+<person name="Tommerup N."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="2004-08" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Sugiyama A."/>
+<person name="Inoue H."/>
+<person name="Oka M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Kidney</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Lung</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2001" name="Cytogenet. Cell Genet." volume="92" first="320" last="325">
+<title>Cloning and chromosome mapping of human and chicken Iroquois (IRX) genes.</title>
+<authorList>
+<person name="Ogura K."/>
+<person name="Matsumoto K."/>
+<person name="Kuroiwa A."/>
+<person name="Isobe T."/>
+<person name="Otoguro T."/>
+<person name="Jurecic V."/>
+<person name="Baldini A."/>
+<person name="Matsuda Y."/>
+<person name="Ogura T."/>
+</authorList>
+<dbReference type="PubMed" id="11435706"/>
+<dbReference type="DOI" id="10.1159/000056921"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 101-181</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2011" name="Sci. Signal." volume="4" first="RS3" last="RS3">
+<title>System-wide temporal characterization of the proteome and phosphoproteome of human embryonic stem cell differentiation.</title>
+<authorList>
+<person name="Rigbolt K.T."/>
+<person name="Prokhorova T.A."/>
+<person name="Akimov V."/>
+<person name="Henningsen J."/>
+<person name="Johansen P.T."/>
+<person name="Kratchmarova I."/>
+<person name="Kassem M."/>
+<person name="Mann M."/>
+<person name="Olsen J.V."/>
+<person name="Blagoev B."/>
+</authorList>
+<dbReference type="PubMed" id="21406692"/>
+<dbReference type="DOI" id="10.1126/scisignal.2001570"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-186</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="interaction">
+<interactant intactId="EBI-12166369">
+<id>Q9BZI1</id>
+</interactant>
+<interactant intactId="EBI-357275">
+<id>Q99471</id>
+<label>PFDN5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-12166369">
+<id>Q9BZI1</id>
+</interactant>
+<interactant intactId="EBI-2876622">
+<id>Q9UPG8</id>
+<label>PLAGL2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-12166369">
+<id>Q9BZI1</id>
+</interactant>
+<interactant intactId="EBI-11741437">
+<id>Q08117-2</id>
+<label>TLE5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2">Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the TALE/IRO homeobox family.</text>
+</comment>
+<dbReference type="EMBL" id="AY335939">
+<property type="protein sequence ID" value="AAQ16545.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY335940">
+<property type="protein sequence ID" value="AAQ16546.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB188492">
+<property type="protein sequence ID" value="BAD37140.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC065189">
+<property type="protein sequence ID" value="AAH65189.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF319967">
+<property type="protein sequence ID" value="AAK01202.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS3868.1"/>
+<dbReference type="RefSeq" id="NP_001127694.1">
+<property type="nucleotide sequence ID" value="NM_001134222.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_150366.1">
+<property type="nucleotide sequence ID" value="NM_033267.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011512281.1">
+<property type="nucleotide sequence ID" value="XM_011513979.2"/>
+</dbReference>
+<dbReference type="SMR" id="Q9BZI1"/>
+<dbReference type="BioGRID" id="127504">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="IntAct" id="Q9BZI1">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000372056"/>
+<dbReference type="iPTMnet" id="Q9BZI1"/>
+<dbReference type="PhosphoSitePlus" id="Q9BZI1"/>
+<dbReference type="BioMuta" id="IRX2"/>
+<dbReference type="DMDM" id="47117908"/>
+<dbReference type="EPD" id="Q9BZI1"/>
+<dbReference type="jPOST" id="Q9BZI1"/>
+<dbReference type="MassIVE" id="Q9BZI1"/>
+<dbReference type="MaxQB" id="Q9BZI1"/>
+<dbReference type="PaxDb" id="Q9BZI1"/>
+<dbReference type="PeptideAtlas" id="Q9BZI1"/>
+<dbReference type="PRIDE" id="Q9BZI1"/>
+<dbReference type="ProteomicsDB" id="79848"/>
+<dbReference type="Antibodypedia" id="9121">
+<property type="antibodies" value="177 antibodies"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000302057">
+<property type="protein sequence ID" value="ENSP00000307006"/>
+<property type="gene ID" value="ENSG00000170561"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000382611">
+<property type="protein sequence ID" value="ENSP00000372056"/>
+<property type="gene ID" value="ENSG00000170561"/>
+</dbReference>
+<dbReference type="GeneID" id="153572"/>
+<dbReference type="KEGG" id="hsa:153572"/>
+<dbReference type="UCSC" id="uc003jda.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="153572"/>
+<dbReference type="DisGeNET" id="153572"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000170561.12"/>
+<dbReference type="GeneCards" id="IRX2"/>
+<dbReference type="HGNC" id="HGNC:14359">
+<property type="gene designation" value="IRX2"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000170561">
+<property type="expression patterns" value="Tissue enhanced (brain, breast, lung, salivary gland)"/>
+</dbReference>
+<dbReference type="MalaCards" id="IRX2"/>
+<dbReference type="MIM" id="606198">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9BZI1"/>
+<dbReference type="OpenTargets" id="ENSG00000170561"/>
+<dbReference type="Orphanet" id="457246">
+<property type="disease" value="Clear cell sarcoma of kidney"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA29924"/>
+<dbReference type="eggNOG" id="KOG0773">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000161198"/>
+<dbReference type="HOGENOM" id="CLU_048118_1_0_1"/>
+<dbReference type="InParanoid" id="Q9BZI1"/>
+<dbReference type="OMA" id="HPHEDAS"/>
+<dbReference type="OrthoDB" id="768315at2759"/>
+<dbReference type="PhylomeDB" id="Q9BZI1"/>
+<dbReference type="TreeFam" id="TF319371"/>
+<dbReference type="PathwayCommons" id="Q9BZI1"/>
+<dbReference type="BioGRID-ORCS" id="153572">
+<property type="hits" value="4 hits in 893 CRISPR screens"/>
+</dbReference>
+<dbReference type="GeneWiki" id="IRX2"/>
+<dbReference type="GenomeRNAi" id="153572"/>
+<dbReference type="Pharos" id="Q9BZI1">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q9BZI1"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="RNAct" id="Q9BZI1">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000170561">
+<property type="expression patterns" value="Expressed in upper lobe of lung and 134 other tissues"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9BZI1">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000790">
+<property type="term" value="C:nuclear chromatin"/>
+<property type="evidence" value="ECO:0000247"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000981">
+<property type="term" value="F:DNA-binding transcription factor activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000247"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001227">
+<property type="term" value="F:DNA-binding transcription repressor activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048468">
+<property type="term" value="P:cell development"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000122">
+<property type="term" value="P:negative regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030182">
+<property type="term" value="P:neuron differentiation"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072272">
+<property type="term" value="P:proximal/distal pattern formation involved in metanephric nephron development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006357">
+<property type="term" value="P:regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072086">
+<property type="term" value="P:specification of loop of Henle identity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="CDD" id="cd00086">
+<property type="entry name" value="homeodomain"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009057">
+<property type="entry name" value="Homeobox-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017970">
+<property type="entry name" value="Homeobox_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001356">
+<property type="entry name" value="Homeobox_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008422">
+<property type="entry name" value="Homeobox_KN_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003893">
+<property type="entry name" value="Iroquois_homeo"/>
+</dbReference>
+<dbReference type="Pfam" id="PF05920">
+<property type="entry name" value="Homeobox_KN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00389">
+<property type="entry name" value="HOX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00548">
+<property type="entry name" value="IRO"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46689">
+<property type="entry name" value="SSF46689"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00027">
+<property type="entry name" value="HOMEOBOX_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50071">
+<property type="entry name" value="HOMEOBOX_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0371">Homeobox</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="Iroquois-class homeodomain protein IRX-2" id="PRO_0000049153">
+<location>
+<begin position="1"/>
+<end position="471"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="Homeobox; TALE-type" evidence="2">
+<location>
+<begin position="112"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="186"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="21406692"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00108"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<sequence length="471" mass="49129" checksum="3B370608B5223C3C" modified="2004-05-10" version="2">MSYPQGYLYQAPGSLALYSCPAYGASALAAPRSEELARSASGSAFSPYPGSAAFTAQAATGFGSPLQYSADAAAAAAGFPSYMGAPYDAHTTGMTGAISYHPYGSAAYPYQLNDPAYRKNATRDATATLKAWLNEHRKNPYPTKGEKIMLAIITKMTLTQVSTWFANARRRLKKENKMTWAPRNKSEDEDEDEGDATRSKDESPDKAQEGTETSAEDEGISLHVDSLTDHSCSAESDGEKLPCRAGDPLCESGSECKDKYDDLEDDEDDDEEGERGLAPPKPVTSSPLTGLEAPLLSPPPEAAPRGGRKTPQGSRTSPGAPPPASKPKLWSLAEIATSDLKQPSLGPGCGPPGLPAAAAPASTGAPPGGSPYPASPLLGRPLYYTSPFYGNYTNYGNLNAALQGQGLLRYNSAAAAPGEALHTAPKAASDAGKAGAHPLESHYRSPGGGYEPKKDASEGCTVVGGGVQPYL</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

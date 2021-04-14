@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-07-05" modified="2020-08-12" version="115">
+<accession>Q68ED7</accession>
+<accession>Q6ZQ85</accession>
+<name>CRTC1_MOUSE</name>
+<protein>
+<recommendedName>
+<fullName>CREB-regulated transcription coactivator 1</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Mucoepidermoid carcinoma translocated protein 1 homolog</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Transducer of regulated cAMP response element-binding protein 1</fullName>
+<shortName>TORC-1</shortName>
+<shortName>Transducer of CREB protein 1</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="14">Crtc1</name>
+<name type="synonym" evidence="13">Kiaa0616</name>
+<name type="synonym" evidence="12">Mect1</name>
+<name type="synonym">Torc1</name>
+</gene>
+<organism>
+<name type="scientific">Mus musculus</name>
+<name type="common">Mouse</name>
+<dbReference type="NCBI Taxonomy" id="10090"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Glires</taxon>
+<taxon>Rodentia</taxon>
+<taxon>Myomorpha</taxon>
+<taxon>Muroidea</taxon>
+<taxon>Muridae</taxon>
+<taxon>Murinae</taxon>
+<taxon>Mus</taxon>
+<taxon>Mus</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="12">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<strain evidence="12">C57BL/6J</strain>
+<tissue evidence="12">Brain</tissue>
+</source>
+</reference>
+<reference key="2" evidence="13">
+<citation type="journal article" date="2003" name="DNA Res." volume="10" first="167" last="180">
+<title>Prediction of the coding sequences of mouse homologues of KIAA gene: III. The complete nucleotide sequences of 500 mouse KIAA-homologous cDNAs identified by screening of terminal sequences of cDNA clones randomly sampled from size-fractionated libraries.</title>
+<authorList>
+<person name="Okazaki N."/>
+<person name="Kikuno R."/>
+<person name="Ohara R."/>
+<person name="Inamoto S."/>
+<person name="Koseki H."/>
+<person name="Hiraoka S."/>
+<person name="Saga Y."/>
+<person name="Nagase T."/>
+<person name="Ohara O."/>
+<person name="Koga H."/>
+</authorList>
+<dbReference type="PubMed" id="14621295"/>
+<dbReference type="DOI" id="10.1093/dnares/10.4.167"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue evidence="13">Brain</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2007" name="Proc. Natl. Acad. Sci. U.S.A." volume="104" first="4700" last="4705">
+<title>TORC1 is a calcium- and cAMP-sensitive coincidence detector involved in hippocampal long-term synaptic plasticity.</title>
+<authorList>
+<person name="Kovacs K.A."/>
+<person name="Steullet P."/>
+<person name="Steinmann M."/>
+<person name="Do K.Q."/>
+<person name="Magistretti P.J."/>
+<person name="Halfon O."/>
+<person name="Cardinaux J.R."/>
+</authorList>
+<dbReference type="PubMed" id="17360587"/>
+<dbReference type="DOI" id="10.1073/pnas.0607524104"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2010" name="Cell" volume="143" first="1174" last="1189">
+<title>A tissue-specific atlas of mouse protein phosphorylation and expression.</title>
+<authorList>
+<person name="Huttlin E.L."/>
+<person name="Jedrychowski M.P."/>
+<person name="Elias J.E."/>
+<person name="Goswami T."/>
+<person name="Rad R."/>
+<person name="Beausoleil S.A."/>
+<person name="Villen J."/>
+<person name="Haas W."/>
+<person name="Sowa M.E."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="21183079"/>
+<dbReference type="DOI" id="10.1016/j.cell.2010.12.001"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-151</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Brain</tissue>
+<tissue>Kidney</tissue>
+<tissue>Lung</tissue>
+<tissue>Spleen</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2013" name="Cell" volume="154" first="1100" last="1111">
+<title>The CRTC1-SIK1 pathway regulates entrainment of the circadian clock.</title>
+<authorList>
+<person name="Jagannath A."/>
+<person name="Butler R."/>
+<person name="Godinho S.I."/>
+<person name="Couch Y."/>
+<person name="Brown L.A."/>
+<person name="Vasudevan S.R."/>
+<person name="Flanagan K.C."/>
+<person name="Anthony D."/>
+<person name="Churchill G.C."/>
+<person name="Wood M.J."/>
+<person name="Steiner G."/>
+<person name="Ebeling M."/>
+<person name="Hossbach M."/>
+<person name="Wettstein J.G."/>
+<person name="Duffield G.E."/>
+<person name="Gatti S."/>
+<person name="Hankins M.W."/>
+<person name="Foster R.G."/>
+<person name="Peirson S.N."/>
+</authorList>
+<dbReference type="PubMed" id="23993098"/>
+<dbReference type="DOI" id="10.1016/j.cell.2013.08.004"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2013" name="J. Neurosci." volume="33" first="9021" last="9027">
+<title>Clock and light regulation of the CREB coactivator CRTC1 in the suprachiasmatic circadian clock.</title>
+<authorList>
+<person name="Sakamoto K."/>
+<person name="Norona F.E."/>
+<person name="Alzate-Correa D."/>
+<person name="Scarberry D."/>
+<person name="Hoyt K.R."/>
+<person name="Obrietan K."/>
+</authorList>
+<dbReference type="PubMed" id="23699513"/>
+<dbReference type="DOI" id="10.1523/jneurosci.4202-12.2013"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2018" name="FEBS J." volume="285" first="467" last="480">
+<title>14-3-3 proteins mediate inhibitory effects of cAMP on salt-inducible kinases (SIKs).</title>
+<authorList>
+<person name="Sonntag T."/>
+<person name="Vaughan J.M."/>
+<person name="Montminy M."/>
+</authorList>
+<dbReference type="PubMed" id="29211348"/>
+<dbReference type="DOI" id="10.1111/febs.14351"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2017" name="PLoS ONE" volume="12" first="E0173013" last="E0173013">
+<title>Analysis of a cAMP regulated coactivator family reveals an alternative phosphorylation motif for AMPK family members.</title>
+<authorList>
+<person name="Sonntag T."/>
+<person name="Moresco J.J."/>
+<person name="Vaughan J.M."/>
+<person name="Matsumura S."/>
+<person name="Yates J.R. III"/>
+<person name="Montminy M."/>
+</authorList>
+<dbReference type="PubMed" id="28235073"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0173013"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<scope>PHOSPHORYLATION AT SER-64; THR-149 AND SER-151</scope>
+<scope>MUTAGENESIS OF SER-64; SER-151 AND SER-245</scope>
+<scope>INTERACTION WITH 14-3-3 PROTEINS</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2018" name="IScience" volume="11" first="134" last="145">
+<title>Mitogenic Signals Stimulate the CREB Coactivator CRTC3 through PP2A Recruitment.</title>
+<authorList>
+<person name="Sonntag T."/>
+<person name="Ostojic J."/>
+<person name="Vaughan J.M."/>
+<person name="Moresco J.J."/>
+<person name="Yoon Y.S."/>
+<person name="Yates J.R. III"/>
+<person name="Montminy M."/>
+</authorList>
+<dbReference type="PubMed" id="30611118"/>
+<dbReference type="DOI" id="10.1016/j.isci.2018.12.012"/>
+</citation>
+<scope>INTERACTION WITH YWHAE AND PPP3CA</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4 5 6 7 9">Transcriptional coactivator for CREB1 which activates transcription through both consensus and variant cAMP response element (CRE) sites (PubMed:29211348). Acts as a coactivator, in the SIK/TORC signaling pathway, being active when dephosphorylated (PubMed:29211348). Acts independently of CREB1 'Ser-133' phosphorylation. Enhances the interaction of CREB1 with TAF4. Regulates the expression of specific CREB-activated genes such as the steroidogenic gene, StAR. Potent coactivator of PGC1alpha and inducer of mitochondrial biogenesis in muscle cells (By similarity). In the hippocampus, involved in late-phase long-term potentiation (L-LTP) maintenance at the Schaffer collateral-CA1 synapses. May be required for dendritic growth of developing cortical neurons. In concert with SIK1, regulates the light-induced entrainment of the circadian clock. In response to light stimulus, coactivates the CREB-mediated transcription of PER1 which plays an important role in the photic entrainment of the circadian clock.</text>
+</comment>
+<comment type="subunit">
+<text evidence="4 8 10">Binds, as a tetramer, through its N-terminal region, with the bZIP domain of CREB1 (By similarity). 'Arg-314' in the bZIP domain of CREB1 is essential for this interaction (By similarity). Interaction, via its C-terminal, with TAF4, enhances recruitment of TAF4 to CREB1 (By similarity). Interacts with 14-3-3 proteins, including YWHAE/14-3-3 epsilon (PubMed:28235073, PubMed:30611118). Interacts with calmodulin-dependent catalytic subunit PPP3CA/calcineurin A (PubMed:30611118).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="5 7">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="5 6 7">Nucleus</location>
+</subcellularLocation>
+<text evidence="4 6">Cytoplasmic when phosphorylated by SIK or AMPK and when sequestered by 14-3-3 proteins (By similarity). Translocated to the nucleus on Ser-151 dephosphorylation, instigated by a number of factors including calcium ion and cAMP levels (By similarity). Light stimulation triggers a nuclear accumulation in the suprachiasmatic nucleus (SCN) of the brain (PubMed:23699513).</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="5">Highly expressed in specific regions of the brain including the cortex, hippocampus and striatum.</text>
+</comment>
+<comment type="induction">
+<text evidence="6">Expressed in a circadian manner in the suprachiasmatic nucleus (SCN) of the brain. Expression is highest during the day and reaches a nadir during the early subjective night.</text>
+</comment>
+<comment type="PTM">
+<text evidence="7">Phosphorylation/dephosphorylation states of Ser-151 are required for regulating transduction of CREB activity. TORCs are inactive when phosphorylated, and active when dephosphorylated at this site. This primary site of phosphorylation is mediated by SIKs (SIK1 and SIK2), is regulated by cAMP and calcium levels and is dependent on the phosphorylation of SIKs by LKB1.</text>
+</comment>
+<comment type="similarity">
+<text evidence="11">Belongs to the TORC family.</text>
+</comment>
+<comment type="sequence caution" evidence="11">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="BAC97983" version="1"/>
+</conflict>
+<text>Extended N-terminus.</text>
+</comment>
+<dbReference type="EMBL" id="BC080308">
+<property type="protein sequence ID" value="AAH80308.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK129173">
+<property type="protein sequence ID" value="BAC97983.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS40372.1"/>
+<dbReference type="RefSeq" id="NP_001004062.1">
+<property type="nucleotide sequence ID" value="NM_001004062.2"/>
+</dbReference>
+<dbReference type="SMR" id="Q68ED7"/>
+<dbReference type="BioGRID" id="238211">
+<property type="interactions" value="5"/>
+</dbReference>
+<dbReference type="STRING" id="10090.ENSMUSP00000075916"/>
+<dbReference type="iPTMnet" id="Q68ED7"/>
+<dbReference type="PhosphoSitePlus" id="Q68ED7"/>
+<dbReference type="EPD" id="Q68ED7"/>
+<dbReference type="MaxQB" id="Q68ED7"/>
+<dbReference type="PaxDb" id="Q68ED7"/>
+<dbReference type="PeptideAtlas" id="Q68ED7"/>
+<dbReference type="PRIDE" id="Q68ED7"/>
+<dbReference type="Antibodypedia" id="15141">
+<property type="antibodies" value="352 antibodies"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENSMUST00000076615">
+<property type="protein sequence ID" value="ENSMUSP00000075916"/>
+<property type="gene ID" value="ENSMUSG00000003575"/>
+</dbReference>
+<dbReference type="GeneID" id="382056"/>
+<dbReference type="KEGG" id="mmu:382056"/>
+<dbReference type="UCSC" id="uc009mae.1">
+<property type="organism name" value="mouse"/>
+</dbReference>
+<dbReference type="CTD" id="23373"/>
+<dbReference type="MGI" id="MGI:2142523">
+<property type="gene designation" value="Crtc1"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG502QU41">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000010652"/>
+<dbReference type="HOGENOM" id="CLU_019357_2_0_1"/>
+<dbReference type="InParanoid" id="Q68ED7"/>
+<dbReference type="KO" id="K15309"/>
+<dbReference type="OMA" id="AWDAKKT"/>
+<dbReference type="OrthoDB" id="1118500at2759"/>
+<dbReference type="PhylomeDB" id="Q68ED7"/>
+<dbReference type="TreeFam" id="TF321571"/>
+<dbReference type="BioGRID-ORCS" id="382056">
+<property type="hits" value="4 hits in 18 CRISPR screens"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q68ED7"/>
+<dbReference type="Proteomes" id="UP000000589">
+<property type="component" value="Chromosome 8"/>
+</dbReference>
+<dbReference type="RNAct" id="Q68ED7">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSMUSG00000003575">
+<property type="expression patterns" value="Expressed in dentate gyrus of hippocampal formation granule cell and 188 other tissues"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q68ED7">
+<property type="organism ID" value="MM"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030425">
+<property type="term" value="C:dendrite"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0098978">
+<property type="term" value="C:glutamatergic synapse"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043025">
+<property type="term" value="C:neuronal cell body"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016604">
+<property type="term" value="C:nuclear body"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014069">
+<property type="term" value="C:postsynaptic density"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008140">
+<property type="term" value="F:cAMP response element binding protein binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097009">
+<property type="term" value="P:energy homeostasis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043153">
+<property type="term" value="P:entrainment of circadian clock by photoperiod"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007613">
+<property type="term" value="P:memory"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902631">
+<property type="term" value="P:negative regulation of membrane hyperpolarization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032793">
+<property type="term" value="P:positive regulation of CREB transcription factor activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900006">
+<property type="term" value="P:positive regulation of dendrite development"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900273">
+<property type="term" value="P:positive regulation of long-term synaptic potentiation"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0099527">
+<property type="term" value="P:postsynapse to nucleus signaling pathway"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051289">
+<property type="term" value="P:protein homotetramerization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048511">
+<property type="term" value="P:rhythmic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024786">
+<property type="entry name" value="TORC"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024785">
+<property type="entry name" value="TORC_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024784">
+<property type="entry name" value="TORC_M"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024783">
+<property type="entry name" value="TORC_N"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR13589">
+<property type="entry name" value="PTHR13589"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12886">
+<property type="entry name" value="TORC_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12885">
+<property type="entry name" value="TORC_M"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12884">
+<property type="entry name" value="TORC_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0010">Activator</keyword>
+<keyword id="KW-0090">Biological rhythms</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="CREB-regulated transcription coactivator 1" id="PRO_0000096355">
+<location>
+<begin position="1"/>
+<end position="630"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Nuclear export signal" evidence="2">
+<location>
+<begin position="242"/>
+<end position="258"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Ser-rich">
+<location>
+<begin position="295"/>
+<end position="365"/>
+</location>
+</feature>
+<feature type="site" description="Required for ubiquitination and degradation" evidence="2">
+<location>
+<position position="571"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="8">
+<location>
+<position position="64"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="4">
+<location>
+<position position="113"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="8">
+<location>
+<position position="149"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1 8">
+<location>
+<position position="151"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="4">
+<location>
+<position position="161"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Up-regulates CREB transcription factor activity." evidence="8">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="64"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Up-regulates CREB transcription factor activity. Reduces interaction with 14-3-3 proteins." evidence="8">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="151"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on interaction with 14-3-3 proteins." evidence="8">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="245"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="21183079"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q157S1"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q6UUV9"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17360587"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23699513"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23993098"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28235073"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="29211348"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30611118"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<evidence key="12" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAH80308.1"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="BAC97983.1"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000312">
+<source>
+<dbReference type="MGI" id="MGI:2142523"/>
+</source>
+</evidence>
+<sequence length="630" mass="66945" checksum="FD0C37B48301471C" modified="2004-10-11" version="1">MATSNNPRKFSEKIALHNQKQAEETAAFEEVMKDLSLTRAARLQLQKSQYLQLGPSRGQYYGGSLPNVNQIGSSSVDLAFQTPFQSSGLDTSRTTRHHGLVDRVYRERGRLGSPHRRPLSVDKHGRQADSCPYGTVYLSPPADTSWRRTNSDSALHQSTMTPSQAESFTGGSQDAHQKRVLLLTVPGMEDTGAETDKTLSKQSWDSKKAGSRPKSCEVPGINIFPSADQENTTALIPATHNTGGSLPDLTNIHFPSPLPTPLDPEEPPFPALTSSSSTGSLAHLGVGGAGQGMNTPSSSPQHRPAVVSPLSLSTEARRQQAQQVSPTLSPLSPITQAVAMDALSLEQQLPYAFFTQTGSQQPPPQPQPPPPPPPVSQQQPPPPQVSVGLPQGGPLLPSASLTRGPQLPPLSVTVPSTLPQSPTENPGQSPMGIDATSAPALQYRTSAGSPATQSPTSPVSNQGFSPGSSPQHTSTLGSVFGDAYYEQQMTARQANALSRQLEQFNMMENAISSSSLYNPGSTLNYSQAAMMGLSGSHGGLQDPQQLGYTGHGGIPNIILTVTGESPPSLSKELSSTLAGVSDVSFDSDHQFPLDELKIDPLTLDGLHMLNDPDMVLADPATEDTFRMDRL</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

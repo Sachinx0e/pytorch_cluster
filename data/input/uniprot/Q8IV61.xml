@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2003-08-29" modified="2020-10-07" version="171">
+<accession>Q8IV61</accession>
+<accession>D6W583</accession>
+<accession>O94931</accession>
+<accession>Q53SD7</accession>
+<name>GRP3_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Ras guanyl-releasing protein 3</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Calcium and DAG-regulated guanine nucleotide exchange factor III</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Guanine nucleotide exchange factor for Rap1</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">RASGRP3</name>
+<name type="synonym">GRP3</name>
+<name type="synonym">KIAA0846</name>
+</gene>
+<organism evidence="9">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="8">
+<citation type="journal article" date="1998" name="DNA Res." volume="5" first="355" last="364">
+<title>Prediction of the coding sequences of unidentified human genes. XII. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro.</title>
+<authorList>
+<person name="Nagase T."/>
+<person name="Ishikawa K."/>
+<person name="Suyama M."/>
+<person name="Kikuno R."/>
+<person name="Hirosawa M."/>
+<person name="Miyajima N."/>
+<person name="Tanaka A."/>
+<person name="Kotani H."/>
+<person name="Nomura N."/>
+<person name="Ohara O."/>
+</authorList>
+<dbReference type="PubMed" id="10048485"/>
+<dbReference type="DOI" id="10.1093/dnares/5.6.355"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+<source>
+<tissue evidence="5">Brain</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2007" name="BMC Genomics" volume="8" first="399" last="399">
+<title>The full-ORF clone resource of the German cDNA consortium.</title>
+<authorList>
+<person name="Bechtel S."/>
+<person name="Rosenfelder H."/>
+<person name="Duda A."/>
+<person name="Schmidt C.P."/>
+<person name="Ernst U."/>
+<person name="Wellenreuther R."/>
+<person name="Mehrle A."/>
+<person name="Schuster C."/>
+<person name="Bahr A."/>
+<person name="Bloecker H."/>
+<person name="Heubner D."/>
+<person name="Hoerlein A."/>
+<person name="Michel G."/>
+<person name="Wedler H."/>
+<person name="Koehrer K."/>
+<person name="Ottenwaelder B."/>
+<person name="Poustka A."/>
+<person name="Wiemann S."/>
+<person name="Schupp I."/>
+</authorList>
+<dbReference type="PubMed" id="17974005"/>
+<dbReference type="DOI" id="10.1186/1471-2164-8-399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Endometrium</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2005" name="Nature" volume="434" first="724" last="731">
+<title>Generation and annotation of the DNA sequences of human chromosomes 2 and 4.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Graves T.A."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Pepin K.H."/>
+<person name="Minx P."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Kremitzki C."/>
+<person name="Oddy L."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Carter J."/>
+<person name="Cordes M."/>
+<person name="Harris A."/>
+<person name="Isak A."/>
+<person name="van Brunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Abbott S."/>
+<person name="Armstrong J."/>
+<person name="Belter E.A."/>
+<person name="Caruso L."/>
+<person name="Cedroni M."/>
+<person name="Cotton M."/>
+<person name="Davidson T."/>
+<person name="Desai A."/>
+<person name="Elliott G."/>
+<person name="Erb T."/>
+<person name="Fronick C."/>
+<person name="Gaige T."/>
+<person name="Haakenson W."/>
+<person name="Haglund K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Kim K."/>
+<person name="Kruchowski S.S."/>
+<person name="Strong C.M."/>
+<person name="Grewal N."/>
+<person name="Goyea E."/>
+<person name="Hou S."/>
+<person name="Levy A."/>
+<person name="Martinka S."/>
+<person name="Mead K."/>
+<person name="McLellan M.D."/>
+<person name="Meyer R."/>
+<person name="Randall-Maher J."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Shah N."/>
+<person name="Swearengen-Shahid S."/>
+<person name="Snider J."/>
+<person name="Strong J.T."/>
+<person name="Thompson J."/>
+<person name="Yoakum M."/>
+<person name="Leonard S."/>
+<person name="Pearman C."/>
+<person name="Trani L."/>
+<person name="Radionenko M."/>
+<person name="Waligorski J.E."/>
+<person name="Wang C."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Maupin R."/>
+<person name="Latreille P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Pohl C."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Berkowicz N."/>
+<person name="Nelson J.O."/>
+<person name="Osborne J."/>
+<person name="Ding L."/>
+<person name="Meyer R."/>
+<person name="Sabo A."/>
+<person name="Shotland Y."/>
+<person name="Sinha P."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Jones T.A."/>
+<person name="She X."/>
+<person name="Ciccarelli F.D."/>
+<person name="Izaurralde E."/>
+<person name="Taylor J."/>
+<person name="Schmutz J."/>
+<person name="Myers R.M."/>
+<person name="Cox D.R."/>
+<person name="Huang X."/>
+<person name="McPherson J.D."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Warren W.C."/>
+<person name="Chinwalla A.T."/>
+<person name="Eddy S.R."/>
+<person name="Marra M.A."/>
+<person name="Ovcharenko I."/>
+<person name="Furey T.S."/>
+<person name="Miller W."/>
+<person name="Eichler E.E."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Torrents D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="15815621"/>
+<dbReference type="DOI" id="10.1038/nature03466"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5" evidence="8">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+</reference>
+<reference key="6" evidence="8">
+<citation type="journal article" date="2000" name="J. Biol. Chem." volume="275" first="34901" last="34908">
+<title>Identification of guanine nucleotide exchange factors (GEFs) for the Rap1 GTPase. Regulation of MR-GEF by M-Ras-GTP interaction.</title>
+<authorList>
+<person name="Rebhun J.F."/>
+<person name="Castro A.F."/>
+<person name="Quilliam L.A."/>
+</authorList>
+<dbReference type="PubMed" id="10934204"/>
+<dbReference type="DOI" id="10.1074/jbc.m005327200"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<comment type="function">
+<text evidence="6">Guanine nucleotide exchange factor (GEF) for Ras and Rap1.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1047876">
+<id>Q8IV61</id>
+</interactant>
+<interactant intactId="EBI-742371">
+<id>Q96FJ2</id>
+<label>DYNLL2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1047876">
+<id>Q8IV61</id>
+</interactant>
+<interactant intactId="EBI-18908258">
+<id>O00258</id>
+<label>GET1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1047876">
+<id>Q8IV61</id>
+</interactant>
+<interactant intactId="EBI-1052304">
+<id>Q8NBQ5</id>
+<label>HSD17B11</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q8IV61-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q8IV61-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_047371"/>
+</isoform>
+</comment>
+<comment type="similarity">
+<text evidence="8">Belongs to the RASGRP family.</text>
+</comment>
+<comment type="sequence caution" evidence="8">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="BAA74869" version="2"/>
+</conflict>
+<text>Extended N-terminus.</text>
+</comment>
+<dbReference type="EMBL" id="AB020653">
+<property type="protein sequence ID" value="BAA74869.2"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BX647990">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC020594">
+<property type="protein sequence ID" value="AAY15037.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471053">
+<property type="protein sequence ID" value="EAX00432.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471053">
+<property type="protein sequence ID" value="EAX00433.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471053">
+<property type="protein sequence ID" value="EAX00434.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC027849">
+<property type="protein sequence ID" value="AAH27849.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS46256.1">
+<molecule id="Q8IV61-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS54346.1">
+<molecule id="Q8IV61-2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001132960.1">
+<molecule id="Q8IV61-1"/>
+<property type="nucleotide sequence ID" value="NM_001139488.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_056191.1">
+<molecule id="Q8IV61-2"/>
+<property type="nucleotide sequence ID" value="NM_015376.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_733772.1">
+<molecule id="Q8IV61-1"/>
+<property type="nucleotide sequence ID" value="NM_170672.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_005264303.1">
+<property type="nucleotide sequence ID" value="XM_005264246.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011531048.1">
+<molecule id="Q8IV61-1"/>
+<property type="nucleotide sequence ID" value="XM_011532746.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011531049.1">
+<property type="nucleotide sequence ID" value="XM_011532747.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011531050.2">
+<molecule id="Q8IV61-1"/>
+<property type="nucleotide sequence ID" value="XM_011532748.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016859248.1">
+<molecule id="Q8IV61-1"/>
+<property type="nucleotide sequence ID" value="XM_017003759.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016859249.1">
+<property type="nucleotide sequence ID" value="XM_017003760.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016859250.1">
+<molecule id="Q8IV61-1"/>
+<property type="nucleotide sequence ID" value="XM_017003761.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016859251.1">
+<property type="nucleotide sequence ID" value="XM_017003762.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016859252.1">
+<property type="nucleotide sequence ID" value="XM_017003763.1"/>
+</dbReference>
+<dbReference type="SMR" id="Q8IV61"/>
+<dbReference type="BioGRID" id="117315">
+<property type="interactions" value="14"/>
+</dbReference>
+<dbReference type="IntAct" id="Q8IV61">
+<property type="interactions" value="5"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000384192"/>
+<dbReference type="BindingDB" id="Q8IV61"/>
+<dbReference type="ChEMBL" id="CHEMBL3638"/>
+<dbReference type="iPTMnet" id="Q8IV61"/>
+<dbReference type="PhosphoSitePlus" id="Q8IV61"/>
+<dbReference type="BioMuta" id="RASGRP3"/>
+<dbReference type="DMDM" id="34395670"/>
+<dbReference type="MassIVE" id="Q8IV61"/>
+<dbReference type="MaxQB" id="Q8IV61"/>
+<dbReference type="PaxDb" id="Q8IV61"/>
+<dbReference type="PeptideAtlas" id="Q8IV61"/>
+<dbReference type="PRIDE" id="Q8IV61"/>
+<dbReference type="ProteomicsDB" id="15160"/>
+<dbReference type="ProteomicsDB" id="70665">
+<molecule id="Q8IV61-1"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="29256">
+<property type="antibodies" value="292 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="25780"/>
+<dbReference type="Ensembl" id="ENST00000402538">
+<molecule id="Q8IV61-1"/>
+<property type="protein sequence ID" value="ENSP00000385886"/>
+<property type="gene ID" value="ENSG00000152689"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000403687">
+<molecule id="Q8IV61-1"/>
+<property type="protein sequence ID" value="ENSP00000384192"/>
+<property type="gene ID" value="ENSG00000152689"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000407811">
+<molecule id="Q8IV61-2"/>
+<property type="protein sequence ID" value="ENSP00000383917"/>
+<property type="gene ID" value="ENSG00000152689"/>
+</dbReference>
+<dbReference type="GeneID" id="25780"/>
+<dbReference type="KEGG" id="hsa:25780"/>
+<dbReference type="UCSC" id="uc002rox.4">
+<molecule id="Q8IV61-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="25780"/>
+<dbReference type="DisGeNET" id="25780"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000152689.17"/>
+<dbReference type="GeneCards" id="RASGRP3"/>
+<dbReference type="HGNC" id="HGNC:14545">
+<property type="gene designation" value="RASGRP3"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000152689">
+<property type="expression patterns" value="Tissue enhanced (brain, skeletal muscle)"/>
+</dbReference>
+<dbReference type="MIM" id="609531">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q8IV61"/>
+<dbReference type="OpenTargets" id="ENSG00000152689"/>
+<dbReference type="PharmGKB" id="PA134937092"/>
+<dbReference type="eggNOG" id="KOG3417">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000158843"/>
+<dbReference type="InParanoid" id="Q8IV61"/>
+<dbReference type="KO" id="K12362"/>
+<dbReference type="OMA" id="DQDEADM"/>
+<dbReference type="OrthoDB" id="355412at2759"/>
+<dbReference type="PhylomeDB" id="Q8IV61"/>
+<dbReference type="TreeFam" id="TF312918"/>
+<dbReference type="PathwayCommons" id="Q8IV61"/>
+<dbReference type="Reactome" id="R-HSA-1169092">
+<property type="pathway name" value="Activation of RAS in B cells"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5673001">
+<property type="pathway name" value="RAF/MAP kinase cascade"/>
+</dbReference>
+<dbReference type="SIGNOR" id="Q8IV61"/>
+<dbReference type="BioGRID-ORCS" id="25780">
+<property type="hits" value="3 hits in 869 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="RASGRP3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="RASGRP3"/>
+<dbReference type="GenomeRNAi" id="25780"/>
+<dbReference type="Pharos" id="Q8IV61">
+<property type="development level" value="Tchem"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q8IV61"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Unplaced"/>
+</dbReference>
+<dbReference type="RNAct" id="Q8IV61">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000152689">
+<property type="expression patterns" value="Expressed in corpus callosum and 225 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q8IV61">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q8IV61">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032045">
+<property type="term" value="C:guanyl-nucleotide exchange factor complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048471">
+<property type="term" value="C:perinuclear region of cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005509">
+<property type="term" value="F:calcium ion binding"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019992">
+<property type="term" value="F:diacylglycerol binding"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005096">
+<property type="term" value="F:GTPase activator activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005085">
+<property type="term" value="F:guanyl-nucleotide exchange factor activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019900">
+<property type="term" value="F:kinase binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005088">
+<property type="term" value="F:Ras guanyl-nucleotide exchange factor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000165">
+<property type="term" value="P:MAPK cascade"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007265">
+<property type="term" value="P:Ras protein signal transduction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007264">
+<property type="term" value="P:small GTPase mediated signal transduction"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="CDD" id="cd00029">
+<property type="entry name" value="C1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd00051">
+<property type="entry name" value="EFh"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd00155">
+<property type="entry name" value="RasGEF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd06224">
+<property type="entry name" value="REM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.840.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020454">
+<property type="entry name" value="DAG/PE-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011992">
+<property type="entry name" value="EF-hand-dom_pair"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018247">
+<property type="entry name" value="EF_Hand_1_Ca_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002048">
+<property type="entry name" value="EF_hand_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002219">
+<property type="entry name" value="PE/DAG-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008937">
+<property type="entry name" value="Ras-like_GEF"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000651">
+<property type="entry name" value="Ras-like_Gua-exchang_fac_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023578">
+<property type="entry name" value="Ras_GEF_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001895">
+<property type="entry name" value="RASGEF_cat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036964">
+<property type="entry name" value="RASGEF_cat_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029645">
+<property type="entry name" value="RASGRP3"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR23113">
+<property type="entry name" value="PTHR23113"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR23113:SF178">
+<property type="entry name" value="PTHR23113:SF178"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00130">
+<property type="entry name" value="C1_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13202">
+<property type="entry name" value="EF-hand_5"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00617">
+<property type="entry name" value="RasGEF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00008">
+<property type="entry name" value="DAGPEDOMAIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00109">
+<property type="entry name" value="C1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00054">
+<property type="entry name" value="EFh"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00147">
+<property type="entry name" value="RasGEF"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00229">
+<property type="entry name" value="RasGEFN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47473">
+<property type="entry name" value="SSF47473"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48366">
+<property type="entry name" value="SSF48366"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00018">
+<property type="entry name" value="EF_HAND_1"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50222">
+<property type="entry name" value="EF_HAND_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50009">
+<property type="entry name" value="RASGEF_CAT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50212">
+<property type="entry name" value="RASGEF_NTER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00479">
+<property type="entry name" value="ZF_DAG_PE_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50081">
+<property type="entry name" value="ZF_DAG_PE_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0106">Calcium</keyword>
+<keyword id="KW-0344">Guanine-nucleotide releasing factor</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<keyword id="KW-0863">Zinc-finger</keyword>
+<feature type="chain" description="Ras guanyl-releasing protein 3" id="PRO_0000068883">
+<location>
+<begin position="1"/>
+<end position="690"/>
+</location>
+</feature>
+<feature type="domain" description="N-terminal Ras-GEF" evidence="1">
+<location>
+<begin position="3"/>
+<end position="125"/>
+</location>
+</feature>
+<feature type="domain" description="Ras-GEF" evidence="2">
+<location>
+<begin position="152"/>
+<end position="383"/>
+</location>
+</feature>
+<feature type="domain" description="EF-hand 1" evidence="4">
+<location>
+<begin position="420"/>
+<end position="455"/>
+</location>
+</feature>
+<feature type="domain" description="EF-hand 2" evidence="4">
+<location>
+<begin position="449"/>
+<end position="484"/>
+</location>
+</feature>
+<feature type="calcium-binding region" description="1" evidence="4">
+<location>
+<begin position="433"/>
+<end position="444"/>
+</location>
+</feature>
+<feature type="calcium-binding region" description="2" evidence="4">
+<location>
+<begin position="462"/>
+<end position="473"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="Phorbol-ester/DAG-type" evidence="3">
+<location>
+<begin position="494"/>
+<end position="544"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_047371" evidence="7">
+<location>
+<position position="388"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs13388394." id="VAR_051901">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="393"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00135"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00168"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00226"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00448"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10048485"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10934204"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="10048485"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<evidence key="9" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAH27849.1"/>
+</source>
+</evidence>
+<sequence length="690" mass="78332" checksum="747BBAA2CCAC2D12" modified="2003-03-01" version="1">MGSSGLGKAATLDELLCTCIEMFDDNGELDNSYLPRIVLLMHRWYLSSTELAEKLLCMYRNATGESCNEFRLKICYFMRYWILKFPAEFNLDLGLIRMTEEFREVASQLGYEKHVSLIDISSIPSYDWMRRVTQRKKVSKKGKACLLFDHLEPIELAEHLTFLEHKSFRRISFTDYQSYVIHGCLENNPTLERSIALFNGISKWVQLMVLSKPTPQQRAEVITKFINVAKKLLQLKNFNTLMAVVGGLSHSSISRLKETHSHLSSEVTKNWNEMTELVSSNGNYCNYRKAFADCDGFKIPILGVHLKDLIAVHVIFPDWTEENKVNIVKMHQLSVTLSELVSLQNASHHLEPNMDLINLLTLSLDLYHTEDDIYKLSLVLEPRNSKSQPTSPTTPNKPVVPLEWALGVMPKPDPTVINKHIRKLVESVFRNYDHDHDGYISQEDFESIAANFPFLDSFCVLDKDQDGLISKDEMMAYFLRAKSQLHCKMGPGFIHNFQEMTYLKPTFCEHCAGFLWGIIKQGYKCKDCGANCHKQCKDLLVLACRRFARAPSLSSGHGSLPGSPSLPPAQDEVFEFPGVTAGHRDLDSRAITLVTGSSRKISVRLQRATTSQATQTEPVWSEAGWGDSGSHTFPKMKSKFHDKAAKDKGFAKWENEKPRVHAGVDVVDRGTEFELDQDEGEETRQDGEDG</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

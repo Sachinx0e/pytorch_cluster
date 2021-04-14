@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2000-05-30" modified="2020-08-12" version="167">
+<accession>O15551</accession>
+<name>CLD3_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Claudin-3</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Clostridium perfringens enterotoxin receptor 2</fullName>
+<shortName>CPE-R 2</shortName>
+<shortName>CPE-receptor 2</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Rat ventral prostate.1 protein homolog</fullName>
+<shortName>hRVP1</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">CLDN3</name>
+<name type="synonym">C7orf1</name>
+<name type="synonym">CPETR2</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Genomics" volume="46" first="443" last="449">
+<title>Analysis of a human gene homologous to rat ventral prostate.1 protein.</title>
+<authorList>
+<person name="Peacock R.E."/>
+<person name="Keen T.J."/>
+<person name="Inglehearn C.F."/>
+</authorList>
+<dbReference type="PubMed" id="9441748"/>
+<dbReference type="DOI" id="10.1006/geno.1997.5033"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="26652" last="26658">
+<title>Clostridium perfringens enterotoxin utilizes two structurally related membrane proteins as functional receptors in vivo.</title>
+<authorList>
+<person name="Katahira J."/>
+<person name="Sugiyama H."/>
+<person name="Inoue N."/>
+<person name="Horiguchi Y."/>
+<person name="Matsuda M."/>
+<person name="Sugimoto N."/>
+</authorList>
+<dbReference type="PubMed" id="9334247"/>
+<dbReference type="DOI" id="10.1074/jbc.272.42.26652"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Colon</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-209</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<comment type="function">
+<text evidence="4">Plays a major role in tight junction-specific obliteration of the intercellular space, through calcium-independent cell-adhesion activity.</text>
+</comment>
+<comment type="subunit">
+<text evidence="4">Can form homo- and heteropolymers with other CLDN. Homopolymers interact with CLDN1 and CLDN2 homopolymers. Directly interacts with TJP1/ZO-1, TJP2/ZO-2 and TJP3/ZO-3 (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Cell junction</location>
+<location evidence="4">Tight junction</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="4">Cell membrane</location>
+<topology evidence="4">Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="disease">
+<text>CLDN3 is located in the Williams-Beuren syndrome (WBS) critical region. WBS results from a hemizygous deletion of several genes on chromosome 7q11.23, thought to arise as a consequence of unequal crossing over between highly homologous low-copy repeat sequences flanking the deleted region.</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the claudin family.</text>
+</comment>
+<dbReference type="EMBL" id="AF007189">
+<property type="protein sequence ID" value="AAC78277.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB000714">
+<property type="protein sequence ID" value="BAA22986.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC016056">
+<property type="protein sequence ID" value="AAH16056.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS5559.1"/>
+<dbReference type="RefSeq" id="NP_001297.1">
+<property type="nucleotide sequence ID" value="NM_001306.3"/>
+</dbReference>
+<dbReference type="SMR" id="O15551"/>
+<dbReference type="BioGRID" id="107757">
+<property type="interactions" value="7"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-61079N"/>
+<dbReference type="IntAct" id="O15551">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000378577"/>
+<dbReference type="TCDB" id="1.H.1.1.15">
+<property type="family name" value="the claudin tight junction (claudin1) family"/>
+</dbReference>
+<dbReference type="iPTMnet" id="O15551"/>
+<dbReference type="PhosphoSitePlus" id="O15551"/>
+<dbReference type="SwissPalm" id="O15551"/>
+<dbReference type="BioMuta" id="CLDN3"/>
+<dbReference type="EPD" id="O15551"/>
+<dbReference type="jPOST" id="O15551"/>
+<dbReference type="MassIVE" id="O15551"/>
+<dbReference type="PaxDb" id="O15551"/>
+<dbReference type="PeptideAtlas" id="O15551"/>
+<dbReference type="PRIDE" id="O15551"/>
+<dbReference type="ProteomicsDB" id="48753"/>
+<dbReference type="ABCD" id="O15551">
+<property type="antibodies" value="6 sequenced antibodies"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="3638">
+<property type="antibodies" value="549 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="1365"/>
+<dbReference type="Ensembl" id="ENST00000395145">
+<property type="protein sequence ID" value="ENSP00000378577"/>
+<property type="gene ID" value="ENSG00000165215"/>
+</dbReference>
+<dbReference type="GeneID" id="1365"/>
+<dbReference type="KEGG" id="hsa:1365"/>
+<dbReference type="CTD" id="1365"/>
+<dbReference type="DisGeNET" id="1365"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000165215.6"/>
+<dbReference type="GeneCards" id="CLDN3"/>
+<dbReference type="HGNC" id="HGNC:2045">
+<property type="gene designation" value="CLDN3"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000165215">
+<property type="expression patterns" value="Tissue enhanced (intestine, thyroid gland)"/>
+</dbReference>
+<dbReference type="MIM" id="602910">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_O15551"/>
+<dbReference type="OpenTargets" id="ENSG00000165215"/>
+<dbReference type="PharmGKB" id="PA26571"/>
+<dbReference type="eggNOG" id="ENOG502QRZ8">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000162095"/>
+<dbReference type="HOGENOM" id="CLU_076370_1_2_1"/>
+<dbReference type="InParanoid" id="O15551"/>
+<dbReference type="KO" id="K06087"/>
+<dbReference type="OMA" id="LCTIVCC"/>
+<dbReference type="OrthoDB" id="1231389at2759"/>
+<dbReference type="PhylomeDB" id="O15551"/>
+<dbReference type="TreeFam" id="TF331936"/>
+<dbReference type="PathwayCommons" id="O15551"/>
+<dbReference type="Reactome" id="R-HSA-420029">
+<property type="pathway name" value="Tight junction interactions"/>
+</dbReference>
+<dbReference type="SIGNOR" id="O15551"/>
+<dbReference type="BioGRID-ORCS" id="1365">
+<property type="hits" value="7 hits in 868 CRISPR screens"/>
+</dbReference>
+<dbReference type="GeneWiki" id="CLDN3"/>
+<dbReference type="GenomeRNAi" id="1365"/>
+<dbReference type="Pharos" id="O15551">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:O15551"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 7"/>
+</dbReference>
+<dbReference type="RNAct" id="O15551">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000165215">
+<property type="expression patterns" value="Expressed in mucosa of transverse colon and 153 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="O15551">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="O15551">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043296">
+<property type="term" value="C:apical junction complex"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016327">
+<property type="term" value="C:apicolateral plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005923">
+<property type="term" value="C:bicellular tight junction"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005911">
+<property type="term" value="C:cell-cell junction"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016328">
+<property type="term" value="C:lateral plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032991">
+<property type="term" value="C:protein-containing complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070160">
+<property type="term" value="C:tight junction"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005198">
+<property type="term" value="F:structural molecule activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004888">
+<property type="term" value="F:transmembrane signaling receptor activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031532">
+<property type="term" value="P:actin cytoskeleton reorganization"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070830">
+<property type="term" value="P:bicellular tight junction assembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016338">
+<property type="term" value="P:calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007155">
+<property type="term" value="P:cell adhesion"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034331">
+<property type="term" value="P:cell junction maintenance"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003382">
+<property type="term" value="P:epithelial cell morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014045">
+<property type="term" value="P:establishment of endothelial blood-brain barrier"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035633">
+<property type="term" value="P:maintenance of blood-brain barrier"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030336">
+<property type="term" value="P:negative regulation of cell migration"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008285">
+<property type="term" value="P:negative regulation of cell population proliferation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010629">
+<property type="term" value="P:negative regulation of gene expression"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061045">
+<property type="term" value="P:negative regulation of wound healing"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903348">
+<property type="term" value="P:positive regulation of bicellular tight junction assembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901890">
+<property type="term" value="P:positive regulation of cell junction assembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030335">
+<property type="term" value="P:positive regulation of cell migration"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010628">
+<property type="term" value="P:positive regulation of gene expression"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905050">
+<property type="term" value="P:positive regulation of metallopeptidase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001934">
+<property type="term" value="P:positive regulation of protein phosphorylation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090303">
+<property type="term" value="P:positive regulation of wound healing"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0022604">
+<property type="term" value="P:regulation of cell morphogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090559">
+<property type="term" value="P:regulation of membrane permeability"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0150111">
+<property type="term" value="P:regulation of transepithelial transport"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045471">
+<property type="term" value="P:response to ethanol"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001666">
+<property type="term" value="P:response to hypoxia"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006187">
+<property type="entry name" value="Claudin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003549">
+<property type="entry name" value="Claudin3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017974">
+<property type="entry name" value="Claudin_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004031">
+<property type="entry name" value="PMP22/EMP/MP20/Claudin"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR12002">
+<property type="entry name" value="PTHR12002"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00822">
+<property type="entry name" value="PMP22_Claudin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01378">
+<property type="entry name" value="CLAUDIN3"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01346">
+<property type="entry name" value="CLAUDIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0965">Cell junction</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0796">Tight junction</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0856">Williams-Beuren syndrome</keyword>
+<feature type="chain" description="Claudin-3" id="PRO_0000144738">
+<location>
+<begin position="1"/>
+<end position="220"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="5">
+<location>
+<begin position="1"/>
+<end position="8"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="9"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="5">
+<location>
+<begin position="30"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="81"/>
+<end position="101"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="5">
+<location>
+<begin position="102"/>
+<end position="115"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="116"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="5">
+<location>
+<begin position="137"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="160"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="5">
+<location>
+<begin position="181"/>
+<end position="220"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interactions with TJP1, TJP2 and TJP3" evidence="2">
+<location>
+<begin position="219"/>
+<end position="220"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine" evidence="4">
+<location>
+<position position="198"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="199"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="209"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="24275569"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q63400"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9Z0G9"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255"/>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="220" mass="23319" checksum="1C826EFFF1563C56" modified="1998-01-01" version="1">MSMGLEITGTALAVLGWLGTIVCCALPMWRVSAFIGSNIITSQNIWEGLWMNCVVQSTGQMQCKVYDSLLALPQDLQAARALIVVAILLAAFGLLVALVGAQCTNCVQDDTAKAKITIVAGVLFLLAALLTLVPVSWSANTIIRDFYNPVVPEAQKREMGAGLYVGWAAAALQLLGGALLCCSCPPREKKYTATKVVYSAPRSTGPGASLGTGYDRKDYV</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

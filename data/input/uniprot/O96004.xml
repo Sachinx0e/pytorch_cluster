@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2000-12-01" modified="2020-10-07" version="167">
+<accession>O96004</accession>
+<name>HAND1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Heart- and neural crest derivatives-expressed protein 1</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Class A basic helix-loop-helix protein 27</fullName>
+<shortName>bHLHa27</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Extraembryonic tissues, heart, autonomic nervous system and neural crest derivatives-expressed protein 1</fullName>
+<shortName>eHAND</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">HAND1</name>
+<name type="synonym">BHLHA27</name>
+<name type="synonym">EHAND</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1998" name="Gene" volume="224" first="77" last="86">
+<title>Molecular cloning of the human Hand1 gene/cDNA and its tissue-restricted expression in cytotrophoblastic cells and heart.</title>
+<authorList>
+<person name="Knoefler M."/>
+<person name="Meinhardt G."/>
+<person name="Vasicek R."/>
+<person name="Husslein P."/>
+<person name="Egarter C."/>
+</authorList>
+<dbReference type="PubMed" id="9931445"/>
+<dbReference type="DOI" id="10.1016/s0378-1119(98)00511-3"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA]</scope>
+<scope>FUNCTION</scope>
+<source>
+<tissue>Heart</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<comment type="function">
+<text evidence="2 4">Transcription factor that plays an essential role in both trophoblast giant cell differentiation and in cardiac morphogenesis (By similarity). Binds the DNA sequence 5'-NRTCTG-3' (non-canonical E-box) (By similarity). Acts as a transcriptional repressor of SOX15 (By similarity). In the adult, could be required for ongoing expression of cardiac-specific genes (PubMed:9931445).</text>
+</comment>
+<comment type="subunit">
+<text evidence="1 2">Efficient DNA binding requires dimerization with another bHLH protein. Forms homodimers and heterodimers with TCF3 gene products E12 and E47, HAND2 and HEY1, HEY2 and HEYL (hairy-related transcription factors). Interacts with MDFIC (By similarity). Interacts with SOX15; the interaction enhances HAND1-induced differentiation of trophoblast giant cells (By similarity).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-11320290">
+<id>O96004</id>
+</interactant>
+<interactant intactId="EBI-12012928">
+<id>P60371</id>
+<label>KRTAP10-6</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-11320290">
+<id>O96004</id>
+</interactant>
+<interactant intactId="EBI-11952764">
+<id>Q99081-3</id>
+<label>TCF12</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-11320290">
+<id>O96004</id>
+</interactant>
+<interactant intactId="EBI-12000326">
+<id>P15923-3</id>
+<label>TCF3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Nucleus</location>
+<location evidence="1">Nucleoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="1">Nucleus</location>
+<location evidence="1">Nucleolus</location>
+</subcellularLocation>
+<text evidence="1">Interaction with MDFIC sequesters it into the nucleolus, preventing the transcription factor activity. Phosphorylation by PLK4 disrupts the interaction with MDFIC and releases it from the nucleolus, leading to transcription factor activity (By similarity).</text>
+</comment>
+<comment type="tissue specificity">
+<text>Heart.</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">Phosphorylation by PLK4 disrupts the interaction with MDFIC and leads to translocation into the nucleoplasm, allowing dimerization and transcription factor activity.</text>
+</comment>
+<dbReference type="EMBL" id="AF063012">
+<property type="protein sequence ID" value="AAD19283.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF061756">
+<property type="protein sequence ID" value="AAD19280.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC021190">
+<property type="protein sequence ID" value="AAH21190.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS4327.1"/>
+<dbReference type="RefSeq" id="NP_004812.1">
+<property type="nucleotide sequence ID" value="NM_004821.2"/>
+</dbReference>
+<dbReference type="SMR" id="O96004"/>
+<dbReference type="BioGRID" id="114814">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="IntAct" id="O96004">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="MINT" id="O96004"/>
+<dbReference type="STRING" id="9606.ENSP00000231121"/>
+<dbReference type="iPTMnet" id="O96004"/>
+<dbReference type="PhosphoSitePlus" id="O96004"/>
+<dbReference type="BioMuta" id="HAND1"/>
+<dbReference type="MassIVE" id="O96004"/>
+<dbReference type="PaxDb" id="O96004"/>
+<dbReference type="PeptideAtlas" id="O96004"/>
+<dbReference type="PRIDE" id="O96004"/>
+<dbReference type="ProteomicsDB" id="51183"/>
+<dbReference type="Antibodypedia" id="16446">
+<property type="antibodies" value="357 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="9421"/>
+<dbReference type="Ensembl" id="ENST00000231121">
+<property type="protein sequence ID" value="ENSP00000231121"/>
+<property type="gene ID" value="ENSG00000113196"/>
+</dbReference>
+<dbReference type="GeneID" id="9421"/>
+<dbReference type="KEGG" id="hsa:9421"/>
+<dbReference type="UCSC" id="uc003lvn.3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="9421"/>
+<dbReference type="DisGeNET" id="9421"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000113196.2"/>
+<dbReference type="GeneCards" id="HAND1"/>
+<dbReference type="HGNC" id="HGNC:4807">
+<property type="gene designation" value="HAND1"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000113196">
+<property type="expression patterns" value="Tissue enhanced (heart muscle, intestine, smooth muscle)"/>
+</dbReference>
+<dbReference type="MIM" id="602406">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_O96004"/>
+<dbReference type="OpenTargets" id="ENSG00000113196"/>
+<dbReference type="PharmGKB" id="PA29183"/>
+<dbReference type="eggNOG" id="KOG4029">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000161111"/>
+<dbReference type="HOGENOM" id="CLU_119591_0_0_1"/>
+<dbReference type="InParanoid" id="O96004"/>
+<dbReference type="KO" id="K09071"/>
+<dbReference type="OMA" id="YFQSWVL"/>
+<dbReference type="OrthoDB" id="1449816at2759"/>
+<dbReference type="PhylomeDB" id="O96004"/>
+<dbReference type="TreeFam" id="TF315153"/>
+<dbReference type="PathwayCommons" id="O96004"/>
+<dbReference type="SIGNOR" id="O96004"/>
+<dbReference type="BioGRID-ORCS" id="9421">
+<property type="hits" value="4 hits in 895 CRISPR screens"/>
+</dbReference>
+<dbReference type="GeneWiki" id="HAND1"/>
+<dbReference type="GenomeRNAi" id="9421"/>
+<dbReference type="Pharos" id="O96004">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:O96004"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="RNAct" id="O96004">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000113196">
+<property type="expression patterns" value="Expressed in amniotic fluid and 70 other tissues"/>
+</dbReference>
+<dbReference type="Genevisible" id="O96004">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000790">
+<property type="term" value="C:nuclear chromatin"/>
+<property type="evidence" value="ECO:0000247"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005730">
+<property type="term" value="C:nucleolus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090575">
+<property type="term" value="C:RNA polymerase II transcription regulator complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043425">
+<property type="term" value="F:bHLH transcription factor binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001228">
+<property type="term" value="F:DNA-binding transcription activator activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000981">
+<property type="term" value="F:DNA-binding transcription factor activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001227">
+<property type="term" value="F:DNA-binding transcription repressor activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019899">
+<property type="term" value="F:enzyme binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042803">
+<property type="term" value="F:protein homodimerization activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000978">
+<property type="term" value="F:RNA polymerase II cis-regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000977">
+<property type="term" value="F:RNA polymerase II transcription regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001221">
+<property type="term" value="F:transcription cofactor binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008134">
+<property type="term" value="F:transcription factor binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001525">
+<property type="term" value="P:angiogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001824">
+<property type="term" value="P:blastocyst development"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003218">
+<property type="term" value="P:cardiac left ventricle formation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003219">
+<property type="term" value="P:cardiac right ventricle formation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060411">
+<property type="term" value="P:cardiac septum morphogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060536">
+<property type="term" value="P:cartilage morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032502">
+<property type="term" value="P:developmental process"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035050">
+<property type="term" value="P:embryonic heart tube development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003144">
+<property type="term" value="P:embryonic heart tube formation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007507">
+<property type="term" value="P:heart development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001947">
+<property type="term" value="P:heart looping"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060485">
+<property type="term" value="P:mesenchyme development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001707">
+<property type="term" value="P:mesoderm formation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043433">
+<property type="term" value="P:negative regulation of DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903026">
+<property type="term" value="P:negative regulation of RNA polymerase II regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000122">
+<property type="term" value="P:negative regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042475">
+<property type="term" value="P:odontogenesis of dentin-containing tooth"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006357">
+<property type="term" value="P:regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001829">
+<property type="term" value="P:trophectodermal cell differentiation"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060707">
+<property type="term" value="P:trophoblast giant cell differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055010">
+<property type="term" value="P:ventricular cardiac muscle tissue morphogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="CDD" id="cd00083">
+<property type="entry name" value="HLH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="4.10.280.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011598">
+<property type="entry name" value="bHLH_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036638">
+<property type="entry name" value="HLH_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00010">
+<property type="entry name" value="HLH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00353">
+<property type="entry name" value="HLH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47459">
+<property type="entry name" value="SSF47459"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50888">
+<property type="entry name" value="BHLH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0010">Activator</keyword>
+<keyword id="KW-0217">Developmental protein</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="Heart- and neural crest derivatives-expressed protein 1" id="PRO_0000127184">
+<location>
+<begin position="1"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="domain" description="bHLH" evidence="3">
+<location>
+<begin position="94"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-His">
+<location>
+<begin position="9"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ala">
+<location>
+<begin position="64"/>
+<end position="71"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by PLK4" evidence="2">
+<location>
+<position position="107"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PLK4" evidence="2">
+<location>
+<position position="109"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q64279"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00981"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9931445"/>
+</source>
+</evidence>
+<sequence length="215" mass="23627" checksum="7ED98EA081A8D6BA" modified="1999-05-01" version="1">MNLVGSYAHHHHHHHPHPAHPMLHEPFLFGPASRCHQERPYFQSWLLSPADAAPDFPAGGPPPAAAAAATAYGPDARPGQSPGRLEALGGRLGRRKGSGPKKERRRTESINSAFAELRECIPNVPADTKLSKIKTLRLATSYIAYLMDVLAKDAQSGDPEAFKAELKKADGGRESKRKRELQQHEGFPPALGPVEKRIKGRTGWPQQVWALELNQ</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2020-10-07" version="178">
+<accession>P02810</accession>
+<accession>A2VCM0</accession>
+<accession>A3KN66</accession>
+<accession>A5D902</accession>
+<accession>B2RMW2</accession>
+<accession>Q4VBP2</accession>
+<accession>Q53XA2</accession>
+<accession>Q6P2F6</accession>
+<name>PRPC_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Salivary acidic proline-rich phosphoprotein 1/2</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Db-s</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>PRP-1/PRP-2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Parotid acidic protein</fullName>
+<shortName>Pa</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Parotid double-band protein</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Parotid isoelectric focusing variant protein</fullName>
+<shortName>PIF-S</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Parotid proline-rich protein 1/2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Pr1/Pr2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protein C</fullName>
+</alternativeName>
+<component>
+<recommendedName>
+<fullName>Salivary acidic proline-rich phosphoprotein 1/2</fullName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Salivary acidic proline-rich phosphoprotein 3/4</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Db-F</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>PIF-F</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>PRP-3/PRP-4</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protein A</fullName>
+</alternativeName>
+</component>
+<component>
+<recommendedName>
+<fullName>Peptide P-C</fullName>
+</recommendedName>
+</component>
+</protein>
+<gene>
+<name type="primary">PRH1</name>
+</gene>
+<gene>
+<name type="primary">PRH2</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1985" name="J. Biol. Chem." volume="260" first="11123" last="11130">
+<title>Differential RNA splicing and post-translational cleavages in the human salivary proline-rich protein gene system.</title>
+<authorList>
+<person name="Maeda N."/>
+<person name="Kim H.-S."/>
+<person name="Azen E.A."/>
+<person name="Smithies O."/>
+</authorList>
+<dbReference type="PubMed" id="2993301"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ALLELES PRH1-PIF AND PRH2-1)</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1986" name="J. Biol. Chem." volume="261" first="6712" last="6718">
+<title>Structures of two HaeIII-type genes in the human salivary proline-rich protein multigene family.</title>
+<authorList>
+<person name="Kim H.-S."/>
+<person name="Maeda N."/>
+</authorList>
+<dbReference type="PubMed" id="3009472"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ALLELES PRH1-PIF AND PRH2-1)</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2007" name="BMC Genomics" volume="8" first="399" last="399">
+<title>The full-ORF clone resource of the German cDNA consortium.</title>
+<authorList>
+<person name="Bechtel S."/>
+<person name="Rosenfelder H."/>
+<person name="Duda A."/>
+<person name="Schmidt C.P."/>
+<person name="Ernst U."/>
+<person name="Wellenreuther R."/>
+<person name="Mehrle A."/>
+<person name="Schuster C."/>
+<person name="Bahr A."/>
+<person name="Bloecker H."/>
+<person name="Heubner D."/>
+<person name="Hoerlein A."/>
+<person name="Michel G."/>
+<person name="Wedler H."/>
+<person name="Koehrer K."/>
+<person name="Ottenwaelder B."/>
+<person name="Poustka A."/>
+<person name="Wiemann S."/>
+<person name="Schupp I."/>
+</authorList>
+<dbReference type="PubMed" id="17974005"/>
+<dbReference type="DOI" id="10.1186/1471-2164-8-399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ALLELE PRH2-1)</scope>
+<source>
+<tissue>Salivary gland</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA] (ALLELE PRH1-PIF)</scope>
+<scope>VARIANT ASN-66</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ALLELES PRH1-DB; PRH1-PIF; PRH2-1 AND PRH2-2)</scope>
+<source>
+<tissue>Thyroid</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1980" name="J. Biol. Chem." volume="255" first="5943" last="5948">
+<title>The primary structure of a salivary calcium-binding proline-rich phosphoprotein (protein C), a possible precursor of a related salivary protein A.</title>
+<authorList>
+<person name="Wong R.S.C."/>
+<person name="Bennick A."/>
+</authorList>
+<dbReference type="PubMed" id="7380845"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 17-166 (PROTEIN C)</scope>
+<source>
+<tissue>Saliva</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1986" name="Int. J. Pept. Protein Res." volume="27" first="373" last="379">
+<title>Complete covalent structure of a proline-rich phosphoprotein, PRP-2, an inhibitor of calcium phosphate crystal growth from human parotid saliva.</title>
+<authorList>
+<person name="Schlesinger D.H."/>
+<person name="Hay D.I."/>
+</authorList>
+<dbReference type="PubMed" id="3710693"/>
+<dbReference type="DOI" id="10.1111/j.1399-3011.1986.tb01030.x"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 17-166 (PRP-2)</scope>
+<source>
+<tissue>Saliva</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1987" name="Am. J. Hum. Genet." volume="41" first="1035" last="1047">
+<title>Alleles at the PRH1 locus coding for the human salivary-acidic proline-rich proteins Pa, Db, and PIF.</title>
+<authorList>
+<person name="Azen E.A."/>
+<person name="Kim H.S."/>
+<person name="Goodman P."/>
+<person name="Flynn S."/>
+<person name="Maeda N."/>
+</authorList>
+<dbReference type="PubMed" id="3687941"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 17-166 (ALLELES PRH1-PIF; PRH1-PA AND PRH1-DB)</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1988" name="Biochem. J." volume="255" first="15" last="21">
+<title>The primary structures of six human salivary acidic proline-rich proteins (PRP-1, PRP-2, PRP-3, PRP-4, PIF-s and PIF-f).</title>
+<authorList>
+<person name="Hay D.I."/>
+<person name="Bennick A."/>
+<person name="Schlesinger D.H."/>
+<person name="Minaguchi K."/>
+<person name="Madapallimattam G."/>
+<person name="Schluckebier S.K."/>
+</authorList>
+<dbReference type="PubMed" id="3196309"/>
+<dbReference type="DOI" id="10.1042/bj2550015"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 17-166 (PRP-1 TO PRP-4; PIF-F AND PIF-S)</scope>
+<scope>PYROGLUTAMATE FORMATION AT GLN-17</scope>
+<source>
+<tissue>Saliva</tissue>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1979" name="J. Biol. Chem." volume="254" first="4800" last="4808">
+<title>The complete primary structure of a proline-rich phosphoprotein from human saliva.</title>
+<authorList>
+<person name="Wong R.S.C."/>
+<person name="Hofmann T."/>
+<person name="Bennick A."/>
+</authorList>
+<dbReference type="PubMed" id="438215"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 17-122 (PROTEIN A)</scope>
+<source>
+<tissue>Saliva</tissue>
+</source>
+</reference>
+<reference key="11">
+<citation type="book" date="1979" name="Peptides: structure and biological function (Proceedings of the 6th American peptide symposium)" first="133" last="136" publisher="Pierce Chemical Co." city="Rockford Il.">
+<title>Complete primary structure of a proline-rich phosphoprotein (PRP-4), a potent inhibitor of calcium phosphate precipitation in human parotid saliva.</title>
+<editorList>
+<person name="Gross E."/>
+<person name="Meienhofer J."/>
+</editorList>
+<authorList>
+<person name="Schlesinger D.H."/>
+<person name="Hay D.I."/>
+</authorList>
+</citation>
+<scope>PROTEIN SEQUENCE OF 17-122 (PROTEIN A)</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1981" name="Int. J. Pept. Protein Res." volume="17" first="34" last="41">
+<title>Primary structure of the active tryptic fragments of human and monkey salivary anionic proline-rich proteins.</title>
+<authorList>
+<person name="Schlesinger D.H."/>
+<person name="Hay D.I."/>
+</authorList>
+<dbReference type="PubMed" id="7228490"/>
+<dbReference type="DOI" id="10.1111/j.1399-3011.1981.tb01965.x"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 17-46 (PROTEIN C)</scope>
+<source>
+<tissue>Saliva</tissue>
+</source>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2005" name="Proteomics" volume="5" first="805" last="815">
+<title>Different isoforms and post-translational modifications of human salivary acidic proline-rich proteins.</title>
+<authorList>
+<person name="Inzitari R."/>
+<person name="Cabras T."/>
+<person name="Onnis G."/>
+<person name="Olmi C."/>
+<person name="Mastinu A."/>
+<person name="Sanna M.T."/>
+<person name="Pellegrini M.G."/>
+<person name="Castagnola M."/>
+<person name="Messana I."/>
+</authorList>
+<dbReference type="PubMed" id="15693058"/>
+<dbReference type="DOI" id="10.1002/pmic.200401156"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 17-46 (PROTEIN DB-S)</scope>
+<scope>PROTEIN SEQUENCE OF 91-97 (PROTEIN DB-S)</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY OF PIF-S; PIF-F; DB-S; DB-F; PA; PRP-1 TO PRP4 AND PEPTIDE P-C</scope>
+<scope>PHOSPHORYLATION AT SER-24; SER-33 AND SER-38</scope>
+<source>
+<tissue>Saliva</tissue>
+</source>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1980" name="J. Biochem." volume="87" first="1071" last="1077">
+<title>The amino acid sequence of a salivary proline-rich peptide, P-C, and its relation to a salivary proline-rich phosphoprotein, protein C.</title>
+<authorList>
+<person name="Isemura S."/>
+<person name="Saitoh E."/>
+<person name="Sanada K."/>
+</authorList>
+<dbReference type="PubMed" id="7390979"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 123-166 (PEPTIDE P-C)</scope>
+<source>
+<tissue>Saliva</tissue>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1991" name="Biochemistry" volume="30" first="3351" last="3356">
+<title>Basic proline-rich proteins from human parotid saliva: relationships of the covalent structures of ten proteins from a single individual.</title>
+<authorList>
+<person name="Kauffman D.L."/>
+<person name="Bennick A."/>
+<person name="Blum M."/>
+<person name="Keller P.J."/>
+</authorList>
+<dbReference type="PubMed" id="1849422"/>
+<dbReference type="DOI" id="10.1021/bi00228a001"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 123-166</scope>
+<source>
+<tissue>Saliva</tissue>
+</source>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2000" name="FEBS Lett." volume="475" first="131" last="134">
+<title>A novel Ser O-glucuronidation in acidic proline-rich proteins identified by tandem mass spectrometry.</title>
+<authorList>
+<person name="Jonsson A.P."/>
+<person name="Griffiths W.J."/>
+<person name="Bratt P."/>
+<person name="Johansson I."/>
+<person name="Stroemberg N."/>
+<person name="Joernvall H."/>
+<person name="Bergman T."/>
+</authorList>
+<dbReference type="PubMed" id="10858503"/>
+<dbReference type="DOI" id="10.1016/s0014-5793(00)01645-8"/>
+</citation>
+<scope>GLYCOSYLATION AT SER-33</scope>
+<scope>PHOSPHORYLATION AT SER-24 AND SER-38</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2008" name="J. Biol. Chem." volume="283" first="19957" last="19966">
+<title>Identification of Lys-Pro-Gln as a novel cleavage site specificity of saliva-associated proteases.</title>
+<authorList>
+<person name="Helmerhorst E.J."/>
+<person name="Sun X."/>
+<person name="Salih E."/>
+<person name="Oppenheim F.G."/>
+</authorList>
+<dbReference type="PubMed" id="18463091"/>
+<dbReference type="DOI" id="10.1074/jbc.m708282200"/>
+</citation>
+<scope>PROTEOLYTIC PROCESSING</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2010" name="Proteomics" volume="10" first="3732" last="3742">
+<title>Finding new posttranslational modifications in salivary proline-rich proteins.</title>
+<authorList>
+<person name="Vitorino R."/>
+<person name="Alves R."/>
+<person name="Barros A."/>
+<person name="Caseiro A."/>
+<person name="Ferreira R."/>
+<person name="Lobo M.C."/>
+<person name="Bastos A."/>
+<person name="Duarte J."/>
+<person name="Carvalho D."/>
+<person name="Santos L.L."/>
+<person name="Amado F.L."/>
+</authorList>
+<dbReference type="PubMed" id="20879038"/>
+<dbReference type="DOI" id="10.1002/pmic.201000261"/>
+</citation>
+<scope>GLYCOSYLATION AT SER-38</scope>
+<scope>PHOSPHORYLATION AT SER-38</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2015" name="Cell" volume="161" first="1619" last="1632">
+<title>A single kinase generates the majority of the secreted phosphoproteome.</title>
+<authorList>
+<person name="Tagliabracci V.S."/>
+<person name="Wiley S.E."/>
+<person name="Guo X."/>
+<person name="Kinch L.N."/>
+<person name="Durrant E."/>
+<person name="Wen J."/>
+<person name="Xiao J."/>
+<person name="Cui J."/>
+<person name="Nguyen K.B."/>
+<person name="Engel J.L."/>
+<person name="Coon J.J."/>
+<person name="Grishin N."/>
+<person name="Pinna L.A."/>
+<person name="Pagliarini D.J."/>
+<person name="Dixon J.E."/>
+</authorList>
+<dbReference type="PubMed" id="26091039"/>
+<dbReference type="DOI" id="10.1016/j.cell.2015.05.028"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-24 AND SER-38</scope>
+<scope>MUTAGENESIS OF SER-24 AND SER-38</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="1998" name="Hum. Mutat." volume="12" first="72" last="72">
+<title>A frequent mutation in the acidic proline-rich protein gene, PRH2, causing a Q147K change closely adjacent to the bacterial binding domain of the cognate salivary PRP (Pr1') in Afro-Americans.</title>
+<authorList>
+<person name="Azen E.A."/>
+</authorList>
+<dbReference type="PubMed" id="10627138"/>
+<dbReference type="DOI" id="10.1002/(sici)1098-1004(1998)12:1&lt;72::aid-humu18&gt;3.0.co;2-w"/>
+</citation>
+<scope>VARIANT PRH2-3 LYS-163</scope>
+</reference>
+<comment type="function">
+<text>PRP's act as highly potent inhibitors of crystal growth of calcium phosphates. They provide a protective and reparative environment for dental enamel which is important for the integrity of the teeth.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-738601">
+<id>P02810</id>
+</interactant>
+<interactant intactId="EBI-7147442">
+<id>Q8IXL6</id>
+<label>FAM20C</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-738601">
+<id>P02810</id>
+</interactant>
+<interactant intactId="EBI-738582">
+<id>Q8TAX7</id>
+<label>MUC7</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Secreted</location>
+</subcellularLocation>
+</comment>
+<comment type="PTM">
+<text evidence="4">Proteolytically cleaved; PRP-2, PRP-1, PIF-S and Db-S yield PRP-4, PRP-3 (protein A), PIF-F and Db-F, respectively.</text>
+</comment>
+<comment type="PTM">
+<text evidence="2">An hexuronic acid was shown to be linked to Ser-33 in about 40% of the polypeptides. Neither the structure of the carbohydrate (whether glucuronic acid or an isomer of), nor the linkage (whether a glycoside or an ester) has been definitely established.</text>
+</comment>
+<comment type="polymorphism">
+<text>Sequence shown is that of allele PRH2-2, also known as PR-2; Allele PRH2-1 is also known as PR-1 or protein C, and allele PRH2-3 as PR-1'. The PRH1-DB allele (about 16% of the population) has an insertion of 21 repeated amino acids compared to the more frequent PRH1-PIF allele (68%). In contrast to all other PRH1 and PRH2 alleles, the PRH1-PA allele (16%) is not proteolytically cleaved.</text>
+</comment>
+<comment type="sequence caution" evidence="14">
+<conflict type="erroneous termination">
+<sequence resource="EMBL-CDS" id="AAI28193" version="1"/>
+</conflict>
+<text>Extended C-terminus.</text>
+</comment>
+<comment type="sequence caution" evidence="14">
+<conflict type="erroneous termination">
+<sequence resource="EMBL-CDS" id="AAI41917" version="1"/>
+</conflict>
+<text>Extended C-terminus.</text>
+</comment>
+<comment type="online information" name="SHMPD">
+<link uri="http://shmpd.bii.a-star.edu.sg/gene.php?genestart=A&amp;genename=PRH1"/>
+<text>The Singapore human mutation and polymorphism database</text>
+</comment>
+<comment type="online information" name="SHMPD">
+<link uri="http://shmpd.bii.a-star.edu.sg/gene.php?genestart=A&amp;genename=PRH2"/>
+<text>The Singapore human mutation and polymorphism database</text>
+</comment>
+<dbReference type="EMBL" id="K03202">
+<property type="protein sequence ID" value="AAA60183.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="K03203">
+<property type="protein sequence ID" value="AAA60184.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M13057">
+<property type="protein sequence ID" value="AAA98807.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M13058">
+<property type="protein sequence ID" value="AAA98808.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BX641094">
+<property type="protein sequence ID" value="CAE46044.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471094">
+<property type="protein sequence ID" value="EAW96214.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471094">
+<property type="protein sequence ID" value="EAW96219.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC095488">
+<property type="protein sequence ID" value="AAH95488.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC128192">
+<property type="protein sequence ID" value="AAI28193.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC133676">
+<property type="protein sequence ID" value="AAI33677.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC136499">
+<property type="protein sequence ID" value="AAI36500.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC141916">
+<property type="protein sequence ID" value="AAI41917.1"/>
+<property type="status" value="ALT_SEQ"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS8636.1"/>
+<dbReference type="PIR" id="A25372">
+<property type="entry name" value="PIHUSC"/>
+</dbReference>
+<dbReference type="PIR" id="B25372">
+<property type="entry name" value="B25372"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001103683.1">
+<property type="nucleotide sequence ID" value="NM_001110213.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001278243.1">
+<property type="nucleotide sequence ID" value="NM_001291314.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001278244.1">
+<property type="nucleotide sequence ID" value="NM_001291315.1"/>
+</dbReference>
+<dbReference type="BioGRID" id="111545">
+<property type="interactions" value="11"/>
+</dbReference>
+<dbReference type="IntAct" id="P02810">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000379682"/>
+<dbReference type="GlyGen" id="P02810">
+<property type="glycosylation" value="2 sites"/>
+</dbReference>
+<dbReference type="iPTMnet" id="P02810"/>
+<dbReference type="PhosphoSitePlus" id="P02810"/>
+<dbReference type="BioMuta" id="PRH1"/>
+<dbReference type="DMDM" id="131008"/>
+<dbReference type="jPOST" id="P02810"/>
+<dbReference type="MassIVE" id="P02810"/>
+<dbReference type="MaxQB" id="P02810"/>
+<dbReference type="PaxDb" id="P02810"/>
+<dbReference type="PeptideAtlas" id="P02810"/>
+<dbReference type="PRIDE" id="P02810"/>
+<dbReference type="ProteomicsDB" id="51603"/>
+<dbReference type="TopDownProteomics" id="P02810"/>
+<dbReference type="Antibodypedia" id="67598">
+<property type="antibodies" value="67 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="5554"/>
+<dbReference type="Ensembl" id="ENST00000381847">
+<property type="protein sequence ID" value="ENSP00000371271"/>
+<property type="gene ID" value="ENSG00000134551"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000396400">
+<property type="protein sequence ID" value="ENSP00000379682"/>
+<property type="gene ID" value="ENSG00000134551"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000572141">
+<property type="protein sequence ID" value="ENSP00000458690"/>
+<property type="gene ID" value="ENSG00000272803"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000575657">
+<property type="protein sequence ID" value="ENSP00000461041"/>
+<property type="gene ID" value="ENSG00000272803"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000622570">
+<property type="protein sequence ID" value="ENSP00000481810"/>
+<property type="gene ID" value="ENSG00000275679"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000622848">
+<property type="protein sequence ID" value="ENSP00000483458"/>
+<property type="gene ID" value="ENSG00000275679"/>
+</dbReference>
+<dbReference type="GeneID" id="5554"/>
+<dbReference type="GeneID" id="5555"/>
+<dbReference type="KEGG" id="hsa:5554"/>
+<dbReference type="KEGG" id="hsa:5555"/>
+<dbReference type="UCSC" id="uc001qzi.5">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="5554"/>
+<dbReference type="CTD" id="5555"/>
+<dbReference type="DisGeNET" id="5554"/>
+<dbReference type="DisGeNET" id="5555"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000134551.12"/>
+<dbReference type="GeneCards" id="PRH1"/>
+<dbReference type="GeneCards" id="PRH2"/>
+<dbReference type="HGNC" id="HGNC:9366">
+<property type="gene designation" value="PRH1"/>
+</dbReference>
+<dbReference type="HGNC" id="HGNC:9367">
+<property type="gene designation" value="PRH2"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000134551">
+<property type="expression patterns" value="Tissue enriched (salivary)"/>
+</dbReference>
+<dbReference type="MIM" id="168730">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="168790">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P02810"/>
+<dbReference type="PharmGKB" id="PA33738"/>
+<dbReference type="eggNOG" id="ENOG502TED6">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="HOGENOM" id="CLU_054768_2_0_1"/>
+<dbReference type="InParanoid" id="P02810"/>
+<dbReference type="KO" id="K13910"/>
+<dbReference type="OrthoDB" id="1645809at2759"/>
+<dbReference type="PathwayCommons" id="P02810"/>
+<dbReference type="SIGNOR" id="P02810"/>
+<dbReference type="BioGRID-ORCS" id="5554">
+<property type="hits" value="4 hits in 112 CRISPR screens"/>
+</dbReference>
+<dbReference type="BioGRID-ORCS" id="5555">
+<property type="hits" value="5 hits in 841 CRISPR screens"/>
+</dbReference>
+<dbReference type="GeneWiki" id="PRH1"/>
+<dbReference type="Pharos" id="P02810">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P02810"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 12"/>
+</dbReference>
+<dbReference type="RNAct" id="P02810">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000134551">
+<property type="expression patterns" value="Expressed in saliva-secreting gland and 103 other tissues"/>
+</dbReference>
+<dbReference type="Genevisible" id="P02810">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005615">
+<property type="term" value="C:extracellular space"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026086">
+<property type="entry name" value="Pro-rich"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR23203">
+<property type="entry name" value="PTHR23203"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF15240">
+<property type="entry name" value="Pro-rich"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01412">
+<property type="entry name" value="Pro-rich"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0165">Cleavage on pair of basic residues</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-0873">Pyrrolidone carboxylic acid</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="3 7 8 9 10 11 12">
+<location>
+<begin position="1"/>
+<end position="16"/>
+</location>
+</feature>
+<feature type="chain" description="Salivary acidic proline-rich phosphoprotein 1/2" id="PRO_0000022137">
+<location>
+<begin position="17"/>
+<end position="166"/>
+</location>
+</feature>
+<feature type="chain" description="Salivary acidic proline-rich phosphoprotein 3/4" id="PRO_0000022138">
+<location>
+<begin position="17"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="chain" description="Peptide P-C" id="PRO_0000022139">
+<location>
+<begin position="123"/>
+<end position="166"/>
+</location>
+</feature>
+<feature type="region of interest" description="Inhibits hydroxyapatite formation, binds to hydroxyapatite and calcium">
+<location>
+<begin position="17"/>
+<end position="46"/>
+</location>
+</feature>
+<feature type="modified residue" description="Pyrrolidone carboxylic acid" evidence="7">
+<location>
+<position position="17"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by FAM20C" evidence="2 3 6">
+<location>
+<position position="24"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; alternate" evidence="3">
+<location>
+<position position="33"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by FAM20C; alternate" evidence="2 3 5 6">
+<location>
+<position position="38"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (GlcA) serine; alternate" evidence="2">
+<location>
+<position position="33"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (GlcA) serine; alternate" evidence="5">
+<location>
+<position position="38"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In allele PRH1-PIF, allele PRH1-PA and allele PRH1-DB; dbSNP:rs1130404." id="VAR_005563">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="20"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In allele PRH1-PA and allele PRH1-DB; dbSNP:rs2923234." id="VAR_023240">
+<original>I</original>
+<variation>L</variation>
+<location>
+<position position="42"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In allele PRH2-1; dbSNP:rs1049112." id="VAR_005564" evidence="13">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="66"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In allele PRH1-DB." id="VAR_023241">
+<original>Q</original>
+<variation>QGGQQQQGPPPPQGKPQGPPQQ</variation>
+<location>
+<position position="97"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In allele PRH1-PA; interferes with proteolytic cleavage at Arg-122; dbSNP:rs200488155." id="VAR_023242">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="119"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In allele PRH2-3; dbSNP:rs74062407." id="VAR_005565" evidence="1">
+<original>Q</original>
+<variation>K</variation>
+<location>
+<position position="163"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased phosphorylation by FAM20C; when associated with A-38." evidence="6">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="24"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased phosphorylation by FAM20C; when associated with A-24." evidence="6">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="38"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 11; AA sequence." ref="11" evidence="14">
+<original>F</original>
+<variation>P</variation>
+<location>
+<position position="41"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10627138"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10858503"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15693058"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18463091"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20879038"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26091039"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3196309"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3710693"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="438215"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7228490"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7380845"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source ref="11"/>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source ref="4"/>
+</evidence>
+<evidence key="14" type="ECO:0000305"/>
+<sequence length="166" mass="17016" checksum="A7DF62BF94E3C3EF" modified="1989-07-01" version="2" precursor="true">MLLILLSVALLAFSSAQDLDEDVSQEDVPLVISDGGDSEQFIDEERQGPPLGGQQSQPSAGDGNQDDGPQQGPPQQGGQQQQGPPPPQGKPQGPPQQGGHPPPPQGRPQGPPQQGGHPRPPRGRPQGPPQQGGHQQGPPPPPPGKPQGPPPQGGRPQGPPQGQSPQ</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

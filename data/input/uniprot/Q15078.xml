@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1997-11-01" modified="2020-10-07" version="204">
+<accession>Q15078</accession>
+<accession>E1P664</accession>
+<accession>Q5U0G3</accession>
+<name>CD5R1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Cyclin-dependent kinase 5 activator 1</fullName>
+<shortName>CDK5 activator 1</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Cyclin-dependent kinase 5 regulatory subunit 1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>TPKII regulatory subunit</fullName>
+</alternativeName>
+<component>
+<recommendedName>
+<fullName>Cyclin-dependent kinase 5 activator 1, p35</fullName>
+<shortName>p35</shortName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Cyclin-dependent kinase 5 activator 1, p25</fullName>
+<shortName>p25</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Tau protein kinase II 23 kDa subunit</fullName>
+<shortName>p23</shortName>
+</alternativeName>
+</component>
+</protein>
+<gene>
+<name type="primary">CDK5R1</name>
+<name type="synonym">CDK5R</name>
+<name type="synonym">NCK5A</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Nature" volume="371" first="419" last="423">
+<title>p35 is a neural-specific regulatory subunit of cyclin-dependent kinase 5.</title>
+<authorList>
+<person name="Tsai L.-H."/>
+<person name="Delalle I."/>
+<person name="Caviness V.S. Jr."/>
+<person name="Chae T."/>
+<person name="Harlow E."/>
+</authorList>
+<dbReference type="PubMed" id="8090221"/>
+<dbReference type="DOI" id="10.1038/371419a0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="2003-08" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="NIEHS SNPs program"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2004-10" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full-length CDSs in BD Creator(TM) system donor vector.</title>
+<authorList>
+<person name="Kalnine N."/>
+<person name="Chen X."/>
+<person name="Rolfs A."/>
+<person name="Halleck A."/>
+<person name="Hines L."/>
+<person name="Eisenstein S."/>
+<person name="Koundinya M."/>
+<person name="Raphael J."/>
+<person name="Moreira D."/>
+<person name="Kelley T."/>
+<person name="LaBaer J."/>
+<person name="Lin Y."/>
+<person name="Phelan M."/>
+<person name="Farmer A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Mammary gland</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1999" name="Nature" volume="402" first="615" last="622">
+<title>Conversion of p35 to p25 deregulates Cdk5 activity and promotes neurodegeneration.</title>
+<authorList>
+<person name="Patrick G.N."/>
+<person name="Zukerberg L."/>
+<person name="Nikolic M."/>
+<person name="de la Monte S."/>
+<person name="Dikkes P."/>
+<person name="Tsai L.H."/>
+</authorList>
+<dbReference type="PubMed" id="10604467"/>
+<dbReference type="DOI" id="10.1038/45159"/>
+</citation>
+<scope>MUTAGENESIS OF GLY-2</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INVOLVEMENT IN NEURODEGENERATIVE DISEASES</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2002" name="Brain Res. Mol. Brain Res." volume="106" first="50" last="56">
+<title>Influence of phosphorylation of p35, an activator of cyclin-dependent kinase 5 (cdk5), on the proteolysis of p35.</title>
+<authorList>
+<person name="Kerokoski P."/>
+<person name="Suuronen T."/>
+<person name="Salminen A."/>
+<person name="Soininen H."/>
+<person name="Pirttilae T."/>
+</authorList>
+<dbReference type="PubMed" id="12393264"/>
+<dbReference type="DOI" id="10.1016/s0169-328x(02)00409-6"/>
+</citation>
+<scope>PHOSPHORYLATION BY CDK5</scope>
+<scope>UBIQUITINATION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2004" name="J. Neurosci." volume="24" first="4421" last="4431">
+<title>p35/cyclin-dependent kinase 5 phosphorylation of ras guanine nucleotide releasing factor 2 (RasGRF2) mediates Rac-dependent extracellular signal-regulated kinase 1/2 activity, altering RasGRF2 and microtubule-associated protein 1b distribution in neurons.</title>
+<authorList>
+<person name="Kesavapany S."/>
+<person name="Amin N."/>
+<person name="Zheng Y.-L."/>
+<person name="Nijhara R."/>
+<person name="Jaffe H."/>
+<person name="Sihag R."/>
+<person name="Gutkind J.S."/>
+<person name="Takahashi S."/>
+<person name="Kulkarni A."/>
+<person name="Grant P."/>
+<person name="Pant H.C."/>
+</authorList>
+<dbReference type="PubMed" id="15128856"/>
+<dbReference type="DOI" id="10.1523/jneurosci.0690-04.2004"/>
+</citation>
+<scope>INTERACTION WITH RASGRF2</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2007" name="J. Biol. Chem." volume="282" first="1687" last="1694">
+<title>Suppression of calpain-dependent cleavage of the CDK5 activator p35 to p25 by site-specific phosphorylation.</title>
+<authorList>
+<person name="Kamei H."/>
+<person name="Saito T."/>
+<person name="Ozawa M."/>
+<person name="Fujita Y."/>
+<person name="Asada A."/>
+<person name="Bibb J.A."/>
+<person name="Saido T.C."/>
+<person name="Sorimachi H."/>
+<person name="Hisanaga S."/>
+</authorList>
+<dbReference type="PubMed" id="17121855"/>
+<dbReference type="DOI" id="10.1074/jbc.m610541200"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-8 AND THR-138</scope>
+<scope>MUTAGENESIS OF SER-8 AND THR-138</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2007" name="J. Neurosci. Res." volume="85" first="3071" last="3078">
+<title>Regulation of membrane association and kinase activity of Cdk5-p35 by phosphorylation of p35.</title>
+<authorList>
+<person name="Sato K."/>
+<person name="Zhu Y.-S."/>
+<person name="Saito T."/>
+<person name="Yotsumoto K."/>
+<person name="Asada A."/>
+<person name="Hasegawa M."/>
+<person name="Hisanaga S."/>
+</authorList>
+<dbReference type="PubMed" id="17671990"/>
+<dbReference type="DOI" id="10.1002/jnr.21438"/>
+</citation>
+<scope>PHOSPHORYLATION BY CDK5</scope>
+<scope>INTERACTION WITH CDK5</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2008" name="J. Neurochem." volume="106" first="1325" last="1336">
+<title>Myristoylation of p39 and p35 is a determinant of cytoplasmic or nuclear localization of active cyclin-dependent kinase 5 complexes.</title>
+<authorList>
+<person name="Asada A."/>
+<person name="Yamamoto N."/>
+<person name="Gohda M."/>
+<person name="Saito T."/>
+<person name="Hayashi N."/>
+<person name="Hisanaga S."/>
+</authorList>
+<dbReference type="PubMed" id="18507738"/>
+<dbReference type="DOI" id="10.1111/j.1471-4159.2008.05500.x"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MYRISTOYLATION</scope>
+<scope>MUTAGENESIS OF GLY-2</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2010" name="Proteomics" volume="10" first="1780" last="1793">
+<title>Strategy for comprehensive identification of human N-myristoylated proteins using an insect cell-free protein synthesis system.</title>
+<authorList>
+<person name="Suzuki T."/>
+<person name="Moriya K."/>
+<person name="Nagatoshi K."/>
+<person name="Ota Y."/>
+<person name="Ezure T."/>
+<person name="Ando E."/>
+<person name="Tsunasawa S."/>
+<person name="Utsumi T."/>
+</authorList>
+<dbReference type="PubMed" id="20213681"/>
+<dbReference type="DOI" id="10.1002/pmic.200900783"/>
+</citation>
+<scope>MYRISTOYLATION AT GLY-2</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2013" name="J. Biol. Chem." volume="288" first="36878" last="36889">
+<title>Cyclin-dependent kinase 5 (Cdk5) regulates the function of CLOCK protein by direct phosphorylation.</title>
+<authorList>
+<person name="Kwak Y."/>
+<person name="Jeong J."/>
+<person name="Lee S."/>
+<person name="Park Y.U."/>
+<person name="Lee S.A."/>
+<person name="Han D.H."/>
+<person name="Kim J.H."/>
+<person name="Ohshima T."/>
+<person name="Mikoshiba K."/>
+<person name="Suh Y.H."/>
+<person name="Cho S."/>
+<person name="Park S.K."/>
+</authorList>
+<dbReference type="PubMed" id="24235147"/>
+<dbReference type="DOI" id="10.1074/jbc.m113.494856"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH CLOCK</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2005" name="Chem. Biol." volume="12" first="811" last="823">
+<title>Defining Cdk5 ligand chemical space with small molecule inhibitors of tau phosphorylation.</title>
+<authorList>
+<person name="Ahn J.S."/>
+<person name="Radhakrishnan M.L."/>
+<person name="Mapelli M."/>
+<person name="Choi S."/>
+<person name="Tidor B."/>
+<person name="Cuny G.D."/>
+<person name="Musacchio A."/>
+<person name="Yeh L.A."/>
+<person name="Kosik K.S."/>
+</authorList>
+<dbReference type="PubMed" id="16039528"/>
+<dbReference type="DOI" id="10.1016/j.chembiol.2005.05.011"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) OF 145-293 IN COMPLEX WITH CDK5</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2005" name="J. Med. Chem." volume="48" first="671" last="679">
+<title>Mechanism of CDK5/p25 binding by CDK inhibitors.</title>
+<authorList>
+<person name="Mapelli M."/>
+<person name="Massimiliano L."/>
+<person name="Crovace C."/>
+<person name="Seeliger M.A."/>
+<person name="Tsai L.H."/>
+<person name="Meijer L."/>
+<person name="Musacchio A."/>
+</authorList>
+<dbReference type="PubMed" id="15689152"/>
+<dbReference type="DOI" id="10.1021/jm049323m"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 100-307 IN COMPLEX WITH CDK5 AND INHIBITORS</scope>
+</reference>
+<comment type="function">
+<text evidence="12">p35 is a neuron specific activator of CDK5. The complex p35/CDK5 is required for neurite outgrowth and cortical lamination. Involved in dendritic spine morphogenesis by mediating the EFNA1-EPHA4 signaling. Activator of TPKII. The complex p35/CDK5 participates in the regulation of the circadian clock by modulating the function of CLOCK protein: phosphorylates CLOCK at 'Thr-451' and 'Thr-461' and regulates the transcriptional activity of the CLOCK-ARNTL/BMAL1 heterodimer in association with altered stability and subcellular distribution.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 5 6 7 9 12">Heterodimer composed of a catalytic subunit CDK5 and a regulatory subunit CDK5R1 (p25) and macromolecular complex composed of at least CDK5, CDK5R1 (p35) and CDK5RAP1 or CDK5RAP2 or CDK5RAP3. Only the heterodimer shows kinase activity. Interacts with EPHA4 and NGEF; may mediate the activation of NGEF by EPHA4 (By similarity). Interacts with RASGRF2. The complex p35/CDK5 interacts with CLOCK.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-746189">
+<id>Q15078</id>
+</interactant>
+<interactant intactId="EBI-2008436">
+<id>Q6ZMQ8-1</id>
+<label>AATK</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-746189">
+<id>Q15078</id>
+</interactant>
+<interactant intactId="EBI-2008441">
+<id>Q6ZMQ8-2</id>
+<label>AATK</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-746189">
+<id>Q15078</id>
+</interactant>
+<interactant intactId="EBI-1041567">
+<id>Q00535</id>
+<label>CDK5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>12</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-746189">
+<id>Q15078</id>
+</interactant>
+<interactant intactId="EBI-742948">
+<id>Q5JR59</id>
+<label>MTUS2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<molecule>Cyclin-dependent kinase 5 activator 1, p35</molecule>
+<subcellularLocation>
+<location evidence="13">Cell membrane</location>
+<topology evidence="13">Lipid-anchor</topology>
+<orientation evidence="13">Cytoplasmic side</orientation>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="3">Cell projection</location>
+<location evidence="3">Neuron projection</location>
+</subcellularLocation>
+<text evidence="3">In the primary cortical neurons, p35 is present in the peripheries and nerve terminals.</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Cyclin-dependent kinase 5 activator 1, p25</molecule>
+<subcellularLocation>
+<location>Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="3">Cytoplasm</location>
+<location evidence="3">Perinuclear region</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="3">Perikaryon</location>
+</subcellularLocation>
+<text>The conversion of p35 to p25 relocalizes the protein from the cell periphery to the cytoplasm, in nuclear and perinuclear regions. In the primary cortical neurons, p25 is primarily concentrated in the cell soma and is largely absent from neurites.</text>
+</comment>
+<comment type="tissue specificity">
+<text>Brain and neuron specific.</text>
+</comment>
+<comment type="PTM">
+<text evidence="2">The p35 form is proteolytically cleaved by calpain, giving rise to the p25 form. P35 has a 5 to 10 fold shorter half-life compared to p25. The conversion results in deregulation of the CDK5 kinase: p25/CDK5 kinase displays an increased and altered tau phosphorylation in comparison to the p35/CDK5 kinase in vivo (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="10 11">Myristoylated. A proper myristoylation signal is essential for the proper distribution of p35.</text>
+</comment>
+<comment type="PTM">
+<text evidence="4">Ubiquitinated. Degradation of p35 by proteasome results in down-regulation of CDK5 activity. During this process, CDK5 phosphorylates p35 and induces its ubiquitination and subsequent degradation.</text>
+</comment>
+<comment type="PTM">
+<text evidence="8">Phosphorylation at Ser-8 and Thr-138 by CDK5 prevents calpain-mediated proteolysis.</text>
+</comment>
+<comment type="miscellaneous">
+<text>Cleavage of p35 to p25 may be involved in the pathogenesis of cytoskeletal abnormalities and neuronal death in neurodegenerative diseases. The p25 form accumulates in neurons in the brain of patients with Alzheimer disease, but not in normal brain. This accumulation correlates with an increase in CDK5 kinase activity. Application of amyloid beta peptide A-beta(1-42) induced the conversion of p35 to p25 in primary cortical neurons. Expression of the p25/Cdk5 complex in cultured primary neurons induces cytoskeletal disruption, morphological degeneration and apoptosis.</text>
+</comment>
+<comment type="similarity">
+<text evidence="13">Belongs to the cyclin-dependent kinase 5 activator family.</text>
+</comment>
+<comment type="online information" name="NIEHS-SNPs">
+<link uri="http://egp.gs.washington.edu/data/cdk5r1/"/>
+</comment>
+<dbReference type="EMBL" id="X80343">
+<property type="protein sequence ID" value="CAA56587.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY376350">
+<property type="protein sequence ID" value="AAQ74776.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT019573">
+<property type="protein sequence ID" value="AAV38380.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471147">
+<property type="protein sequence ID" value="EAW80227.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471147">
+<property type="protein sequence ID" value="EAW80228.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC020580">
+<property type="protein sequence ID" value="AAH20580.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS11273.1"/>
+<dbReference type="PIR" id="S50861">
+<property type="entry name" value="S50861"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_003876.1">
+<property type="nucleotide sequence ID" value="NM_003885.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011523740.1">
+<property type="nucleotide sequence ID" value="XM_011525438.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016880770.1">
+<property type="nucleotide sequence ID" value="XM_017025281.1"/>
+</dbReference>
+<dbReference type="PDB" id="1H4L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.65"/>
+<property type="chains" value="D/E=147-293"/>
+</dbReference>
+<dbReference type="PDB" id="1UNG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="D/E=100-307"/>
+</dbReference>
+<dbReference type="PDB" id="1UNH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="D/E=100-307"/>
+</dbReference>
+<dbReference type="PDB" id="1UNL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="D/E=100-307"/>
+</dbReference>
+<dbReference type="PDB" id="3O0G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="D/E=145-293"/>
+</dbReference>
+<dbReference type="PDBsum" id="1H4L"/>
+<dbReference type="PDBsum" id="1UNG"/>
+<dbReference type="PDBsum" id="1UNH"/>
+<dbReference type="PDBsum" id="1UNL"/>
+<dbReference type="PDBsum" id="3O0G"/>
+<dbReference type="SMR" id="Q15078"/>
+<dbReference type="BioGRID" id="114376">
+<property type="interactions" value="46"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-2201">
+<property type="entry name" value="Cyclin-dependent protein kinase 5 holoenzyme complex, p35 variant"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-3142">
+<property type="entry name" value="Cyclin-dependent protein kinase 5 holoenzyme complex, p25 variant"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-24222N"/>
+<dbReference type="ELM" id="Q15078"/>
+<dbReference type="IntAct" id="Q15078">
+<property type="interactions" value="25"/>
+</dbReference>
+<dbReference type="MINT" id="Q15078"/>
+<dbReference type="STRING" id="9606.ENSP00000318486"/>
+<dbReference type="BindingDB" id="Q15078"/>
+<dbReference type="ChEMBL" id="CHEMBL2783"/>
+<dbReference type="DrugBank" id="DB07364">
+<property type="generic name" value="6-PHENYL[5H]PYRROLO[2,3-B]PYRAZINE"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02052">
+<property type="generic name" value="Indirubin-3'-monoxime"/>
+</dbReference>
+<dbReference type="DrugCentral" id="Q15078"/>
+<dbReference type="iPTMnet" id="Q15078"/>
+<dbReference type="PhosphoSitePlus" id="Q15078"/>
+<dbReference type="BioMuta" id="CDK5R1"/>
+<dbReference type="DMDM" id="2498217"/>
+<dbReference type="MassIVE" id="Q15078"/>
+<dbReference type="PaxDb" id="Q15078"/>
+<dbReference type="PeptideAtlas" id="Q15078"/>
+<dbReference type="PRIDE" id="Q15078"/>
+<dbReference type="ProteomicsDB" id="60429"/>
+<dbReference type="ABCD" id="Q15078">
+<property type="antibodies" value="1 sequenced antibody"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="15411">
+<property type="antibodies" value="274 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="8851"/>
+<dbReference type="Ensembl" id="ENST00000313401">
+<property type="protein sequence ID" value="ENSP00000318486"/>
+<property type="gene ID" value="ENSG00000176749"/>
+</dbReference>
+<dbReference type="GeneID" id="8851"/>
+<dbReference type="KEGG" id="hsa:8851"/>
+<dbReference type="UCSC" id="uc002hhn.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="8851"/>
+<dbReference type="DisGeNET" id="8851"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000176749.8"/>
+<dbReference type="GeneCards" id="CDK5R1"/>
+<dbReference type="HGNC" id="HGNC:1775">
+<property type="gene designation" value="CDK5R1"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000176749">
+<property type="expression patterns" value="Tissue enriched (brain)"/>
+</dbReference>
+<dbReference type="MIM" id="603460">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q15078"/>
+<dbReference type="OpenTargets" id="ENSG00000176749"/>
+<dbReference type="PharmGKB" id="PA26311"/>
+<dbReference type="eggNOG" id="KOG3932">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000008812"/>
+<dbReference type="HOGENOM" id="CLU_034132_2_0_1"/>
+<dbReference type="InParanoid" id="Q15078"/>
+<dbReference type="KO" id="K11716"/>
+<dbReference type="OMA" id="KNECSQE"/>
+<dbReference type="OrthoDB" id="1492547at2759"/>
+<dbReference type="PhylomeDB" id="Q15078"/>
+<dbReference type="TreeFam" id="TF101036"/>
+<dbReference type="PathwayCommons" id="Q15078"/>
+<dbReference type="Reactome" id="R-HSA-399956">
+<property type="pathway name" value="CRMPs in Sema3A signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6804756">
+<property type="pathway name" value="Regulation of TP53 Activity through Phosphorylation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8862803">
+<property type="pathway name" value="Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9031628">
+<property type="pathway name" value="NGF-stimulated transcription"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9032845">
+<property type="pathway name" value="Activated NTRK2 signals through CDK5"/>
+</dbReference>
+<dbReference type="SignaLink" id="Q15078"/>
+<dbReference type="SIGNOR" id="Q15078"/>
+<dbReference type="BioGRID-ORCS" id="8851">
+<property type="hits" value="4 hits in 872 CRISPR screens"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="Q15078"/>
+<dbReference type="GeneWiki" id="CDK5R1"/>
+<dbReference type="GenomeRNAi" id="8851"/>
+<dbReference type="Pharos" id="Q15078">
+<property type="development level" value="Tchem"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q15078"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 17"/>
+</dbReference>
+<dbReference type="RNAct" id="Q15078">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000176749">
+<property type="expression patterns" value="Expressed in neocortex and 195 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q15078">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q15078">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030424">
+<property type="term" value="C:axon"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043292">
+<property type="term" value="C:contractile fiber"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030425">
+<property type="term" value="C:dendrite"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043197">
+<property type="term" value="C:dendritic spine"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030426">
+<property type="term" value="C:growth cone"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043231">
+<property type="term" value="C:intracellular membrane-bounded organelle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031594">
+<property type="term" value="C:neuromuscular junction"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043005">
+<property type="term" value="C:neuron projection"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043025">
+<property type="term" value="C:neuronal cell body"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043204">
+<property type="term" value="C:perikaryon"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048471">
+<property type="term" value="C:perinuclear region of cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014069">
+<property type="term" value="C:postsynaptic density"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0098793">
+<property type="term" value="C:presynapse"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016533">
+<property type="term" value="C:protein kinase 5 complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051015">
+<property type="term" value="F:actin filament binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043014">
+<property type="term" value="F:alpha-tubulin binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048487">
+<property type="term" value="F:beta-tubulin binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045296">
+<property type="term" value="F:cadherin binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005509">
+<property type="term" value="F:calcium ion binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061575">
+<property type="term" value="F:cyclin-dependent protein serine/threonine kinase activator activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046875">
+<property type="term" value="F:ephrin receptor binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035255">
+<property type="term" value="F:ionotropic glutamate receptor binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016301">
+<property type="term" value="F:kinase activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002020">
+<property type="term" value="F:protease binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030295">
+<property type="term" value="F:protein kinase activator activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004672">
+<property type="term" value="F:protein kinase activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019901">
+<property type="term" value="F:protein kinase binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043539">
+<property type="term" value="F:protein serine/threonine kinase activator activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007411">
+<property type="term" value="P:axon guidance"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007413">
+<property type="term" value="P:axonal fasciculation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007420">
+<property type="term" value="P:brain development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021549">
+<property type="term" value="P:cerebellum development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009792">
+<property type="term" value="P:embryo development ending in birth or egg hatching"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048013">
+<property type="term" value="P:ephrin receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007213">
+<property type="term" value="P:G protein-coupled acetylcholine receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021766">
+<property type="term" value="P:hippocampus development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035235">
+<property type="term" value="P:ionotropic glutamate receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021819">
+<property type="term" value="P:layer formation in cerebral cortex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000226">
+<property type="term" value="P:microtubule cytoskeleton organization"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030517">
+<property type="term" value="P:negative regulation of axon extension"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="DFLAT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007158">
+<property type="term" value="P:neuron cell-cell adhesion"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030182">
+<property type="term" value="P:neuron differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001764">
+<property type="term" value="P:neuron migration"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031175">
+<property type="term" value="P:neuron projection development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018105">
+<property type="term" value="P:peptidyl-serine phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018107">
+<property type="term" value="P:peptidyl-threonine phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071158">
+<property type="term" value="P:positive regulation of cell cycle arrest"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045348">
+<property type="term" value="P:positive regulation of MHC class II biosynthetic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031116">
+<property type="term" value="P:positive regulation of microtubule polymerization"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043525">
+<property type="term" value="P:positive regulation of neuron apoptotic process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090314">
+<property type="term" value="P:positive regulation of protein targeting to membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010870">
+<property type="term" value="P:positive regulation of receptor biosynthetic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032956">
+<property type="term" value="P:regulation of actin cytoskeleton organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000079">
+<property type="term" value="P:regulation of cyclin-dependent protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061001">
+<property type="term" value="P:regulation of dendritic spine morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016241">
+<property type="term" value="P:regulation of macroautophagy"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045664">
+<property type="term" value="P:regulation of neuron differentiation"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901796">
+<property type="term" value="P:regulation of signal transduction by p53 class mediator"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048511">
+<property type="term" value="P:rhythmic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042501">
+<property type="term" value="P:serine phosphorylation of STAT protein"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021722">
+<property type="term" value="P:superior olivary nucleus maturation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004944">
+<property type="entry name" value="CDK5_activator"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036915">
+<property type="entry name" value="Cyclin-like_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR23401">
+<property type="entry name" value="PTHR23401"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03261">
+<property type="entry name" value="CDK5_activator"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF009324">
+<property type="entry name" value="Cdk5_activator"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47954">
+<property type="entry name" value="SSF47954"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0090">Biological rhythms</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0966">Cell projection</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0449">Lipoprotein</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0519">Myristate</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<feature type="initiator methionine" description="Removed">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Cyclin-dependent kinase 5 activator 1, p35" id="PRO_0000004794">
+<location>
+<begin position="2"/>
+<end position="307"/>
+</location>
+</feature>
+<feature type="chain" description="Cyclin-dependent kinase 5 activator 1, p25" id="PRO_0000004795">
+<location>
+<begin position="99"/>
+<end position="307"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by calpain" evidence="2">
+<location>
+<begin position="98"/>
+<end position="99"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by CDK5" evidence="8">
+<location>
+<position position="8"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by CDK5" evidence="8">
+<location>
+<position position="138"/>
+</location>
+</feature>
+<feature type="lipid moiety-binding region" description="N-myristoyl glycine" evidence="11">
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Absent from the cell periphery." evidence="3 10">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increased susceptibility to calpain." evidence="8">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="8"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced susceptibility to calpain." evidence="8">
+<original>S</original>
+<variation>E</variation>
+<location>
+<position position="8"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increased susceptibility to calpain." evidence="8">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="138"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced susceptibility to calpain." evidence="8">
+<original>T</original>
+<variation>E</variation>
+<location>
+<position position="138"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="148"/>
+<end position="162"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="172"/>
+<end position="187"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="198"/>
+<end position="211"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="219"/>
+<end position="237"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="239"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="246"/>
+<end position="248"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="254"/>
+<end position="277"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="279"/>
+<end position="290"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3O0G"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10604467"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12393264"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15128856"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15689152"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16039528"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17121855"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17671990"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18507738"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20213681"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24235147"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000305"/>
+<sequence length="307" mass="34060" checksum="D1C29A07AFF1B644" modified="1997-11-01" version="1" precursor="true">MGTVLSLSPSYRKATLFEDGAATVGHYTAVQNSKNAKDKNLKRHSIISVLPWKRIVAVSAKKKNSKKVQPNSSYQNNITHLNNENLKKSLSCANLSTFAQPPPAQPPAPPASQLSGSQTGGSSSVKKAPHPAVTSAGTPKRVIVQASTSELLRCLGEFLCRRCYRLKHLSPTDPVLWLRSVDRSLLLQGWQDQGFITPANVVFLYMLCRDVISSEVGSDHELQAVLLTCLYLSYSYMGNEISYPLKPFLVESCKEAFWDRCLSVINLMSSKMLQINADPHYFTQVFSDLKNESGQEDKKRLLLGLDR</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

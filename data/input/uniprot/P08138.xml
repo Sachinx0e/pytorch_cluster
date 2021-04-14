@@ -1,0 +1,1783 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-08-01" modified="2020-10-07" version="216">
+<accession>P08138</accession>
+<accession>B2R961</accession>
+<accession>B4E096</accession>
+<name>TNR16_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Tumor necrosis factor receptor superfamily member 16</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Gp80-LNGFR</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Low affinity neurotrophin receptor p75NTR</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Low-affinity nerve growth factor receptor</fullName>
+<shortName evidence="26">NGF receptor</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>p75 ICD</fullName>
+</alternativeName>
+<cdAntigenName>CD271</cdAntigenName>
+</protein>
+<gene>
+<name type="primary">NGFR</name>
+<name type="synonym">TNFRSF16</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1986" name="Cell" volume="47" first="545" last="554">
+<title>Expression and structure of the human NGF receptor.</title>
+<authorList>
+<person name="Johnson D."/>
+<person name="Lanahan A."/>
+<person name="Buck C.R."/>
+<person name="Sehgal A."/>
+<person name="Morgan C."/>
+<person name="Mercer E."/>
+<person name="Bothwell M."/>
+<person name="Chao M."/>
+</authorList>
+<dbReference type="PubMed" id="3022937"/>
+<dbReference type="DOI" id="10.1016/0092-8674(86)90619-7"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 2)</scope>
+<source>
+<tissue>Cerebellum</tissue>
+<tissue>Thymus</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="1045" last="1049">
+<title>DNA sequence of human chromosome 17 and analysis of rearrangement in the human lineage.</title>
+<authorList>
+<person name="Zody M.C."/>
+<person name="Garber M."/>
+<person name="Adams D.J."/>
+<person name="Sharpe T."/>
+<person name="Harrow J."/>
+<person name="Lupski J.R."/>
+<person name="Nicholson C."/>
+<person name="Searle S.M."/>
+<person name="Wilming L."/>
+<person name="Young S.K."/>
+<person name="Abouelleil A."/>
+<person name="Allen N.R."/>
+<person name="Bi W."/>
+<person name="Bloom T."/>
+<person name="Borowsky M.L."/>
+<person name="Bugalter B.E."/>
+<person name="Butler J."/>
+<person name="Chang J.L."/>
+<person name="Chen C.-K."/>
+<person name="Cook A."/>
+<person name="Corum B."/>
+<person name="Cuomo C.A."/>
+<person name="de Jong P.J."/>
+<person name="DeCaprio D."/>
+<person name="Dewar K."/>
+<person name="FitzGerald M."/>
+<person name="Gilbert J."/>
+<person name="Gibson R."/>
+<person name="Gnerre S."/>
+<person name="Goldstein S."/>
+<person name="Grafham D.V."/>
+<person name="Grocock R."/>
+<person name="Hafez N."/>
+<person name="Hagopian D.S."/>
+<person name="Hart E."/>
+<person name="Norman C.H."/>
+<person name="Humphray S."/>
+<person name="Jaffe D.B."/>
+<person name="Jones M."/>
+<person name="Kamal M."/>
+<person name="Khodiyar V.K."/>
+<person name="LaButti K."/>
+<person name="Laird G."/>
+<person name="Lehoczky J."/>
+<person name="Liu X."/>
+<person name="Lokyitsang T."/>
+<person name="Loveland J."/>
+<person name="Lui A."/>
+<person name="Macdonald P."/>
+<person name="Major J.E."/>
+<person name="Matthews L."/>
+<person name="Mauceli E."/>
+<person name="McCarroll S.A."/>
+<person name="Mihalev A.H."/>
+<person name="Mudge J."/>
+<person name="Nguyen C."/>
+<person name="Nicol R."/>
+<person name="O'Leary S.B."/>
+<person name="Osoegawa K."/>
+<person name="Schwartz D.C."/>
+<person name="Shaw-Smith C."/>
+<person name="Stankiewicz P."/>
+<person name="Steward C."/>
+<person name="Swarbreck D."/>
+<person name="Venkataraman V."/>
+<person name="Whittaker C.A."/>
+<person name="Yang X."/>
+<person name="Zimmer A.R."/>
+<person name="Bradley A."/>
+<person name="Hubbard T."/>
+<person name="Birren B.W."/>
+<person name="Rogers J."/>
+<person name="Lander E.S."/>
+<person name="Nusbaum C."/>
+</authorList>
+<dbReference type="PubMed" id="16625196"/>
+<dbReference type="DOI" id="10.1038/nature04689"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1988" name="Mol. Cell. Biol." volume="8" first="3160" last="3167">
+<title>A constitutive promoter directs expression of the nerve growth factor receptor gene.</title>
+<authorList>
+<person name="Sehgal A."/>
+<person name="Patil N."/>
+<person name="Chao M."/>
+</authorList>
+<dbReference type="PubMed" id="2850481"/>
+<dbReference type="DOI" id="10.1128/mcb.8.8.3160"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-22</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1999" name="J. Biol. Chem." volume="274" first="30202" last="30208">
+<title>TRAF family proteins interact with the common neurotrophin receptor and modulate apoptosis induction.</title>
+<authorList>
+<person name="Ye X."/>
+<person name="Mehlen P."/>
+<person name="Rabizadeh S."/>
+<person name="VanArsdale T."/>
+<person name="Zhang H."/>
+<person name="Shin H."/>
+<person name="Wang J.J.L."/>
+<person name="Leo E."/>
+<person name="Zapata J.M."/>
+<person name="Hauser C.A."/>
+<person name="Reed J.C."/>
+<person name="Bredesen D.E."/>
+</authorList>
+<dbReference type="PubMed" id="10514511"/>
+<dbReference type="DOI" id="10.1074/jbc.274.42.30202"/>
+</citation>
+<scope>INTERACTION WITH TRAF2; TRAF4 AND TRAF6</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1999" name="J. Biol. Chem." volume="274" first="2597" last="2600">
+<title>Association of the p75 neurotrophin receptor with TRAF6.</title>
+<authorList>
+<person name="Khursigara G."/>
+<person name="Orlinick J.R."/>
+<person name="Chao M.V."/>
+</authorList>
+<dbReference type="PubMed" id="9915784"/>
+<dbReference type="DOI" id="10.1074/jbc.274.5.2597"/>
+</citation>
+<scope>INTERACTION WITH TRAF6</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1999" name="FEBS Lett." volume="460" first="191" last="198">
+<title>Functional interaction of Fas-associated phosphatase-1 (FAP-1) with p75(NTR) and their effect on NF-kappaB activation.</title>
+<authorList>
+<person name="Irie S."/>
+<person name="Hachiya T."/>
+<person name="Rabizadeh S."/>
+<person name="Maruyama W."/>
+<person name="Mukai J."/>
+<person name="Li Y."/>
+<person name="Reed J.C."/>
+<person name="Bredesen D.E."/>
+<person name="Sato T.A."/>
+</authorList>
+<dbReference type="PubMed" id="10544233"/>
+<dbReference type="DOI" id="10.1016/s0014-5793(99)01324-1"/>
+</citation>
+<scope>INTERACTION WITH PTPN13</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2001" name="J. Biol. Chem." volume="276" first="7709" last="7712">
+<title>The atypical protein kinase C-interacting protein p62 is a scaffold for NF-kappaB activation by nerve growth factor.</title>
+<authorList>
+<person name="Wooten M.W."/>
+<person name="Seibenhener M.L."/>
+<person name="Mamidipudi V."/>
+<person name="Diaz-Meco M.T."/>
+<person name="Barker P.A."/>
+<person name="Moscat J."/>
+</authorList>
+<dbReference type="PubMed" id="11244088"/>
+<dbReference type="DOI" id="10.1074/jbc.c000869200"/>
+</citation>
+<scope>INTERACTION WITH TRAF6 AND SQSTM1</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2003" name="Biochem. Biophys. Res. Commun." volume="309" first="552" last="557">
+<title>RanBPM is a novel binding protein for p75NTR.</title>
+<authorList>
+<person name="Bai D."/>
+<person name="Chen H."/>
+<person name="Huang B.-R."/>
+</authorList>
+<dbReference type="PubMed" id="12963025"/>
+<dbReference type="DOI" id="10.1016/j.bbrc.2003.08.033"/>
+</citation>
+<scope>INTERACTION WITH RANBP9</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2004" name="Nat. Neurosci." volume="7" first="221" last="228">
+<title>LINGO-1 is a component of the Nogo-66 receptor/p75 signaling complex.</title>
+<authorList>
+<person name="Mi S."/>
+<person name="Lee X."/>
+<person name="Shao Z."/>
+<person name="Thill G."/>
+<person name="Ji B."/>
+<person name="Relton J."/>
+<person name="Levesque M."/>
+<person name="Allaire N."/>
+<person name="Perrin S."/>
+<person name="Sands B."/>
+<person name="Crowell T."/>
+<person name="Cate R.L."/>
+<person name="McCoy J.M."/>
+<person name="Pepinsky R.B."/>
+</authorList>
+<dbReference type="PubMed" id="14966521"/>
+<dbReference type="DOI" id="10.1038/nn1188"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH LINGO1</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1996" name="J. Neurochem." volume="66" first="1707" last="1716">
+<title>O-linked oligosaccharide on the 75-kDa neurotrophin receptor.</title>
+<authorList>
+<person name="Chapman B.S."/>
+<person name="Eckart M.R."/>
+<person name="Kaufman S.E."/>
+<person name="Lapointe G.R."/>
+</authorList>
+<dbReference type="PubMed" id="8627329"/>
+<dbReference type="DOI" id="10.1046/j.1471-4159.1996.66041707.x"/>
+</citation>
+<scope>STRUCTURE OF O-LINKED CARBOHYDRATE</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2008" name="J. Neurosci." volume="28" first="13161" last="13172">
+<title>Genetic variants of Nogo-66 receptor with possible association to schizophrenia block myelin inhibition of axon growth.</title>
+<authorList>
+<person name="Budel S."/>
+<person name="Padukkavidana T."/>
+<person name="Liu B.P."/>
+<person name="Feng Z."/>
+<person name="Hu F."/>
+<person name="Johnson S."/>
+<person name="Lauren J."/>
+<person name="Park J.H."/>
+<person name="McGee A.W."/>
+<person name="Liao J."/>
+<person name="Stillman A."/>
+<person name="Kim J.E."/>
+<person name="Yang B.Z."/>
+<person name="Sodi S."/>
+<person name="Gelernter J."/>
+<person name="Zhao H."/>
+<person name="Hisama F."/>
+<person name="Arnsten A.F."/>
+<person name="Strittmatter S.M."/>
+</authorList>
+<dbReference type="PubMed" id="19052207"/>
+<dbReference type="DOI" id="10.1523/jneurosci.3828-08.2008"/>
+</citation>
+<scope>INTERACTION WITH RTN4R</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2011" name="Sci. Signal." volume="4" first="RA82" last="RA82">
+<title>Neuronal growth cone retraction relies on proneurotrophin receptor signaling through Rac.</title>
+<authorList>
+<person name="Deinhardt K."/>
+<person name="Kim T."/>
+<person name="Spellman D.S."/>
+<person name="Mains R.E."/>
+<person name="Eipper B.A."/>
+<person name="Neubert T.A."/>
+<person name="Chao M.V."/>
+<person name="Hempstead B.L."/>
+</authorList>
+<dbReference type="PubMed" id="22155786"/>
+<dbReference type="DOI" id="10.1126/scisignal.2002060"/>
+</citation>
+<scope>INTERACTION WITH SORCS2 AND TRIO</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2013" name="J. Neurosci." volume="33" first="10221" last="10234">
+<title>p75 neurotrophin receptor is a clock gene that regulates oscillatory components of circadian and metabolic networks.</title>
+<authorList>
+<person name="Baeza-Raja B."/>
+<person name="Eckel-Mahan K."/>
+<person name="Zhang L."/>
+<person name="Vagena E."/>
+<person name="Tsigelny I.F."/>
+<person name="Sassone-Corsi P."/>
+<person name="Ptacek L.J."/>
+<person name="Akassoglou K."/>
+</authorList>
+<dbReference type="PubMed" id="23785138"/>
+<dbReference type="DOI" id="10.1523/jneurosci.2757-12.2013"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-311</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2014" name="Neuron" volume="82" first="1074" last="1087">
+<title>SorCS2 regulates dopaminergic wiring and is processed into an apoptotic two-chain receptor in peripheral glia.</title>
+<authorList>
+<person name="Glerup S."/>
+<person name="Olsen D."/>
+<person name="Vaegter C.B."/>
+<person name="Gustafsen C."/>
+<person name="Sjoegaard S.S."/>
+<person name="Hermey G."/>
+<person name="Kjolby M."/>
+<person name="Molgaard S."/>
+<person name="Ulrichsen M."/>
+<person name="Boggild S."/>
+<person name="Skeldal S."/>
+<person name="Fjorback A.N."/>
+<person name="Nyengaard J.R."/>
+<person name="Jacobsen J."/>
+<person name="Bender D."/>
+<person name="Bjarkam C.R."/>
+<person name="Soerensen E.S."/>
+<person name="Fuechtbauer E.M."/>
+<person name="Eichele G."/>
+<person name="Madsen P."/>
+<person name="Willnow T.E."/>
+<person name="Petersen C.M."/>
+<person name="Nykjaer A."/>
+</authorList>
+<dbReference type="PubMed" id="24908487"/>
+<dbReference type="DOI" id="10.1016/j.neuron.2014.04.022"/>
+</citation>
+<scope>INTERACTION WITH SORCS2</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="19" evidence="1 2 3">
+<citation type="journal article" date="2015" name="Elife" volume="4" first="e11692" last="e11692">
+<title>Structural basis of death domain signaling in the p75 neurotrophin receptor.</title>
+<authorList>
+<person name="Lin Z."/>
+<person name="Tann J.Y."/>
+<person name="Goh E.T."/>
+<person name="Kelly C."/>
+<person name="Lim K.B."/>
+<person name="Gao J.F."/>
+<person name="Ibanez C.F."/>
+</authorList>
+<dbReference type="PubMed" id="26646181"/>
+<dbReference type="DOI" id="10.7554/elife.11692"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 330-427 IN COMPLEXES WITH RIPK2 AND ARHGDIA</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF LYS-343; ASP-412 AND GLU-420</scope>
+</reference>
+<comment type="function">
+<text evidence="7 9 17 20 21 22 23">Low affinity receptor which can bind to NGF, BDNF, NTF3, and NTF4. Forms a heterodimeric receptor with SORCS2 that binds the precursor forms of NGF, BDNF and NTF3 with high affinity, and has much lower affinity for mature NGF and BDNF (PubMed:24908487). Plays an important role in differentiation and survival of specific neuronal populations during development (By similarity). Can mediate cell survival as well as cell death of neural cells. Plays a role in the inactivation of RHOA (PubMed:26646181). Plays a role in the regulation of the translocation of GLUT4 to the cell surface in adipocytes and skeletal muscle cells in response to insulin, probably by regulating RAB31 activity, and thereby contributes to the regulation of insulin-dependent glucose uptake (By similarity). Necessary for the circadian oscillation of the clock genes ARNTL/BMAL1, PER1, PER2 and NR1D1 in the suprachiasmatic nucleus (SCmgetaN) of the brain and in liver and of the genes involved in glucose and lipid metabolism in the liver (PubMed:23785138).</text>
+</comment>
+<comment type="subunit">
+<text evidence="8 9 13 14 15 16 17 18 19 21 22 24">Homodimer; disulfide-linked (By similarity). Heterodimer with SORCS2. The extracellular domains of the heterodimer bind NGF (PubMed:22155786, PubMed:24908487). The cytoplasmic region of the heterodimer binds TRIO. NGF binding mediates dissociation of TRIO from the receptor complex (PubMed:22155786). Interacts with RTN4R (PubMed:19052207). Interacts with TRAF2, TRAF4, TRAF6, PTPN13 and RANBP9 (PubMed:10514511, PubMed:9915784, PubMed:10544233, PubMed:12963025). Interacts through TRAF6 with SQSTM1 which bridges NGFR to NTRK1 (PubMed:11244088). Interacts with BEX1 (By similarity). Interacts with BEX3 (By similarity). Interacts with KIDINS220 and NTRK1. Can form a ternary complex with NTRK1 and KIDINS220 and this complex is affected by the expression levels of KIDINS220. An increase in KIDINS220 expression leads to a decreased association of NGFR and NTRK1. Interacts with NTRK2; may regulate the ligand specificity of the NTRK2 receptor (By similarity). Interacts (via death domain) with RAB31 (By similarity). Interacts with LINGO1 (PubMed:14966521). Interacts with NRADD (By similarity). Interacts with MAGED1; the interaction antagonizes the association NGFR:NTRK1 (By similarity). Interacts (via death domain) with ARHGDIA and RIPK2 (PubMed:26646181).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1387782">
+<id>P08138</id>
+</interactant>
+<interactant intactId="EBI-77613">
+<id>P05067</id>
+<label>APP</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1387782">
+<id>P08138</id>
+</interactant>
+<interactant intactId="EBI-2431589">
+<id>PRO_0000000093</id>
+<label>APP</label>
+<dbReference type="UniProtKB" id="P05067"/>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1387782">
+<id>P08138</id>
+</interactant>
+<interactant intactId="EBI-1031024">
+<id>P33681</id>
+<label>CD80</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1387782">
+<id>P08138</id>
+</interactant>
+<interactant intactId="EBI-719955">
+<id>Q96FE5</id>
+<label>LINGO1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1387782">
+<id>P08138</id>
+</interactant>
+<interactant intactId="EBI-1028250">
+<id>P01138</id>
+<label>NGF</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1387782">
+<id>P08138</id>
+</interactant>
+<interactant intactId="EBI-9249861">
+<id>PRO_0000019600</id>
+<label>NGF</label>
+<dbReference type="UniProtKB" id="P01138"/>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1387782">
+<id>P08138</id>
+</interactant>
+<interactant intactId="EBI-746180">
+<id>Q9Y467</id>
+<label>SALL2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1387782">
+<id>P08138</id>
+</interactant>
+<interactant intactId="EBI-2313231">
+<id>O75509</id>
+<label>TNFRSF21</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1387782">
+<id>P08138</id>
+</interactant>
+<interactant intactId="EBI-1801080">
+<id>P25233</id>
+<label>Ndn</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1387782">
+<id>P08138</id>
+</interactant>
+<interactant intactId="EBI-5529102">
+<id>Q9CPR8</id>
+<label>Nsmce3</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="23">Cell membrane</location>
+<topology evidence="27">Single-pass type I membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="9">Perikaryon</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="9">Cell projection</location>
+<location evidence="9">Growth cone</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="9">Cell projection</location>
+<location evidence="9">Dendritic spine</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>P08138-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P08138-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_056850"/>
+</isoform>
+</comment>
+<comment type="domain">
+<text evidence="8 22">The death domain mediates interaction with RANBP9 (By similarity). It also mediates interaction with ARHGDIA and RIPK2 (PubMed:26646181).</text>
+</comment>
+<comment type="domain">
+<text evidence="7">The extracellular domain is responsible for interaction with NTRK1.</text>
+</comment>
+<comment type="PTM">
+<text>N- and O-glycosylated.</text>
+</comment>
+<comment type="PTM">
+<text>O-linked glycans consist of Gal(1-3)GalNAc core elongated by 1 or 2 NeuNAc.</text>
+</comment>
+<comment type="PTM">
+<text>Phosphorylated on serine residues.</text>
+</comment>
+<dbReference type="EMBL" id="M14764">
+<property type="protein sequence ID" value="AAB59544.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK303278">
+<property type="protein sequence ID" value="BAG64358.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK313654">
+<property type="protein sequence ID" value="BAG36408.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC006487">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC015656">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471109">
+<property type="protein sequence ID" value="EAW94677.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC050309">
+<property type="protein sequence ID" value="AAH50309.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M21621">
+<property type="protein sequence ID" value="AAA36363.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS11549.1">
+<molecule id="P08138-1"/>
+</dbReference>
+<dbReference type="PIR" id="A25218">
+<property type="entry name" value="GQHUN"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_002498.1">
+<molecule id="P08138-1"/>
+<property type="nucleotide sequence ID" value="NM_002507.3"/>
+</dbReference>
+<dbReference type="PDB" id="2N80">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=334-427"/>
+</dbReference>
+<dbReference type="PDB" id="2N83">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=330-427"/>
+</dbReference>
+<dbReference type="PDB" id="2N97">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=330-427"/>
+</dbReference>
+<dbReference type="PDB" id="3EWV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="E=396-412"/>
+</dbReference>
+<dbReference type="PDB" id="5ZGG">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=244-277"/>
+</dbReference>
+<dbReference type="PDBsum" id="2N80"/>
+<dbReference type="PDBsum" id="2N83"/>
+<dbReference type="PDBsum" id="2N97"/>
+<dbReference type="PDBsum" id="3EWV"/>
+<dbReference type="PDBsum" id="5ZGG"/>
+<dbReference type="BMRB" id="P08138"/>
+<dbReference type="SMR" id="P08138"/>
+<dbReference type="BioGRID" id="110870">
+<property type="interactions" value="43"/>
+</dbReference>
+<dbReference type="CORUM" id="P08138"/>
+<dbReference type="DIP" id="DIP-406N"/>
+<dbReference type="IntAct" id="P08138">
+<property type="interactions" value="23"/>
+</dbReference>
+<dbReference type="MINT" id="P08138"/>
+<dbReference type="STRING" id="9606.ENSP00000172229"/>
+<dbReference type="BindingDB" id="P08138"/>
+<dbReference type="ChEMBL" id="CHEMBL4762"/>
+<dbReference type="DrugCentral" id="P08138"/>
+<dbReference type="GuidetoPHARMACOLOGY" id="1888"/>
+<dbReference type="GlyConnect" id="611">
+<property type="glycosylation" value="3 N-Linked glycans (1 site), 2 O-Linked glycans"/>
+</dbReference>
+<dbReference type="GlyGen" id="P08138">
+<property type="glycosylation" value="1 site, 3 N-linked glycans (1 site)"/>
+</dbReference>
+<dbReference type="iPTMnet" id="P08138"/>
+<dbReference type="PhosphoSitePlus" id="P08138"/>
+<dbReference type="UniCarbKB" id="P08138"/>
+<dbReference type="BioMuta" id="NGFR"/>
+<dbReference type="DMDM" id="128156"/>
+<dbReference type="EPD" id="P08138"/>
+<dbReference type="jPOST" id="P08138"/>
+<dbReference type="MassIVE" id="P08138"/>
+<dbReference type="MaxQB" id="P08138"/>
+<dbReference type="PaxDb" id="P08138"/>
+<dbReference type="PeptideAtlas" id="P08138"/>
+<dbReference type="PRIDE" id="P08138"/>
+<dbReference type="ProteomicsDB" id="52073">
+<molecule id="P08138-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="5660"/>
+<dbReference type="Antibodypedia" id="1461">
+<property type="antibodies" value="1538 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="4804"/>
+<dbReference type="Ensembl" id="ENST00000172229">
+<molecule id="P08138-1"/>
+<property type="protein sequence ID" value="ENSP00000172229"/>
+<property type="gene ID" value="ENSG00000064300"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000504201">
+<molecule id="P08138-2"/>
+<property type="protein sequence ID" value="ENSP00000421731"/>
+<property type="gene ID" value="ENSG00000064300"/>
+</dbReference>
+<dbReference type="GeneID" id="4804"/>
+<dbReference type="KEGG" id="hsa:4804"/>
+<dbReference type="UCSC" id="uc002ioz.5">
+<molecule id="P08138-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="4804"/>
+<dbReference type="DisGeNET" id="4804"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000064300.8"/>
+<dbReference type="GeneCards" id="NGFR"/>
+<dbReference type="HGNC" id="HGNC:7809">
+<property type="gene designation" value="NGFR"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000064300">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MIM" id="162010">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P08138"/>
+<dbReference type="OpenTargets" id="ENSG00000064300"/>
+<dbReference type="PharmGKB" id="PA31615"/>
+<dbReference type="eggNOG" id="ENOG502QWPN">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00730000110974"/>
+<dbReference type="HOGENOM" id="CLU_052667_0_1_1"/>
+<dbReference type="InParanoid" id="P08138"/>
+<dbReference type="KO" id="K02583"/>
+<dbReference type="OMA" id="LRMETPC"/>
+<dbReference type="OrthoDB" id="757160at2759"/>
+<dbReference type="PhylomeDB" id="P08138"/>
+<dbReference type="TreeFam" id="TF106466"/>
+<dbReference type="PathwayCommons" id="P08138"/>
+<dbReference type="Reactome" id="R-HSA-193634">
+<property type="pathway name" value="Axonal growth inhibition (RHOA activation)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-193648">
+<property type="pathway name" value="NRAGE signals death through JNK"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-193670">
+<property type="pathway name" value="p75NTR negatively regulates cell cycle via SC1"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-193681">
+<property type="pathway name" value="Ceramide signalling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-193692">
+<property type="pathway name" value="Regulated proteolysis of p75NTR"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-205017">
+<property type="pathway name" value="NFG and proNGF binds to p75NTR"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-205025">
+<property type="pathway name" value="NADE modulates death signalling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-205043">
+<property type="pathway name" value="NRIF signals cell death from the nucleus"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-209543">
+<property type="pathway name" value="p75NTR recruits signalling complexes"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-209560">
+<property type="pathway name" value="NF-kB is activated and signals survival"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-209563">
+<property type="pathway name" value="Axonal growth stimulation"/>
+</dbReference>
+<dbReference type="SignaLink" id="P08138"/>
+<dbReference type="SIGNOR" id="P08138"/>
+<dbReference type="BioGRID-ORCS" id="4804">
+<property type="hits" value="7 hits in 877 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="NGFR">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P08138"/>
+<dbReference type="GeneWiki" id="Low-affinity_nerve_growth_factor_receptor"/>
+<dbReference type="GenomeRNAi" id="4804"/>
+<dbReference type="Pharos" id="P08138">
+<property type="development level" value="Tclin"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P08138"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 17"/>
+</dbReference>
+<dbReference type="RNAct" id="P08138">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000064300">
+<property type="expression patterns" value="Expressed in tibial nerve and 166 other tissues"/>
+</dbReference>
+<dbReference type="Genevisible" id="P08138">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009986">
+<property type="term" value="C:cell surface"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005911">
+<property type="term" value="C:cell-cell junction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043197">
+<property type="term" value="C:dendritic spine"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005768">
+<property type="term" value="C:endosome"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030426">
+<property type="term" value="C:growth cone"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043204">
+<property type="term" value="C:perikaryon"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014069">
+<property type="term" value="C:postsynaptic density"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001540">
+<property type="term" value="F:amyloid-beta binding"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005516">
+<property type="term" value="F:calmodulin binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015026">
+<property type="term" value="F:coreceptor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005035">
+<property type="term" value="F:death receptor activity"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048406">
+<property type="term" value="F:nerve growth factor binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043121">
+<property type="term" value="F:neurotrophin binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017137">
+<property type="term" value="F:Rab GTPase binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0038023">
+<property type="term" value="F:signaling receptor activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004888">
+<property type="term" value="F:transmembrane signaling receptor activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031625">
+<property type="term" value="F:ubiquitin protein ligase binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006919">
+<property type="term" value="P:activation of cysteine-type endopeptidase activity involved in apoptotic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007411">
+<property type="term" value="P:axon guidance"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001678">
+<property type="term" value="P:cellular glucose homeostasis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904646">
+<property type="term" value="P:cellular response to amyloid-beta"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007417">
+<property type="term" value="P:central nervous system development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032922">
+<property type="term" value="P:circadian regulation of gene expression"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016048">
+<property type="term" value="P:detection of temperature stimulus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035907">
+<property type="term" value="P:dorsal aorta development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042593">
+<property type="term" value="P:glucose homeostasis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031069">
+<property type="term" value="P:hair follicle morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006886">
+<property type="term" value="P:intracellular protein transport"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031293">
+<property type="term" value="P:membrane protein intracellular domain proteolysis"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043066">
+<property type="term" value="P:negative regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050771">
+<property type="term" value="P:negative regulation of axonogenesis"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903588">
+<property type="term" value="P:negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043154">
+<property type="term" value="P:negative regulation of cysteine-type endopeptidase activity involved in apoptotic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0040037">
+<property type="term" value="P:negative regulation of fibroblast growth factor receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051799">
+<property type="term" value="P:negative regulation of hair follicle development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021675">
+<property type="term" value="P:nerve development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051402">
+<property type="term" value="P:neuron apoptotic process"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048011">
+<property type="term" value="P:neurotrophin TRK receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043065">
+<property type="term" value="P:positive regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:2001235">
+<property type="term" value="P:positive regulation of apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050772">
+<property type="term" value="P:positive regulation of axonogenesis"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048146">
+<property type="term" value="P:positive regulation of fibroblast proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042488">
+<property type="term" value="P:positive regulation of odontogenesis of dentin-containing tooth"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902895">
+<property type="term" value="P:positive regulation of pri-miRNA transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900182">
+<property type="term" value="P:positive regulation of protein localization to nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043281">
+<property type="term" value="P:regulation of cysteine-type endopeptidase activity involved in apoptotic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007266">
+<property type="term" value="P:Rho protein signal transduction"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="CDD" id="cd13416">
+<property type="entry name" value="TNFRSF16"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011029">
+<property type="entry name" value="DEATH-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000488">
+<property type="entry name" value="Death_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001368">
+<property type="entry name" value="TNFR/NGFR_Cys_rich_reg"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR041448">
+<property type="entry name" value="TNFR16_TM"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022325">
+<property type="entry name" value="TNFR_16"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR034046">
+<property type="entry name" value="TNFRSF16_N"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00531">
+<property type="entry name" value="Death"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF18422">
+<property type="entry name" value="TNFR_16_TM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00020">
+<property type="entry name" value="TNFR_c6"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01966">
+<property type="entry name" value="TNFACTORR16"/>
+</dbReference>
+<dbReference type="SMART" id="SM00005">
+<property type="entry name" value="DEATH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00208">
+<property type="entry name" value="TNFR"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47986">
+<property type="entry name" value="SSF47986"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50017">
+<property type="entry name" value="DEATH_DOMAIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00652">
+<property type="entry name" value="TNFR_NGFR_1"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50050">
+<property type="entry name" value="TNFR_NGFR_2"/>
+<property type="match status" value="4"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0053">Apoptosis</keyword>
+<keyword id="KW-0090">Biological rhythms</keyword>
+<keyword id="KW-0965">Cell junction</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0966">Cell projection</keyword>
+<keyword id="KW-0217">Developmental protein</keyword>
+<keyword id="KW-0221">Differentiation</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0524">Neurogenesis</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-0675">Receptor</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0770">Synapse</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="signal peptide">
+<location>
+<begin position="1"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="chain" description="Tumor necrosis factor receptor superfamily member 16" id="PRO_0000034591">
+<location>
+<begin position="29"/>
+<end position="427"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="10">
+<location>
+<begin position="29"/>
+<end position="250"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="10">
+<location>
+<begin position="251"/>
+<end position="272"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="10">
+<location>
+<begin position="273"/>
+<end position="427"/>
+</location>
+</feature>
+<feature type="repeat" description="TNFR-Cys 1">
+<location>
+<begin position="31"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="repeat" description="TNFR-Cys 2">
+<location>
+<begin position="66"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="repeat" description="TNFR-Cys 3">
+<location>
+<begin position="108"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="repeat" description="TNFR-Cys 4">
+<location>
+<begin position="148"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="domain" description="Death" evidence="11">
+<location>
+<begin position="344"/>
+<end position="421"/>
+</location>
+</feature>
+<feature type="region of interest" description="Mediates interaction with KIDINS220" evidence="7">
+<location>
+<begin position="326"/>
+<end position="341"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Ser/Thr-rich">
+<location>
+<begin position="197"/>
+<end position="248"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="311"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" id="CAR_000231" evidence="27">
+<location>
+<position position="60"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="12">
+<location>
+<begin position="32"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="12">
+<location>
+<begin position="44"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="12">
+<location>
+<begin position="47"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="12">
+<location>
+<begin position="67"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="12">
+<location>
+<begin position="86"/>
+<end position="99"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="12">
+<location>
+<begin position="89"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="12">
+<location>
+<begin position="109"/>
+<end position="122"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="12">
+<location>
+<begin position="125"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="12">
+<location>
+<begin position="128"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="12">
+<location>
+<begin position="149"/>
+<end position="164"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="12">
+<location>
+<begin position="167"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="12">
+<location>
+<begin position="170"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_056850" evidence="25">
+<location>
+<begin position="1"/>
+<end position="94"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2072446." id="VAR_020010">
+<original>S</original>
+<variation>L</variation>
+<location>
+<position position="205"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased interaction with ARHGDIA." evidence="22">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="343"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased interaction with ARHGDIA." evidence="22">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="412"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreased interaction with ARHGDIA." evidence="22">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="420"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="246"/>
+<end position="248"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="252"/>
+<end position="276"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="336"/>
+<end position="338"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="341"/>
+<end position="351"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="358"/>
+<end position="366"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="370"/>
+<end position="377"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="379"/>
+<end position="381"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="382"/>
+<end position="390"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="398"/>
+<end position="409"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="411"/>
+<end position="417"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="418"/>
+<end position="420"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="421"/>
+<end position="423"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2N80"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2N83"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2N97"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3EWV"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5ZGG"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="24275569"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000250"/>
+<evidence key="8" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P07174"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9Z0W1"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000255"/>
+<evidence key="11" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00064"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00206"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10514511"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10544233"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11244088"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12963025"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14966521"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19052207"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22155786"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23785138"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24908487"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26646181"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3022937"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9915784"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="3022937"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000305"/>
+<sequence length="427" mass="45183" checksum="B09FA143FB3D625B" modified="1988-08-01" version="1" precursor="true">MGAGATGRAMDGPRLLLLLLLGVSLGGAKEACPTGLYTHSGECCKACNLGEGVAQPCGANQTVCEPCLDSVTFSDVVSATEPCKPCTECVGLQSMSAPCVEADDAVCRCAYGYYQDETTGRCEACRVCEAGSGLVFSCQDKQNTVCEECPDGTYSDEANHVDPCLPCTVCEDTERQLRECTRWADAECEEIPGRWITRSTPPEGSDSTAPSTQEPEAPPEQDLIASTVAGVVTTVMGSSQPVVTRGTTDNLIPVYCSILAAVVVGLVAYIAFKRWNSCKQNKQGANSRPVNQTPPPEGEKLHSDSGISVDSQSLHDQQPHTQTASGQALKGDGGLYSSLPPAKREEVEKLLNGSAGDTWRHLAGELGYQPEHIDSFTHEACPVRALLASWATQDSATLDALLAALRRIQRADLVESLCSESTATSPV</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

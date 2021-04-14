@@ -1,0 +1,1422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1988-08-01" modified="2020-10-07" version="207">
+<accession>P08588</accession>
+<accession>B0LPE2</accession>
+<accession>Q5T5Y4</accession>
+<accession>Q9UKG7</accession>
+<accession>Q9UKG8</accession>
+<name>ADRB1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="15">Beta-1 adrenergic receptor</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Beta-1 adrenoreceptor</fullName>
+<shortName>Beta-1 adrenoceptor</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="16">ADRB1</name>
+<name type="synonym">ADRB1R</name>
+<name type="synonym">B1AR</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1987" name="Proc. Natl. Acad. Sci. U.S.A." volume="84" first="7920" last="7924">
+<title>Cloning of the cDNA for the human beta 1-adrenergic receptor.</title>
+<authorList>
+<person name="Frielle T."/>
+<person name="Collins S."/>
+<person name="Daniel K.W."/>
+<person name="Caron M.G."/>
+<person name="Lefkowitz R.J."/>
+<person name="Kobilka B.K."/>
+</authorList>
+<dbReference type="PubMed" id="2825170"/>
+<dbReference type="DOI" id="10.1073/pnas.84.22.7920"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Placenta</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1999" name="Hum. Mutat." volume="14" first="271" last="271">
+<title>Racial differences in the frequencies of cardiac beta(1)-adrenergic receptor polymorphisms: analysis of c145A&gt;G and c1165G&gt;C.</title>
+<authorList>
+<person name="Moore J.D."/>
+<person name="Mason D.A."/>
+<person name="Green S.A."/>
+<person name="Hsu J."/>
+<person name="Liggett S.B."/>
+</authorList>
+<dbReference type="PubMed" id="10477438"/>
+<dbReference type="DOI" id="10.1002/(sici)1098-1004(1999)14:3&lt;271::aid-humu14&gt;3.0.co;2-q"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>VARIANTS GLY-49 AND GLY-389</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2004-03" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="SeattleSNPs variation discovery resource"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>VARIANTS GLY-49; GLY-389 AND LEU-389</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2007-12" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="NHLBI resequencing and genotyping service (RS&amp;G)"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Nature" volume="429" first="375" last="381">
+<title>The DNA sequence and comparative analysis of human chromosome 10.</title>
+<authorList>
+<person name="Deloukas P."/>
+<person name="Earthrowl M.E."/>
+<person name="Grafham D.V."/>
+<person name="Rubenfield M."/>
+<person name="French L."/>
+<person name="Steward C.A."/>
+<person name="Sims S.K."/>
+<person name="Jones M.C."/>
+<person name="Searle S."/>
+<person name="Scott C."/>
+<person name="Howe K."/>
+<person name="Hunt S.E."/>
+<person name="Andrews T.D."/>
+<person name="Gilbert J.G.R."/>
+<person name="Swarbreck D."/>
+<person name="Ashurst J.L."/>
+<person name="Taylor A."/>
+<person name="Battles J."/>
+<person name="Bird C.P."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ashwell R.I.S."/>
+<person name="Ambrose K.D."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Banerjee R."/>
+<person name="Bates K."/>
+<person name="Beasley H."/>
+<person name="Bray-Allen S."/>
+<person name="Brown A.J."/>
+<person name="Brown J.Y."/>
+<person name="Burford D.C."/>
+<person name="Burrill W."/>
+<person name="Burton J."/>
+<person name="Cahill P."/>
+<person name="Camire D."/>
+<person name="Carter N.P."/>
+<person name="Chapman J.C."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Corby N."/>
+<person name="Coulson A."/>
+<person name="Dhami P."/>
+<person name="Dutta I."/>
+<person name="Dunn M."/>
+<person name="Faulkner L."/>
+<person name="Frankish A."/>
+<person name="Frankland J.A."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Gribble S."/>
+<person name="Griffiths C."/>
+<person name="Grocock R."/>
+<person name="Gustafson E."/>
+<person name="Hammond S."/>
+<person name="Harley J.L."/>
+<person name="Hart E."/>
+<person name="Heath P.D."/>
+<person name="Ho T.P."/>
+<person name="Hopkins B."/>
+<person name="Horne J."/>
+<person name="Howden P.J."/>
+<person name="Huckle E."/>
+<person name="Hynds C."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Kana A."/>
+<person name="Kay M."/>
+<person name="Kimberley A.M."/>
+<person name="Kershaw J.K."/>
+<person name="Kokkinaki M."/>
+<person name="Laird G.K."/>
+<person name="Lawlor S."/>
+<person name="Lee H.M."/>
+<person name="Leongamornlert D.A."/>
+<person name="Laird G."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Loveland J."/>
+<person name="Lovell J."/>
+<person name="McLaren S."/>
+<person name="McLay K.E."/>
+<person name="McMurray A."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="Milne S."/>
+<person name="Nickerson T."/>
+<person name="Nguyen M."/>
+<person name="Overton-Larty E."/>
+<person name="Palmer S.A."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Pelan S."/>
+<person name="Phillimore B."/>
+<person name="Porter K."/>
+<person name="Rice C.M."/>
+<person name="Rogosin A."/>
+<person name="Ross M.T."/>
+<person name="Sarafidou T."/>
+<person name="Sehra H.K."/>
+<person name="Shownkeen R."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Standring L."/>
+<person name="Sycamore N."/>
+<person name="Tester J."/>
+<person name="Thorpe A."/>
+<person name="Torcasso W."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Tsolas J."/>
+<person name="Wall M."/>
+<person name="Walsh J."/>
+<person name="Wang H."/>
+<person name="Weinstock K."/>
+<person name="West A.P."/>
+<person name="Willey D.L."/>
+<person name="Whitehead S.L."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Young L."/>
+<person name="Chen Y."/>
+<person name="Lovering R.C."/>
+<person name="Moschonas N.K."/>
+<person name="Siebert R."/>
+<person name="Fechtel K."/>
+<person name="Bentley D."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Doucette-Stamm L."/>
+<person name="Beck S."/>
+<person name="Smith D.R."/>
+<person name="Rogers J."/>
+</authorList>
+<dbReference type="PubMed" id="15164054"/>
+<dbReference type="DOI" id="10.1038/nature02462"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<scope>VARIANT GLY-389</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2002" name="Mol. Cell. Biol." volume="22" first="7942" last="7952">
+<title>Direct binding of the beta1 adrenergic receptor to the cyclic AMP-dependent guanine nucleotide exchange factor CNrasGEF leads to Ras activation.</title>
+<authorList>
+<person name="Pak Y."/>
+<person name="Pham N."/>
+<person name="Rotin D."/>
+</authorList>
+<dbReference type="PubMed" id="12391161"/>
+<dbReference type="DOI" id="10.1128/mcb.22.22.7942-7952.2002"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH RAPGEF2</scope>
+<scope>MUTAGENESIS OF SER-475 AND VAL-477</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="50190" last="50196">
+<title>Interaction with cystic fibrosis transmembrane conductance regulator-associated ligand (CAL) inhibits beta1-adrenergic receptor surface expression.</title>
+<authorList>
+<person name="He J."/>
+<person name="Bellini M."/>
+<person name="Xu J."/>
+<person name="Castleberry A.M."/>
+<person name="Hall R.A."/>
+</authorList>
+<dbReference type="PubMed" id="15358775"/>
+<dbReference type="DOI" id="10.1074/jbc.m404876200"/>
+</citation>
+<scope>INTERACTION WITH GOPC AND DLG4</scope>
+<scope>MUTAGENESIS OF GLU-474; SER-475; LYS-476 AND VAL-477</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2011" name="J. Biol. Chem." volume="286" first="22441" last="22455">
+<title>Down-modulation of the G-protein-coupled estrogen receptor, GPER, from the cell surface occurs via a trans-Golgi-proteasome pathway.</title>
+<authorList>
+<person name="Cheng S.B."/>
+<person name="Quinn J.A."/>
+<person name="Graeber C.T."/>
+<person name="Filardo E.J."/>
+</authorList>
+<dbReference type="PubMed" id="21540189"/>
+<dbReference type="DOI" id="10.1074/jbc.m111.224071"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1999" name="J. Biol. Chem." volume="274" first="12670" last="12674">
+<title>A gain-of-function polymorphism in a G-protein coupling domain of the human beta1-adrenergic receptor.</title>
+<authorList>
+<person name="Mason D.A."/>
+<person name="Moore J.D."/>
+<person name="Green S.A."/>
+<person name="Liggett S.B."/>
+</authorList>
+<dbReference type="PubMed" id="10212248"/>
+<dbReference type="DOI" id="10.1074/jbc.274.18.12670"/>
+</citation>
+<scope>VARIANT GLY-389</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2000" name="Eur. Heart J." volume="21" first="1853" last="1858">
+<title>A novel polymorphism in the gene coding for the beta(1)-adrenergic receptor associated with survival in patients with heart failure.</title>
+<authorList>
+<person name="Borjesson M."/>
+<person name="Magnusson Y."/>
+<person name="Hjalmarson A."/>
+<person name="Andersson B."/>
+</authorList>
+<dbReference type="PubMed" id="11052857"/>
+<dbReference type="DOI" id="10.1053/euhj.1999.1994"/>
+</citation>
+<scope>VARIANT GLY-49</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2002" name="Am. J. Hum. Genet." volume="70" first="935" last="942">
+<title>A polymorphism in the beta1 adrenergic receptor is associated with resting heart rate.</title>
+<authorList>
+<person name="Ranade K."/>
+<person name="Jorgenson E."/>
+<person name="Sheu W.H.-H."/>
+<person name="Pei D."/>
+<person name="Hsiung C.A."/>
+<person name="Chiang F.-T."/>
+<person name="Chen Y.-D.I."/>
+<person name="Pratt R."/>
+<person name="Olshen R.A."/>
+<person name="Curb D."/>
+<person name="Cox D.R."/>
+<person name="Botstein D."/>
+<person name="Risch N."/>
+</authorList>
+<dbReference type="PubMed" id="11854867"/>
+<dbReference type="DOI" id="10.1086/339621"/>
+</citation>
+<scope>VARIANT GLY-49</scope>
+<scope>POLYMORPHISM</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2019" name="Neuron">
+<title>A rare mutation of beta1-adrenergic receptor affects sleep/wake behaviors.</title>
+<authorList>
+<person name="Shi G."/>
+<person name="Xing L."/>
+<person name="Wu D."/>
+<person name="Bhattacharyya B.J."/>
+<person name="Jones C.R."/>
+<person name="McMahon T."/>
+<person name="Chong S.Y.C."/>
+<person name="Chen J.A."/>
+<person name="Coppola G."/>
+<person name="Geschwind D."/>
+<person name="Krystal A."/>
+<person name="Ptacek L.J."/>
+<person name="Fu Y.H."/>
+</authorList>
+<dbReference type="PubMed" id="31473062"/>
+<dbReference type="DOI" id="10.1016/j.neuron.2019.07.026"/>
+</citation>
+<scope>VARIANT VAL-187</scope>
+<scope>CHARACTERIZATION OF VARIANT VAL-187</scope>
+<scope>FUNCTION</scope>
+<scope>POLYMORPHISM</scope>
+</reference>
+<comment type="function">
+<text evidence="10 13">Beta-adrenergic receptors mediate the catecholamine-induced activation of adenylate cyclase through the action of G proteins. This receptor binds epinephrine and norepinephrine with approximately equal affinity. Mediates Ras activation through G(s)-alpha- and cAMP-mediated signaling. Involved in the regulation of sleep/wake behaviors (PubMed:31473062).</text>
+</comment>
+<comment type="subunit">
+<text evidence="10 12">Interacts (via C-terminus PDZ motif) with RAPGEF2; the interaction is direct. Interacts with GOPC, MAGI3 and DLG4.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-991009">
+<id>P08588</id>
+</interactant>
+<interactant intactId="EBI-2903663">
+<id>P30542</id>
+<label>ADORA1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-991009">
+<id>P08588</id>
+</interactant>
+<interactant intactId="EBI-8592297">
+<id>P21917</id>
+<label>DRD4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-991009">
+<id>P08588</id>
+</interactant>
+<interactant intactId="EBI-311035">
+<id>Q86UL8</id>
+<label>MAGI2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-991009">
+<id>P08588</id>
+</interactant>
+<interactant intactId="EBI-310506">
+<id>Q5TCQ9</id>
+<label>MAGI3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-991009">
+<id>P08588</id>
+</interactant>
+<interactant intactId="EBI-375655">
+<id>P31016</id>
+<label>Dlg4</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-991009">
+<id>P08588</id>
+</interactant>
+<interactant intactId="EBI-8333209">
+<id>P14270</id>
+<label>Pde4d</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cell membrane</location>
+<topology evidence="3">Multi-pass membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location>Early endosome</location>
+</subcellularLocation>
+<text evidence="2">Colocalizes with RAPGEF2 at the plasma membrane (By similarity). Localized at the plasma membrane. Found in the Golgi upon GOPC overexpression.</text>
+</comment>
+<comment type="domain">
+<text>The PDZ domain-binding motif mediates competitive interactions with GOPC, MAGI3 and DLG4 and plays a role in subcellular location of the receptor.</text>
+</comment>
+<comment type="PTM">
+<text>Homologous desensitization of the receptor is mediated by its phosphorylation by beta-adrenergic receptor kinase.</text>
+</comment>
+<comment type="polymorphism">
+<text evidence="9">Genetic variations in ADRB1 are associated with inter-individual variability in the resting heart rate. This quantitative trait has been significantly correlated with cardiovascular morbidity and mortality [MIM:607276].</text>
+</comment>
+<comment type="polymorphism">
+<text evidence="13">Genetic variations in ADRB1 are associated with the familial natural short sleep 2 (FNSS2) phenotype, an autosomal dominant trait [MIM:618591]. Individuals with this trait require less sleep in any 24-hour period than is typical for their age group.</text>
+</comment>
+<comment type="similarity">
+<text evidence="5">Belongs to the G-protein coupled receptor 1 family. Adrenergic receptor subfamily. ADRB1 sub-subfamily.</text>
+</comment>
+<comment type="online information" name="SeattleSNPs">
+<link uri="http://pga.gs.washington.edu/data/adrb1/"/>
+</comment>
+<dbReference type="EMBL" id="J03019">
+<property type="protein sequence ID" value="AAA51667.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF169006">
+<property type="protein sequence ID" value="AAD53696.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF169007">
+<property type="protein sequence ID" value="AAD53697.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY567837">
+<property type="protein sequence ID" value="AAS66983.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="EU332832">
+<property type="protein sequence ID" value="ABY87521.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL355543">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS7586.1"/>
+<dbReference type="PIR" id="A39911">
+<property type="entry name" value="QRHUB1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000675.1">
+<property type="nucleotide sequence ID" value="NM_000684.2"/>
+</dbReference>
+<dbReference type="PDB" id="2LSQ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=197-221"/>
+</dbReference>
+<dbReference type="PDBsum" id="2LSQ"/>
+<dbReference type="SMR" id="P08588"/>
+<dbReference type="BioGRID" id="106662">
+<property type="interactions" value="9"/>
+</dbReference>
+<dbReference type="CORUM" id="P08588"/>
+<dbReference type="DIP" id="DIP-36294N"/>
+<dbReference type="IntAct" id="P08588">
+<property type="interactions" value="14"/>
+</dbReference>
+<dbReference type="MINT" id="P08588"/>
+<dbReference type="STRING" id="9606.ENSP00000358301"/>
+<dbReference type="BindingDB" id="P08588"/>
+<dbReference type="ChEMBL" id="CHEMBL213"/>
+<dbReference type="DrugBank" id="DB08558">
+<property type="generic name" value="2-HYDROXYMETHYL-6-OCTYLSULFANYL-TETRAHYDRO-PYRAN-3,4,5-TRIOL"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB08347">
+<property type="generic name" value="4-{[(2S)-3-(tert-butylamino)-2-hydroxypropyl]oxy}-3H-indole-2-carbonitrile"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01193">
+<property type="generic name" value="Acebutolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00866">
+<property type="generic name" value="Alprenolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01118">
+<property type="generic name" value="Amiodarone"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00182">
+<property type="generic name" value="Amphetamine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01102">
+<property type="generic name" value="Arbutamine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01238">
+<property type="generic name" value="Aripiprazole"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB09204">
+<property type="generic name" value="Arotinolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB06216">
+<property type="generic name" value="Asenapine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00335">
+<property type="generic name" value="Atenolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB09013">
+<property type="generic name" value="Befunolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00195">
+<property type="generic name" value="Betaxolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00217">
+<property type="generic name" value="Bethanidine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01295">
+<property type="generic name" value="Bevantolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00612">
+<property type="generic name" value="Bisoprolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB08807">
+<property type="generic name" value="Bopindolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB06726">
+<property type="generic name" value="Bufuralol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB08808">
+<property type="generic name" value="Bupranolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00248">
+<property type="generic name" value="Cabergoline"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00521">
+<property type="generic name" value="Carteolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01136">
+<property type="generic name" value="Carvedilol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04846">
+<property type="generic name" value="Celiprolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01407">
+<property type="generic name" value="Clenbuterol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01151">
+<property type="generic name" value="Desipramine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB11273">
+<property type="generic name" value="Dihydroergocornine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB13345">
+<property type="generic name" value="Dihydroergocristine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB11278">
+<property type="generic name" value="DL-Methylephedrine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00841">
+<property type="generic name" value="Dobutamine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04855">
+<property type="generic name" value="Dronedarone"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB06262">
+<property type="generic name" value="Droxidopa"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01363">
+<property type="generic name" value="Ephedra sinica root"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00668">
+<property type="generic name" value="Epinephrine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01049">
+<property type="generic name" value="Ergoloid mesylate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00187">
+<property type="generic name" value="Esmolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01288">
+<property type="generic name" value="Fenoterol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00983">
+<property type="generic name" value="Formoterol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00221">
+<property type="generic name" value="Isoetharine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01064">
+<property type="generic name" value="Isoprenaline"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00598">
+<property type="generic name" value="Labetalol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00555">
+<property type="generic name" value="Lamotrigine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB09351">
+<property type="generic name" value="Levobetaxolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01210">
+<property type="generic name" value="Levobunolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00408">
+<property type="generic name" value="Loxapine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01365">
+<property type="generic name" value="Mephentermine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01214">
+<property type="generic name" value="Metipranolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00264">
+<property type="generic name" value="Metoprolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01203">
+<property type="generic name" value="Nadolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04861">
+<property type="generic name" value="Nebivolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00368">
+<property type="generic name" value="Norepinephrine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00540">
+<property type="generic name" value="Nortriptyline"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00334">
+<property type="generic name" value="Olanzapine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01580">
+<property type="generic name" value="Oxprenolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00715">
+<property type="generic name" value="Paroxetine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01359">
+<property type="generic name" value="Penbutolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00397">
+<property type="generic name" value="Phenylpropanolamine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00960">
+<property type="generic name" value="Pindolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01291">
+<property type="generic name" value="Pirbuterol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01297">
+<property type="generic name" value="Practolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01182">
+<property type="generic name" value="Propafenone"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00571">
+<property type="generic name" value="Propranolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00852">
+<property type="generic name" value="Pseudoephedrine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01917">
+<property type="generic name" value="Putrescine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB11124">
+<property type="generic name" value="Racepinephrine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00243">
+<property type="generic name" value="Ranolazine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01001">
+<property type="generic name" value="Salbutamol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00938">
+<property type="generic name" value="Salmeterol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00489">
+<property type="generic name" value="Sotalol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB03566">
+<property type="generic name" value="Spermidine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00127">
+<property type="generic name" value="Spermine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00871">
+<property type="generic name" value="Terbutaline"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00373">
+<property type="generic name" value="Timolol"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00726">
+<property type="generic name" value="Trimipramine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB09068">
+<property type="generic name" value="Vortioxetine"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB13781">
+<property type="generic name" value="Xamoterol"/>
+</dbReference>
+<dbReference type="DrugCentral" id="P08588"/>
+<dbReference type="GuidetoPHARMACOLOGY" id="28"/>
+<dbReference type="TCDB" id="9.A.14.3.11">
+<property type="family name" value="the g-protein-coupled receptor (gpcr) family"/>
+</dbReference>
+<dbReference type="GlyGen" id="P08588">
+<property type="glycosylation" value="1 site"/>
+</dbReference>
+<dbReference type="iPTMnet" id="P08588"/>
+<dbReference type="PhosphoSitePlus" id="P08588"/>
+<dbReference type="SwissPalm" id="P08588"/>
+<dbReference type="BioMuta" id="ADRB1"/>
+<dbReference type="DMDM" id="48429211"/>
+<dbReference type="jPOST" id="P08588"/>
+<dbReference type="PaxDb" id="P08588"/>
+<dbReference type="PeptideAtlas" id="P08588"/>
+<dbReference type="PRIDE" id="P08588"/>
+<dbReference type="ProteomicsDB" id="52133"/>
+<dbReference type="ABCD" id="P08588">
+<property type="antibodies" value="1 sequenced antibody"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="31906">
+<property type="antibodies" value="265 antibodies"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000369295">
+<property type="protein sequence ID" value="ENSP00000358301"/>
+<property type="gene ID" value="ENSG00000043591"/>
+</dbReference>
+<dbReference type="GeneID" id="153"/>
+<dbReference type="KEGG" id="hsa:153"/>
+<dbReference type="UCSC" id="uc001lba.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="153"/>
+<dbReference type="DisGeNET" id="153"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000043591.5"/>
+<dbReference type="GeneCards" id="ADRB1"/>
+<dbReference type="HGNC" id="HGNC:285">
+<property type="gene designation" value="ADRB1"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000043591">
+<property type="expression patterns" value="Tissue enhanced (heart muscle, placenta)"/>
+</dbReference>
+<dbReference type="MalaCards" id="ADRB1"/>
+<dbReference type="MIM" id="109630">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="607276">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P08588"/>
+<dbReference type="PharmGKB" id="PA38"/>
+<dbReference type="eggNOG" id="KOG3656">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="HOGENOM" id="CLU_009579_11_0_1"/>
+<dbReference type="InParanoid" id="P08588"/>
+<dbReference type="KO" id="K04141"/>
+<dbReference type="OrthoDB" id="750855at2759"/>
+<dbReference type="PhylomeDB" id="P08588"/>
+<dbReference type="TreeFam" id="TF316350"/>
+<dbReference type="PathwayCommons" id="P08588"/>
+<dbReference type="Reactome" id="R-HSA-390696">
+<property type="pathway name" value="Adrenoceptors"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-418555">
+<property type="pathway name" value="G alpha (s) signalling events"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9660821">
+<property type="pathway name" value="ADORA2B mediated anti-inflammatory cytokines production"/>
+</dbReference>
+<dbReference type="SignaLink" id="P08588"/>
+<dbReference type="SIGNOR" id="P08588"/>
+<dbReference type="BioGRID-ORCS" id="153">
+<property type="hits" value="5 hits in 871 CRISPR screens"/>
+</dbReference>
+<dbReference type="GeneWiki" id="Beta-1_adrenergic_receptor"/>
+<dbReference type="GenomeRNAi" id="153"/>
+<dbReference type="Pharos" id="P08588">
+<property type="development level" value="Tclin"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P08588"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 10"/>
+</dbReference>
+<dbReference type="RNAct" id="P08588">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000043591">
+<property type="expression patterns" value="Expressed in myocardium and 161 other tissues"/>
+</dbReference>
+<dbReference type="Genevisible" id="P08588">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005769">
+<property type="term" value="C:early endosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0098685">
+<property type="term" value="C:Schaffer collateral - CA1 synapse"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031694">
+<property type="term" value="F:alpha-2A adrenergic receptor binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004939">
+<property type="term" value="F:beta-adrenergic receptor activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004940">
+<property type="term" value="F:beta1-adrenergic receptor activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051379">
+<property type="term" value="F:epinephrine binding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0099579">
+<property type="term" value="F:G protein-coupled neurotransmitter receptor activity involved in regulation of postsynaptic membrane potential"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004930">
+<property type="term" value="F:G protein-coupled receptor activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051380">
+<property type="term" value="F:norepinephrine binding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030165">
+<property type="term" value="F:PDZ domain binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046982">
+<property type="term" value="F:protein heterodimerization activity"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005088">
+<property type="term" value="F:Ras guanyl-nucleotide exchange factor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007190">
+<property type="term" value="P:activation of adenylate cyclase activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071880">
+<property type="term" value="P:adenylate cyclase-activating adrenergic receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007188">
+<property type="term" value="P:adenylate cyclase-modulating G protein-coupled receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050873">
+<property type="term" value="P:brown fat cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002024">
+<property type="term" value="P:diet induced thermogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042596">
+<property type="term" value="P:fear response"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007186">
+<property type="term" value="P:G protein-coupled receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031649">
+<property type="term" value="P:heat generation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0040015">
+<property type="term" value="P:negative regulation of multicellular organism growth"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002025">
+<property type="term" value="P:norepinephrine-epinephrine-mediated vasodilation involved in regulation of systemic arterial blood pressure"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0120162">
+<property type="term" value="P:positive regulation of cold-induced thermogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="YuBioLab"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043547">
+<property type="term" value="P:positive regulation of GTPase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001996">
+<property type="term" value="P:positive regulation of heart rate by epinephrine-norepinephrine"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001997">
+<property type="term" value="P:positive regulation of the force of heart contraction by epinephrine-norepinephrine"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045187">
+<property type="term" value="P:regulation of circadian sleep/wake cycle, sleep"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009409">
+<property type="term" value="P:response to cold"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002233">
+<property type="entry name" value="ADR_fam"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000507">
+<property type="entry name" value="ADRB1_rcpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000276">
+<property type="entry name" value="GPCR_Rhodpsn"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017452">
+<property type="entry name" value="GPCR_Rhodpsn_7TM"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00001">
+<property type="entry name" value="7tm_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01103">
+<property type="entry name" value="ADRENERGICR"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00561">
+<property type="entry name" value="ADRENRGCB1AR"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00237">
+<property type="entry name" value="GPCRRHODOPSN"/>
+</dbReference>
+<dbReference type="SMART" id="SM01381">
+<property type="entry name" value="7TM_GPCR_Srsx"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00237">
+<property type="entry name" value="G_PROTEIN_RECEP_F1_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50262">
+<property type="entry name" value="G_PROTEIN_RECEP_F1_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0967">Endosome</keyword>
+<keyword id="KW-0297">G-protein coupled receptor</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0449">Lipoprotein</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0564">Palmitate</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-0675">Receptor</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0807">Transducer</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="chain" description="Beta-1 adrenergic receptor" id="PRO_0000069118">
+<location>
+<begin position="1"/>
+<end position="477"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="1"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=1" evidence="2">
+<location>
+<begin position="56"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="85"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=2" evidence="2">
+<location>
+<begin position="94"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="121"/>
+<end position="132"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=3" evidence="2">
+<location>
+<begin position="133"/>
+<end position="154"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="155"/>
+<end position="172"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=4" evidence="2">
+<location>
+<begin position="173"/>
+<end position="196"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="197"/>
+<end position="222"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=5" evidence="2">
+<location>
+<begin position="223"/>
+<end position="248"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="249"/>
+<end position="319"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=6" evidence="2">
+<location>
+<begin position="320"/>
+<end position="349"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="350"/>
+<end position="354"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=7" evidence="2">
+<location>
+<begin position="355"/>
+<end position="377"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="378"/>
+<end position="477"/>
+</location>
+</feature>
+<feature type="region of interest" description="Agonist and antagonist binding" evidence="2">
+<location>
+<begin position="218"/>
+<end position="232"/>
+</location>
+</feature>
+<feature type="region of interest" description="Agonist and antagonist binding" evidence="2">
+<location>
+<begin position="337"/>
+<end position="344"/>
+</location>
+</feature>
+<feature type="region of interest" description="Agonist and antagonist binding" evidence="2">
+<location>
+<begin position="363"/>
+<end position="367"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="PDZ-Binding">
+<location>
+<begin position="474"/>
+<end position="477"/>
+</location>
+</feature>
+<feature type="binding site" description="Agonist or antagonist" evidence="2">
+<location>
+<position position="138"/>
+</location>
+</feature>
+<feature type="binding site" description="Agonist or antagonist" evidence="2">
+<location>
+<position position="143"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PKA" evidence="4">
+<location>
+<position position="312"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PKA" evidence="4">
+<location>
+<position position="412"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="428"/>
+</location>
+</feature>
+<feature type="lipid moiety-binding region" description="S-palmitoyl cysteine" evidence="2">
+<location>
+<position position="392"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="15">
+<location>
+<position position="15"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="5">
+<location>
+<begin position="131"/>
+<end position="216"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="5">
+<location>
+<begin position="209"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34844626." id="VAR_055909">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="26"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35720093." id="VAR_055910">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="29"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35230616." id="VAR_055911">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="31"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Common variant associated with low mean resting heart rate; associated with decreased mortality risk in patients with congestive heart failure; dbSNP:rs1801252." id="VAR_009879" evidence="7 8 9 14">
+<original>S</original>
+<variation>G</variation>
+<location>
+<position position="49"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Rare variant associated with short sleep; results in decreased adenylate cyclase-activating adrenergic receptor signaling; decreased protein stability; dbSNP:rs776439595." id="VAR_082587" evidence="13">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="187"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Reduced binding to G proteins; dbSNP:rs1801253." id="VAR_009880" evidence="6 7 11 14">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="389"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs17875445." id="VAR_018742" evidence="14">
+<original>R</original>
+<variation>L</variation>
+<location>
+<position position="389"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs36052953." id="VAR_055912">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="399"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35705839." id="VAR_055913">
+<original>H</original>
+<variation>Y</variation>
+<location>
+<position position="405"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of interaction with GOPC." evidence="12">
+<original>E</original>
+<variation>A</variation>
+<variation>D</variation>
+<location>
+<position position="474"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of interaction with GOPC; when associated with A-477." evidence="12">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="474"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of interaction with GOPC. Loss of interaction with RAPGEF2. Abolishes agonist-induced Ras activation." evidence="10 12">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="475"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of interaction with RAPGEF2." evidence="10 12">
+<original>S</original>
+<variation>D</variation>
+<location>
+<position position="475"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Partial loss of interaction with GOPC." evidence="10 12">
+<original>S</original>
+<variation>T</variation>
+<location>
+<position position="475"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Partial loss of interaction with GOPC." evidence="12">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="476"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of interaction with GOPC." evidence="10 12">
+<original>V</original>
+<variation>A</variation>
+<variation>F</variation>
+<variation>L</variation>
+<variation>I</variation>
+<variation>M</variation>
+<location>
+<position position="477"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of interaction with RAPGEF2. Abolishes agonist-induced Ras activation." evidence="10 12">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="477"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="205"/>
+<end position="208"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="209"/>
+<end position="211"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="213"/>
+<end position="215"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2LSQ"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P18090"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255"/>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00521"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10212248"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10477438"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11052857"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11854867"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12391161"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15164054"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15358775"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="31473062"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source ref="3"/>
+</evidence>
+<evidence key="15" type="ECO:0000305"/>
+<evidence key="16" type="ECO:0000312">
+<source>
+<dbReference type="HGNC" id="HGNC:285"/>
+</source>
+</evidence>
+<sequence length="477" mass="51323" checksum="0950F2684E4721B8" modified="2004-06-07" version="2">MGAGVLVLGASEPGNLSSAAPLPDGAATAARLLVPASPPASLLPPASESPEPLSQQWTAGMGLLMALIVLLIVAGNVLVIVAIAKTPRLQTLTNLFIMSLASADLVMGLLVVPFGATIVVWGRWEYGSFFCELWTSVDVLCVTASIETLCVIALDRYLAITSPFRYQSLLTRARARGLVCTVWAISALVSFLPILMHWWRAESDEARRCYNDPKCCDFVTNRAYAIASSVVSFYVPLCIMAFVYLRVFREAQKQVKKIDSCERRFLGGPARPPSPSPSPVPAPAPPPGPPRPAAAAATAPLANGRAGKRRPSRLVALREQKALKTLGIIMGVFTLCWLPFFLANVVKAFHRELVPDRLFVFFNWLGYANSAFNPIIYCRSPDFRKAFQRLLCCARRAARRRHATHGDRPRASGCLARPGPPPSPGAASDDDDDDVVGATPPARLLEPWAGCNGGAAADSDSSLDEPCRPGFASESKV</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

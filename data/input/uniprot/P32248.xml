@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1993-10-01" modified="2020-10-07" version="188">
+<accession>P32248</accession>
+<name>CCR7_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>C-C chemokine receptor type 7</fullName>
+<shortName>C-C CKR-7</shortName>
+<shortName>CC-CKR-7</shortName>
+<shortName>CCR-7</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>BLR2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>CDw197</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Epstein-Barr virus-induced G-protein coupled receptor 1</fullName>
+<shortName>EBI1</shortName>
+<shortName>EBV-induced G-protein coupled receptor 1</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>MIP-3 beta receptor</fullName>
+</alternativeName>
+<cdAntigenName>CD197</cdAntigenName>
+</protein>
+<gene>
+<name type="primary">CCR7</name>
+<name type="synonym">CMKBR7</name>
+<name type="synonym">EBI1</name>
+<name type="synonym">EVI1</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="J. Virol." volume="67" first="2209" last="2220">
+<title>Epstein-Barr virus-induced genes: first lymphocyte-specific G protein-coupled peptide receptors.</title>
+<authorList>
+<person name="Birkenbach M.P."/>
+<person name="Josefsen K."/>
+<person name="Yalamanchili R.R."/>
+<person name="Lenoir G.M."/>
+<person name="Kieff E."/>
+</authorList>
+<dbReference type="PubMed" id="8383238"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1994" name="Genomics" volume="23" first="643" last="650">
+<title>Cloning of human and mouse EBI1, a lymphoid-specific G-protein-coupled receptor encoded on human chromosome 17q12-q21.2.</title>
+<authorList>
+<person name="Schweickart V.L."/>
+<person name="Raport C.J."/>
+<person name="Godiska R."/>
+<person name="Byers M.G."/>
+<person name="Eddy R.L. Jr."/>
+<person name="Shows T.B."/>
+<person name="Gray P.W."/>
+</authorList>
+<dbReference type="PubMed" id="7851893"/>
+<dbReference type="DOI" id="10.1006/geno.1994.1553"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA]</scope>
+<source>
+<tissue>Placenta</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="2004-04" db="EMBL/GenBank/DDBJ databases">
+<title>cDNA clones of human proteins involved in signal transduction sequenced by the Guthrie cDNA resource center (www.cdna.org).</title>
+<authorList>
+<person name="Kopatz S.A."/>
+<person name="Aronstam R.S."/>
+<person name="Sharma S.V."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<comment type="function">
+<text>Receptor for the MIP-3-beta chemokine. Probable mediator of EBV effects on B-lymphocytes or of normal lymphocyte functions.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Cell membrane</location>
+<topology>Multi-pass membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text>Expressed in various lymphoid tissues and activated B- and T-lymphocytes, strongly up-regulated in B-cells infected with Epstein-Barr virus and T-cells infected with herpesvirus 6 or 7.</text>
+</comment>
+<comment type="induction">
+<text>By Epstein-Barr virus (EBV).</text>
+</comment>
+<comment type="similarity">
+<text evidence="3">Belongs to the G-protein coupled receptor 1 family.</text>
+</comment>
+<comment type="online information" name="Wikipedia">
+<link uri="https://en.wikipedia.org/wiki/CC_chemokine_receptors"/>
+<text>CC chemokine receptors entry</text>
+</comment>
+<dbReference type="EMBL" id="L08176">
+<property type="protein sequence ID" value="AAA58615.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L31584">
+<property type="protein sequence ID" value="AAA74230.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L31582">
+<property type="protein sequence ID" value="AAA74230.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L31583">
+<property type="protein sequence ID" value="AAA74230.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L31581">
+<property type="protein sequence ID" value="AAA74231.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY587876">
+<property type="protein sequence ID" value="AAT52232.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC035343">
+<property type="protein sequence ID" value="AAH35343.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS11369.1"/>
+<dbReference type="PIR" id="A45680">
+<property type="entry name" value="A45680"/>
+</dbReference>
+<dbReference type="PIR" id="B55735">
+<property type="entry name" value="B55735"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001288643.1">
+<property type="nucleotide sequence ID" value="NM_001301714.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001288645.1">
+<property type="nucleotide sequence ID" value="NM_001301716.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001288646.1">
+<property type="nucleotide sequence ID" value="NM_001301717.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001288647.1">
+<property type="nucleotide sequence ID" value="NM_001301718.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001829.1">
+<property type="nucleotide sequence ID" value="NM_001838.3"/>
+</dbReference>
+<dbReference type="PDB" id="6QZH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A=46-247"/>
+</dbReference>
+<dbReference type="PDBsum" id="6QZH"/>
+<dbReference type="SMR" id="P32248"/>
+<dbReference type="BioGRID" id="107641">
+<property type="interactions" value="2"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-5855N"/>
+<dbReference type="IntAct" id="P32248">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="MINT" id="P32248"/>
+<dbReference type="STRING" id="9606.ENSP00000246657"/>
+<dbReference type="BindingDB" id="P32248"/>
+<dbReference type="ChEMBL" id="CHEMBL4594"/>
+<dbReference type="GuidetoPHARMACOLOGY" id="64"/>
+<dbReference type="GlyGen" id="P32248">
+<property type="glycosylation" value="1 site"/>
+</dbReference>
+<dbReference type="iPTMnet" id="P32248"/>
+<dbReference type="PhosphoSitePlus" id="P32248"/>
+<dbReference type="BioMuta" id="CCR7"/>
+<dbReference type="DMDM" id="1352335"/>
+<dbReference type="MassIVE" id="P32248"/>
+<dbReference type="MaxQB" id="P32248"/>
+<dbReference type="PaxDb" id="P32248"/>
+<dbReference type="PeptideAtlas" id="P32248"/>
+<dbReference type="PRIDE" id="P32248"/>
+<dbReference type="ProteomicsDB" id="54856"/>
+<dbReference type="Antibodypedia" id="3533">
+<property type="antibodies" value="1041 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="1236"/>
+<dbReference type="Ensembl" id="ENST00000246657">
+<property type="protein sequence ID" value="ENSP00000246657"/>
+<property type="gene ID" value="ENSG00000126353"/>
+</dbReference>
+<dbReference type="GeneID" id="1236"/>
+<dbReference type="KEGG" id="hsa:1236"/>
+<dbReference type="UCSC" id="uc002huw.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="1236"/>
+<dbReference type="DisGeNET" id="1236"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000126353.3"/>
+<dbReference type="GeneCards" id="CCR7"/>
+<dbReference type="HGNC" id="HGNC:1608">
+<property type="gene designation" value="CCR7"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000126353">
+<property type="expression patterns" value="Group enriched (blood, lymphoid tissue)"/>
+</dbReference>
+<dbReference type="MIM" id="600242">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P32248"/>
+<dbReference type="OpenTargets" id="ENSG00000126353"/>
+<dbReference type="PharmGKB" id="PA26172"/>
+<dbReference type="eggNOG" id="ENOG502QUZ9">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00950000182749"/>
+<dbReference type="InParanoid" id="P32248"/>
+<dbReference type="KO" id="K04182"/>
+<dbReference type="OMA" id="TLACFRC"/>
+<dbReference type="OrthoDB" id="715251at2759"/>
+<dbReference type="PhylomeDB" id="P32248"/>
+<dbReference type="TreeFam" id="TF330966"/>
+<dbReference type="PathwayCommons" id="P32248"/>
+<dbReference type="Reactome" id="R-HSA-380108">
+<property type="pathway name" value="Chemokine receptors bind chemokines"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-418594">
+<property type="pathway name" value="G alpha (i) signalling events"/>
+</dbReference>
+<dbReference type="SIGNOR" id="P32248"/>
+<dbReference type="BioGRID-ORCS" id="1236">
+<property type="hits" value="4 hits in 875 CRISPR screens"/>
+</dbReference>
+<dbReference type="GeneWiki" id="C-C_chemokine_receptor_type_7"/>
+<dbReference type="GenomeRNAi" id="1236"/>
+<dbReference type="Pharos" id="P32248">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P32248"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 17"/>
+</dbReference>
+<dbReference type="RNAct" id="P32248">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000126353">
+<property type="expression patterns" value="Expressed in blood and 136 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="P32248">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P32248">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009986">
+<property type="term" value="C:cell surface"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009897">
+<property type="term" value="C:external side of plasma membrane"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019957">
+<property type="term" value="F:C-C chemokine binding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016493">
+<property type="term" value="F:C-C chemokine receptor activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0038117">
+<property type="term" value="F:C-C motif chemokine 19 receptor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0038121">
+<property type="term" value="F:C-C motif chemokine 21 receptor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035757">
+<property type="term" value="F:chemokine (C-C motif) ligand 19 binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035758">
+<property type="term" value="F:chemokine (C-C motif) ligand 21 binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019956">
+<property type="term" value="F:chemokine binding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004930">
+<property type="term" value="F:G protein-coupled receptor activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090630">
+<property type="term" value="P:activation of GTPase activity"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019722">
+<property type="term" value="P:calcium-mediated signaling"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060326">
+<property type="term" value="P:cell chemotaxis"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071345">
+<property type="term" value="P:cellular response to cytokine stimulus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006935">
+<property type="term" value="P:chemotaxis"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002407">
+<property type="term" value="P:dendritic cell chemotaxis"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001768">
+<property type="term" value="P:establishment of T cell polarity"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007186">
+<property type="term" value="P:G protein-coupled receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048872">
+<property type="term" value="P:homeostasis of number of cells"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006955">
+<property type="term" value="P:immune response"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006954">
+<property type="term" value="P:inflammatory response"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097022">
+<property type="term" value="P:lymphocyte migration into lymph node"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097029">
+<property type="term" value="P:mature conventional dendritic cell differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002408">
+<property type="term" value="P:myeloid dendritic cell chemotaxis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000669">
+<property type="term" value="P:negative regulation of dendritic cell apoptotic process"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032695">
+<property type="term" value="P:negative regulation of interleukin-12 production"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045060">
+<property type="term" value="P:negative thymic T cell selection"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030838">
+<property type="term" value="P:positive regulation of actin filament polymerization"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045785">
+<property type="term" value="P:positive regulation of cell adhesion"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000147">
+<property type="term" value="P:positive regulation of cell motility"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001954">
+<property type="term" value="P:positive regulation of cell-matrix adhesion"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007204">
+<property type="term" value="P:positive regulation of cytosolic calcium ion concentration"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002606">
+<property type="term" value="P:positive regulation of dendritic cell antigen processing and presentation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000510">
+<property type="term" value="P:positive regulation of dendritic cell chemotaxis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070374">
+<property type="term" value="P:positive regulation of ERK1 and ERK2 cascade"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051491">
+<property type="term" value="P:positive regulation of filopodium assembly"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000526">
+<property type="term" value="P:positive regulation of glycoprotein biosynthetic process involved in immunological synapse formation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002922">
+<property type="term" value="P:positive regulation of humoral immune response"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002885">
+<property type="term" value="P:positive regulation of hypersensitivity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043123">
+<property type="term" value="P:positive regulation of I-kappaB kinase/NF-kappaB signaling"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000522">
+<property type="term" value="P:positive regulation of immunological synapse formation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032735">
+<property type="term" value="P:positive regulation of interleukin-12 production"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046330">
+<property type="term" value="P:positive regulation of JNK cascade"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090023">
+<property type="term" value="P:positive regulation of neutrophil chemotaxis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043552">
+<property type="term" value="P:positive regulation of phosphatidylinositol 3-kinase activity"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045860">
+<property type="term" value="P:positive regulation of protein kinase activity"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051897">
+<property type="term" value="P:positive regulation of protein kinase B signaling"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031274">
+<property type="term" value="P:positive regulation of pseudopodium assembly"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000525">
+<property type="term" value="P:positive regulation of T cell costimulation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050862">
+<property type="term" value="P:positive regulation of T cell receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000547">
+<property type="term" value="P:regulation of dendritic cell dendrite assembly"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032649">
+<property type="term" value="P:regulation of interferon-gamma production"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032651">
+<property type="term" value="P:regulation of interleukin-1 beta production"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051209">
+<property type="term" value="P:release of sequestered calcium ion into cytosol"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032496">
+<property type="term" value="P:response to lipopolysaccharide"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071731">
+<property type="term" value="P:response to nitric oxide"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034695">
+<property type="term" value="P:response to prostaglandin E"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031529">
+<property type="term" value="P:ruffle organization"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001718">
+<property type="entry name" value="Chemokine_CCR7"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000355">
+<property type="entry name" value="Chemokine_rcpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000276">
+<property type="entry name" value="GPCR_Rhodpsn"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017452">
+<property type="entry name" value="GPCR_Rhodpsn_7TM"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00001">
+<property type="entry name" value="7tm_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00657">
+<property type="entry name" value="CCCHEMOKINER"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00641">
+<property type="entry name" value="CHEMOKINER7"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00237">
+<property type="entry name" value="GPCRRHODOPSN"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00237">
+<property type="entry name" value="G_PROTEIN_RECEP_F1_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50262">
+<property type="entry name" value="G_PROTEIN_RECEP_F1_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0297">G-protein coupled receptor</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-0675">Receptor</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0807">Transducer</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<feature type="signal peptide" evidence="2">
+<location>
+<begin position="1"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="chain" description="C-C chemokine receptor type 7" id="PRO_0000012735">
+<location>
+<begin position="25"/>
+<end position="378"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="25"/>
+<end position="59"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=1" evidence="2">
+<location>
+<begin position="60"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="87"/>
+<end position="95"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=2" evidence="2">
+<location>
+<begin position="96"/>
+<end position="116"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="117"/>
+<end position="130"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=3" evidence="2">
+<location>
+<begin position="131"/>
+<end position="152"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="153"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=4" evidence="2">
+<location>
+<begin position="171"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="192"/>
+<end position="219"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=5" evidence="2">
+<location>
+<begin position="220"/>
+<end position="247"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="248"/>
+<end position="263"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=6" evidence="2">
+<location>
+<begin position="264"/>
+<end position="289"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="2">
+<location>
+<begin position="290"/>
+<end position="313"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=7" evidence="2">
+<location>
+<begin position="314"/>
+<end position="331"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="2">
+<location>
+<begin position="332"/>
+<end position="378"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="2">
+<location>
+<position position="36"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="3">
+<location>
+<begin position="129"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2228015." id="VAR_049383">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="7"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA58615." ref="1" evidence="4">
+<original>IW</original>
+<variation>SA</variation>
+<location>
+<begin position="182"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA58615." ref="1" evidence="4">
+<original>L</original>
+<variation>I</variation>
+<location>
+<position position="337"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="56"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="85"/>
+<end position="89"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="92"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="111"/>
+<end position="119"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="125"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="168"/>
+<end position="171"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="173"/>
+<end position="190"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="191"/>
+<end position="195"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="196"/>
+<end position="200"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="209"/>
+<end position="212"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="221"/>
+<end position="231"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="233"/>
+<end position="247"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6QZH"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000255"/>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00521"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="378" mass="42874" checksum="D4CB4213841A1BD4" modified="1996-02-01" version="2" precursor="true">MDLGKPMKSVLVVALLVIFQVCLCQDEVTDDYIGDNTTVDYTLFESLCSKKDVRNFKAWFLPIMYSIICFVGLLGNGLVVLTYIYFKRLKTMTDTYLLNLAVADILFLLTLPFWAYSAAKSWVFGVHFCKLIFAIYKMSFFSGMLLLLCISIDRYVAIVQAVSAHRHRARVLLISKLSCVGIWILATVLSIPELLYSDLQRSSSEQAMRCSLITEHVEAFITIQVAQMVIGFLVPLLAMSFCYLVIIRTLLQARNFERNKAIKVIIAVVVVFIVFQLPYNGVVLAQTVANFNITSSTCELSKQLNIAYDVTYSLACVRCCVNPFLYAFIGVKFRNDLFKLFKDLGCLSQEQLRQWSSCRHIRRSSMSVEAETTTTFSP</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

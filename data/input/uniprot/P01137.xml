@@ -1,0 +1,3404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2020-10-07" version="256">
+<accession>P01137</accession>
+<accession>A8K792</accession>
+<accession>Q9UCG4</accession>
+<name>TGFB1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Transforming growth factor beta-1 proprotein</fullName>
+</recommendedName>
+<component>
+<recommendedName>
+<fullName evidence="45 47 48 49">Latency-associated peptide</fullName>
+<shortName>LAP</shortName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName evidence="45 47 48 49">Transforming growth factor beta-1</fullName>
+<shortName>TGF-beta-1</shortName>
+</recommendedName>
+</component>
+</protein>
+<gene>
+<name type="primary" evidence="50">TGFB1</name>
+<name type="synonym">TGFB</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1987" name="Nucleic Acids Res." volume="15" first="3188" last="3189">
+<title>Intron-exon structure of the human transforming growth factor-beta precursor gene.</title>
+<authorList>
+<person name="Derynck R."/>
+<person name="Rhee L."/>
+<person name="Chen E.Y."/>
+<person name="van Tilburg A."/>
+</authorList>
+<dbReference type="PubMed" id="3470709"/>
+<dbReference type="DOI" id="10.1093/nar/15.7.3188"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1985" name="Nature" volume="316" first="701" last="705">
+<title>Human transforming growth factor-beta complementary DNA sequence and expression in normal and transformed cells.</title>
+<authorList>
+<person name="Derynck R."/>
+<person name="Jarrett J.A."/>
+<person name="Chen E.Y."/>
+<person name="Eaton D.H."/>
+<person name="Bell J.R."/>
+<person name="Assoian R.K."/>
+<person name="Roberts A.B."/>
+<person name="Sporn M.B."/>
+<person name="Goeddel D.V."/>
+</authorList>
+<dbReference type="PubMed" id="3861940"/>
+<dbReference type="DOI" id="10.1038/316701a0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>VARIANTS PRO-10 AND PRO-25</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2003-05" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full-length CDSs in BD Creator(TM) system donor vector.</title>
+<authorList>
+<person name="Kalnine N."/>
+<person name="Chen X."/>
+<person name="Rolfs A."/>
+<person name="Halleck A."/>
+<person name="Hines L."/>
+<person name="Eisenstein S."/>
+<person name="Koundinya M."/>
+<person name="Raphael J."/>
+<person name="Moreira D."/>
+<person name="Kelley T."/>
+<person name="LaBaer J."/>
+<person name="Lin Y."/>
+<person name="Phelan M."/>
+<person name="Farmer A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="5">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Duodenum</tissue>
+<tissue>Eye</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1987" name="Tumor Res." volume="22" first="41" last="55">
+<title>Cloning and expression of the gene for human transforming growth factor-beta in Escherichia coli.</title>
+<authorList>
+<person name="Urushizaki Y."/>
+<person name="Niitsu Y."/>
+<person name="Terui T."/>
+<person name="Koshida Y."/>
+<person name="Mahara K."/>
+<person name="Kohgo Y."/>
+<person name="Urushizaki I."/>
+<person name="Takahashi Y."/>
+<person name="Ito H."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 279-390</scope>
+<source>
+<tissue>Carcinoma</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1993" name="Protein Expr. Purif." volume="4" first="130" last="140">
+<title>Recombinant human transforming growth factor-beta 1: expression by Chinese hamster ovary cells, isolation, and characterization.</title>
+<authorList>
+<person name="Bourdrel L."/>
+<person name="Lin C.-H."/>
+<person name="Lauren S.L."/>
+<person name="Elmore R.H."/>
+<person name="Sugarman B.J."/>
+<person name="Hu S."/>
+<person name="Westcott K.R."/>
+</authorList>
+<dbReference type="PubMed" id="8471846"/>
+<dbReference type="DOI" id="10.1006/prep.1993.1019"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 279-329</scope>
+<source>
+<tissue>Urinary bladder carcinoma</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1985" name="J. Biol. Chem." volume="260" first="2636" last="2645">
+<title>Cellular receptors for type beta transforming growth factor. Ligand binding and affinity labeling in human and rodent cell lines.</title>
+<authorList>
+<person name="Massague J."/>
+<person name="Like B."/>
+</authorList>
+<dbReference type="PubMed" id="2982829"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 279-301</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1988" name="J. Biol. Chem." volume="263" first="6407" last="6415">
+<title>Latent high molecular weight complex of transforming growth factor beta 1. Purification from human platelets and structural characterization.</title>
+<authorList>
+<person name="Miyazono K."/>
+<person name="Hellman U."/>
+<person name="Wernstedt C."/>
+<person name="Heldin C.H."/>
+</authorList>
+<dbReference type="PubMed" id="3162913"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 30-42 AND 279-290</scope>
+<scope>GLYCOSYLATION</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1995" name="J. Biol. Chem." volume="270" first="10618" last="10624">
+<title>Processing of transforming growth factor beta 1 precursor by human furin convertase.</title>
+<authorList>
+<person name="Dubois C.M."/>
+<person name="Laprise M.H."/>
+<person name="Blanchette F."/>
+<person name="Gentry L.E."/>
+<person name="Leduc R."/>
+</authorList>
+<dbReference type="PubMed" id="7737999"/>
+<dbReference type="DOI" id="10.1074/jbc.270.18.10618"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 279-283</scope>
+<scope>PROTEOLYTIC CLEAVAGE</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1989" name="Nature" volume="338" first="158" last="160">
+<title>Role for carbohydrate structures in TGF-beta 1 latency.</title>
+<authorList>
+<person name="Miyazono K."/>
+<person name="Heldin C.H."/>
+</authorList>
+<dbReference type="PubMed" id="2493139"/>
+<dbReference type="DOI" id="10.1038/338158a0"/>
+</citation>
+<scope>GLYCOSYLATION</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1991" name="EMBO J." volume="10" first="1091" last="1101">
+<title>A role of the latent TGF-beta 1-binding protein in the assembly and secretion of TGF-beta 1.</title>
+<authorList>
+<person name="Miyazono K."/>
+<person name="Olofsson A."/>
+<person name="Colosetti P."/>
+<person name="Heldin C.H."/>
+</authorList>
+<dbReference type="PubMed" id="2022183"/>
+<dbReference type="DOI" id="10.1002/j.1460-2075.1991.tb08049.x"/>
+</citation>
+<scope>INTERACTION WITH LTBP1</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1996" name="EMBO J." volume="15" first="245" last="253">
+<title>Association of the small latent transforming growth factor-beta with an eight cysteine repeat of its binding protein LTBP-1.</title>
+<authorList>
+<person name="Saharinen J."/>
+<person name="Taipale J."/>
+<person name="Keski-Oja J."/>
+</authorList>
+<dbReference type="PubMed" id="8617200"/>
+<dbReference type="DOI" id="10.1002/j.1460-2075.1996.tb00355.x"/>
+</citation>
+<scope>INTERACTION WITH LTBP1</scope>
+<scope>MUTAGENESIS OF CYS-33</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1996" name="J. Biol. Chem." volume="271" first="29891" last="29896">
+<title>Identification and characterization of an eight-cysteine repeat of the latent transforming growth factor-beta binding protein-1 that mediates bonding to the latent transforming growth factor-beta1.</title>
+<authorList>
+<person name="Gleizes P.E."/>
+<person name="Beavis R.C."/>
+<person name="Mazzieri R."/>
+<person name="Shen B."/>
+<person name="Rifkin D.B."/>
+</authorList>
+<dbReference type="PubMed" id="8939931"/>
+<dbReference type="DOI" id="10.1074/jbc.271.47.29891"/>
+</citation>
+<scope>INTERACTION WITH LTBP1</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1997" name="Kidney Int." volume="51" first="1376" last="1382">
+<title>Latent transforming growth factor-beta: structural features and mechanisms of activation.</title>
+<authorList>
+<person name="Munger J.S."/>
+<person name="Harpel J.G."/>
+<person name="Gleizes P.E."/>
+<person name="Mazzieri R."/>
+<person name="Nunes I."/>
+<person name="Rifkin D.B."/>
+</authorList>
+<dbReference type="PubMed" id="9150447"/>
+<dbReference type="DOI" id="10.1038/ki.1997.188"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="1999" name="Biochem. J." volume="337" first="537" last="541">
+<title>Dermatopontin interacts with transforming growth factor beta and enhances its biological activity.</title>
+<authorList>
+<person name="Okamoto O."/>
+<person name="Fujiwara S."/>
+<person name="Abe M."/>
+<person name="Sato Y."/>
+</authorList>
+<dbReference type="PubMed" id="9895299"/>
+<dbReference type="DOI" id="10.1042/bj3370537"/>
+</citation>
+<scope>INTERACTION WITH DPT</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2001" name="J. Cell. Biochem." volume="83" first="547" last="553">
+<title>Differential gene expression of cultured human osteoblasts.</title>
+<authorList>
+<person name="Shur I."/>
+<person name="Lokiec F."/>
+<person name="Bleiberg I."/>
+<person name="Benayahu D."/>
+</authorList>
+<dbReference type="PubMed" id="11746498"/>
+<dbReference type="DOI" id="10.1002/jcb.1249"/>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2005" name="J. Proteome Res." volume="4" first="2070" last="2080">
+<title>Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry.</title>
+<authorList>
+<person name="Liu T."/>
+<person name="Qian W.-J."/>
+<person name="Gritsenko M.A."/>
+<person name="Camp D.G. II"/>
+<person name="Monroe M.E."/>
+<person name="Moore R.J."/>
+<person name="Smith R.D."/>
+</authorList>
+<dbReference type="PubMed" id="16335952"/>
+<dbReference type="DOI" id="10.1021/pr0502065"/>
+</citation>
+<scope>GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-82</scope>
+<source>
+<tissue>Plasma</tissue>
+</source>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2006" name="FASEB J." volume="20" first="1525" last="1527">
+<title>Identification of CD109 as part of the TGF-beta receptor system in human keratinocytes.</title>
+<authorList>
+<person name="Finnson K.W."/>
+<person name="Tam B.Y.Y."/>
+<person name="Liu K."/>
+<person name="Marcoux A."/>
+<person name="Lepage P."/>
+<person name="Roy S."/>
+<person name="Bizet A.A."/>
+<person name="Philip A."/>
+</authorList>
+<dbReference type="PubMed" id="16754747"/>
+<dbReference type="DOI" id="10.1096/fj.05-5229fje"/>
+</citation>
+<scope>INTERACTION WITH CD109</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2006" name="Mol. Cell. Proteomics" volume="5" first="226" last="233">
+<title>Elucidation of N-glycosylation sites on human platelet proteins: a glycoproteomic approach.</title>
+<authorList>
+<person name="Lewandrowski U."/>
+<person name="Moebius J."/>
+<person name="Walter U."/>
+<person name="Sickmann A."/>
+</authorList>
+<dbReference type="PubMed" id="16263699"/>
+<dbReference type="DOI" id="10.1074/mcp.m500324-mcp200"/>
+</citation>
+<scope>GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-82</scope>
+<source>
+<tissue>Platelet</tissue>
+</source>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2007" name="J. Biol. Chem." volume="282" first="32185" last="32192">
+<title>Mechanisms for asporin function and regulation in articular cartilage.</title>
+<authorList>
+<person name="Nakajima M."/>
+<person name="Kizawa H."/>
+<person name="Saitoh M."/>
+<person name="Kou I."/>
+<person name="Miyazono K."/>
+<person name="Ikegawa S."/>
+</authorList>
+<dbReference type="PubMed" id="17827158"/>
+<dbReference type="DOI" id="10.1074/jbc.m700522200"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INTERACTION WITH ASPN</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2009" name="Eur. J. Immunol." volume="39" first="3315" last="3322">
+<title>Membrane protein GARP is a receptor for latent TGF-beta on the surface of activated human Treg.</title>
+<authorList>
+<person name="Stockis J."/>
+<person name="Colau D."/>
+<person name="Coulie P.G."/>
+<person name="Lucas S."/>
+</authorList>
+<dbReference type="PubMed" id="19750484"/>
+<dbReference type="DOI" id="10.1002/eji.200939684"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH LRRC32</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2012" name="Mol. Biol. Cell" volume="23" first="1129" last="1139">
+<title>GARP regulates the bioavailability and activation of TGFbeta.</title>
+<authorList>
+<person name="Wang R."/>
+<person name="Zhu J."/>
+<person name="Dong X."/>
+<person name="Shi M."/>
+<person name="Lu C."/>
+<person name="Springer T.A."/>
+</authorList>
+<dbReference type="PubMed" id="22278742"/>
+<dbReference type="DOI" id="10.1091/mbc.e11-12-1018"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH LRRC32</scope>
+<scope>MUTAGENESIS OF CYS-33</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2009" name="Proc. Natl. Acad. Sci. U.S.A." volume="106" first="13445" last="13450">
+<title>GARP (LRRC32) is essential for the surface expression of latent TGF-beta on platelets and activated FOXP3+ regulatory T cells.</title>
+<authorList>
+<person name="Tran D.Q."/>
+<person name="Andersson J."/>
+<person name="Wang R."/>
+<person name="Ramsey H."/>
+<person name="Unutmaz D."/>
+<person name="Shevach E.M."/>
+</authorList>
+<dbReference type="PubMed" id="19651619"/>
+<dbReference type="DOI" id="10.1073/pnas.0901944106"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH LRRC32</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2010" name="Biochem. Biophys. Res. Commun." volume="398" first="525" last="531">
+<title>Extracellular heat shock protein HSP90beta secreted by MG63 osteosarcoma cells inhibits activation of latent TGF-beta1.</title>
+<authorList>
+<person name="Suzuki S."/>
+<person name="Kulkarni A.B."/>
+</authorList>
+<dbReference type="PubMed" id="20599762"/>
+<dbReference type="DOI" id="10.1016/j.bbrc.2010.06.112"/>
+</citation>
+<scope>INTERACTION WITH HSP90AB1</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2014" name="PLoS ONE" volume="9" first="E108528" last="E108528">
+<title>Sustained induction of collagen synthesis by TGF-beta requires regulated intramembrane proteolysis of CREB3L1.</title>
+<authorList>
+<person name="Chen Q."/>
+<person name="Lee C.E."/>
+<person name="Denard B."/>
+<person name="Ye J."/>
+</authorList>
+<dbReference type="PubMed" id="25310401"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0108528"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+<dbReference type="DOI" id="10.1002/pmic.201400617"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2016" name="Oncogene" volume="35" first="389" last="401">
+<title>Syntenin regulates TGF-beta1-induced Smad activation and the epithelial-to-mesenchymal transition by inhibiting caveolin-mediated TGF-beta type I receptor internalization.</title>
+<authorList>
+<person name="Hwangbo C."/>
+<person name="Tae N."/>
+<person name="Lee S."/>
+<person name="Kim O."/>
+<person name="Park O.K."/>
+<person name="Kim J."/>
+<person name="Kwon S.H."/>
+<person name="Lee J.H."/>
+</authorList>
+<dbReference type="PubMed" id="25893292"/>
+<dbReference type="DOI" id="10.1038/onc.2015.100"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2016" name="Cold Spring Harb. Perspect. Biol." volume="8">
+<title>Regulation of the bioavailability of TGF-beta and TGF-beta-related proteins.</title>
+<authorList>
+<person name="Robertson I.B."/>
+<person name="Rifkin D.B."/>
+</authorList>
+<dbReference type="PubMed" id="27252363"/>
+<dbReference type="DOI" id="10.1101/cshperspect.a021907"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2018" name="Cell" volume="174" first="156" last="171">
+<title>A milieu molecule for TGF-beta required for microglia function in the nervous system.</title>
+<authorList>
+<person name="Qin Y."/>
+<person name="Garrison B.S."/>
+<person name="Ma W."/>
+<person name="Wang R."/>
+<person name="Jiang A."/>
+<person name="Li J."/>
+<person name="Mistry M."/>
+<person name="Bronson R.T."/>
+<person name="Santoro D."/>
+<person name="Franco C."/>
+<person name="Robinton D.A."/>
+<person name="Stevens B."/>
+<person name="Rossi D.J."/>
+<person name="Lu C."/>
+<person name="Springer T.A."/>
+</authorList>
+<dbReference type="PubMed" id="29909984"/>
+<dbReference type="DOI" id="10.1016/j.cell.2018.05.027"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH NRROS</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="2018" name="Nat. Genet." volume="50" first="344" last="348">
+<title>Human TGF-beta1 deficiency causes severe inflammatory bowel disease and encephalopathy.</title>
+<authorList>
+<person name="Kotlarz D."/>
+<person name="Marquardt B."/>
+<person name="Baroey T."/>
+<person name="Lee W.S."/>
+<person name="Konnikova L."/>
+<person name="Hollizeck S."/>
+<person name="Magg T."/>
+<person name="Lehle A.S."/>
+<person name="Walz C."/>
+<person name="Borggraefe I."/>
+<person name="Hauck F."/>
+<person name="Bufler P."/>
+<person name="Conca R."/>
+<person name="Wall S.M."/>
+<person name="Schumacher E.M."/>
+<person name="Misceo D."/>
+<person name="Frengen E."/>
+<person name="Bentsen B.S."/>
+<person name="Uhlig H.H."/>
+<person name="Hopfner K.P."/>
+<person name="Muise A.M."/>
+<person name="Snapper S.B."/>
+<person name="Stroemme P."/>
+<person name="Klein C."/>
+</authorList>
+<dbReference type="PubMed" id="29483653"/>
+<dbReference type="DOI" id="10.1038/s41588-018-0063-6"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INVOLVEMENT IN IBDIMDE</scope>
+<scope>VARIANTS IBDIMDE CYS-45; CYS-110 AND ARG-387</scope>
+<scope>CHARACTERIZATION OF VARIANTS IBDIMDE CYS-45; CYS-110 AND ARG-387</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="2019" name="Cell Death Dis." volume="10" first="92" last="92">
+<title>TTC3 contributes to TGF-beta1-induced epithelial-mesenchymal transition and myofibroblast differentiation, potentially through SMURF2 ubiquitylation and degradation.</title>
+<authorList>
+<person name="Kim J.H."/>
+<person name="Ham S."/>
+<person name="Lee Y."/>
+<person name="Suh G.Y."/>
+<person name="Lee Y.S."/>
+</authorList>
+<dbReference type="PubMed" id="30696809"/>
+<dbReference type="DOI" id="10.1038/s41419-019-1308-8"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="1993" name="Biochemistry" volume="32" first="1152" last="1163">
+<title>Transforming growth factor beta 1: NMR signal assignments of the recombinant protein expressed and isotopically enriched using Chinese hamster ovary cells.</title>
+<authorList>
+<person name="Archer S.J."/>
+<person name="Bax A."/>
+<person name="Roberts A.B."/>
+<person name="Sporn M.B."/>
+<person name="Ogawa Y."/>
+<person name="Piez K.A."/>
+<person name="Weatherbee J.A."/>
+<person name="Tsang M.L.-S."/>
+<person name="Lucas R."/>
+<person name="Zheng B.-L."/>
+<person name="Wenker J."/>
+<person name="Torchia D.A."/>
+</authorList>
+<dbReference type="PubMed" id="8424942"/>
+<dbReference type="DOI" id="10.1021/bi00055a021"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 279-390</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="1993" name="Biochemistry" volume="32" first="1164" last="1171">
+<title>Transforming growth factor beta 1: secondary structure as determined by heteronuclear magnetic resonance spectroscopy.</title>
+<authorList>
+<person name="Archer S.J."/>
+<person name="Bax A."/>
+<person name="Roberts A.B."/>
+<person name="Sporn M.B."/>
+<person name="Ogawa Y."/>
+<person name="Piez K.A."/>
+<person name="Weatherbee J.A."/>
+<person name="Tsang M.L.-S."/>
+<person name="Lucas R."/>
+<person name="Zheng B.-L."/>
+<person name="Wenker J."/>
+<person name="Torchia D.A."/>
+</authorList>
+<dbReference type="PubMed" id="8424943"/>
+<dbReference type="DOI" id="10.1021/bi00055a022"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 279-390</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="1996" name="Biochemistry" volume="35" first="8517" last="8534">
+<title>Transforming growth factor beta 1: three-dimensional structure in solution and comparison with the X-ray structure of transforming growth factor beta 2.</title>
+<authorList>
+<person name="Hinck A.P."/>
+<person name="Archer S.J."/>
+<person name="Qian S.W."/>
+<person name="Roberts A.B."/>
+<person name="Sporn M.B."/>
+<person name="Weatherbee J.A."/>
+<person name="Tsang M.L.-S."/>
+<person name="Lucas R."/>
+<person name="Zheng B.-L."/>
+<person name="Wenker J."/>
+<person name="Torchia D.A."/>
+</authorList>
+<dbReference type="PubMed" id="8679613"/>
+<dbReference type="DOI" id="10.1021/bi9604946"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 279-390</scope>
+</reference>
+<reference key="38" evidence="2">
+<citation type="journal article" date="2010" name="J. Biol. Chem." volume="285" first="14806" last="14814">
+<title>Ternary complex of transforming growth factor-beta1 reveals isoform-specific ligand recognition and receptor recruitment in the superfamily.</title>
+<authorList>
+<person name="Radaev S."/>
+<person name="Zou Z."/>
+<person name="Huang T."/>
+<person name="Lafer E.M."/>
+<person name="Hinck A.P."/>
+<person name="Sun P.D."/>
+</authorList>
+<dbReference type="PubMed" id="20207738"/>
+<dbReference type="DOI" id="10.1074/jbc.m109.079921"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.00 ANGSTROMS) OF 279-390 IN COMPLEX WITH TGFBR1 AND TGFBR2</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>DISULFIDE BONDS</scope>
+</reference>
+<reference key="39" evidence="3">
+<citation type="journal article" date="2014" name="Protein Sci." volume="23" first="1698" last="1707">
+<title>Structures of a pan-specific antagonist antibody complexed to different isoforms of TGFbeta reveal structural plasticity of antibody-antigen interactions.</title>
+<authorList>
+<person name="Moulin A."/>
+<person name="Mathieu M."/>
+<person name="Lawrence C."/>
+<person name="Bigelow R."/>
+<person name="Levine M."/>
+<person name="Hamel C."/>
+<person name="Marquette J.P."/>
+<person name="Le Parc J."/>
+<person name="Loux C."/>
+<person name="Ferrari P."/>
+<person name="Capdevila C."/>
+<person name="Dumas J."/>
+<person name="Dumas B."/>
+<person name="Rak A."/>
+<person name="Bird J."/>
+<person name="Qiu H."/>
+<person name="Pan C.Q."/>
+<person name="Edmunds T."/>
+<person name="Wei R.R."/>
+</authorList>
+<dbReference type="PubMed" id="25209176"/>
+<dbReference type="DOI" id="10.1002/pro.2548"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.00 ANGSTROMS) OF 279-390</scope>
+<scope>SUBUNIT</scope>
+<scope>DISULFIDE BONDS</scope>
+</reference>
+<reference key="40" evidence="4">
+<citation type="journal article" date="2017" name="Nature" volume="542" first="55" last="59">
+<title>Force interacts with macromolecular structure in activation of TGF-beta.</title>
+<authorList>
+<person name="Dong X."/>
+<person name="Zhao B."/>
+<person name="Iacob R.E."/>
+<person name="Zhu J."/>
+<person name="Koksal A.C."/>
+<person name="Lu C."/>
+<person name="Engen J.R."/>
+<person name="Springer T.A."/>
+</authorList>
+<dbReference type="PubMed" id="28117447"/>
+<dbReference type="DOI" id="10.1038/nature21035"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.49 ANGSTROMS) OF 34-390 IN COMPLEX WITH ITGAV AND ITGB6</scope>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH ITGAV AND ITGB6</scope>
+<scope>SUBUNIT</scope>
+<scope>DISULFIDE BOND</scope>
+<scope>GLYCOSYLATION AT ASN-82</scope>
+<scope>MUTAGENESIS OF GLU-75; LEU-158; LEU-160; PRO-193; 232-LEU--ILE-236; 234-VAL--ILE-236; ASN-237; ASN-254 AND 257-PHE--LEU-260</scope>
+</reference>
+<reference key="41" evidence="5">
+<citation type="journal article" date="2018" name="J. Biol. Chem." volume="293" first="1579" last="1589">
+<title>Prodomain-growth factor swapping in the structure of pro-TGF-beta1.</title>
+<authorList>
+<person name="Zhao B."/>
+<person name="Xu S."/>
+<person name="Dong X."/>
+<person name="Lu C."/>
+<person name="Springer T.A."/>
+</authorList>
+<dbReference type="PubMed" id="29109152"/>
+<dbReference type="DOI" id="10.1074/jbc.m117.809657"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.90 ANGSTROMS) OF 30-390</scope>
+<scope>SUBUNIT</scope>
+<scope>DISULFIDE BONDS</scope>
+<scope>MUTAGENESIS OF ARG-278</scope>
+</reference>
+<reference key="42">
+<citation type="journal article" date="1998" name="J. Bone Miner. Res." volume="13" first="1569" last="1576">
+<title>Association of a polymorphism of the transforming growth factor-beta1 gene with genetic susceptibility to osteoporosis in postmenopausal Japanese women.</title>
+<authorList>
+<person name="Yamada Y."/>
+<person name="Miyauchi A."/>
+<person name="Goto J."/>
+<person name="Takagi Y."/>
+<person name="Okuizumi H."/>
+<person name="Kanematsu M."/>
+<person name="Hase M."/>
+<person name="Takai H."/>
+<person name="Harada A."/>
+<person name="Ikeda K."/>
+</authorList>
+<dbReference type="PubMed" id="9783545"/>
+<dbReference type="DOI" id="10.1359/jbmr.1998.13.10.1569"/>
+</citation>
+<scope>VARIANT PRO-10</scope>
+</reference>
+<reference key="43">
+<citation type="journal article" date="2000" name="Nat. Genet." volume="26" first="19" last="20">
+<title>Domain-specific mutations in TGFB1 result in Camurati-Engelmann disease.</title>
+<authorList>
+<person name="Kinoshita A."/>
+<person name="Saito T."/>
+<person name="Tomita H."/>
+<person name="Makita Y."/>
+<person name="Yoshida K."/>
+<person name="Ghadami M."/>
+<person name="Yamada K."/>
+<person name="Kondo S."/>
+<person name="Ikegawa S."/>
+<person name="Nishimura G."/>
+<person name="Fukushima Y."/>
+<person name="Nakagomi T."/>
+<person name="Saito H."/>
+<person name="Sugimoto T."/>
+<person name="Kamegaya M."/>
+<person name="Hisa K."/>
+<person name="Murray J.C."/>
+<person name="Taniguchi N."/>
+<person name="Niikawa N."/>
+<person name="Yoshiura K."/>
+</authorList>
+<dbReference type="PubMed" id="10973241"/>
+<dbReference type="DOI" id="10.1038/79128"/>
+</citation>
+<scope>VARIANTS CAEND CYS-218; HIS-218 AND ARG-225</scope>
+</reference>
+<reference key="44">
+<citation type="journal article" date="2000" name="Nat. Genet." volume="26" first="273" last="275">
+<title>Mutations in the gene encoding the latency-associated peptide of TGF-beta 1 cause Camurati-Engelmann disease.</title>
+<authorList>
+<person name="Janssens K."/>
+<person name="Gershoni-Baruch R."/>
+<person name="Guanabens N."/>
+<person name="Migone N."/>
+<person name="Ralston S."/>
+<person name="Bonduelle M."/>
+<person name="Lissens W."/>
+<person name="Van Maldergem L."/>
+<person name="Vanhoenacker F."/>
+<person name="Verbruggen L."/>
+<person name="Van Hul W."/>
+</authorList>
+<dbReference type="PubMed" id="11062463"/>
+<dbReference type="DOI" id="10.1038/81563"/>
+</citation>
+<scope>VARIANTS CAEND HIS-81; CYS-218 AND ARG-225</scope>
+</reference>
+<reference key="45">
+<citation type="journal article" date="2002" name="J. Hum. Genet." volume="47" first="478" last="483">
+<title>A catalog of 106 single-nucleotide polymorphisms (SNPs) and 11 other types of variations in genes for transforming growth factor-beta1 (TGF-beta1) and its signaling pathway.</title>
+<authorList>
+<person name="Watanabe Y."/>
+<person name="Kinoshita A."/>
+<person name="Yamada T."/>
+<person name="Ohta T."/>
+<person name="Kishino T."/>
+<person name="Matsumoto N."/>
+<person name="Ishikawa M."/>
+<person name="Niikawa N."/>
+<person name="Yoshiura K."/>
+</authorList>
+<dbReference type="PubMed" id="12202987"/>
+<dbReference type="DOI" id="10.1007/s100380200069"/>
+</citation>
+<scope>VARIANT PRO-10</scope>
+</reference>
+<reference key="46">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="7718" last="7724">
+<title>Transforming growth factor-beta-1 mutations in Camurati-Engelmann disease lead to increased signaling by altering either activation or secretion of the mutant protein.</title>
+<authorList>
+<person name="Janssens K."/>
+<person name="ten Dijke P."/>
+<person name="Ralston S.H."/>
+<person name="Bergmann C."/>
+<person name="Van Hul W."/>
+</authorList>
+<dbReference type="PubMed" id="12493741"/>
+<dbReference type="DOI" id="10.1074/jbc.m208857200"/>
+</citation>
+<scope>CHARACTERIZATION OF VARIANTS CAEND HIS-81; CYS-218; ASP-222 AND ARG-225</scope>
+</reference>
+<reference key="47">
+<citation type="journal article" date="2003" name="J. Clin. Endocrinol. Metab." volume="88" first="3321" last="3326">
+<title>A mutation affecting the latency-associated peptide of TGFbeta1 in Camurati-Engelmann disease enhances osteoclast formation in vitro.</title>
+<authorList>
+<person name="McGowan N.W."/>
+<person name="MacPherson H."/>
+<person name="Janssens K."/>
+<person name="Van Hul W."/>
+<person name="Frith J.C."/>
+<person name="Fraser W.D."/>
+<person name="Ralston S.H."/>
+<person name="Helfrich M.H."/>
+</authorList>
+<dbReference type="PubMed" id="12843182"/>
+<dbReference type="DOI" id="10.1210/jc.2002-020564"/>
+</citation>
+<scope>CHARACTERIZATION OF VARIANT CAEND CYS-218</scope>
+</reference>
+<reference key="48">
+<citation type="journal article" date="2004" name="Am. J. Med. Genet." volume="127A" first="104" last="107">
+<title>TGFB1 mutations in four new families with Camurati-Engelmann disease: confirmation of independently arising LAP-domain-specific mutations.</title>
+<authorList>
+<person name="Kinoshita A."/>
+<person name="Fukumaki Y."/>
+<person name="Shirahama S."/>
+<person name="Miyahara A."/>
+<person name="Nishimura G."/>
+<person name="Haga N."/>
+<person name="Namba A."/>
+<person name="Ueda H."/>
+<person name="Hayashi H."/>
+<person name="Ikegawa S."/>
+<person name="Seidel J."/>
+<person name="Niikawa N."/>
+<person name="Yoshiura K."/>
+</authorList>
+<dbReference type="PubMed" id="15103729"/>
+<dbReference type="DOI" id="10.1002/ajmg.a.20671"/>
+</citation>
+<scope>VARIANTS CAEND GLY-223 AND ARG-223</scope>
+</reference>
+<comment type="function">
+<text evidence="32 42">Transforming growth factor beta-1 proprotein: Precursor of the Latency-associated peptide (LAP) and Transforming growth factor beta-1 (TGF-beta-1) chains, which constitute the regulatory and active subunit of TGF-beta-1, respectively.</text>
+</comment>
+<comment type="function">
+<molecule>Latency-associated peptide</molecule>
+<text evidence="21 22 24 26 31 38 39 46">Required to maintain the Transforming growth factor beta-1 (TGF-beta-1) chain in a latent state during storage in extracellular matrix (PubMed:28117447). Associates non-covalently with TGF-beta-1 and regulates its activation via interaction with 'milieu molecules', such as LTBP1, LRRC32/GARP and LRRC33/NRROS, that control activation of TGF-beta-1 (PubMed:2022183, PubMed:8617200, PubMed:8939931, PubMed:19750484, PubMed:22278742, PubMed:19651619). Interaction with LRRC33/NRROS regulates activation of TGF-beta-1 in macrophages and microglia (Probable). Interaction with LRRC32/GARP controls activation of TGF-beta-1 on the surface of activated regulatory T-cells (Tregs) (PubMed:19750484, PubMed:22278742, PubMed:19651619). Interaction with integrins (ITGAV:ITGB6 or ITGAV:ITGB8) results in distortion of the Latency-associated peptide chain and subsequent release of the active TGF-beta-1 (PubMed:22278742, PubMed:28117447).</text>
+</comment>
+<comment type="function">
+<text evidence="7 21 22 23 24 26 29 30 31 32 33 34 38 39">Transforming growth factor beta-1: Multifunctional protein that regulates the growth and differentiation of various cell types and is involved in various processes, such as normal development, immune function, microglia function and responses to neurodegeneration (By similarity). Activation into mature form follows different steps: following cleavage of the proprotein in the Golgi apparatus, Latency-associated peptide (LAP) and Transforming growth factor beta-1 (TGF-beta-1) chains remain non-covalently linked rendering TGF-beta-1 inactive during storage in extracellular matrix (PubMed:29109152). At the same time, LAP chain interacts with 'milieu molecules', such as LTBP1, LRRC32/GARP and LRRC33/NRROS that control activation of TGF-beta-1 and maintain it in a latent state during storage in extracellular milieus (PubMed:2022183, PubMed:8617200, PubMed:8939931, PubMed:19750484, PubMed:22278742, PubMed:19651619). TGF-beta-1 is released from LAP by integrins (ITGAV:ITGB6 or ITGAV:ITGB8): integrin-binding to LAP stabilizes an alternative conformation of the LAP bowtie tail and results in distortion of the LAP chain and subsequent release of the active TGF-beta-1 (PubMed:22278742, PubMed:28117447). Once activated following release of LAP, TGF-beta-1 acts by binding to TGF-beta receptors (TGFBR1 and TGFBR2), which transduce signal (PubMed:20207738). While expressed by many cells types, TGF-beta-1 only has a very localized range of action within cell environment thanks to fine regulation of its activation by Latency-associated peptide chain (LAP) and 'milieu molecules' (By similarity). Plays an important role in bone remodeling: acts as a potent stimulator of osteoblastic bone formation, causing chemotaxis, proliferation and differentiation in committed osteoblasts (By similarity). Can promote either T-helper 17 cells (Th17) or regulatory T-cells (Treg) lineage differentiation in a concentration-dependent manner (By similarity). At high concentrations, leads to FOXP3-mediated suppression of RORC and down-regulation of IL-17 expression, favoring Treg cell development (By similarity). At low concentrations in concert with IL-6 and IL-21, leads to expression of the IL-17 and IL-23 receptors, favoring differentiation to Th17 cells (By similarity). Stimulates sustained production of collagen through the activation of CREB3L1 by regulated intramembrane proteolysis (RIP) (PubMed:25310401). Mediates SMAD2/3 activation by inducing its phosphorylation and subsequent translocation to the nucleus (PubMed:25893292, PubMed:29483653, PubMed:30696809). Can induce epithelial-to-mesenchymal transition (EMT) and cell migration in various cell types (PubMed:25893292, PubMed:30696809).</text>
+</comment>
+<comment type="subunit">
+<text evidence="7 19 20 21 22 23 24 25 26 28 31 32 38 39 41 46">Homodimer; disulfide-linked (PubMed:20207738, PubMed:25209176, PubMed:28117447, PubMed:29109152). Interacts with the serine proteases, HTRA1 and HTRA3: the interaction with either inhibits TGFB1-mediated signaling. The HTRA protease activity is required for this inhibition (By similarity). May interact with THSD4; this interaction may lead to sequestration by FBN1 microfibril assembly and attenuation of TGFB signaling (By similarity). Interacts with CD109, DPT and ASPN (PubMed:9895299, PubMed:16754747, PubMed:17827158). Latency-associated peptide: Homodimer; disulfide-linked (PubMed:28117447, PubMed:29109152). Latency-associated peptide: Interacts with Transforming growth factor beta-1 (TGF-beta-1) chain; interaction is non-covalent and maintains (TGF-beta-1) in a latent state; each Latency-associated peptide (LAP) monomer interacts with TGF-beta-1 in the other monomer (PubMed:29109152). Latency-associated peptide: Interacts with LTBP1; leading to regulate activation of TGF-beta-1 (PubMed:2022183, PubMed:8617200, PubMed:8939931). Latency-associated peptide: Interacts with LRRC32/GARP; leading to regulate activation of TGF-beta-1 on the surface of activated regulatory T-cells (Tregs) (PubMed:19750484, PubMed:22278742, PubMed:19651619). Interacts with LRRC33/NRROS; leading to regulate activation of TGF-beta-1 in macrophages and microglia (Probable). Latency-associated peptide: Interacts (via cell attachment site) with integrins ITGAV and ITGB6 (ITGAV:ITGB6), leading to release of the active TGF-beta-1 (PubMed:22278742, PubMed:28117447). Latency-associated peptide: Interacts with NREP; the interaction results in a decrease in TGFB1 autoinduction (By similarity). Latency-associated peptide: Interacts with HSP90AB1; inhibits latent TGFB1 activation (PubMed:20599762). Transforming growth factor beta-1: Homodimer; disulfide-linked (PubMed:20207738, PubMed:25209176, PubMed:28117447, PubMed:29109152). Transforming growth factor beta-1: Interacts with TGF-beta receptors (TGFBR1 and TGFBR2), leading to signal transduction (PubMed:20207738).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-10173507">
+<id>Q6UY14-3</id>
+<label>ADAMTSL4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-77613">
+<id>P05067</id>
+<label>APP</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-744545">
+<id>Q8NEC5</id>
+<label>CATSPER1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-3867333">
+<id>A8MQ03</id>
+<label>CYSRT1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-2564275">
+<id>Q14689</id>
+<label>DIP2A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-2834630">
+<id>P17813</id>
+<label>ENG</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-11977403">
+<id>A0A0C3SFZ9</id>
+<label>FCHO1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-2349801">
+<id>Q12841</id>
+<label>FSTL1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-740785">
+<id>P49639</id>
+<label>HOXA1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-11959885">
+<id>Q07627</id>
+<label>KRTAP1-1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-10171774">
+<id>P60410</id>
+<label>KRTAP10-8</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-10302392">
+<id>Q9BYQ6</id>
+<label>KRTAP4-11</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-11962058">
+<id>Q5T7P2</id>
+<label>LCE1A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-12224199">
+<id>Q5T751</id>
+<label>LCE1C</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-11741311">
+<id>Q5T752</id>
+<label>LCE1D</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-11478468">
+<id>O14633</id>
+<label>LCE2B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-11973993">
+<id>Q5TA81</id>
+<label>LCE2C</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-9394625">
+<id>Q5TA76</id>
+<label>LCE3A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-11974495">
+<id>Q5TA77</id>
+<label>LCE3B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-6658837">
+<id>Q9BYE3</id>
+<label>LCE3D</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-744222">
+<id>O60711</id>
+<label>LPXN</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-15796956">
+<id>Q14392</id>
+<label>LRRC32</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-11173861">
+<id>Q14766-1</id>
+<label>LTBP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-748397">
+<id>P50222</id>
+<label>MEOX2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-395883">
+<id>P07237</id>
+<label>P4HB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-17236143">
+<id>Q12837</id>
+<label>POU4F2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-716740">
+<id>P11464</id>
+<label>PSG1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+<label>TGFB1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-1027557">
+<id>P36897</id>
+<label>TGFBR1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-296151">
+<id>P37173</id>
+<label>TGFBR2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-2852679">
+<id>Q03167</id>
+<label>TGFBR3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-2530274">
+<id>P07996</id>
+<label>THBS1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-779636">
+<id>P01137</id>
+</interactant>
+<interactant intactId="EBI-6620843">
+<id>Q90998</id>
+<label>TGFBR3</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-15487336">
+<id>PRO_0000033762</id>
+</interactant>
+<interactant intactId="EBI-716740">
+<id>P11464</id>
+<label>PSG1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<molecule>Latency-associated peptide</molecule>
+<subcellularLocation>
+<location evidence="20">Secreted</location>
+<location evidence="20">Extracellular space</location>
+<location evidence="20">Extracellular matrix</location>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Transforming growth factor beta-1</molecule>
+<subcellularLocation>
+<location evidence="20 33">Secreted</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="12 20">Highly expressed in bone (PubMed:11746498, PubMed:17827158). Abundantly expressed in articular cartilage and chondrocytes and is increased in osteoarthritis (OA) (PubMed:11746498, PubMed:17827158). Colocalizes with ASPN in chondrocytes within OA lesions of articular cartilage (PubMed:17827158).</text>
+</comment>
+<comment type="domain">
+<molecule>Latency-associated peptide</molecule>
+<text evidence="8">The 'straitjacket' and 'arm' domains encircle the Transforming growth factor beta-1 (TGF-beta-1) monomers and are fastened together by strong bonding between Lys-56 and Tyr-103/Tyr-104.</text>
+</comment>
+<comment type="domain">
+<molecule>Latency-associated peptide</molecule>
+<text evidence="31">The cell attachment site motif mediates binding to integrins (ITGAV:ITGB6 or ITGAV:ITGB8) (PubMed:28117447). The motif locates to a long loop in the arm domain called the bowtie tail (PubMed:28117447). Integrin-binding stabilizes an alternative conformation of the bowtie tail (PubMed:28117447). Activation by integrin requires force application by the actin cytoskeleton, which is resisted by the 'milieu molecules' (such as LTBP1, LRRC32/GARP and/or LRRC33/NRROS), resulting in distortion of the prodomain and release of the active TGF-beta-1 (PubMed:28117447).</text>
+</comment>
+<comment type="PTM">
+<text evidence="37">Transforming growth factor beta-1 proprotein: The precursor proprotein is cleaved in the Golgi apparatus by FURIN to form Transforming growth factor beta-1 (TGF-beta-1) and Latency-associated peptide (LAP) chains, which remain non-covalently linked, rendering TGF-beta-1 inactive.</text>
+</comment>
+<comment type="PTM">
+<molecule>Latency-associated peptide</molecule>
+<text evidence="27 31 35">N-glycosylated (PubMed:3162913, PubMed:2493139, PubMed:28117447). Deglycosylation leads to activation of Transforming growth factor beta-1 (TGF-beta-1); mechanisms triggering deglycosylation-driven activation of TGF-beta-1 are however unclear (PubMed:2493139).</text>
+</comment>
+<comment type="polymorphism">
+<text evidence="40">In post-menopausal Japanese women, the frequency of Leu-10 is higher in subjects with osteoporosis than in controls.</text>
+</comment>
+<comment type="disease" evidence="10 11 14 15 16">
+<disease id="DI-01314">
+<name>Camurati-Engelmann disease</name>
+<acronym>CAEND</acronym>
+<description>An autosomal dominant disorder characterized by hyperostosis and sclerosis of the diaphyses of long bones. The disease typically presents in early childhood with pain, muscular weakness and waddling gait, and in some cases other features such as exophthalmos, facial paralysis, hearing difficulties and loss of vision.</description>
+<dbReference type="MIM" id="131300"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="33">
+<disease id="DI-05431">
+<name>Inflammatory bowel disease, immunodeficiency, and encephalopathy</name>
+<acronym>IBDIMDE</acronym>
+<description>An autosomal recessive disorder characterized by severe infantile inflammatory bowel disease manifesting as bloody diarrhea and failure to thrive, global developmental delay, epilepsy, brain atrophy and encephalopathy. Affected individuals suffer from recurrent infections associated with impaired T-cell response to stimulation and decreased T-cell subsets, including regulatory and helper T cells.</description>
+<dbReference type="MIM" id="618213"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="miscellaneous">
+<text evidence="28">TGF-beta-1 is inactivated by fresolimumab (also named GC1008), a monoclonal-neutralizing antibody.</text>
+</comment>
+<comment type="similarity">
+<text evidence="43">Belongs to the TGF-beta family.</text>
+</comment>
+<comment type="online information" name="Wikipedia">
+<link uri="https://en.wikipedia.org/wiki/TGF_beta_1"/>
+<text>TGF beta-1 entry</text>
+</comment>
+<dbReference type="EMBL" id="X05839">
+<property type="protein sequence ID" value="CAA29283.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X05840">
+<property type="protein sequence ID" value="CAA29283.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X05843">
+<property type="protein sequence ID" value="CAA29283.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X05844">
+<property type="protein sequence ID" value="CAA29283.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X05849">
+<property type="protein sequence ID" value="CAA29283.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X05850">
+<property type="protein sequence ID" value="CAA29283.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X02812">
+<property type="protein sequence ID" value="CAA26580.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT007245">
+<property type="protein sequence ID" value="AAP35909.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK291907">
+<property type="protein sequence ID" value="BAF84596.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471126">
+<property type="protein sequence ID" value="EAW57032.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC001180">
+<property type="protein sequence ID" value="AAH01180.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC000125">
+<property type="protein sequence ID" value="AAH00125.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC022242">
+<property type="protein sequence ID" value="AAH22242.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M38449">
+<property type="protein sequence ID" value="AAA36735.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS33031.1"/>
+<dbReference type="PIR" id="A27513">
+<property type="entry name" value="WFHU2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000651.3">
+<property type="nucleotide sequence ID" value="NM_000660.6"/>
+</dbReference>
+<dbReference type="PDB" id="1KLA">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=279-390"/>
+</dbReference>
+<dbReference type="PDB" id="1KLC">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=279-390"/>
+</dbReference>
+<dbReference type="PDB" id="1KLD">
+<property type="method" value="NMR"/>
+<property type="chains" value="A/B=279-390"/>
+</dbReference>
+<dbReference type="PDB" id="3KFD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B/C/D=279-390"/>
+</dbReference>
+<dbReference type="PDB" id="4KV5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B/C/D=279-390"/>
+</dbReference>
+<dbReference type="PDB" id="5FFO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.49"/>
+<property type="chains" value="C/D/G/H=34-390"/>
+</dbReference>
+<dbReference type="PDB" id="5VQP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.90"/>
+<property type="chains" value="A=30-390"/>
+</dbReference>
+<dbReference type="PDB" id="6OM2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.77"/>
+<property type="chains" value="E/F=242-252"/>
+</dbReference>
+<dbReference type="PDB" id="6P7J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.50"/>
+<property type="chains" value="A=30-278"/>
+</dbReference>
+<dbReference type="PDBsum" id="1KLA"/>
+<dbReference type="PDBsum" id="1KLC"/>
+<dbReference type="PDBsum" id="1KLD"/>
+<dbReference type="PDBsum" id="3KFD"/>
+<dbReference type="PDBsum" id="4KV5"/>
+<dbReference type="PDBsum" id="5FFO"/>
+<dbReference type="PDBsum" id="5VQP"/>
+<dbReference type="PDBsum" id="6OM2"/>
+<dbReference type="PDBsum" id="6P7J"/>
+<dbReference type="SASBDB" id="P01137"/>
+<dbReference type="SMR" id="P01137"/>
+<dbReference type="BioGRID" id="112898">
+<property type="interactions" value="247"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-529">
+<property type="entry name" value="TGF-beta-1-TGFR complex"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-602">
+<property type="entry name" value="TGF-beta-1 complex"/>
+</dbReference>
+<dbReference type="CORUM" id="P01137"/>
+<dbReference type="DIP" id="DIP-5934N"/>
+<dbReference type="IntAct" id="P01137">
+<property type="interactions" value="95"/>
+</dbReference>
+<dbReference type="MINT" id="P01137"/>
+<dbReference type="STRING" id="9606.ENSP00000221930"/>
+<dbReference type="BindingDB" id="P01137"/>
+<dbReference type="ChEMBL" id="CHEMBL1795178"/>
+<dbReference type="DrugBank" id="DB10770">
+<property type="generic name" value="Foreskin fibroblast (neonatal)"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB10772">
+<property type="generic name" value="Foreskin keratinocyte (neonatal)"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00070">
+<property type="generic name" value="Hyaluronidase (ovine)"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01162">
+<property type="generic name" value="Terazosin"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB06205">
+<property type="generic name" value="Vorhyaluronidase alfa"/>
+</dbReference>
+<dbReference type="GlyConnect" id="1835">
+<property type="glycosylation" value="1 N-Linked glycan (1 site)"/>
+</dbReference>
+<dbReference type="GlyGen" id="P01137">
+<property type="glycosylation" value="3 sites"/>
+</dbReference>
+<dbReference type="iPTMnet" id="P01137"/>
+<dbReference type="PhosphoSitePlus" id="P01137"/>
+<dbReference type="BioMuta" id="TGFB1"/>
+<dbReference type="DMDM" id="135674"/>
+<dbReference type="OGP" id="P01137"/>
+<dbReference type="EPD" id="P01137"/>
+<dbReference type="jPOST" id="P01137"/>
+<dbReference type="MassIVE" id="P01137"/>
+<dbReference type="MaxQB" id="P01137"/>
+<dbReference type="PaxDb" id="P01137"/>
+<dbReference type="PeptideAtlas" id="P01137"/>
+<dbReference type="PRIDE" id="P01137"/>
+<dbReference type="ProteomicsDB" id="51337"/>
+<dbReference type="ABCD" id="P01137">
+<property type="antibodies" value="5 sequenced antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="7040"/>
+<dbReference type="GeneID" id="7040"/>
+<dbReference type="KEGG" id="hsa:7040"/>
+<dbReference type="UCSC" id="uc002oqh.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="7040"/>
+<dbReference type="DisGeNET" id="7040"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000105329.9"/>
+<dbReference type="GeneCards" id="TGFB1"/>
+<dbReference type="GeneReviews" id="TGFB1"/>
+<dbReference type="HGNC" id="HGNC:11766">
+<property type="gene designation" value="TGFB1"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000105329">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MalaCards" id="TGFB1"/>
+<dbReference type="MIM" id="131300">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="190180">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="618213">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P01137"/>
+<dbReference type="Orphanet" id="1328">
+<property type="disease" value="Camurati-Engelmann disease"/>
+</dbReference>
+<dbReference type="Orphanet" id="586">
+<property type="disease" value="Cystic fibrosis"/>
+</dbReference>
+<dbReference type="Orphanet" id="565788">
+<property type="disease" value="Infantile inflammatory bowel disease with neurological involvement"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA350"/>
+<dbReference type="eggNOG" id="KOG3900">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="HOGENOM" id="CLU_039840_0_0_1"/>
+<dbReference type="InParanoid" id="P01137"/>
+<dbReference type="KO" id="K13375"/>
+<dbReference type="OrthoDB" id="853728at2759"/>
+<dbReference type="PhylomeDB" id="P01137"/>
+<dbReference type="TreeFam" id="TF318514"/>
+<dbReference type="PathwayCommons" id="P01137"/>
+<dbReference type="Reactome" id="R-HSA-114608">
+<property type="pathway name" value="Platelet degranulation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-168277">
+<property type="pathway name" value="Influenza Virus Induced Apoptosis"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-202733">
+<property type="pathway name" value="Cell surface interactions at the vascular wall"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2129379">
+<property type="pathway name" value="Molecules associated with elastic fibres"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2173788">
+<property type="pathway name" value="Downregulation of TGF-beta receptor signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2173789">
+<property type="pathway name" value="TGF-beta receptor signaling activates SMADs"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2173791">
+<property type="pathway name" value="TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3000170">
+<property type="pathway name" value="Syndecan interactions"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3000178">
+<property type="pathway name" value="ECM proteoglycans"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3304356">
+<property type="pathway name" value="SMAD2/3 Phosphorylation Motif Mutants in Cancer"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3642279">
+<property type="pathway name" value="TGFBR2 MSI Frameshift Mutants in Cancer"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3645790">
+<property type="pathway name" value="TGFBR2 Kinase Domain Mutants in Cancer"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3656532">
+<property type="pathway name" value="TGFBR1 KD Mutants in Cancer"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3656535">
+<property type="pathway name" value="TGFBR1 LBD Mutants in Cancer"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-381340">
+<property type="pathway name" value="Transcriptional regulation of white adipocyte differentiation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5689603">
+<property type="pathway name" value="UCH proteinases"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6785807">
+<property type="pathway name" value="Interleukin-4 and Interleukin-13 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8941855">
+<property type="pathway name" value="RUNX3 regulates CDKN1A transcription"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8941858">
+<property type="pathway name" value="Regulation of RUNX3 expression and activity"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8951936">
+<property type="pathway name" value="RUNX3 regulates p14-ARF"/>
+</dbReference>
+<dbReference type="SignaLink" id="P01137"/>
+<dbReference type="SIGNOR" id="P01137"/>
+<dbReference type="BioGRID-ORCS" id="7040">
+<property type="hits" value="2 hits in 879 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="TGFB1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P01137"/>
+<dbReference type="GeneWiki" id="TGF_beta_1"/>
+<dbReference type="GenomeRNAi" id="7040"/>
+<dbReference type="Pharos" id="P01137">
+<property type="development level" value="Tchem"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P01137"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Unplaced"/>
+</dbReference>
+<dbReference type="RNAct" id="P01137">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000105329">
+<property type="expression patterns" value="Expressed in granulocyte and 181 other tissues"/>
+</dbReference>
+<dbReference type="Genevisible" id="P01137">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072562">
+<property type="term" value="C:blood microparticle"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009986">
+<property type="term" value="C:cell surface"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0062023">
+<property type="term" value="C:collagen-containing extracellular matrix"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031012">
+<property type="term" value="C:extracellular matrix"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005615">
+<property type="term" value="C:extracellular space"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005796">
+<property type="term" value="C:Golgi lumen"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031093">
+<property type="term" value="C:platelet alpha granule lumen"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003823">
+<property type="term" value="F:antigen binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005125">
+<property type="term" value="F:cytokine activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019899">
+<property type="term" value="F:enzyme binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008083">
+<property type="term" value="F:growth factor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034713">
+<property type="term" value="F:type I transforming growth factor beta receptor binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005114">
+<property type="term" value="F:type II transforming growth factor beta receptor binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034714">
+<property type="term" value="F:type III transforming growth factor beta receptor binding"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="AgBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003180">
+<property type="term" value="P:aortic valve morphogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006754">
+<property type="term" value="P:ATP biosynthetic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030509">
+<property type="term" value="P:BMP signaling pathway"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007050">
+<property type="term" value="P:cell cycle arrest"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016477">
+<property type="term" value="P:cell migration"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045216">
+<property type="term" value="P:cell-cell junction organization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071407">
+<property type="term" value="P:cellular response to organic cyclic compound"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071560">
+<property type="term" value="P:cellular response to transforming growth factor beta stimulus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002062">
+<property type="term" value="P:chondrocyte differentiation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007182">
+<property type="term" value="P:common-partner SMAD protein phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002248">
+<property type="term" value="P:connective tissue replacement involved in inflammatory response wound healing"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019221">
+<property type="term" value="P:cytokine-mediated signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990402">
+<property type="term" value="P:embryonic liver development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007173">
+<property type="term" value="P:epidermal growth factor receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001837">
+<property type="term" value="P:epithelial to mesenchymal transition"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0085029">
+<property type="term" value="P:extracellular matrix assembly"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097191">
+<property type="term" value="P:extrinsic apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007507">
+<property type="term" value="P:heart development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003179">
+<property type="term" value="P:heart valve morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002244">
+<property type="term" value="P:hematopoietic progenitor cell differentiation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030214">
+<property type="term" value="P:hyaluronan catabolic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006954">
+<property type="term" value="P:inflammatory response"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050900">
+<property type="term" value="P:leukocyte migration"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031663">
+<property type="term" value="P:lipopolysaccharide-mediated signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048535">
+<property type="term" value="P:lymph node development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010742">
+<property type="term" value="P:macrophage derived foam cell differentiation"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000165">
+<property type="term" value="P:MAPK cascade"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031293">
+<property type="term" value="P:membrane protein intracellular domain proteolysis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007093">
+<property type="term" value="P:mitotic cell cycle checkpoint"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070168">
+<property type="term" value="P:negative regulation of biomineral tissue development"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043537">
+<property type="term" value="P:negative regulation of blood vessel endothelial cell migration"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045786">
+<property type="term" value="P:negative regulation of cell cycle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HGNC-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045596">
+<property type="term" value="P:negative regulation of cell differentiation"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030308">
+<property type="term" value="P:negative regulation of cell growth"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008285">
+<property type="term" value="P:negative regulation of cell population proliferation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0022408">
+<property type="term" value="P:negative regulation of cell-cell adhesion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045918">
+<property type="term" value="P:negative regulation of cytolysis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050680">
+<property type="term" value="P:negative regulation of epithelial cell proliferation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010716">
+<property type="term" value="P:negative regulation of extracellular matrix disassembly"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045599">
+<property type="term" value="P:negative regulation of fat cell differentiation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010629">
+<property type="term" value="P:negative regulation of gene expression"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060965">
+<property type="term" value="P:negative regulation of gene silencing by miRNA"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900126">
+<property type="term" value="P:negative regulation of hyaluronan biosynthetic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010936">
+<property type="term" value="P:negative regulation of macrophage cytokine production"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="DFLAT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045930">
+<property type="term" value="P:negative regulation of mitotic cell cycle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045662">
+<property type="term" value="P:negative regulation of myoblast differentiation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902894">
+<property type="term" value="P:negative regulation of pri-miRNA transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903799">
+<property type="term" value="P:negative regulation of production of miRNAs involved in gene silencing by miRNA"/>
+<property type="evidence" value="ECO:0000316"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903077">
+<property type="term" value="P:negative regulation of protein localization to plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001933">
+<property type="term" value="P:negative regulation of protein phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048642">
+<property type="term" value="P:negative regulation of skeletal muscle tissue development"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030512">
+<property type="term" value="P:negative regulation of transforming growth factor beta receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001843">
+<property type="term" value="P:neural tube closure"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021915">
+<property type="term" value="P:neural tube development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043932">
+<property type="term" value="P:ossification involved in bone remodeling"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060389">
+<property type="term" value="P:pathway-restricted SMAD protein phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006796">
+<property type="term" value="P:phosphate-containing compound metabolic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002576">
+<property type="term" value="P:platelet degranulation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043536">
+<property type="term" value="P:positive regulation of blood vessel endothelial cell migration"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030501">
+<property type="term" value="P:positive regulation of bone mineralization"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090263">
+<property type="term" value="P:positive regulation of canonical Wnt signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000727">
+<property type="term" value="P:positive regulation of cardiac muscle cell differentiation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051781">
+<property type="term" value="P:positive regulation of cell division"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030335">
+<property type="term" value="P:positive regulation of cell migration"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008284">
+<property type="term" value="P:positive regulation of cell population proliferation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032270">
+<property type="term" value="P:positive regulation of cellular protein metabolic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050921">
+<property type="term" value="P:positive regulation of chemotaxis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032967">
+<property type="term" value="P:positive regulation of collagen biosynthetic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010718">
+<property type="term" value="P:positive regulation of epithelial to mesenchymal transition"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070374">
+<property type="term" value="P:positive regulation of ERK1 and ERK2 cascade"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901203">
+<property type="term" value="P:positive regulation of extracellular matrix assembly"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010763">
+<property type="term" value="P:positive regulation of fibroblast migration"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010628">
+<property type="term" value="P:positive regulation of gene expression"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032740">
+<property type="term" value="P:positive regulation of interleukin-17 production"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048298">
+<property type="term" value="P:positive regulation of isotype switching to IgA isotypes"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043406">
+<property type="term" value="P:positive regulation of MAP kinase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014008">
+<property type="term" value="P:positive regulation of microglia differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901666">
+<property type="term" value="P:positive regulation of NAD+ ADP-ribosyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010862">
+<property type="term" value="P:positive regulation of pathway-restricted SMAD protein phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033138">
+<property type="term" value="P:positive regulation of peptidyl-serine phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010800">
+<property type="term" value="P:positive regulation of peptidyl-threonine phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050731">
+<property type="term" value="P:positive regulation of peptidyl-tyrosine phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043552">
+<property type="term" value="P:positive regulation of phosphatidylinositol 3-kinase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902895">
+<property type="term" value="P:positive regulation of pri-miRNA transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903800">
+<property type="term" value="P:positive regulation of production of miRNAs involved in gene silencing by miRNA"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035307">
+<property type="term" value="P:positive regulation of protein dephosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042307">
+<property type="term" value="P:positive regulation of protein import into nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051897">
+<property type="term" value="P:positive regulation of protein kinase B signaling"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900182">
+<property type="term" value="P:positive regulation of protein localization to nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001934">
+<property type="term" value="P:positive regulation of protein phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050714">
+<property type="term" value="P:positive regulation of protein secretion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031334">
+<property type="term" value="P:positive regulation of protein-containing complex assembly"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060391">
+<property type="term" value="P:positive regulation of SMAD protein signal transduction"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032930">
+<property type="term" value="P:positive regulation of superoxide anion generation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000679">
+<property type="term" value="P:positive regulation of transcription regulatory region DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045893">
+<property type="term" value="P:positive regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010575">
+<property type="term" value="P:positive regulation of vascular endothelial growth factor production"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043117">
+<property type="term" value="P:positive regulation of vascular permeability"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006611">
+<property type="term" value="P:protein export from nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043491">
+<property type="term" value="P:protein kinase B signaling"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006468">
+<property type="term" value="P:protein phosphorylation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032801">
+<property type="term" value="P:receptor catabolic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051098">
+<property type="term" value="P:regulation of binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060312">
+<property type="term" value="P:regulation of blood vessel remodeling"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030334">
+<property type="term" value="P:regulation of cell migration"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042127">
+<property type="term" value="P:regulation of cell population proliferation"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051101">
+<property type="term" value="P:regulation of DNA binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042306">
+<property type="term" value="P:regulation of protein import into nucleus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060390">
+<property type="term" value="P:regulation of SMAD protein signal transduction"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016202">
+<property type="term" value="P:regulation of striated muscle tissue development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0017015">
+<property type="term" value="P:regulation of transforming growth factor beta receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070723">
+<property type="term" value="P:response to cholesterol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032355">
+<property type="term" value="P:response to estradiol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032570">
+<property type="term" value="P:response to progesterone"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009611">
+<property type="term" value="P:response to wounding"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007435">
+<property type="term" value="P:salivary gland morphogenesis"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007183">
+<property type="term" value="P:SMAD protein complex assembly"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060395">
+<property type="term" value="P:SMAD protein signal transduction"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007179">
+<property type="term" value="P:transforming growth factor beta receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905313">
+<property type="term" value="P:transforming growth factor beta receptor signaling pathway involved in heart development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001570">
+<property type="term" value="P:vasculogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055010">
+<property type="term" value="P:ventricular cardiac muscle tissue morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="DisProt" id="DP01252"/>
+<dbReference type="Gene3D" id="2.10.90.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="IDEAL" id="IID00534"/>
+<dbReference type="InterPro" id="IPR029034">
+<property type="entry name" value="Cystine-knot_cytokine"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001839">
+<property type="entry name" value="TGF-b_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001111">
+<property type="entry name" value="TGF-b_propeptide"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016319">
+<property type="entry name" value="TGF-beta"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015615">
+<property type="entry name" value="TGF-beta-rel"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003939">
+<property type="entry name" value="TGFb1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017948">
+<property type="entry name" value="TGFb_CS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11848">
+<property type="entry name" value="PTHR11848"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00019">
+<property type="entry name" value="TGF_beta"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00688">
+<property type="entry name" value="TGFb_propeptide"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF001787">
+<property type="entry name" value="TGF-beta"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01423">
+<property type="entry name" value="TGFBETA"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01424">
+<property type="entry name" value="TGFBETA1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00204">
+<property type="entry name" value="TGFB"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF57501">
+<property type="entry name" value="SSF57501"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00250">
+<property type="entry name" value="TGF_BETA_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51362">
+<property type="entry name" value="TGF_BETA_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0165">Cleavage on pair of basic residues</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0272">Extracellular matrix</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0339">Growth factor</keyword>
+<keyword id="KW-0497">Mitogen</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<feature type="signal peptide" evidence="35">
+<location>
+<begin position="1"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="chain" description="Latency-associated peptide" id="PRO_0000033762" evidence="45 47 48 49">
+<location>
+<begin position="30"/>
+<end position="278"/>
+</location>
+</feature>
+<feature type="chain" description="Transforming growth factor beta-1" id="PRO_0000033763" evidence="45 47 48 49">
+<location>
+<begin position="279"/>
+<end position="390"/>
+</location>
+</feature>
+<feature type="region of interest" description="Straightjacket domain" evidence="8">
+<location>
+<begin position="30"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="region of interest" description="Arm domain" evidence="8">
+<location>
+<begin position="75"/>
+<end position="271"/>
+</location>
+</feature>
+<feature type="region of interest" description="Bowtie tail" evidence="31">
+<location>
+<begin position="226"/>
+<end position="252"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Cell attachment site" evidence="31">
+<location>
+<begin position="244"/>
+<end position="246"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by FURIN" evidence="37">
+<location>
+<begin position="278"/>
+<end position="279"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="4 17 18 31">
+<location>
+<position position="82"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="9">
+<location>
+<position position="136"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="9">
+<location>
+<position position="176"/>
+</location>
+</feature>
+<feature type="disulfide bond" description="Interchain (with C-1359 or C-1384 in LTBP1); in inactive form" evidence="44">
+<location>
+<position position="33"/>
+</location>
+</feature>
+<feature type="disulfide bond" description="Interchain (with C-225)" evidence="4 5 31 32">
+<location>
+<position position="223"/>
+</location>
+</feature>
+<feature type="disulfide bond" description="Interchain (with C-223)" evidence="4 5 31 32">
+<location>
+<position position="225"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="2 3 4 5 23 28 31 32">
+<location>
+<begin position="285"/>
+<end position="294"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="2 3 4 5 23 28 31 32">
+<location>
+<begin position="293"/>
+<end position="356"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="2 3 4 5 23 28 31 32">
+<location>
+<begin position="322"/>
+<end position="387"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="2 3 4 5 23 28 31 32">
+<location>
+<begin position="326"/>
+<end position="389"/>
+</location>
+</feature>
+<feature type="disulfide bond" description="Interchain" evidence="2 3 4 23 28 31">
+<location>
+<position position="355"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Associated with higher bone mineral density and lower frequency of vertebral fractures in Japanese post-menopausal women; dbSNP:rs1800470." id="VAR_016171" evidence="13 36 40">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="10"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1800471." id="VAR_016172" evidence="36">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="25"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBDIMDE; decreased TGFB1-mediated activation of SMAD signaling; reduced levels of secreated TGFB1." id="VAR_081584" evidence="33">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="45"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CAEND; leads to TGF-beta-1 intracellular accumulation." id="VAR_017607" evidence="11 14">
+<original>Y</original>
+<variation>H</variation>
+<location>
+<position position="81"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBDIMDE; decreased TGFB1-mediated activation of SMAD signaling; reduced levels of secreated TGFB1." id="VAR_081585" evidence="33">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="110"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CAEND; higher levels of active TGF-beta-1 in the culture medium; enhances osteoclast formation in vitro." id="VAR_017608" evidence="10 11 14 15">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="218"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CAEND." id="VAR_017609" evidence="10">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="218"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CAEND; sporadic case; higher levels of active TGF-beta-1 in the culture medium." id="VAR_017610" evidence="14">
+<original>H</original>
+<variation>D</variation>
+<location>
+<position position="222"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CAEND." id="VAR_067303" evidence="16">
+<original>C</original>
+<variation>G</variation>
+<location>
+<position position="223"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CAEND." id="VAR_067304" evidence="16">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="223"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CAEND; higher levels of active TGF-beta-1 in the culture medium." id="VAR_017611" evidence="10 11 14">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="225"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1800472." id="VAR_016173">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="263"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In IBDIMDE; loss of TGFB1-mediated activation of SMAD signaling; mutant TGFB1 is not secreted." id="VAR_081586" evidence="33">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="387"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes interchain disulfide bond with LTBP1 and/or LRRC32, and subsequent regulation of activation of TGF-beta-1." evidence="26 38">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="33"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect integrin-binding or activation of TGF-beta-1." evidence="31">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="75"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect integrin-binding or activation of TGF-beta-1." evidence="31">
+<original>L</original>
+<variation>A</variation>
+<location>
+<position position="158"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect integrin-binding or activation of TGF-beta-1." evidence="31">
+<original>L</original>
+<variation>A</variation>
+<variation>R</variation>
+<location>
+<position position="160"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect integrin-binding or activation of TGF-beta-1." evidence="31">
+<original>P</original>
+<variation>A</variation>
+<variation>R</variation>
+<location>
+<position position="193"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly inhibits integrin-binding and activation of TGF-beta-1." evidence="31">
+<original>LQVDI</original>
+<variation>GQGDG</variation>
+<location>
+<begin position="232"/>
+<end position="236"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly inhibits integrin-binding and activation of TGF-beta-1." evidence="31">
+<original>VDI</original>
+<variation>GDG</variation>
+<location>
+<begin position="234"/>
+<end position="236"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect integrin-binding or activation of TGF-beta-1." evidence="31">
+<original>N</original>
+<variation>A</variation>
+<location>
+<position position="237"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect integrin-binding or activation of TGF-beta-1." evidence="31">
+<original>N</original>
+<variation>A</variation>
+<location>
+<position position="254"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly inhibits integrin-binding and activation of TGF-beta-1." evidence="31">
+<original>FLLL</original>
+<variation>GLLG</variation>
+<location>
+<begin position="257"/>
+<end position="260"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Prevents cleavage and subsequent maturation of the protein. Generated in order to mimic the structure of the Transforming growth factor beta-1 proprotein." evidence="32">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="278"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAA26580." ref="2" evidence="43">
+<original>R</original>
+<variation>RR</variation>
+<location>
+<position position="159"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="33"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="70"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="75"/>
+<end position="85"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="107"/>
+<end position="112"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="123"/>
+<end position="126"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="130"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="137"/>
+<end position="143"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="144"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="147"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="150"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="166"/>
+<end position="174"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="175"/>
+<end position="177"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="178"/>
+<end position="187"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="194"/>
+<end position="199"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="201"/>
+<end position="209"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="213"/>
+<end position="228"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="231"/>
+<end position="238"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="242"/>
+<end position="244"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="245"/>
+<end position="248"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="251"/>
+<end position="254"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="257"/>
+<end position="262"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="265"/>
+<end position="268"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="282"/>
+<end position="284"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="285"/>
+<end position="288"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="290"/>
+<end position="301"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="302"/>
+<end position="305"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="311"/>
+<end position="313"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="315"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="330"/>
+<end position="332"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="335"/>
+<end position="346"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="347"/>
+<end position="349"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="350"/>
+<end position="353"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="355"/>
+<end position="370"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="373"/>
+<end position="390"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1KLC"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3KFD"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4KV5"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5FFO"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5VQP"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6OM2"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P04202"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P07200"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000255"/>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10973241"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11062463"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11746498"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12202987"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12493741"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12843182"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15103729"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16263699"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16335952"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16754747"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17827158"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19651619"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19750484"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20207738"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2022183"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20599762"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22278742"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2493139"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25209176"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25310401"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25893292"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28117447"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="29109152"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="29483653"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30696809"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3162913"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="3861940"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7737999"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8617200"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8939931"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9783545"/>
+</source>
+</evidence>
+<evidence key="41" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9895299"/>
+</source>
+</evidence>
+<evidence key="42" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="27252363"/>
+</source>
+</evidence>
+<evidence key="43" type="ECO:0000305"/>
+<evidence key="44" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="22278742"/>
+</source>
+</evidence>
+<evidence key="45" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="2982829"/>
+</source>
+</evidence>
+<evidence key="46" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="29909984"/>
+</source>
+</evidence>
+<evidence key="47" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="3162913"/>
+</source>
+</evidence>
+<evidence key="48" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="7737999"/>
+</source>
+</evidence>
+<evidence key="49" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="8471846"/>
+</source>
+</evidence>
+<evidence key="50" type="ECO:0000312">
+<source>
+<dbReference type="HGNC" id="HGNC:11766"/>
+</source>
+</evidence>
+<sequence length="390" mass="44341" checksum="75391614250288FE" modified="1991-02-01" version="2" precursor="true">MPPSGLRLLLLLLPLLWLLVLTPGRPAAGLSTCKTIDMELVKRKRIEAIRGQILSKLRLASPPSQGEVPPGPLPEAVLALYNSTRDRVAGESAEPEPEPEADYYAKEVTRVLMVETHNEIYDKFKQSTHSIYMFFNTSELREAVPEPVLLSRAELRLLRLKLKVEQHVELYQKYSNNSWRYLSNRLLAPSDSPEWLSFDVTGVVRQWLSRGGEIEGFRLSAHCSCDSRDNTLQVDINGFTTGRRGDLATIHGMNRPFLLLMATPLERAQHLQSSRHRRALDTNYCFSSTEKNCCVRQLYIDFRKDLGWKWIHEPKGYHANFCLGPCPYIWSLDTQYSKVLALYNQHNPGASAAPCCVPQALEPLPIVYYVGRKPKVEQLSNMIVRSCKCS</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

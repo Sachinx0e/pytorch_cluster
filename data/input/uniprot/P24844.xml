@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1992-03-01" modified="2020-10-07" version="184">
+<accession>P24844</accession>
+<accession>E1P5T6</accession>
+<accession>Q9BQL9</accession>
+<accession>Q9BUF9</accession>
+<accession>Q9H136</accession>
+<name>MYL9_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Myosin regulatory light polypeptide 9</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>20 kDa myosin light chain</fullName>
+<shortName>LC20</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>MLC-2C</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Myosin RLC</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Myosin regulatory light chain 2, smooth muscle isoform</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Myosin regulatory light chain 9</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Myosin regulatory light chain MRLC1</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">MYL9</name>
+<name type="synonym">MLC2</name>
+<name type="synonym">MRLC1</name>
+<name type="synonym">MYRL2</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1989" name="Biochemistry" volume="28" first="4027" last="4035">
+<title>Characterization and differential expression of human vascular smooth muscle myosin light chain 2 isoform in nonmuscle cells.</title>
+<authorList>
+<person name="Kumar C.C."/>
+<person name="Mohan S.R."/>
+<person name="Zavodny P.J."/>
+<person name="Narula S.K."/>
+<person name="Leibowitz P.J."/>
+</authorList>
+<dbReference type="PubMed" id="2526655"/>
+<dbReference type="DOI" id="10.1021/bi00435a059"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>FUNCTION</scope>
+<source>
+<tissue>Umbilical artery</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="1999-08" db="EMBL/GenBank/DDBJ databases">
+<title>Splice variant of regulatory myosin light chain, short version.</title>
+<authorList>
+<person name="Pan J.Y."/>
+<person name="Li S."/>
+<person name="Silberstein D.S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 2)</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2001" name="Cell Struct. Funct." volume="26" first="677" last="683">
+<title>Diphosphorylated MRLC is required for organization of stress fibers in interphase cells and the contractile ring in dividing cells.</title>
+<authorList>
+<person name="Iwasaki T."/>
+<person name="Murata-Hori M."/>
+<person name="Ishitobi S."/>
+<person name="Hosoya H."/>
+</authorList>
+<dbReference type="PubMed" id="11942626"/>
+<dbReference type="DOI" id="10.1247/csf.26.677"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>PHOSPHORYLATION AT THR-19 AND SER-20</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2001" name="Nature" volume="414" first="865" last="871">
+<title>The DNA sequence and comparative analysis of human chromosome 20.</title>
+<authorList>
+<person name="Deloukas P."/>
+<person name="Matthews L.H."/>
+<person name="Ashurst J.L."/>
+<person name="Burton J."/>
+<person name="Gilbert J.G.R."/>
+<person name="Jones M."/>
+<person name="Stavrides G."/>
+<person name="Almeida J.P."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Barlow K.F."/>
+<person name="Bates K.N."/>
+<person name="Beard L.M."/>
+<person name="Beare D.M."/>
+<person name="Beasley O.P."/>
+<person name="Bird C.P."/>
+<person name="Blakey S.E."/>
+<person name="Bridgeman A.M."/>
+<person name="Brown A.J."/>
+<person name="Buck D."/>
+<person name="Burrill W.D."/>
+<person name="Butler A.P."/>
+<person name="Carder C."/>
+<person name="Carter N.P."/>
+<person name="Chapman J.C."/>
+<person name="Clamp M."/>
+<person name="Clark G."/>
+<person name="Clark L.N."/>
+<person name="Clark S.Y."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Cobley V.E."/>
+<person name="Collier R.E."/>
+<person name="Connor R.E."/>
+<person name="Corby N.R."/>
+<person name="Coulson A."/>
+<person name="Coville G.J."/>
+<person name="Deadman R."/>
+<person name="Dhami P.D."/>
+<person name="Dunn M."/>
+<person name="Ellington A.G."/>
+<person name="Frankland J.A."/>
+<person name="Fraser A."/>
+<person name="French L."/>
+<person name="Garner P."/>
+<person name="Grafham D.V."/>
+<person name="Griffiths C."/>
+<person name="Griffiths M.N.D."/>
+<person name="Gwilliam R."/>
+<person name="Hall R.E."/>
+<person name="Hammond S."/>
+<person name="Harley J.L."/>
+<person name="Heath P.D."/>
+<person name="Ho S."/>
+<person name="Holden J.L."/>
+<person name="Howden P.J."/>
+<person name="Huckle E."/>
+<person name="Hunt A.R."/>
+<person name="Hunt S.E."/>
+<person name="Jekosch K."/>
+<person name="Johnson C.M."/>
+<person name="Johnson D."/>
+<person name="Kay M.P."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Knights A."/>
+<person name="Laird G.K."/>
+<person name="Lawlor S."/>
+<person name="Lehvaeslaiho M.H."/>
+<person name="Leversha M.A."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Lovell J.D."/>
+<person name="Marsh V.L."/>
+<person name="Martin S.L."/>
+<person name="McConnachie L.J."/>
+<person name="McLay K."/>
+<person name="McMurray A.A."/>
+<person name="Milne S.A."/>
+<person name="Mistry D."/>
+<person name="Moore M.J.F."/>
+<person name="Mullikin J.C."/>
+<person name="Nickerson T."/>
+<person name="Oliver K."/>
+<person name="Parker A."/>
+<person name="Patel R."/>
+<person name="Pearce T.A.V."/>
+<person name="Peck A.I."/>
+<person name="Phillimore B.J.C.T."/>
+<person name="Prathalingam S.R."/>
+<person name="Plumb R.W."/>
+<person name="Ramsay H."/>
+<person name="Rice C.M."/>
+<person name="Ross M.T."/>
+<person name="Scott C.E."/>
+<person name="Sehra H.K."/>
+<person name="Shownkeen R."/>
+<person name="Sims S."/>
+<person name="Skuce C.D."/>
+<person name="Smith M.L."/>
+<person name="Soderlund C."/>
+<person name="Steward C.A."/>
+<person name="Sulston J.E."/>
+<person name="Swann R.M."/>
+<person name="Sycamore N."/>
+<person name="Taylor R."/>
+<person name="Tee L."/>
+<person name="Thomas D.W."/>
+<person name="Thorpe A."/>
+<person name="Tracey A."/>
+<person name="Tromans A.C."/>
+<person name="Vaudin M."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="Whitehead S.L."/>
+<person name="Whittaker P."/>
+<person name="Willey D.L."/>
+<person name="Williams L."/>
+<person name="Williams S.A."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Hubbard T."/>
+<person name="Durbin R.M."/>
+<person name="Bentley D.R."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+</authorList>
+<dbReference type="PubMed" id="11780052"/>
+<dbReference type="DOI" id="10.1038/414865a"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+<source>
+<tissue>Uterus</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2008" name="Cell" volume="135" first="123" last="136">
+<title>A tripartite complex containing MRCK modulates lamellar actomyosin retrograde flow.</title>
+<authorList>
+<person name="Tan I."/>
+<person name="Yong J."/>
+<person name="Dong J.M."/>
+<person name="Lim L."/>
+<person name="Leung T."/>
+</authorList>
+<dbReference type="PubMed" id="18854160"/>
+<dbReference type="DOI" id="10.1016/j.cell.2008.09.018"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-20</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2011" name="Cell Death Differ." volume="18" first="678" last="689">
+<title>Caspase-activated ROCK-1 allows erythroblast terminal maturation independently of cytokine-induced Rho signaling.</title>
+<authorList>
+<person name="Gabet A.S."/>
+<person name="Coulon S."/>
+<person name="Fricot A."/>
+<person name="Vandekerckhove J."/>
+<person name="Chang Y."/>
+<person name="Ribeil J.A."/>
+<person name="Lordier L."/>
+<person name="Zermati Y."/>
+<person name="Asnafi V."/>
+<person name="Belaid Z."/>
+<person name="Debili N."/>
+<person name="Vainchenker W."/>
+<person name="Varet B."/>
+<person name="Hermine O."/>
+<person name="Courtois G."/>
+</authorList>
+<dbReference type="PubMed" id="21072057"/>
+<dbReference type="DOI" id="10.1038/cdd.2010.140"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-20</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2011" name="FEBS Lett." volume="585" first="1260" last="1268">
+<title>Chelerythrine perturbs lamellar actomyosin filaments by selective inhibition of myotonic dystrophy kinase-related Cdc42-binding kinase.</title>
+<authorList>
+<person name="Tan I."/>
+<person name="Lai J."/>
+<person name="Yong J."/>
+<person name="Li S.F."/>
+<person name="Leung T."/>
+</authorList>
+<dbReference type="PubMed" id="21457715"/>
+<dbReference type="DOI" id="10.1016/j.febslet.2011.03.054"/>
+</citation>
+<scope>PHOSPHORYLATION AT THR-19 AND SER-20</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2011" name="PLoS ONE" volume="6" first="E17344" last="E17344">
+<title>New modularity of DAP-kinases: alternative splicing of the DRP-1 gene produces a ZIPk-like isoform.</title>
+<authorList>
+<person name="Shoval Y."/>
+<person name="Berissi H."/>
+<person name="Kimchi A."/>
+<person name="Pietrokovski S."/>
+</authorList>
+<dbReference type="PubMed" id="21408167"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0017344"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-20 BY DAPK1; DAPK2 AND ZIPK/DAPK3</scope>
+</reference>
+<comment type="function">
+<text evidence="4 9">Myosin regulatory subunit that plays an important role in regulation of both smooth muscle and nonmuscle cell contractile activity via its phosphorylation. Implicated in cytokinesis, receptor capping, and cell locomotion.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2">Myosin is a hexamer of 2 heavy chains and 4 light chains: interacts with myosin heavy chain MYO19.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-13066228">
+<id>P24844-2</id>
+</interactant>
+<interactant intactId="EBI-11991020">
+<id>A6NI15</id>
+<label>MSGN1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-13066228">
+<id>P24844-2</id>
+</interactant>
+<interactant intactId="EBI-2932492">
+<id>Q99757</id>
+<label>TXN2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>P24844-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P24844-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_042834"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="9">Smooth muscle tissues and in some, but not all, nonmuscle cells.</text>
+</comment>
+<comment type="PTM">
+<text evidence="4 8">Phosphorylation increases the actin-activated myosin ATPase activity and thereby regulates the contractile activity. It is required to generate the driving force in the migration of the cells but not necessary for localization of myosin-2 at the leading edge.</text>
+</comment>
+<comment type="miscellaneous">
+<text>This chain binds calcium.</text>
+</comment>
+<dbReference type="EMBL" id="J02854">
+<property type="protein sequence ID" value="AAA59852.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF176043">
+<property type="protein sequence ID" value="AAQ13654.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="D82057">
+<property type="protein sequence ID" value="BAB88917.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL050318">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471077">
+<property type="protein sequence ID" value="EAW76129.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471077">
+<property type="protein sequence ID" value="EAW76131.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471077">
+<property type="protein sequence ID" value="EAW76132.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471077">
+<property type="protein sequence ID" value="EAW76133.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471077">
+<property type="protein sequence ID" value="EAW76134.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC002648">
+<property type="protein sequence ID" value="AAH02648.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS13276.1">
+<molecule id="P24844-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS13277.1">
+<molecule id="P24844-2"/>
+</dbReference>
+<dbReference type="PIR" id="A32031">
+<property type="entry name" value="A32031"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_006088.2">
+<molecule id="P24844-1"/>
+<property type="nucleotide sequence ID" value="NM_006097.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_852667.1">
+<molecule id="P24844-2"/>
+<property type="nucleotide sequence ID" value="NM_181526.2"/>
+</dbReference>
+<dbReference type="SMR" id="P24844"/>
+<dbReference type="BioGRID" id="115670">
+<property type="interactions" value="31"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-60525N"/>
+<dbReference type="IntAct" id="P24844">
+<property type="interactions" value="20"/>
+</dbReference>
+<dbReference type="MINT" id="P24844"/>
+<dbReference type="STRING" id="9606.ENSP00000279022"/>
+<dbReference type="iPTMnet" id="P24844"/>
+<dbReference type="MetOSite" id="P24844"/>
+<dbReference type="PhosphoSitePlus" id="P24844"/>
+<dbReference type="BioMuta" id="MYL9"/>
+<dbReference type="DMDM" id="20141521"/>
+<dbReference type="OGP" id="P24844"/>
+<dbReference type="EPD" id="P24844"/>
+<dbReference type="jPOST" id="P24844"/>
+<dbReference type="MassIVE" id="P24844"/>
+<dbReference type="MaxQB" id="P24844"/>
+<dbReference type="PaxDb" id="P24844"/>
+<dbReference type="PeptideAtlas" id="P24844"/>
+<dbReference type="PRIDE" id="P24844"/>
+<dbReference type="ProteomicsDB" id="54231">
+<molecule id="P24844-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="54232">
+<molecule id="P24844-2"/>
+</dbReference>
+<dbReference type="TopDownProteomics" id="P24844-1">
+<molecule id="P24844-1"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="11734">
+<property type="antibodies" value="404 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="10398"/>
+<dbReference type="Ensembl" id="ENST00000279022">
+<molecule id="P24844-1"/>
+<property type="protein sequence ID" value="ENSP00000279022"/>
+<property type="gene ID" value="ENSG00000101335"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000346786">
+<molecule id="P24844-2"/>
+<property type="protein sequence ID" value="ENSP00000217313"/>
+<property type="gene ID" value="ENSG00000101335"/>
+</dbReference>
+<dbReference type="GeneID" id="10398"/>
+<dbReference type="KEGG" id="hsa:10398"/>
+<dbReference type="UCSC" id="uc002xfl.3">
+<molecule id="P24844-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="10398"/>
+<dbReference type="DisGeNET" id="10398"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000101335.9"/>
+<dbReference type="GeneCards" id="MYL9"/>
+<dbReference type="HGNC" id="HGNC:15754">
+<property type="gene designation" value="MYL9"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000101335">
+<property type="expression patterns" value="Tissue enhanced (smooth muscle, urinary bladder)"/>
+</dbReference>
+<dbReference type="MIM" id="609905">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P24844"/>
+<dbReference type="OpenTargets" id="ENSG00000101335"/>
+<dbReference type="PharmGKB" id="PA31387"/>
+<dbReference type="eggNOG" id="KOG0031">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000155458"/>
+<dbReference type="HOGENOM" id="CLU_061288_9_3_1"/>
+<dbReference type="InParanoid" id="P24844"/>
+<dbReference type="KO" id="K12755"/>
+<dbReference type="OMA" id="FNYREWV"/>
+<dbReference type="OrthoDB" id="1435392at2759"/>
+<dbReference type="PhylomeDB" id="P24844"/>
+<dbReference type="TreeFam" id="TF314218"/>
+<dbReference type="PathwayCommons" id="P24844"/>
+<dbReference type="Reactome" id="R-HSA-3928663">
+<property type="pathway name" value="EPHA-mediated growth cone collapse"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-416572">
+<property type="pathway name" value="Sema4D induced cell migration and growth-cone collapse"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-445355">
+<property type="pathway name" value="Smooth Muscle Contraction"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5625740">
+<property type="pathway name" value="RHO GTPases activate PKNs"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5625900">
+<property type="pathway name" value="RHO GTPases activate CIT"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5627117">
+<property type="pathway name" value="RHO GTPases Activate ROCKs"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5627123">
+<property type="pathway name" value="RHO GTPases activate PAKs"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8936459">
+<property type="pathway name" value="RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function"/>
+</dbReference>
+<dbReference type="SIGNOR" id="P24844"/>
+<dbReference type="BioGRID-ORCS" id="10398">
+<property type="hits" value="10 hits in 870 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="MYL9">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="MYL9"/>
+<dbReference type="GenomeRNAi" id="10398"/>
+<dbReference type="Pharos" id="P24844">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P24844"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 20"/>
+</dbReference>
+<dbReference type="RNAct" id="P24844">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000101335">
+<property type="expression patterns" value="Expressed in popliteal artery and 223 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="P24844">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P24844">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005859">
+<property type="term" value="C:muscle myosin complex"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001725">
+<property type="term" value="C:stress fiber"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030018">
+<property type="term" value="C:Z disc"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005509">
+<property type="term" value="F:calcium ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032036">
+<property type="term" value="F:myosin heavy chain binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008307">
+<property type="term" value="F:structural constituent of muscle"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006936">
+<property type="term" value="P:muscle contraction"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070527">
+<property type="term" value="P:platelet aggregation"/>
+<property type="evidence" value="ECO:0007001"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045652">
+<property type="term" value="P:regulation of megakaryocyte differentiation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006937">
+<property type="term" value="P:regulation of muscle contraction"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="CDD" id="cd00051">
+<property type="entry name" value="EFh"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011992">
+<property type="entry name" value="EF-hand-dom_pair"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018247">
+<property type="entry name" value="EF_Hand_1_Ca_BS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002048">
+<property type="entry name" value="EF_hand_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13405">
+<property type="entry name" value="EF-hand_6"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00054">
+<property type="entry name" value="EFh"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47473">
+<property type="entry name" value="SSF47473"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00018">
+<property type="entry name" value="EF_HAND_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50222">
+<property type="entry name" value="EF_HAND_2"/>
+<property type="match status" value="3"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0106">Calcium</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0505">Motor protein</keyword>
+<keyword id="KW-0514">Muscle protein</keyword>
+<keyword id="KW-0518">Myosin</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<feature type="initiator methionine" description="Removed" evidence="1">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Myosin regulatory light polypeptide 9" id="PRO_0000198735">
+<location>
+<begin position="2"/>
+<end position="172"/>
+</location>
+</feature>
+<feature type="domain" description="EF-hand 1" evidence="3">
+<location>
+<begin position="29"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="domain" description="EF-hand 2" evidence="3">
+<location>
+<begin position="98"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="domain" description="EF-hand 3" evidence="3">
+<location>
+<begin position="134"/>
+<end position="169"/>
+</location>
+</feature>
+<feature type="calcium-binding region">
+<location>
+<begin position="42"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylserine" evidence="1">
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by MLCK, CIT and ROCK2" evidence="4 8">
+<location>
+<position position="19"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by CDC42BP, CIT, MLCK, PAK1, ROCK1, ROCK2, DAPK1, DAPK2 and ZIPK/DAPK3" evidence="4 5 6 7 8">
+<location>
+<position position="20"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_042834" evidence="10 11">
+<location>
+<begin position="62"/>
+<end position="115"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA59852." ref="1" evidence="12">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="10"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA59852." ref="1" evidence="12">
+<original>I</original>
+<variation>Y</variation>
+<location>
+<position position="81"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA59852." ref="1" evidence="12">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="114"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA59852." ref="1" evidence="12">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="125"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA59852." ref="1" evidence="12">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="148"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA59852." ref="1" evidence="12">
+<original>D</original>
+<variation>H</variation>
+<location>
+<position position="171"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P29269"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9CQ19"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00448"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11942626"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18854160"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21072057"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21408167"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21457715"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2526655"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000303">
+<source ref="2"/>
+</evidence>
+<evidence key="12" type="ECO:0000305"/>
+<sequence length="172" mass="19827" checksum="4C9839E85154CDA8" modified="2007-01-23" version="4">MSSKRAKAKTTKKRPQRATSNVFAMFDQSQIQEFKEAFNMIDQNRDGFIDKEDLHDMLASLGKNPTDEYLEGMMSEAPGPINFTMFLTMFGEKLNGTDPEDVIRNAFACFDEEASGFIHEDHLRELLTTMGDRFTDEEVDEMYREAPIDKKGNFNYVEFTRILKHGAKDKDD</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

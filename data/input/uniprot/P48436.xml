@@ -1,0 +1,1995 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1996-02-01" modified="2020-10-07" version="204">
+<accession>P48436</accession>
+<accession>Q53Y80</accession>
+<name>SOX9_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="25">Transcription factor SOX-9</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="24 27">SOX9</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Nature" volume="372" first="525" last="530">
+<title>Campomelic dysplasia and autosomal sex reversal caused by mutations in an SRY-related gene.</title>
+<authorList>
+<person name="Foster J.W."/>
+<person name="Dominguez-Steglich M.A."/>
+<person name="Guioli S."/>
+<person name="Kowk G."/>
+<person name="Weller P.A."/>
+<person name="Stevanovic M."/>
+<person name="Weissenbach J."/>
+<person name="Mansour S."/>
+<person name="Young I.D."/>
+<person name="Goodfellow P.N."/>
+<person name="Schafer A.J."/>
+</authorList>
+<dbReference type="PubMed" id="7990924"/>
+<dbReference type="DOI" id="10.1038/372525a0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>INVOLVEMENT IN CMD1</scope>
+<source>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1994" name="Cell" volume="79" first="1111" last="1120">
+<title>Autosomal sex reversal and campomelic dysplasia are caused by mutations in and around the SRY-related gene SOX9.</title>
+<authorList>
+<person name="Wagner T."/>
+<person name="Wirth J."/>
+<person name="Meyer J."/>
+<person name="Zabel B."/>
+<person name="Held M."/>
+<person name="Zimmer J."/>
+<person name="Pasantes J."/>
+<person name="Bricarelli F.D."/>
+<person name="Keutel J."/>
+<person name="Hustert E."/>
+<person name="Wolf U."/>
+<person name="Tommerup N."/>
+<person name="Schempp W."/>
+<person name="Scherer G."/>
+</authorList>
+<dbReference type="PubMed" id="8001137"/>
+<dbReference type="DOI" id="10.1016/0092-8674(94)90041-8"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>INVOLVEMENT IN CMD1</scope>
+<scope>VARIANT CMD1 440-TYR--PRO-509 DEL</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2003-05" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full-length CDSs in BD Creator(TM) system donor vector.</title>
+<authorList>
+<person name="Kalnine N."/>
+<person name="Chen X."/>
+<person name="Rolfs A."/>
+<person name="Halleck A."/>
+<person name="Hines L."/>
+<person name="Eisenstein S."/>
+<person name="Koundinya M."/>
+<person name="Raphael J."/>
+<person name="Moreira D."/>
+<person name="Kelley T."/>
+<person name="LaBaer J."/>
+<person name="Lin Y."/>
+<person name="Phelan M."/>
+<person name="Farmer A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Eye</tissue>
+<tissue>PNS</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1996" name="Nat. Genet." volume="13" first="230" last="232">
+<title>Sex reversal by loss of the C-terminal transactivation domain of human SOX9.</title>
+<authorList>
+<person name="Suedbeck P."/>
+<person name="Schmitz M.L."/>
+<person name="Baeuerle P.A."/>
+<person name="Scherer G."/>
+</authorList>
+<dbReference type="PubMed" id="8640233"/>
+<dbReference type="DOI" id="10.1038/ng0696-230"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DNA-BINDING</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="27224" last="27229">
+<title>Transcriptional co-activators CREB-binding protein and p300 regulate chondrocyte-specific gene expression via association with Sox9.</title>
+<authorList>
+<person name="Tsuda M."/>
+<person name="Takahashi S."/>
+<person name="Takahashi Y."/>
+<person name="Asahara H."/>
+</authorList>
+<dbReference type="PubMed" id="12732631"/>
+<dbReference type="DOI" id="10.1074/jbc.m303471200"/>
+</citation>
+<scope>INTERACTION WITH EP300</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2011" name="N. Engl. J. Med." volume="364" first="91" last="93">
+<title>A SOX9 duplication and familial 46,XX developmental testicular disorder.</title>
+<authorList>
+<person name="Cox J.J."/>
+<person name="Willatt L."/>
+<person name="Homfray T."/>
+<person name="Woods C.G."/>
+</authorList>
+<dbReference type="PubMed" id="21208124"/>
+<dbReference type="DOI" id="10.1056/nejmc1010311"/>
+</citation>
+<scope>INVOLVEMENT IN SRXX2</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2015" name="J. Med. Genet." volume="52" first="240" last="247">
+<title>Copy number variation of two separate regulatory regions upstream of SOX9 causes isolated 46,XY or 46,XX disorder of sex development.</title>
+<authorList>
+<person name="Kim G.J."/>
+<person name="Sock E."/>
+<person name="Buchberger A."/>
+<person name="Just W."/>
+<person name="Denzer F."/>
+<person name="Hoepffner W."/>
+<person name="German J."/>
+<person name="Cole T."/>
+<person name="Mann J."/>
+<person name="Seguin J.H."/>
+<person name="Zipf W."/>
+<person name="Costigan C."/>
+<person name="Schmiady H."/>
+<person name="Rostasy M."/>
+<person name="Kramer M."/>
+<person name="Kaltenbach S."/>
+<person name="Roesler B."/>
+<person name="Georg I."/>
+<person name="Troppmann E."/>
+<person name="Teichmann A.C."/>
+<person name="Salfelder A."/>
+<person name="Widholz S.A."/>
+<person name="Wieacker P."/>
+<person name="Hiort O."/>
+<person name="Camerino G."/>
+<person name="Radi O."/>
+<person name="Wegner M."/>
+<person name="Arnold H.H."/>
+<person name="Scherer G."/>
+</authorList>
+<dbReference type="PubMed" id="25604083"/>
+<dbReference type="DOI" id="10.1136/jmedgenet-2014-102864"/>
+</citation>
+<scope>INVOLVEMENT IN SRXY10</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2017" name="J. Clin. Invest." volume="127" first="1475" last="1484">
+<title>Loss of DDRGK1 modulates SOX9 ubiquitination in spondyloepimetaphyseal dysplasia.</title>
+<authorList>
+<person name="Egunsola A.T."/>
+<person name="Bae Y."/>
+<person name="Jiang M.M."/>
+<person name="Liu D.S."/>
+<person name="Chen-Evenson Y."/>
+<person name="Bertin T."/>
+<person name="Chen S."/>
+<person name="Lu J.T."/>
+<person name="Nevarez L."/>
+<person name="Magal N."/>
+<person name="Raas-Rothschild A."/>
+<person name="Swindell E.C."/>
+<person name="Cohn D.H."/>
+<person name="Gibbs R.A."/>
+<person name="Campeau P.M."/>
+<person name="Shohat M."/>
+<person name="Lee B.H."/>
+</authorList>
+<dbReference type="PubMed" id="28263186"/>
+<dbReference type="DOI" id="10.1172/jci90193"/>
+</citation>
+<scope>INTERACTION WITH DDRGK1</scope>
+<scope>UBIQUITINATION</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2019" name="Curr. Opin. Cell Biol." volume="61" first="39" last="47">
+<title>SOX9 in cartilage development and disease.</title>
+<authorList>
+<person name="Lefebvre V."/>
+<person name="Angelozzi M."/>
+<person name="Haseeb A."/>
+</authorList>
+<dbReference type="PubMed" id="31382142"/>
+<dbReference type="DOI" id="10.1016/j.ceb.2019.07.008"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2019" name="Nucleic Acids Res." volume="47" first="6917" last="6931">
+<title>The SOXE transcription factors-SOX8, SOX9 and SOX10-share a bi-partite transactivation mechanism.</title>
+<authorList>
+<person name="Haseeb A."/>
+<person name="Lefebvre V."/>
+</authorList>
+<dbReference type="PubMed" id="31194875"/>
+<dbReference type="DOI" id="10.1093/nar/gkz523"/>
+</citation>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF LEU-278; VAL-282; ASP-290; GLU-293; PHE-294; GLN-296; TYR-297 AND LEU-298</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1997" name="Hum. Mutat." volume="9" first="388" last="395">
+<title>Mutations in SRY and SOX9: testis-determining genes.</title>
+<authorList>
+<person name="Cameron F.J."/>
+<person name="Sinclair A.H."/>
+</authorList>
+<dbReference type="PubMed" id="9143916"/>
+<dbReference type="DOI" id="10.1002/(sici)1098-1004(1997)9:5&lt;388::aid-humu2&gt;3.0.co;2-0"/>
+</citation>
+<scope>REVIEW ON VARIANTS</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1995" name="Am. J. Hum. Genet." volume="57" first="1028" last="1036">
+<title>Mutations in SOX9, the gene responsible for Campomelic dysplasia and autosomal sex reversal.</title>
+<authorList>
+<person name="Kwok C."/>
+<person name="Weller P.A."/>
+<person name="Guioli S."/>
+<person name="Foster J.W."/>
+<person name="Mansour S."/>
+<person name="Zuffardi O."/>
+<person name="Punnett H.H."/>
+<person name="Dominguez-Steglich M.A."/>
+<person name="Brook J.D."/>
+<person name="Young I.D."/>
+<person name="Goodfellow P.N."/>
+<person name="Schafer A.J."/>
+</authorList>
+<dbReference type="PubMed" id="7485151"/>
+</citation>
+<scope>VARIANTS CMD1 LEU-112 AND VAL-119</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1997" name="Hum. Mol. Genet." volume="6" first="91" last="98">
+<title>Mutational analysis of the SOX9 gene in campomelic dysplasia and autosomal sex reversal: lack of genotype/phenotype correlations.</title>
+<authorList>
+<person name="Meyer J."/>
+<person name="Suedbeck P."/>
+<person name="Held M."/>
+<person name="Wagner T."/>
+<person name="Schmitz M.L."/>
+<person name="Bricarelli F.D."/>
+<person name="Eggermont E."/>
+<person name="Friedrich U."/>
+<person name="Haas O.A."/>
+<person name="Kobelt A."/>
+<person name="Leroy J.G."/>
+<person name="van Maldergem L."/>
+<person name="Michel E."/>
+<person name="Mitulla B."/>
+<person name="Pfeiffer R.A."/>
+<person name="Schinzel A."/>
+<person name="Schmidt H."/>
+<person name="Scherer G."/>
+</authorList>
+<dbReference type="PubMed" id="9002675"/>
+<dbReference type="DOI" id="10.1093/hmg/6.1.91"/>
+</citation>
+<scope>VARIANTS CMD1 LEU-108; ARG-143; PRO-152 AND ARG-170</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1998" name="Hum. Mutat. Suppl." volume="1" first="S114" last="S116">
+<title>Novel missense mutation in the HMG box of SOX9 gene in a Japanese XY male resulted in campomelic dysplasia and severe defect in masculinization.</title>
+<authorList>
+<person name="Goji K."/>
+<person name="Nishijima E."/>
+<person name="Tsugawa C."/>
+<person name="Nishio H."/>
+<person name="Pokharel R.K."/>
+<person name="Matsuo M."/>
+</authorList>
+<dbReference type="PubMed" id="9452059"/>
+<dbReference type="DOI" id="10.1002/humu.1380110138"/>
+</citation>
+<scope>VARIANT CMD1 SER-112</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="1999" name="J. Biol. Chem." volume="274" first="24023" last="24030">
+<title>Functional and structural studies of wild type SOX9 and mutations causing campomelic dysplasia.</title>
+<authorList>
+<person name="McDowall S."/>
+<person name="Argentaro A."/>
+<person name="Ranganathan S."/>
+<person name="Weller P."/>
+<person name="Mertin S."/>
+<person name="Mansour S."/>
+<person name="Tolmie J."/>
+<person name="Harley V."/>
+</authorList>
+<dbReference type="PubMed" id="10446171"/>
+<dbReference type="DOI" id="10.1074/jbc.274.34.24023"/>
+</citation>
+<scope>VARIANTS CMD1 LEU-112; VAL-119; TYR-165 AND ARG-170</scope>
+<scope>3D-STRUCTURE MODELING</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2000" name="Am. J. Med. Genet." volume="93" first="421" last="425">
+<title>Acampomelic campomelic dysplasia with SOX9 mutation.</title>
+<authorList>
+<person name="Thong M.-K."/>
+<person name="Scherer G."/>
+<person name="Kozlowski K."/>
+<person name="Haan E."/>
+<person name="Morris L."/>
+</authorList>
+<dbReference type="PubMed" id="10951468"/>
+<dbReference type="DOI" id="10.1002/1096-8628(20000828)93:5&lt;421::aid-ajmg14&gt;3.0.co;2-5"/>
+</citation>
+<scope>VARIANT CMD1 GLU-173</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2001" name="Am. J. Med. Genet." volume="104" first="239" last="245">
+<title>Acampomelic campomelic syndrome.</title>
+<authorList>
+<person name="Moog U."/>
+<person name="Jansen N.J."/>
+<person name="Scherer G."/>
+<person name="Schrander-Stumpel C.T."/>
+</authorList>
+<dbReference type="PubMed" id="11754051"/>
+<dbReference type="DOI" id="10.1002/ajmg.10033"/>
+</citation>
+<scope>VARIANT CMD1 TYR-165</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2001" name="J. Biol. Chem." volume="276" first="27864" last="27872">
+<title>Compound effects of point mutations causing campomelic dysplasia/autosomal sex reversal upon SOX9 structure, nuclear transport, DNA binding, and transcriptional activation.</title>
+<authorList>
+<person name="Preiss S."/>
+<person name="Argentaro A."/>
+<person name="Clayton A."/>
+<person name="John A."/>
+<person name="Jans D.A."/>
+<person name="Ogata T."/>
+<person name="Nagai T."/>
+<person name="Barroso I."/>
+<person name="Schafer A.J."/>
+<person name="Harley V.R."/>
+</authorList>
+<dbReference type="PubMed" id="11323423"/>
+<dbReference type="DOI" id="10.1074/jbc.m101278200"/>
+</citation>
+<scope>VARIANTS CMD1 LEU-154 AND THR-158</scope>
+<scope>CHARACTERIZATION OF VARIANTS CMD1 LEU-154 AND THR-158</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2003" name="Hum. Mol. Genet." volume="12" first="1439" last="1447">
+<title>Loss of DNA-dependent dimerization of the transcription factor SOX9 as a cause for campomelic dysplasia.</title>
+<authorList>
+<person name="Sock E."/>
+<person name="Pagon R.A."/>
+<person name="Keymolen K."/>
+<person name="Lissens W."/>
+<person name="Wegner M."/>
+<person name="Scherer G."/>
+</authorList>
+<dbReference type="PubMed" id="12783851"/>
+<dbReference type="DOI" id="10.1093/hmg/ddg158"/>
+</citation>
+<scope>VARIANT CMD1 GLU-76</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2008" name="Fetal Diagn. Ther." volume="24" first="452" last="457">
+<title>Campomelic dysplasia: echographic suspicion in the first trimester of pregnancy and final diagnosis of two cases.</title>
+<authorList>
+<person name="Massardier J."/>
+<person name="Roth P."/>
+<person name="Michel-Calemard L."/>
+<person name="Rudigoz R.C."/>
+<person name="Bouvier R."/>
+<person name="Dijoud F."/>
+<person name="Arnould P."/>
+<person name="Combourieu D."/>
+<person name="Gaucherand P."/>
+</authorList>
+<dbReference type="PubMed" id="19033726"/>
+<dbReference type="DOI" id="10.1159/000176299"/>
+</citation>
+<scope>VARIANTS CMD1 28-GLU--PRO-509 DEL AND PRO-169</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2009" name="Am. J. Med. Genet. A" volume="149" first="2882" last="2885">
+<title>Mutation analysis of SOX9 and single copy number variant analysis of the upstream region in eight patients with campomelic dysplasia and acampomelic campomelic dysplasia.</title>
+<authorList>
+<person name="Wada Y."/>
+<person name="Nishimura G."/>
+<person name="Nagai T."/>
+<person name="Sawai H."/>
+<person name="Yoshikata M."/>
+<person name="Miyagawa S."/>
+<person name="Hanita T."/>
+<person name="Sato S."/>
+<person name="Hasegawa T."/>
+<person name="Ishikawa S."/>
+<person name="Ogata T."/>
+</authorList>
+<dbReference type="PubMed" id="19921652"/>
+<dbReference type="DOI" id="10.1002/ajmg.a.33107"/>
+</citation>
+<scope>VARIANTS CMD1 THR-113 AND LEU-170</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2010" name="Hum. Mutat." volume="31" first="E1436" last="E1444">
+<title>Heterozygous SOX9 mutations allowing for residual DNA-binding and transcriptional activation lead to the acampomelic variant of campomelic dysplasia.</title>
+<authorList>
+<person name="Staffler A."/>
+<person name="Hammel M."/>
+<person name="Wahlbuhl M."/>
+<person name="Bidlingmaier C."/>
+<person name="Flemmer A.W."/>
+<person name="Pagel P."/>
+<person name="Nicolai T."/>
+<person name="Wegner M."/>
+<person name="Holzinger A."/>
+</authorList>
+<dbReference type="PubMed" id="20513132"/>
+<dbReference type="DOI" id="10.1002/humu.21238"/>
+</citation>
+<scope>VARIANTS CMD1 VAL-113 AND GLN-165</scope>
+<scope>CHARACTERIZATION OF VARIANTS CMD1 VAL-113 AND GLN-165</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2013" name="Am. J. Med. Genet. A" volume="161A" first="2528" last="2534">
+<title>A novel SOX9 H169Q mutation in a family with overlapping phenotype of mild campomelic dysplasia and small patella syndrome.</title>
+<authorList>
+<person name="Matsushita M."/>
+<person name="Kitoh H."/>
+<person name="Kaneko H."/>
+<person name="Mishima K."/>
+<person name="Kadono I."/>
+<person name="Ishiguro N."/>
+<person name="Nishimura G."/>
+</authorList>
+<dbReference type="PubMed" id="24038782"/>
+<dbReference type="DOI" id="10.1002/ajmg.a.36134"/>
+</citation>
+<scope>VARIANT CMD1 GLN-169</scope>
+<scope>CHARACTERIZATION OF VARIANT CMD1 GLN-169</scope>
+<scope>CHARACTERIZATION OF VARIANT PRO-169</scope>
+<scope>FUNCTION</scope>
+</reference>
+<comment type="function">
+<text evidence="2 14 21">Transcription factor that plays a key role in chondrocytes differentiation and skeletal development (PubMed:24038782). Specifically binds the 5'-ACAAAG-3' DNA motif present in enhancers and super-enhancers and promotes expression of genes important for chondrogenesis, including cartilage matrix protein-coding genes COL2A1, COL4A2, COL9A1, COL11A2 and ACAN, SOX5 and SOX6 (PubMed:8640233). Also binds to some promoter regions (By similarity). Plays a central role in successive steps of chondrocyte differentiation (By similarity). Absolutely required for precartilaginous condensation, the first step in chondrogenesis during which skeletal progenitors differentiate into prechondrocytes (By similarity). Together with SOX5 and SOX6, required for overt chondrogenesis when condensed prechondrocytes differentiate into early stage chondrocytes, the second step in chondrogenesis (By similarity). Later, required to direct hypertrophic maturation and block osteoblast differentiation of growth plate chondrocytes: maintains chondrocyte columnar proliferation, delays prehypertrophy and then prevents osteoblastic differentiation of chondrocytes by lowering beta-catenin (CTNNB1) signaling and RUNX2 expression (By similarity). Also required for chondrocyte hypertrophy, both indirectly, by keeping the lineage fate of chondrocytes, and directly, by remaining present in upper hypertrophic cells and transactivating COL10A1 along with MEF2C (By similarity). Low lipid levels are the main nutritional determinant for chondrogenic commitment of skeletal progenitor cells: when lipids levels are low, FOXO (FOXO1 and FOXO3) transcription factors promote expression of SOX9, which induces chondrogenic commitment and suppresses fatty acid oxidation (By similarity). Mechanistically, helps, but is not required, to remove epigenetic signatures of transcriptional repression and deposit active promoter and enhancer marks at chondrocyte-specific genes (By similarity). Acts in cooperation with the Hedgehog pathway-dependent GLI (GLI1 and GLI3) transcription factors (By similarity). In addition to cartilage development, also acts as a regulator of proliferation and differentiation in epithelial stem/progenitor cells: involved in the lung epithelium during branching morphogenesis, by balancing proliferation and differentiation and regulating the extracellular matrix (By similarity). Controls epithelial branching during kidney development (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 8 16">Homodimer; homodimerization is required for activity (By similarity). Interacts (via C-terminus) with ZNF219; forming a complex that binds to the COL2A1 promoter and activates COL2A1 expression (By similarity). Interacts with DDRGK1 (PubMed:28263186). Interacts with EP300/p300 (PubMed:12732631). Interacts with beta-catenin (CTNNB1); inhibiting CTNNB1 activity by competing with the binding sites of TCF/LEF within CTNNB1 (By similarity).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3920028">
+<id>P48436</id>
+</interactant>
+<interactant intactId="EBI-14022639">
+<id>Q3U108</id>
+<label>Arid5a</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3 21">Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="domain">
+<text evidence="17 21">The transactivation domains TAM and TAC (for transactivation domain in the middle and at the C-terminus, respectively) are required to contact transcriptional coactivators and basal transcriptional machinery components and thereby induce gene transactivation.</text>
+</comment>
+<comment type="domain">
+<text evidence="17">The PQA region (for proline, glutamine and alanine-rich) helps stabilizing SOX9 and facilitates transactivation (PubMed:31194875). It lacks intrinsic transactivation capability (PubMed:31194875).</text>
+</comment>
+<comment type="PTM">
+<text evidence="2">Acetylated; acetylation impairs nuclear localization and ability to transactivate expression of target genes. Deacetylated by SIRT1.</text>
+</comment>
+<comment type="PTM">
+<text evidence="2">Phosphorylation at Ser-64 and Ser-211 by PKA increases transcriptional activity and may help delay chondrocyte maturation downstream of PTHLH/PTHrP signaling. Phosphorylation at either Ser-64 or Ser-211 is required for sumoylation, but phosphorylation is not dependent on sumoylation. Phosphorylated on tyrosine residues; tyrosine dephosphorylation by PTPN11/SHP2 blocks SOX9 phosphorylation by PKA and subsequent SUMOylation.</text>
+</comment>
+<comment type="PTM">
+<text evidence="16">Ubiquitinated; ubiquitination leads to proteasomal degradation and is negatively regulated by DDRGK1.</text>
+</comment>
+<comment type="PTM">
+<text evidence="2">Sumoylated; phosphorylation at either Ser-64 or Ser-211 is required for sumoylation. Sumoylation is induced by BMP signaling pathway.</text>
+</comment>
+<comment type="disease" evidence="4 5 6 7 9 10 11 12 14 18 19 20 22 23">
+<disease id="DI-01311">
+<name>Campomelic dysplasia</name>
+<acronym>CMD1</acronym>
+<description>A rare, often lethal, osteochondrodysplasia characterized by congenital bowing and angulation of long bones. Other skeletal defects include unusually small scapula, deformed pelvis and spine, and a missing pair of ribs. Craniofacial and ear defects are common. Most patients die soon after birth due to respiratory distress which has been attributed to hypoplasia of the tracheobronchial cartilage and small thoracic cage. Up to two-thirds of affected XY individuals have genital defects or may develop as phenotypic females.</description>
+<dbReference type="MIM" id="114290"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="13">
+<disease id="DI-03053">
+<name>46,XX sex reversal 2</name>
+<acronym>SRXX2</acronym>
+<description>A condition in which male gonads develop in a genetic female (female to male sex reversal).</description>
+<dbReference type="MIM" id="278850"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="15">
+<disease id="DI-04458">
+<name>46,XY sex reversal 10</name>
+<acronym>SRXY10</acronym>
+<description>A disorder of sex development. Affected individuals have a 46,XY karyotype, show gonadal dysgenesis with streak gonads, look like normal females at birth, do not develop secondary sexual characteristics at puberty and do not menstruate.</description>
+<dbReference type="MIM" id="616425"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<dbReference type="EMBL" id="Z46629">
+<property type="protein sequence ID" value="CAA86598.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="S74506">
+<property type="protein sequence ID" value="AAB32870.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="S74504">
+<property type="protein sequence ID" value="AAB32870.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="S74505">
+<property type="protein sequence ID" value="AAB32870.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT006875">
+<property type="protein sequence ID" value="AAP35521.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471099">
+<property type="protein sequence ID" value="EAW89102.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC007951">
+<property type="protein sequence ID" value="AAH07951.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC056420">
+<property type="protein sequence ID" value="AAH56420.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS11689.1"/>
+<dbReference type="PIR" id="A55204">
+<property type="entry name" value="A55204"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000337.1">
+<property type="nucleotide sequence ID" value="NM_000346.3"/>
+</dbReference>
+<dbReference type="PDB" id="1S9M">
+<property type="method" value="Model"/>
+<property type="chains" value="A=101-177"/>
+</dbReference>
+<dbReference type="PDB" id="1SX9">
+<property type="method" value="Model"/>
+<property type="chains" value="A=101-177"/>
+</dbReference>
+<dbReference type="PDB" id="4EUW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.77"/>
+<property type="chains" value="A=98-181"/>
+</dbReference>
+<dbReference type="PDBsum" id="1S9M"/>
+<dbReference type="PDBsum" id="1SX9"/>
+<dbReference type="PDBsum" id="4EUW"/>
+<dbReference type="SMR" id="P48436"/>
+<dbReference type="BioGRID" id="112545">
+<property type="interactions" value="21"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-61319N"/>
+<dbReference type="ELM" id="P48436"/>
+<dbReference type="IntAct" id="P48436">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000245479"/>
+<dbReference type="iPTMnet" id="P48436"/>
+<dbReference type="PhosphoSitePlus" id="P48436"/>
+<dbReference type="BioMuta" id="SOX9"/>
+<dbReference type="DMDM" id="1351096"/>
+<dbReference type="EPD" id="P48436"/>
+<dbReference type="jPOST" id="P48436"/>
+<dbReference type="MassIVE" id="P48436"/>
+<dbReference type="MaxQB" id="P48436"/>
+<dbReference type="PaxDb" id="P48436"/>
+<dbReference type="PeptideAtlas" id="P48436"/>
+<dbReference type="PRIDE" id="P48436"/>
+<dbReference type="ProteomicsDB" id="55889"/>
+<dbReference type="Antibodypedia" id="915">
+<property type="antibodies" value="874 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="6662"/>
+<dbReference type="Ensembl" id="ENST00000245479">
+<property type="protein sequence ID" value="ENSP00000245479"/>
+<property type="gene ID" value="ENSG00000125398"/>
+</dbReference>
+<dbReference type="GeneID" id="6662"/>
+<dbReference type="KEGG" id="hsa:6662"/>
+<dbReference type="UCSC" id="uc002jiw.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="6662"/>
+<dbReference type="DisGeNET" id="6662"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000125398.5"/>
+<dbReference type="GeneCards" id="SOX9"/>
+<dbReference type="GeneReviews" id="SOX9"/>
+<dbReference type="HGNC" id="HGNC:11204">
+<property type="gene designation" value="SOX9"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000125398">
+<property type="expression patterns" value="Tissue enhanced (salivary)"/>
+</dbReference>
+<dbReference type="MalaCards" id="SOX9"/>
+<dbReference type="MIM" id="114290">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="278850">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="608160">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="616425">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P48436"/>
+<dbReference type="OpenTargets" id="ENSG00000125398"/>
+<dbReference type="Orphanet" id="2138">
+<property type="disease" value="46,XX ovotesticular disorder of sex development"/>
+</dbReference>
+<dbReference type="Orphanet" id="393">
+<property type="disease" value="46,XX testicular disorder of sex development"/>
+</dbReference>
+<dbReference type="Orphanet" id="242">
+<property type="disease" value="46,XY complete gonadal dysgenesis"/>
+</dbReference>
+<dbReference type="Orphanet" id="251510">
+<property type="disease" value="46,XY partial gonadal dysgenesis"/>
+</dbReference>
+<dbReference type="Orphanet" id="140">
+<property type="disease" value="Campomelic dysplasia"/>
+</dbReference>
+<dbReference type="Orphanet" id="718">
+<property type="disease" value="Isolated Pierre Robin syndrome"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA36041"/>
+<dbReference type="eggNOG" id="KOG0527">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000158269"/>
+<dbReference type="HOGENOM" id="CLU_031800_0_0_1"/>
+<dbReference type="InParanoid" id="P48436"/>
+<dbReference type="KO" id="K18435"/>
+<dbReference type="OMA" id="DYTDHQS"/>
+<dbReference type="OrthoDB" id="1030296at2759"/>
+<dbReference type="PhylomeDB" id="P48436"/>
+<dbReference type="PathwayCommons" id="P48436"/>
+<dbReference type="Reactome" id="R-HSA-3769402">
+<property type="pathway name" value="Deactivation of the beta-catenin transactivating complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8878166">
+<property type="pathway name" value="Transcriptional regulation by RUNX2"/>
+</dbReference>
+<dbReference type="SignaLink" id="P48436"/>
+<dbReference type="SIGNOR" id="P48436"/>
+<dbReference type="BioGRID-ORCS" id="6662">
+<property type="hits" value="103 hits in 900 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="SOX9">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="SOX9"/>
+<dbReference type="GenomeRNAi" id="6662"/>
+<dbReference type="Pharos" id="P48436">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P48436"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 17"/>
+</dbReference>
+<dbReference type="RNAct" id="P48436">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000125398">
+<property type="expression patterns" value="Expressed in ventricular zone and 231 other tissues"/>
+</dbReference>
+<dbReference type="Genevisible" id="P48436">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000790">
+<property type="term" value="C:nuclear chromatin"/>
+<property type="evidence" value="ECO:0000247"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032991">
+<property type="term" value="C:protein-containing complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005667">
+<property type="term" value="C:transcription regulator complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008013">
+<property type="term" value="F:beta-catenin binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043425">
+<property type="term" value="F:bHLH transcription factor binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003682">
+<property type="term" value="F:chromatin binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000987">
+<property type="term" value="F:cis-regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001228">
+<property type="term" value="F:DNA-binding transcription activator activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000981">
+<property type="term" value="F:DNA-binding transcription factor activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097157">
+<property type="term" value="F:pre-mRNA intronic binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034236">
+<property type="term" value="F:protein kinase A catalytic subunit binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000978">
+<property type="term" value="F:RNA polymerase II cis-regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990837">
+<property type="term" value="F:sequence-specific double-stranded DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097065">
+<property type="term" value="P:anterior head development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003180">
+<property type="term" value="P:aortic valve morphogenesis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060018">
+<property type="term" value="P:astrocyte fate commitment"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001658">
+<property type="term" value="P:branching involved in ureteric bud morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060532">
+<property type="term" value="P:bronchus cartilage development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019933">
+<property type="term" value="P:cAMP-mediated signaling"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001502">
+<property type="term" value="P:cartilage condensation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051216">
+<property type="term" value="P:cartilage development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001708">
+<property type="term" value="P:cell fate specification"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0098609">
+<property type="term" value="P:cell-cell adhesion"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071773">
+<property type="term" value="P:cellular response to BMP stimulus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071364">
+<property type="term" value="P:cellular response to epidermal growth factor stimulus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071504">
+<property type="term" value="P:cellular response to heparin"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071347">
+<property type="term" value="P:cellular response to interleukin-1"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071260">
+<property type="term" value="P:cellular response to mechanical stimulus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071300">
+<property type="term" value="P:cellular response to retinoic acid"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071560">
+<property type="term" value="P:cellular response to transforming growth factor beta stimulus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007417">
+<property type="term" value="P:central nervous system development"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002062">
+<property type="term" value="P:chondrocyte differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003413">
+<property type="term" value="P:chondrocyte differentiation involved in endochondral bone morphogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003415">
+<property type="term" value="P:chondrocyte hypertrophy"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006338">
+<property type="term" value="P:chromatin remodeling"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090103">
+<property type="term" value="P:cochlea morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007010">
+<property type="term" value="P:cytoskeleton organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003203">
+<property type="term" value="P:endocardial cushion morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031018">
+<property type="term" value="P:endocrine pancreas development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007173">
+<property type="term" value="P:epidermal growth factor receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060517">
+<property type="term" value="P:epithelial cell proliferation involved in prostatic bud elongation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001837">
+<property type="term" value="P:epithelial to mesenchymal transition"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060441">
+<property type="term" value="P:epithelial tube branching involved in lung morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070371">
+<property type="term" value="P:ERK1 and ERK2 cascade"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030198">
+<property type="term" value="P:extracellular matrix organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003430">
+<property type="term" value="P:growth plate cartilage chondrocyte growth"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001942">
+<property type="term" value="P:hair follicle development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070384">
+<property type="term" value="P:Harderian gland development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007507">
+<property type="term" value="P:heart development"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003170">
+<property type="term" value="P:heart valve development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003188">
+<property type="term" value="P:heart valve formation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003179">
+<property type="term" value="P:heart valve morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060729">
+<property type="term" value="P:intestinal epithelial structure maintenance"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035622">
+<property type="term" value="P:intrahepatic bile duct development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032808">
+<property type="term" value="P:lacrimal gland development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060174">
+<property type="term" value="P:limb bud formation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060487">
+<property type="term" value="P:lung epithelial cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061145">
+<property type="term" value="P:lung smooth muscle development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019100">
+<property type="term" value="P:male germ-line sex determination"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008584">
+<property type="term" value="P:male gonad development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030879">
+<property type="term" value="P:mammary gland development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072289">
+<property type="term" value="P:metanephric nephron tubule formation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061138">
+<property type="term" value="P:morphogenesis of a branching epithelium"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002009">
+<property type="term" value="P:morphogenesis of an epithelium"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043066">
+<property type="term" value="P:negative regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904864">
+<property type="term" value="P:negative regulation of beta-catenin-TCF complex assembly"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070168">
+<property type="term" value="P:negative regulation of biomineral tissue development"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030502">
+<property type="term" value="P:negative regulation of bone mineralization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090090">
+<property type="term" value="P:negative regulation of canonical Wnt signaling pathway"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032331">
+<property type="term" value="P:negative regulation of chondrocyte differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030857">
+<property type="term" value="P:negative regulation of epithelial cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050680">
+<property type="term" value="P:negative regulation of epithelial cell proliferation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046322">
+<property type="term" value="P:negative regulation of fatty acid oxidation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002683">
+<property type="term" value="P:negative regulation of immune system process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2001054">
+<property type="term" value="P:negative regulation of mesenchymal cell apoptotic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045662">
+<property type="term" value="P:negative regulation of myoblast differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030279">
+<property type="term" value="P:negative regulation of ossification"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045668">
+<property type="term" value="P:negative regulation of osteoblast differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046533">
+<property type="term" value="P:negative regulation of photoreceptor cell differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902894">
+<property type="term" value="P:negative regulation of pri-miRNA transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000122">
+<property type="term" value="P:negative regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014032">
+<property type="term" value="P:neural crest cell development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014036">
+<property type="term" value="P:neural crest cell fate specification"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007219">
+<property type="term" value="P:Notch signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030903">
+<property type="term" value="P:notochord development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006334">
+<property type="term" value="P:nucleosome assembly"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048709">
+<property type="term" value="P:oligodendrocyte differentiation"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001503">
+<property type="term" value="P:ossification"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030916">
+<property type="term" value="P:otic vesicle formation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090190">
+<property type="term" value="P:positive regulation of branching involved in ureteric bud morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061036">
+<property type="term" value="P:positive regulation of cartilage development"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008284">
+<property type="term" value="P:positive regulation of cell population proliferation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000138">
+<property type="term" value="P:positive regulation of cell proliferation involved in heart morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032332">
+<property type="term" value="P:positive regulation of chondrocyte differentiation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902732">
+<property type="term" value="P:positive regulation of chondrocyte proliferation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030858">
+<property type="term" value="P:positive regulation of epithelial cell differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010634">
+<property type="term" value="P:positive regulation of epithelial cell migration"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050679">
+<property type="term" value="P:positive regulation of epithelial cell proliferation"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901203">
+<property type="term" value="P:positive regulation of extracellular matrix assembly"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010628">
+<property type="term" value="P:positive regulation of gene expression"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090184">
+<property type="term" value="P:positive regulation of kidney development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000020">
+<property type="term" value="P:positive regulation of male gonad development"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002053">
+<property type="term" value="P:positive regulation of mesenchymal cell proliferation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000741">
+<property type="term" value="P:positive regulation of mesenchymal stem cell differentiation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014068">
+<property type="term" value="P:positive regulation of phosphatidylinositol 3-kinase signaling"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045732">
+<property type="term" value="P:positive regulation of protein catabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001934">
+<property type="term" value="P:positive regulation of protein phosphorylation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045893">
+<property type="term" value="P:positive regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030850">
+<property type="term" value="P:prostate gland development"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043491">
+<property type="term" value="P:protein kinase B signaling"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034504">
+<property type="term" value="P:protein localization to nucleus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0065003">
+<property type="term" value="P:protein-containing complex assembly"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042981">
+<property type="term" value="P:regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061046">
+<property type="term" value="P:regulation of branching involved in lung morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030155">
+<property type="term" value="P:regulation of cell adhesion"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010564">
+<property type="term" value="P:regulation of cell cycle process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042127">
+<property type="term" value="P:regulation of cell population proliferation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060784">
+<property type="term" value="P:regulation of cell proliferation involved in tissue homeostasis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000794">
+<property type="term" value="P:regulation of epithelial cell proliferation involved in lung morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072034">
+<property type="term" value="P:renal vesicle induction"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070542">
+<property type="term" value="P:response to fatty acid"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060041">
+<property type="term" value="P:retina development in camera-type eye"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060221">
+<property type="term" value="P:retinal rod cell differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060009">
+<property type="term" value="P:Sertoli cell development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060008">
+<property type="term" value="P:Sertoli cell differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007165">
+<property type="term" value="P:signal transduction"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001501">
+<property type="term" value="P:skeletal system development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035019">
+<property type="term" value="P:somatic stem cell population maintenance"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007283">
+<property type="term" value="P:spermatogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001894">
+<property type="term" value="P:tissue homeostasis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060534">
+<property type="term" value="P:trachea cartilage development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006367">
+<property type="term" value="P:transcription initiation from RNA polymerase II promoter"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072197">
+<property type="term" value="P:ureter morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072193">
+<property type="term" value="P:ureter smooth muscle cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072190">
+<property type="term" value="P:ureter urothelium development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.30.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009071">
+<property type="entry name" value="HMG_box_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036910">
+<property type="entry name" value="HMG_box_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029548">
+<property type="entry name" value="SOX-9"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022151">
+<property type="entry name" value="Sox_N"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR45803:SF1">
+<property type="entry name" value="PTHR45803:SF1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00505">
+<property type="entry name" value="HMG_box"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12444">
+<property type="entry name" value="Sox_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00398">
+<property type="entry name" value="HMG"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47095">
+<property type="entry name" value="SSF47095"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50118">
+<property type="entry name" value="HMG_BOX_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0010">Activator</keyword>
+<keyword id="KW-0221">Differentiation</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<feature type="chain" description="Transcription factor SOX-9" id="PRO_0000048739">
+<location>
+<begin position="1"/>
+<end position="509"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="HMG box" evidence="3">
+<location>
+<begin position="105"/>
+<end position="173"/>
+</location>
+</feature>
+<feature type="region of interest" description="Dimerization (DIM)" evidence="26">
+<location>
+<begin position="63"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="region of interest" description="PQA" evidence="26">
+<location>
+<begin position="63"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="region of interest" description="Transactivation domain (TAM)" evidence="17">
+<location>
+<begin position="224"/>
+<end position="307"/>
+</location>
+</feature>
+<feature type="region of interest" description="Transactivation domain (TAC)" evidence="21">
+<location>
+<begin position="394"/>
+<end position="509"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="9aaTAD 1" evidence="17">
+<location>
+<begin position="275"/>
+<end position="284"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="9aaTAD 2" evidence="17">
+<location>
+<begin position="290"/>
+<end position="298"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Gln/Pro-rich">
+<location>
+<begin position="339"/>
+<end position="378"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Pro">
+<location>
+<begin position="342"/>
+<end position="346"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="2">
+<location>
+<position position="64"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="2">
+<location>
+<position position="211"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="2">
+<location>
+<position position="398"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1." id="VAR_078490" evidence="10">
+<location>
+<begin position="28"/>
+<end position="509"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1; dimerization and the resulting capacity to activate promoters via dimeric binding sites is lost; other features of the protein function remain unaltered; dbSNP:rs137853128." id="VAR_063642" evidence="9">
+<original>A</original>
+<variation>E</variation>
+<location>
+<position position="76"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1." id="VAR_003735" evidence="22">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="108"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1; loss of DNA binding; dbSNP:rs1407667250." id="VAR_003736" evidence="4 18">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="112"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1." id="VAR_003737" evidence="23">
+<original>F</original>
+<variation>S</variation>
+<location>
+<position position="112"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1." id="VAR_063643" evidence="11">
+<original>M</original>
+<variation>T</variation>
+<location>
+<position position="113"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1; residual DNA binding and transactivation of regulated genes." id="VAR_063644" evidence="12">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="113"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1; almost no loss of DNA binding." id="VAR_003738" evidence="4 18">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="119"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1." id="VAR_003739" evidence="22">
+<original>W</original>
+<variation>R</variation>
+<location>
+<position position="143"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1." id="VAR_003740" evidence="22">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="152"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1; 5% of wild-type DNA binding activity; transcriptional activation is only reduced to 26% of wild-type activity; dbSNP:rs137853129." id="VAR_008529" evidence="6">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="154"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1; 17% of wild-type DNA binding activity; shows a 2-fold reduction in nuclear import efficiency; transcriptional activation is only reduced to 62% of wild-type activity; dbSNP:rs137853130." id="VAR_008530" evidence="6">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="158"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1; residual DNA binding and transactivation of regulated genes." id="VAR_063645" evidence="12">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="165"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1; loss of DNA binding; dbSNP:rs28940282." id="VAR_008531" evidence="4 7">
+<original>H</original>
+<variation>Y</variation>
+<location>
+<position position="165"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1; decreased 75% transactivational activity." id="VAR_078491" evidence="10 14">
+<original>H</original>
+<variation>P</variation>
+<location>
+<position position="169"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1; mild form overlapping with small patella syndrome; decreased 50% transactivational activity; dbSNP:rs2229989." id="VAR_078492" evidence="14">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="169"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1; dbSNP:rs1131691554." id="VAR_063646" evidence="11">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="170"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1." id="VAR_003741" evidence="4 22">
+<original>P</original>
+<variation>R</variation>
+<location>
+<position position="170"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1; dbSNP:rs104894647." id="VAR_063647" evidence="5">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="173"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1." id="VAR_003742">
+<location>
+<begin position="354"/>
+<end position="356"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In CMD1." id="VAR_083521" evidence="20">
+<location>
+<begin position="440"/>
+<end position="509"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired ability to activate transcription in vitro." evidence="17">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="278"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired ability to activate transcription in vitro." evidence="17">
+<original>V</original>
+<variation>D</variation>
+<location>
+<position position="282"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired ability to activate transcription in vitro." evidence="17">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="290"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired ability to activate transcription in vitro." evidence="17">
+<original>E</original>
+<variation>M</variation>
+<variation>T</variation>
+<location>
+<position position="293"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect ability to activate transcription in vitro." evidence="17">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="294"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired ability to activate transcription in vitro." evidence="17">
+<original>F</original>
+<variation>S</variation>
+<variation>A</variation>
+<location>
+<position position="294"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired, but not abolished, ability to activate transcription in vitro." evidence="17">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="296"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired ability to activate transcription in vitro." evidence="17">
+<original>Y</original>
+<variation>L</variation>
+<variation>S</variation>
+<variation>D</variation>
+<variation>F</variation>
+<location>
+<position position="297"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired ability to activate transcription in vitro." evidence="17">
+<original>L</original>
+<variation>D</variation>
+<location>
+<position position="298"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="111"/>
+<end position="126"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="132"/>
+<end position="143"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="148"/>
+<end position="168"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4EUW"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q04887"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00267"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10446171"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10951468"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11323423"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11754051"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12732631"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12783851"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19033726"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19921652"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20513132"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21208124"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24038782"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25604083"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28263186"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="31194875"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7485151"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7990924"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8001137"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8640233"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9002675"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9452059"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="7990924"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000305"/>
+<evidence key="26" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="31194875"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000312">
+<source>
+<dbReference type="HGNC" id="HGNC:11204"/>
+</source>
+</evidence>
+<sequence length="509" mass="56137" checksum="9289CFBB8D6631A2" modified="1996-02-01" version="1">MNLLDPFMKMTDEQEKGLSGAPSPTMSEDSAGSPCPSGSGSDTENTRPQENTFPKGEPDLKKESEEDKFPVCIREAVSQVLKGYDWTLVPMPVRVNGSSKNKPHVKRPMNAFMVWAQAARRKLADQYPHLHNAELSKTLGKLWRLLNESEKRPFVEEAERLRVQHKKDHPDYKYQPRRRKSVKNGQAEAEEATEQTHISPNAIFKALQADSPHSSSGMSEVHSPGEHSGQSQGPPTPPTTPKTDVQPGKADLKREGRPLPEGGRQPPIDFRDVDIGELSSDVISNIETFDVNEFDQYLPPNGHPGVPATHGQVTYTGSYGISSTAATPASAGHVWMSKQQAPPPPPQQPPQAPPAPQAPPQPQAAPPQQPAAPPQQPQAHTLTTLSSEPGQSQRTHIKTEQLSPSHYSEQQQHSPQQIAYSPFNLPHYSPSYPPITRSQYDYTDHQNSSSYYSHAAGQGTGLYSTFTYMNPAQRPMYTPIADTSGVPSIPQTHSPQHWEQPVYTQLTRP</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

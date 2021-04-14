@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2000-05-30" modified="2020-10-07" version="180">
+<accession>Q9Y5S8</accession>
+<accession>A8K836</accession>
+<accession>O95691</accession>
+<accession>Q2PP02</accession>
+<name>NOX1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>NADPH oxidase 1</fullName>
+<shortName>NOX-1</shortName>
+<ecNumber>1.-.-.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Mitogenic oxidase 1</fullName>
+<shortName>MOX-1</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>NADH/NADPH mitogenic oxidase subunit P65-MOX</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>NOH-1</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">NOX1</name>
+<name type="synonym">MOX1</name>
+<name type="synonym">NOH1</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1999" name="Nature" volume="401" first="79" last="82">
+<title>Cell transformation by the superoxide-generating oxidase Mox1.</title>
+<authorList>
+<person name="Suh Y.-A."/>
+<person name="Arnold R.S."/>
+<person name="Lassegue B."/>
+<person name="Shi J."/>
+<person name="Xu X."/>
+<person name="Sorescu D."/>
+<person name="Chung A.B."/>
+<person name="Griendling K.K."/>
+<person name="Lambeth J.D."/>
+</authorList>
+<dbReference type="PubMed" id="10485709"/>
+<dbReference type="DOI" id="10.1038/43459"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM NOH-1L)</scope>
+<source>
+<tissue>Colon epithelium</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2000" name="Science" volume="287" first="138" last="142">
+<title>A mammalian H+ channel, generated through alternative splicing of the NADPH oxidase homolog NOH-1.</title>
+<authorList>
+<person name="Banfi B."/>
+<person name="Maturana A."/>
+<person name="Jaconi S."/>
+<person name="Arnaudeau S."/>
+<person name="Laforge T."/>
+<person name="Sinha B."/>
+<person name="Ligeti E."/>
+<person name="Demaurex N."/>
+<person name="Krause K.-H."/>
+</authorList>
+<dbReference type="PubMed" id="10615049"/>
+<dbReference type="DOI" id="10.1126/science.287.5450.138"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS NOH-1L; NOH-1LV AND NOH-1S)</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2005-12" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="NHLBI resequencing and genotyping service (RS&amp;G)"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM NOH-1L)</scope>
+<source>
+<tissue>Colon</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2005" name="Nature" volume="434" first="325" last="337">
+<title>The DNA sequence of the human X chromosome.</title>
+<authorList>
+<person name="Ross M.T."/>
+<person name="Grafham D.V."/>
+<person name="Coffey A.J."/>
+<person name="Scherer S."/>
+<person name="McLay K."/>
+<person name="Muzny D."/>
+<person name="Platzer M."/>
+<person name="Howell G.R."/>
+<person name="Burrows C."/>
+<person name="Bird C.P."/>
+<person name="Frankish A."/>
+<person name="Lovell F.L."/>
+<person name="Howe K.L."/>
+<person name="Ashurst J.L."/>
+<person name="Fulton R.S."/>
+<person name="Sudbrak R."/>
+<person name="Wen G."/>
+<person name="Jones M.C."/>
+<person name="Hurles M.E."/>
+<person name="Andrews T.D."/>
+<person name="Scott C.E."/>
+<person name="Searle S."/>
+<person name="Ramser J."/>
+<person name="Whittaker A."/>
+<person name="Deadman R."/>
+<person name="Carter N.P."/>
+<person name="Hunt S.E."/>
+<person name="Chen R."/>
+<person name="Cree A."/>
+<person name="Gunaratne P."/>
+<person name="Havlak P."/>
+<person name="Hodgson A."/>
+<person name="Metzker M.L."/>
+<person name="Richards S."/>
+<person name="Scott G."/>
+<person name="Steffen D."/>
+<person name="Sodergren E."/>
+<person name="Wheeler D.A."/>
+<person name="Worley K.C."/>
+<person name="Ainscough R."/>
+<person name="Ambrose K.D."/>
+<person name="Ansari-Lari M.A."/>
+<person name="Aradhya S."/>
+<person name="Ashwell R.I."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Ballabio A."/>
+<person name="Banerjee R."/>
+<person name="Barker G.E."/>
+<person name="Barlow K.F."/>
+<person name="Barrett I.P."/>
+<person name="Bates K.N."/>
+<person name="Beare D.M."/>
+<person name="Beasley H."/>
+<person name="Beasley O."/>
+<person name="Beck A."/>
+<person name="Bethel G."/>
+<person name="Blechschmidt K."/>
+<person name="Brady N."/>
+<person name="Bray-Allen S."/>
+<person name="Bridgeman A.M."/>
+<person name="Brown A.J."/>
+<person name="Brown M.J."/>
+<person name="Bonnin D."/>
+<person name="Bruford E.A."/>
+<person name="Buhay C."/>
+<person name="Burch P."/>
+<person name="Burford D."/>
+<person name="Burgess J."/>
+<person name="Burrill W."/>
+<person name="Burton J."/>
+<person name="Bye J.M."/>
+<person name="Carder C."/>
+<person name="Carrel L."/>
+<person name="Chako J."/>
+<person name="Chapman J.C."/>
+<person name="Chavez D."/>
+<person name="Chen E."/>
+<person name="Chen G."/>
+<person name="Chen Y."/>
+<person name="Chen Z."/>
+<person name="Chinault C."/>
+<person name="Ciccodicola A."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Clerc-Blankenburg K."/>
+<person name="Clifford K."/>
+<person name="Cobley V."/>
+<person name="Cole C.G."/>
+<person name="Conquer J.S."/>
+<person name="Corby N."/>
+<person name="Connor R.E."/>
+<person name="David R."/>
+<person name="Davies J."/>
+<person name="Davis C."/>
+<person name="Davis J."/>
+<person name="Delgado O."/>
+<person name="Deshazo D."/>
+<person name="Dhami P."/>
+<person name="Ding Y."/>
+<person name="Dinh H."/>
+<person name="Dodsworth S."/>
+<person name="Draper H."/>
+<person name="Dugan-Rocha S."/>
+<person name="Dunham A."/>
+<person name="Dunn M."/>
+<person name="Durbin K.J."/>
+<person name="Dutta I."/>
+<person name="Eades T."/>
+<person name="Ellwood M."/>
+<person name="Emery-Cohen A."/>
+<person name="Errington H."/>
+<person name="Evans K.L."/>
+<person name="Faulkner L."/>
+<person name="Francis F."/>
+<person name="Frankland J."/>
+<person name="Fraser A.E."/>
+<person name="Galgoczy P."/>
+<person name="Gilbert J."/>
+<person name="Gill R."/>
+<person name="Gloeckner G."/>
+<person name="Gregory S.G."/>
+<person name="Gribble S."/>
+<person name="Griffiths C."/>
+<person name="Grocock R."/>
+<person name="Gu Y."/>
+<person name="Gwilliam R."/>
+<person name="Hamilton C."/>
+<person name="Hart E.A."/>
+<person name="Hawes A."/>
+<person name="Heath P.D."/>
+<person name="Heitmann K."/>
+<person name="Hennig S."/>
+<person name="Hernandez J."/>
+<person name="Hinzmann B."/>
+<person name="Ho S."/>
+<person name="Hoffs M."/>
+<person name="Howden P.J."/>
+<person name="Huckle E.J."/>
+<person name="Hume J."/>
+<person name="Hunt P.J."/>
+<person name="Hunt A.R."/>
+<person name="Isherwood J."/>
+<person name="Jacob L."/>
+<person name="Johnson D."/>
+<person name="Jones S."/>
+<person name="de Jong P.J."/>
+<person name="Joseph S.S."/>
+<person name="Keenan S."/>
+<person name="Kelly S."/>
+<person name="Kershaw J.K."/>
+<person name="Khan Z."/>
+<person name="Kioschis P."/>
+<person name="Klages S."/>
+<person name="Knights A.J."/>
+<person name="Kosiura A."/>
+<person name="Kovar-Smith C."/>
+<person name="Laird G.K."/>
+<person name="Langford C."/>
+<person name="Lawlor S."/>
+<person name="Leversha M."/>
+<person name="Lewis L."/>
+<person name="Liu W."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Loulseged H."/>
+<person name="Loveland J.E."/>
+<person name="Lovell J.D."/>
+<person name="Lozado R."/>
+<person name="Lu J."/>
+<person name="Lyne R."/>
+<person name="Ma J."/>
+<person name="Maheshwari M."/>
+<person name="Matthews L.H."/>
+<person name="McDowall J."/>
+<person name="McLaren S."/>
+<person name="McMurray A."/>
+<person name="Meidl P."/>
+<person name="Meitinger T."/>
+<person name="Milne S."/>
+<person name="Miner G."/>
+<person name="Mistry S.L."/>
+<person name="Morgan M."/>
+<person name="Morris S."/>
+<person name="Mueller I."/>
+<person name="Mullikin J.C."/>
+<person name="Nguyen N."/>
+<person name="Nordsiek G."/>
+<person name="Nyakatura G."/>
+<person name="O'dell C.N."/>
+<person name="Okwuonu G."/>
+<person name="Palmer S."/>
+<person name="Pandian R."/>
+<person name="Parker D."/>
+<person name="Parrish J."/>
+<person name="Pasternak S."/>
+<person name="Patel D."/>
+<person name="Pearce A.V."/>
+<person name="Pearson D.M."/>
+<person name="Pelan S.E."/>
+<person name="Perez L."/>
+<person name="Porter K.M."/>
+<person name="Ramsey Y."/>
+<person name="Reichwald K."/>
+<person name="Rhodes S."/>
+<person name="Ridler K.A."/>
+<person name="Schlessinger D."/>
+<person name="Schueler M.G."/>
+<person name="Sehra H.K."/>
+<person name="Shaw-Smith C."/>
+<person name="Shen H."/>
+<person name="Sheridan E.M."/>
+<person name="Shownkeen R."/>
+<person name="Skuce C.D."/>
+<person name="Smith M.L."/>
+<person name="Sotheran E.C."/>
+<person name="Steingruber H.E."/>
+<person name="Steward C.A."/>
+<person name="Storey R."/>
+<person name="Swann R.M."/>
+<person name="Swarbreck D."/>
+<person name="Tabor P.E."/>
+<person name="Taudien S."/>
+<person name="Taylor T."/>
+<person name="Teague B."/>
+<person name="Thomas K."/>
+<person name="Thorpe A."/>
+<person name="Timms K."/>
+<person name="Tracey A."/>
+<person name="Trevanion S."/>
+<person name="Tromans A.C."/>
+<person name="d'Urso M."/>
+<person name="Verduzco D."/>
+<person name="Villasana D."/>
+<person name="Waldron L."/>
+<person name="Wall M."/>
+<person name="Wang Q."/>
+<person name="Warren J."/>
+<person name="Warry G.L."/>
+<person name="Wei X."/>
+<person name="West A."/>
+<person name="Whitehead S.L."/>
+<person name="Whiteley M.N."/>
+<person name="Wilkinson J.E."/>
+<person name="Willey D.L."/>
+<person name="Williams G."/>
+<person name="Williams L."/>
+<person name="Williamson A."/>
+<person name="Williamson H."/>
+<person name="Wilming L."/>
+<person name="Woodmansey R.L."/>
+<person name="Wray P.W."/>
+<person name="Yen J."/>
+<person name="Zhang J."/>
+<person name="Zhou J."/>
+<person name="Zoghbi H."/>
+<person name="Zorilla S."/>
+<person name="Buck D."/>
+<person name="Reinhardt R."/>
+<person name="Poustka A."/>
+<person name="Rosenthal A."/>
+<person name="Lehrach H."/>
+<person name="Meindl A."/>
+<person name="Minx P.J."/>
+<person name="Hillier L.W."/>
+<person name="Willard H.F."/>
+<person name="Wilson R.K."/>
+<person name="Waterston R.H."/>
+<person name="Rice C.M."/>
+<person name="Vaudin M."/>
+<person name="Coulson A."/>
+<person name="Nelson D.L."/>
+<person name="Weinstock G."/>
+<person name="Sulston J.E."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Gibbs R.A."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+<person name="Bentley D.R."/>
+</authorList>
+<dbReference type="PubMed" id="15772651"/>
+<dbReference type="DOI" id="10.1038/nature03440"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM NOH-1L)</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="4737" last="4742">
+<title>NOXO1, regulation of lipid binding, localization, and activation of Nox1 by the Phox homology (PX) domain.</title>
+<authorList>
+<person name="Cheng G."/>
+<person name="Lambeth J.D."/>
+</authorList>
+<dbReference type="PubMed" id="14617635"/>
+<dbReference type="DOI" id="10.1074/jbc.m305968200"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2006" name="Biochem. Biophys. Res. Commun." volume="339" first="985" last="990">
+<title>Molecular interaction of NADPH oxidase 1 with betaPix and Nox Organizer 1.</title>
+<authorList>
+<person name="Park H.S."/>
+<person name="Park D."/>
+<person name="Bae Y.S."/>
+</authorList>
+<dbReference type="PubMed" id="16329988"/>
+<dbReference type="DOI" id="10.1016/j.bbrc.2005.11.108"/>
+</citation>
+<scope>INTERACTION WITH NOXO1</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2006" name="J. Biol. Chem." volume="281" first="17718" last="17726">
+<title>Nox1-dependent reactive oxygen generation is regulated by Rac1.</title>
+<authorList>
+<person name="Cheng G."/>
+<person name="Diebold B.A."/>
+<person name="Hughes Y."/>
+<person name="Lambeth J.D."/>
+</authorList>
+<dbReference type="PubMed" id="16636067"/>
+<dbReference type="DOI" id="10.1074/jbc.m512751200"/>
+</citation>
+<scope>IDENTIFICATION IN A COMPLEX CONTAINING NOX1; NOXO1; NOXA1 AND RAC1</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2009" name="Sci. Signal." volume="2" first="RA54" last="RA54">
+<title>Novel p47(phox)-related organizers regulate localized NADPH oxidase 1 (Nox1) activity.</title>
+<authorList>
+<person name="Gianni D."/>
+<person name="Diaz B."/>
+<person name="Taulet N."/>
+<person name="Fowler B."/>
+<person name="Courtneidge S.A."/>
+<person name="Bokoch G.M."/>
+</authorList>
+<dbReference type="PubMed" id="19755710"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000370"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2014" name="Biochem. Biophys. Res. Commun." volume="443" first="1060" last="1065">
+<title>N-Linked glycosylation of the superoxide-producing NADPH oxidase Nox1.</title>
+<authorList>
+<person name="Miyano K."/>
+<person name="Sumimoto H."/>
+</authorList>
+<dbReference type="PubMed" id="24365146"/>
+<dbReference type="DOI" id="10.1016/j.bbrc.2013.12.086"/>
+</citation>
+<scope>GLYCOSYLATION AT ASN-162 AND ASN-236</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2015" name="Cell. Mol. Gastroenterol. Hepatol." volume="1" first="489" last="502">
+<title>Defects in NADPH oxidase genes NOX1 and DUOX2 in very early onset inflammatory bowel disease.</title>
+<authorList>
+<person name="Hayes P."/>
+<person name="Dhillon S."/>
+<person name="O'Neill K."/>
+<person name="Thoeni C."/>
+<person name="Hui K.Y."/>
+<person name="Elkadri A."/>
+<person name="Guo C.H."/>
+<person name="Kovacic L."/>
+<person name="Aviello G."/>
+<person name="Alvarez L.A."/>
+<person name="Griffiths A.M."/>
+<person name="Snapper S.B."/>
+<person name="Brant S.R."/>
+<person name="Doroshow J.H."/>
+<person name="Silverberg M.S."/>
+<person name="Peter I."/>
+<person name="McGovern D.P."/>
+<person name="Cho J."/>
+<person name="Brumell J.H."/>
+<person name="Uhlig H.H."/>
+<person name="Bourke B."/>
+<person name="Muise A.A."/>
+<person name="Knaus U.G."/>
+</authorList>
+<dbReference type="PubMed" id="26301257"/>
+<dbReference type="DOI" id="10.1016/j.jcmgh.2015.06.005"/>
+</citation>
+<scope>POSSIBLE INVOLVEMENT IN INFLAMMATORY BOWEL DISEASE</scope>
+<scope>VARIANTS SER-330 AND ASN-360</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<comment type="function">
+<text>NOH-1S is a voltage-gated proton channel that mediates the H(+) currents of resting phagocytes and other tissues. It participates in the regulation of cellular pH and is blocked by zinc. NOH-1L is a pyridine nucleotide-dependent oxidoreductase that generates superoxide and might conduct H(+) ions as part of its electron transport mechanism, whereas NOH-1S does not contain an electron transport chain.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="10">
+<name>NADP(+)</name>
+<dbReference type="ChEBI" id="CHEBI:58349"/>
+</cofactor>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="10">
+<name>FAD</name>
+<dbReference type="ChEBI" id="CHEBI:57692"/>
+</cofactor>
+</comment>
+<comment type="activity regulation">
+<text evidence="3 4">The oxidase activity is potentiated by NOXA1 and NOXO1.</text>
+</comment>
+<comment type="subunit">
+<text evidence="4 5">NOX1, NOXA1, NOXO1, RAC1 and CYBA forms a functional multimeric complex supporting reactive oxygen species (ROS) production. Interacts with NOXA1 and NOXO1.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-15795558">
+<id>Q9Y5S8</id>
+</interactant>
+<interactant intactId="EBI-18271435">
+<id>Q0VAB0</id>
+<label>TBXA2R</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="6">Cell projection</location>
+<location evidence="6">Invadopodium membrane</location>
+<topology evidence="6">Multi-pass membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="8">Cell membrane</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q9Y5S8-1</id>
+<name>NOH-1L</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q9Y5S8-2</id>
+<name>NOH-1S</name>
+<sequence type="described" ref="VSP_001577 VSP_001578"/>
+</isoform>
+<isoform>
+<id>Q9Y5S8-3</id>
+<name>NOH-1LV</name>
+<sequence type="described" ref="VSP_001579"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text>NOH-1L is detected in colon, uterus, prostate, and colon carcinoma, but not in peripheral blood leukocytes. NOH-1S is detected only in colon and colon carcinoma cells.</text>
+</comment>
+<comment type="disease">
+<text evidence="8">Defects in NOX1 may play a role in the pathogenesis of very early onset inflammatory bowel disease (VEOIBD), a chronic, relapsing inflammation of the gastrointestinal tract with a complex etiology diagnosed before 6 years of age. VEOIBD is subdivided into Crohn disease and ulcerative colitis phenotypes. Crohn disease may affect any part of the gastrointestinal tract from the mouth to the anus, but the phenotype of children with onset of Crohn disease occurring younger than the age of 10 is predominantly colonic, with a lower risk of ileal disease. Bowel inflammation is transmural and discontinuous; it may contain granulomas or be associated with intestinal or perianal fistulas. In contrast, in ulcerative colitis, the inflammation is continuous and limited to rectal and colonic mucosal layers; fistulas and granulomas are not observed. Both diseases include extraintestinal inflammation of the skin, eyes, or joints.</text>
+</comment>
+<dbReference type="EC" id="1.-.-.-"/>
+<dbReference type="EMBL" id="AF127763">
+<property type="protein sequence ID" value="AAD38133.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF166326">
+<property type="protein sequence ID" value="AAF23232.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF166327">
+<property type="protein sequence ID" value="AAF23233.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF166328">
+<property type="protein sequence ID" value="AAF23234.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="DQ314883">
+<property type="protein sequence ID" value="ABC40742.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK292201">
+<property type="protein sequence ID" value="BAF84890.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z83819">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471115">
+<property type="protein sequence ID" value="EAX02820.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC075014">
+<property type="protein sequence ID" value="AAH75014.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC075015">
+<property type="protein sequence ID" value="AAH75015.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS14474.1">
+<molecule id="Q9Y5S8-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS14475.1">
+<molecule id="Q9Y5S8-3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001258744.1">
+<property type="nucleotide sequence ID" value="NM_001271815.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_008983.2">
+<molecule id="Q9Y5S8-1"/>
+<property type="nucleotide sequence ID" value="NM_007052.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_039249.1">
+<molecule id="Q9Y5S8-3"/>
+<property type="nucleotide sequence ID" value="NM_013955.2"/>
+</dbReference>
+<dbReference type="SMR" id="Q9Y5S8"/>
+<dbReference type="BioGRID" id="117966">
+<property type="interactions" value="9"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-60457N"/>
+<dbReference type="IntAct" id="Q9Y5S8">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000362057"/>
+<dbReference type="BindingDB" id="Q9Y5S8"/>
+<dbReference type="ChEMBL" id="CHEMBL1287628"/>
+<dbReference type="DrugBank" id="DB09140">
+<property type="generic name" value="Oxygen"/>
+</dbReference>
+<dbReference type="GuidetoPHARMACOLOGY" id="3001"/>
+<dbReference type="PeroxiBase" id="5410">
+<property type="entry name" value="HsNOx01"/>
+</dbReference>
+<dbReference type="TCDB" id="5.B.1.1.3">
+<property type="family name" value="the phagocyte (gp91(phox)) nadph oxidase family"/>
+</dbReference>
+<dbReference type="GlyGen" id="Q9Y5S8">
+<property type="glycosylation" value="2 sites"/>
+</dbReference>
+<dbReference type="iPTMnet" id="Q9Y5S8"/>
+<dbReference type="PhosphoSitePlus" id="Q9Y5S8"/>
+<dbReference type="BioMuta" id="NOX1"/>
+<dbReference type="DMDM" id="8134597"/>
+<dbReference type="jPOST" id="Q9Y5S8"/>
+<dbReference type="MassIVE" id="Q9Y5S8"/>
+<dbReference type="PaxDb" id="Q9Y5S8"/>
+<dbReference type="PeptideAtlas" id="Q9Y5S8"/>
+<dbReference type="PRIDE" id="Q9Y5S8"/>
+<dbReference type="ProteomicsDB" id="86491">
+<molecule id="Q9Y5S8-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="86492">
+<molecule id="Q9Y5S8-2"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="86493">
+<molecule id="Q9Y5S8-3"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="28538">
+<property type="antibodies" value="343 antibodies"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000217885">
+<molecule id="Q9Y5S8-3"/>
+<property type="protein sequence ID" value="ENSP00000217885"/>
+<property type="gene ID" value="ENSG00000007952"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000372966">
+<molecule id="Q9Y5S8-1"/>
+<property type="protein sequence ID" value="ENSP00000362057"/>
+<property type="gene ID" value="ENSG00000007952"/>
+</dbReference>
+<dbReference type="GeneID" id="27035"/>
+<dbReference type="KEGG" id="hsa:27035"/>
+<dbReference type="UCSC" id="uc004egj.3">
+<molecule id="Q9Y5S8-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="27035"/>
+<dbReference type="DisGeNET" id="27035"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000007952.17"/>
+<dbReference type="GeneCards" id="NOX1"/>
+<dbReference type="HGNC" id="HGNC:7889">
+<property type="gene designation" value="NOX1"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000007952">
+<property type="expression patterns" value="Tissue enhanced (ductus deferens, intestine, seminal vesicle)"/>
+</dbReference>
+<dbReference type="MIM" id="300225">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9Y5S8"/>
+<dbReference type="OpenTargets" id="ENSG00000007952"/>
+<dbReference type="PharmGKB" id="PA31690"/>
+<dbReference type="eggNOG" id="KOG0039">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000161632"/>
+<dbReference type="HOGENOM" id="CLU_005646_3_1_1"/>
+<dbReference type="InParanoid" id="Q9Y5S8"/>
+<dbReference type="KO" id="K08008"/>
+<dbReference type="OMA" id="IWYKFKD"/>
+<dbReference type="OrthoDB" id="936110at2759"/>
+<dbReference type="PhylomeDB" id="Q9Y5S8"/>
+<dbReference type="TreeFam" id="TF105354"/>
+<dbReference type="PathwayCommons" id="Q9Y5S8"/>
+<dbReference type="Reactome" id="R-HSA-5668599">
+<property type="pathway name" value="RHO GTPases Activate NADPH Oxidases"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9673324">
+<property type="pathway name" value="WNT5:FZD7-mediated leishmania damping"/>
+</dbReference>
+<dbReference type="BioGRID-ORCS" id="27035">
+<property type="hits" value="3 hits in 497 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="NOX1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="NOX1"/>
+<dbReference type="GenomeRNAi" id="27035"/>
+<dbReference type="Pharos" id="Q9Y5S8">
+<property type="development level" value="Tchem"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q9Y5S8"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome X"/>
+</dbReference>
+<dbReference type="RNAct" id="Q9Y5S8">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000007952">
+<property type="expression patterns" value="Expressed in colonic mucosa and 140 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q9Y5S8">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9Y5S8">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030054">
+<property type="term" value="C:cell junction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005769">
+<property type="term" value="C:early endosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071438">
+<property type="term" value="C:invadopodium membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043020">
+<property type="term" value="C:NADPH oxidase complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050661">
+<property type="term" value="F:NADP binding"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048365">
+<property type="term" value="F:Rac GTPase binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016175">
+<property type="term" value="F:superoxide-generating NADPH oxidase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005244">
+<property type="term" value="F:voltage-gated ion channel activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001525">
+<property type="term" value="P:angiogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016477">
+<property type="term" value="P:cell migration"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071455">
+<property type="term" value="P:cellular response to hyperoxia"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990451">
+<property type="term" value="P:cellular stress response to acidic pH"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006952">
+<property type="term" value="P:defense response"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030198">
+<property type="term" value="P:extracellular matrix organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042743">
+<property type="term" value="P:hydrogen peroxide metabolic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006954">
+<property type="term" value="P:inflammatory response"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051454">
+<property type="term" value="P:intracellular pH elevation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006739">
+<property type="term" value="P:NADP metabolic process"/>
+<property type="evidence" value="ECO:0000305"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055114">
+<property type="term" value="P:oxidation-reduction process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072592">
+<property type="term" value="P:oxygen metabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008284">
+<property type="term" value="P:positive regulation of cell population proliferation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045726">
+<property type="term" value="P:positive regulation of integrin biosynthetic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046330">
+<property type="term" value="P:positive regulation of JNK cascade"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902177">
+<property type="term" value="P:positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048661">
+<property type="term" value="P:positive regulation of smooth muscle cell proliferation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010575">
+<property type="term" value="P:positive regulation of vascular endothelial growth factor production"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008217">
+<property type="term" value="P:regulation of blood pressure"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034765">
+<property type="term" value="P:regulation of ion transmembrane transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003081">
+<property type="term" value="P:regulation of systemic arterial blood pressure by renin-angiotensin"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045730">
+<property type="term" value="P:respiratory burst"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007165">
+<property type="term" value="P:signal transduction"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042554">
+<property type="term" value="P:superoxide anion generation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.40.50.80">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000778">
+<property type="entry name" value="Cyt_b245_heavy_chain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013112">
+<property type="entry name" value="FAD-bd_8"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017927">
+<property type="entry name" value="FAD-bd_FR_type"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013130">
+<property type="entry name" value="Fe3_Rdtase_TM_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013121">
+<property type="entry name" value="Fe_red_NAD-bd_6"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR039261">
+<property type="entry name" value="FNR_nucleotide-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029650">
+<property type="entry name" value="NOX1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017938">
+<property type="entry name" value="Riboflavin_synthase-like_b-brl"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11972:SF71">
+<property type="entry name" value="PTHR11972:SF71"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08022">
+<property type="entry name" value="FAD_binding_8"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01794">
+<property type="entry name" value="Ferric_reduct"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08030">
+<property type="entry name" value="NAD_binding_6"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00466">
+<property type="entry name" value="GP91PHOX"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52343">
+<property type="entry name" value="SSF52343"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF63380">
+<property type="entry name" value="SSF63380"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51384">
+<property type="entry name" value="FAD_FR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0965">Cell junction</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0966">Cell projection</keyword>
+<keyword id="KW-0249">Electron transport</keyword>
+<keyword id="KW-0274">FAD</keyword>
+<keyword id="KW-0285">Flavoprotein</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0349">Heme</keyword>
+<keyword id="KW-0407">Ion channel</keyword>
+<keyword id="KW-0406">Ion transport</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0521">NADP</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<keyword id="KW-0851">Voltage-gated channel</keyword>
+<feature type="chain" description="NADPH oxidase 1" id="PRO_0000210148">
+<location>
+<begin position="1"/>
+<end position="564"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="1">
+<location>
+<begin position="1"/>
+<end position="9"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="10"/>
+<end position="30"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="1">
+<location>
+<begin position="31"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="45"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="1">
+<location>
+<begin position="73"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="103"/>
+<end position="123"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="1">
+<location>
+<begin position="124"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="169"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="1">
+<location>
+<begin position="190"/>
+<end position="206"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="207"/>
+<end position="227"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="1">
+<location>
+<begin position="228"/>
+<end position="396"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="1">
+<location>
+<begin position="397"/>
+<end position="417"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="1">
+<location>
+<begin position="418"/>
+<end position="564"/>
+</location>
+</feature>
+<feature type="domain" description="Ferric oxidoreductase">
+<location>
+<begin position="54"/>
+<end position="283"/>
+</location>
+</feature>
+<feature type="domain" description="FAD-binding FR-type" evidence="2">
+<location>
+<begin position="284"/>
+<end position="391"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="FAD" evidence="1">
+<location>
+<begin position="338"/>
+<end position="344"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with NOXO1" evidence="4">
+<location>
+<begin position="397"/>
+<end position="536"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron (heme axial ligand)" evidence="10">
+<location>
+<position position="101"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron (heme axial ligand)" evidence="10">
+<location>
+<position position="115"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron (heme axial ligand)" evidence="10">
+<location>
+<position position="209"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron (heme axial ligand)" evidence="10">
+<location>
+<position position="221"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="7">
+<location>
+<position position="162"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="7">
+<location>
+<position position="236"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform NOH-1S." id="VSP_001577" evidence="9">
+<original>QSRNTTVEYVTFTSIAGLTGVIMTIALILMVT</original>
+<variation>HPHITPTVYMFTVTFDMVLSSVNSNLLFLLIK</variation>
+<location>
+<begin position="159"/>
+<end position="190"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform NOH-1S." id="VSP_001578" evidence="9">
+<location>
+<begin position="191"/>
+<end position="564"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform NOH-1LV." id="VSP_001579" evidence="9">
+<location>
+<begin position="433"/>
+<end position="481"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2071756." id="VAR_049101">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="315"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in a patient with very early onset inflammatory bowel disease; unknown pathological significance; no effect on subcellular location; significantly reduced basal and phorbol ester-stimulated ROS generation, which may decrease resistance to infection by enteric pathogens, such as Campylobacter jejuni." id="VAR_075548" evidence="8">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="330"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in a patient with very early onset inflammatory bowel disease; unknown pathological significance; no effect on subcellular location; significantly reduced basal and phorbol ester-stimulated ROS generation, which may decrease resistance to infection by enteric pathogens, such as Campylobacter jejuni; dbSNP:rs34688635." id="VAR_061176" evidence="8">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="360"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35404864." id="VAR_049102">
+<original>R</original>
+<variation>K</variation>
+<location>
+<position position="378"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAD38133." ref="2" evidence="10">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="173"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00716"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14617635"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16329988"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16636067"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19755710"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24365146"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26301257"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="10615049"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000305"/>
+<sequence length="564" mass="64871" checksum="C3BE290F4E6DBC9A" modified="2000-05-01" version="2">MGNWVVNHWFSVLFLVVWLGLNVFLFVDAFLKYEKADKYYYTRKILGSTLACARASALCLNFNSTLILLPVCRNLLSFLRGTCSFCSRTLRKQLDHNLTFHKLVAYMICLHTAIHIIAHLFNFDCYSRSRQATDGSLASILSSLSHDEKKGGSWLNPIQSRNTTVEYVTFTSIAGLTGVIMTIALILMVTSATEFIRRSYFEVFWYTHHLFIFYILGLGIHGIGGIVRGQTEESMNESHPRKCAESFEMWDDRDSHCRRPKFEGHPPESWKWILAPVILYICERILRFYRSQQKVVITKVVMHPSKVLELQMNKRGFSMEVGQYIFVNCPSISLLEWHPFTLTSAPEEDFFSIHIRAAGDWTENLIRAFEQQYSPIPRIEVDGPFGTASEDVFQYEVAVLVGAGIGVTPFASILKSIWYKFQCADHNLKTKKIYFYWICRETGAFSWFNNLLTSLEQEMEELGKVGFLNYRLFLTGWDSNIVGHAALNFDKATDIVTGLKQKTSFGRPMWDNEFSTIATSHPKSVVGVFLCGPRTLAKSLRKCCHRYSSLDPRKVQFYFNKENF</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

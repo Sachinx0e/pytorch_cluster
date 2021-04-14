@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2000-05-30" modified="2020-10-07" version="170">
+<accession>O14493</accession>
+<name>CLD4_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Claudin-4</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="7">Clostridium perfringens enterotoxin receptor</fullName>
+<shortName evidence="7">CPE-R</shortName>
+<shortName evidence="7">CPE-receptor</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Williams-Beuren syndrome chromosomal region 8 protein</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">CLDN4</name>
+<name type="synonym" evidence="7">CPER</name>
+<name type="synonym" evidence="7">CPETR1</name>
+<name type="synonym">WBSCR8</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="26652" last="26658">
+<title>Clostridium perfringens enterotoxin utilizes two structurally related membrane proteins as functional receptors in vivo.</title>
+<authorList>
+<person name="Katahira J."/>
+<person name="Sugiyama H."/>
+<person name="Inoue N."/>
+<person name="Horiguchi Y."/>
+<person name="Matsuda M."/>
+<person name="Sugimoto N."/>
+</authorList>
+<dbReference type="PubMed" id="9334247"/>
+<dbReference type="DOI" id="10.1074/jbc.272.42.26652"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Fetal brain</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="2003-05" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full-length CDSs in BD Creator(TM) system donor vector.</title>
+<authorList>
+<person name="Kalnine N."/>
+<person name="Chen X."/>
+<person name="Rolfs A."/>
+<person name="Halleck A."/>
+<person name="Hines L."/>
+<person name="Eisenstein S."/>
+<person name="Koundinya M."/>
+<person name="Raphael J."/>
+<person name="Moreira D."/>
+<person name="Kelley T."/>
+<person name="LaBaer J."/>
+<person name="Lin Y."/>
+<person name="Phelan M."/>
+<person name="Farmer A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Colon</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="42375" last="42382">
+<title>EphA2 phosphorylates the cytoplasmic tail of Claudin-4 and mediates paracellular permeability.</title>
+<authorList>
+<person name="Tanaka M."/>
+<person name="Kamata R."/>
+<person name="Sakai R."/>
+</authorList>
+<dbReference type="PubMed" id="16236711"/>
+<dbReference type="DOI" id="10.1074/jbc.m503786200"/>
+</citation>
+<scope>INTERACTION WITH EPHA2 AND TJP1</scope>
+<scope>MUTAGENESIS OF TYR-208</scope>
+<scope>PHOSPHORYLATION AT TYR-208 BY EPHA2</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2010" name="J. Biol. Chem." volume="285" first="21092" last="21102">
+<title>Claudin association with CD81 defines hepatitis C virus entry.</title>
+<authorList>
+<person name="Harris H.J."/>
+<person name="Davis C."/>
+<person name="Mullins J.G."/>
+<person name="Hu K."/>
+<person name="Goodall M."/>
+<person name="Farquhar M.J."/>
+<person name="Mee C.J."/>
+<person name="McCaffrey K."/>
+<person name="Young S."/>
+<person name="Drummer H."/>
+<person name="Balfe P."/>
+<person name="McKeating J.A."/>
+</authorList>
+<dbReference type="PubMed" id="20375010"/>
+<dbReference type="DOI" id="10.1074/jbc.m110.104836"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH CLDN1</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="7" evidence="1">
+<citation type="journal article" date="2016" name="Sci. Rep." volume="6" first="33632" last="33632">
+<title>Structural basis for disruption of claudin assembly in tight junctions by an enterotoxin.</title>
+<authorList>
+<person name="Shinoda T."/>
+<person name="Shinya N."/>
+<person name="Ito K."/>
+<person name="Ohsawa N."/>
+<person name="Terada T."/>
+<person name="Hirata K."/>
+<person name="Kawano Y."/>
+<person name="Yamamoto M."/>
+<person name="Kimura-Someya T."/>
+<person name="Yokoyama S."/>
+<person name="Shirouzu M."/>
+</authorList>
+<dbReference type="PubMed" id="27647526"/>
+<dbReference type="DOI" id="10.1038/srep33632"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.50 ANGSTROMS) OF 1-183 IN COMPLEX WITH CLOSTRIDIUM PERFRINGENS CPE</scope>
+<scope>INTERACTION WITH CLOSTRIDIUM PERFRINGENS CPE</scope>
+<scope>MUTAGENESIS OF PHE-35; ILE-40 AND ASN-53</scope>
+<scope>DISULFIDE BOND</scope>
+</reference>
+<comment type="function">
+<text evidence="2">Channel-forming tight junction protein that mediates paracellular chloride transport in the kidney. Plays a critical role in the paracellular reabsorption of filtered chloride in the kidney collecting ducts. Claudins play a major role in tight junction-specific obliteration of the intercellular space, through calcium-independent cell-adhesion activity.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 4 5">Directly interacts with TJP1/ZO-1 (PubMed:16236711). Interacts with TJP2/ZO-2 and TJP3/ZO-3 (By similarity). Interacts with EPHA2; phosphorylates CLDN4 and may regulate tight junctions (PubMed:16236711). Interacts with CLDN1 (PubMed:20375010). Interacts with CLDN8 (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="6">(Microbial infection) Interacts (via both extracellular domains) with Clostridium perfringens enterotoxin CPE; the interaction may disrupt claudin assembly in tight junctions.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9316372">
+<id>O14493</id>
+</interactant>
+<interactant intactId="EBI-13059134">
+<id>Q13520</id>
+<label>AQP6</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9316372">
+<id>O14493</id>
+</interactant>
+<interactant intactId="EBI-11343438">
+<id>Q3SXY8</id>
+<label>ARL13B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9316372">
+<id>O14493</id>
+</interactant>
+<interactant intactId="EBI-17710733">
+<id>Q86T13</id>
+<label>CLEC14A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9316372">
+<id>O14493</id>
+</interactant>
+<interactant intactId="EBI-18304435">
+<id>Q5JX71</id>
+<label>FAM209A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9316372">
+<id>O14493</id>
+</interactant>
+<interactant intactId="EBI-2833872">
+<id>O15552</id>
+<label>FFAR2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9316372">
+<id>O14493</id>
+</interactant>
+<interactant intactId="EBI-17458373">
+<id>P48165</id>
+<label>GJA8</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9316372">
+<id>O14493</id>
+</interactant>
+<interactant intactId="EBI-712073">
+<id>Q8NBJ4</id>
+<label>GOLM1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9316372">
+<id>O14493</id>
+</interactant>
+<interactant intactId="EBI-18053395">
+<id>Q7Z5P4</id>
+<label>HSD17B13</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9316372">
+<id>O14493</id>
+</interactant>
+<interactant intactId="EBI-725421">
+<id>P32942</id>
+<label>ICAM3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9316372">
+<id>O14493</id>
+</interactant>
+<interactant intactId="EBI-373355">
+<id>Q5SR56</id>
+<label>MFSD14B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9316372">
+<id>O14493</id>
+</interactant>
+<interactant intactId="EBI-8032987">
+<id>Q8N9I0</id>
+<label>SYT2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9316372">
+<id>O14493</id>
+</interactant>
+<interactant intactId="EBI-10982110">
+<id>Q96Q45-2</id>
+<label>TMEM237</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9316372">
+<id>O14493</id>
+</interactant>
+<interactant intactId="EBI-18178701">
+<id>Q4KMG9</id>
+<label>TMEM52B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9316372">
+<id>O14493</id>
+</interactant>
+<interactant intactId="EBI-10262539">
+<id>Q8IWR1</id>
+<label>TRIM59</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-9316372">
+<id>O14493</id>
+</interactant>
+<interactant intactId="EBI-12195249">
+<id>Q5TGU0</id>
+<label>TSPO2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2">Cell junction</location>
+<location evidence="2">Tight junction</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="5">Cell membrane</location>
+<topology evidence="3">Multi-pass membrane protein</topology>
+</subcellularLocation>
+<text evidence="2">CLDN4 is required for tight junction localization in the kidney.</text>
+</comment>
+<comment type="PTM">
+<text evidence="4">Phosphorylated. Phosphorylation by EPHA2 is stimulated by EFNA1 and alters interaction with TJP1.</text>
+</comment>
+<comment type="disease">
+<text>CLDN4 is located in the Williams-Beuren syndrome (WBS) critical region. WBS results from a hemizygous deletion of several genes on chromosome 7q11.23, thought to arise as a consequence of unequal crossing over between highly homologous low-copy repeat sequences flanking the deleted region.</text>
+</comment>
+<comment type="similarity">
+<text evidence="8">Belongs to the claudin family.</text>
+</comment>
+<comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+<link uri="http://atlasgeneticsoncology.org/Genes/CLDN4ID42975ch7q11.html"/>
+</comment>
+<dbReference type="EMBL" id="AB000712">
+<property type="protein sequence ID" value="BAA22984.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BT006989">
+<property type="protein sequence ID" value="AAP35635.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC000671">
+<property type="protein sequence ID" value="AAH00671.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS5560.1"/>
+<dbReference type="RefSeq" id="NP_001296.1">
+<property type="nucleotide sequence ID" value="NM_001305.4"/>
+</dbReference>
+<dbReference type="PDB" id="5B2G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.50"/>
+<property type="chains" value="A/C/E/G=1-183"/>
+</dbReference>
+<dbReference type="PDBsum" id="5B2G"/>
+<dbReference type="SMR" id="O14493"/>
+<dbReference type="BioGRID" id="107756">
+<property type="interactions" value="18"/>
+</dbReference>
+<dbReference type="IntAct" id="O14493">
+<property type="interactions" value="16"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000409544"/>
+<dbReference type="TCDB" id="1.H.1.1.6">
+<property type="family name" value="the claudin tight junction (claudin1) family"/>
+</dbReference>
+<dbReference type="iPTMnet" id="O14493"/>
+<dbReference type="PhosphoSitePlus" id="O14493"/>
+<dbReference type="SwissPalm" id="O14493"/>
+<dbReference type="BioMuta" id="CLDN4"/>
+<dbReference type="EPD" id="O14493"/>
+<dbReference type="jPOST" id="O14493"/>
+<dbReference type="MassIVE" id="O14493"/>
+<dbReference type="PaxDb" id="O14493"/>
+<dbReference type="PeptideAtlas" id="O14493"/>
+<dbReference type="PRIDE" id="O14493"/>
+<dbReference type="ProteomicsDB" id="48036"/>
+<dbReference type="ABCD" id="O14493">
+<property type="antibodies" value="3 sequenced antibodies"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="3618">
+<property type="antibodies" value="563 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="1364"/>
+<dbReference type="Ensembl" id="ENST00000340958">
+<property type="protein sequence ID" value="ENSP00000342445"/>
+<property type="gene ID" value="ENSG00000189143"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000431918">
+<property type="protein sequence ID" value="ENSP00000388639"/>
+<property type="gene ID" value="ENSG00000189143"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000435050">
+<property type="protein sequence ID" value="ENSP00000409544"/>
+<property type="gene ID" value="ENSG00000189143"/>
+</dbReference>
+<dbReference type="GeneID" id="1364"/>
+<dbReference type="KEGG" id="hsa:1364"/>
+<dbReference type="CTD" id="1364"/>
+<dbReference type="DisGeNET" id="1364"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000189143.9"/>
+<dbReference type="GeneCards" id="CLDN4"/>
+<dbReference type="HGNC" id="HGNC:2046">
+<property type="gene designation" value="CLDN4"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000189143">
+<property type="expression patterns" value="Tissue enhanced (thyroid)"/>
+</dbReference>
+<dbReference type="MIM" id="602909">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_O14493"/>
+<dbReference type="OpenTargets" id="ENSG00000189143"/>
+<dbReference type="PharmGKB" id="PA26572"/>
+<dbReference type="eggNOG" id="ENOG502QSCN">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000154762"/>
+<dbReference type="HOGENOM" id="CLU_076370_1_2_1"/>
+<dbReference type="InParanoid" id="O14493"/>
+<dbReference type="KO" id="K06087"/>
+<dbReference type="OMA" id="TTKAKTM"/>
+<dbReference type="OrthoDB" id="1231389at2759"/>
+<dbReference type="PhylomeDB" id="O14493"/>
+<dbReference type="TreeFam" id="TF331936"/>
+<dbReference type="PathwayCommons" id="O14493"/>
+<dbReference type="Reactome" id="R-HSA-420029">
+<property type="pathway name" value="Tight junction interactions"/>
+</dbReference>
+<dbReference type="BioGRID-ORCS" id="1364">
+<property type="hits" value="4 hits in 870 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="CLDN4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="CLDN4"/>
+<dbReference type="GenomeRNAi" id="1364"/>
+<dbReference type="Pharos" id="O14493">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:O14493"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 7"/>
+</dbReference>
+<dbReference type="RNAct" id="O14493">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000189143">
+<property type="expression patterns" value="Expressed in mucosa of transverse colon and 174 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="O14493">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="O14493">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016324">
+<property type="term" value="C:apical plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016327">
+<property type="term" value="C:apicolateral plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009925">
+<property type="term" value="C:basal plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005923">
+<property type="term" value="C:bicellular tight junction"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005911">
+<property type="term" value="C:cell-cell junction"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034707">
+<property type="term" value="C:chloride channel complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016328">
+<property type="term" value="C:lateral plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070160">
+<property type="term" value="C:tight junction"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005254">
+<property type="term" value="F:chloride channel activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005198">
+<property type="term" value="F:structural molecule activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004888">
+<property type="term" value="F:transmembrane signaling receptor activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070830">
+<property type="term" value="P:bicellular tight junction assembly"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016338">
+<property type="term" value="P:calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007155">
+<property type="term" value="P:cell adhesion"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007623">
+<property type="term" value="P:circadian rhythm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061436">
+<property type="term" value="P:establishment of skin barrier"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007565">
+<property type="term" value="P:female pregnancy"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030335">
+<property type="term" value="P:positive regulation of cell migration"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905050">
+<property type="term" value="P:positive regulation of metallopeptidase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090303">
+<property type="term" value="P:positive regulation of wound healing"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0022604">
+<property type="term" value="P:regulation of cell morphogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070293">
+<property type="term" value="P:renal absorption"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032570">
+<property type="term" value="P:response to progesterone"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006187">
+<property type="entry name" value="Claudin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003550">
+<property type="entry name" value="Claudin4"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017974">
+<property type="entry name" value="Claudin_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004031">
+<property type="entry name" value="PMP22/EMP/MP20/Claudin"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR12002">
+<property type="entry name" value="PTHR12002"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00822">
+<property type="entry name" value="PMP22_Claudin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01379">
+<property type="entry name" value="CLAUDIN4"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01346">
+<property type="entry name" value="CLAUDIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0965">Cell junction</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0868">Chloride</keyword>
+<keyword id="KW-0869">Chloride channel</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0407">Ion channel</keyword>
+<keyword id="KW-0406">Ion transport</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0796">Tight junction</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<keyword id="KW-0856">Williams-Beuren syndrome</keyword>
+<feature type="chain" description="Claudin-4" id="PRO_0000144743">
+<location>
+<begin position="1"/>
+<end position="209"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="1"/>
+<end position="7"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="8"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="3">
+<location>
+<begin position="29"/>
+<end position="81"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="82"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="103"/>
+<end position="117"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="118"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="3">
+<location>
+<begin position="139"/>
+<end position="160"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="3">
+<location>
+<begin position="161"/>
+<end position="181"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="3">
+<location>
+<begin position="182"/>
+<end position="209"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with EPHA2" evidence="4">
+<location>
+<begin position="1"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interactions with TJP1, TJP2 and TJP3" evidence="2">
+<location>
+<begin position="208"/>
+<end position="209"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by EPHA2" evidence="4">
+<location>
+<position position="208"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1 6">
+<location>
+<begin position="54"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreases interaction with Clostridium perfringens CPE." evidence="6">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes interaction with Clostridium perfringens CPE." evidence="6">
+<original>F</original>
+<variation>D</variation>
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on interaction with Clostridium perfringens CPE." evidence="6">
+<original>I</original>
+<variation>A</variation>
+<location>
+<position position="40"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strongly decreases interaction with Clostridium perfringens CPE." evidence="6">
+<original>I</original>
+<variation>D</variation>
+<location>
+<position position="40"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreases interaction with Clostridium perfringens CPE." evidence="6">
+<original>N</original>
+<variation>A</variation>
+<variation>D</variation>
+<location>
+<position position="53"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of phosphorylation by EPHA2." evidence="4">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="208"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="1"/>
+<end position="3"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="7"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="30"/>
+<end position="35"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="44"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="50"/>
+<end position="61"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="63"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="75"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="102"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="117"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="154"/>
+<end position="160"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="163"/>
+<end position="182"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5B2G"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="O35054"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255"/>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16236711"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20375010"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27647526"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9334247"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000305"/>
+<sequence length="209" mass="22077" checksum="0659A93AA5F0E4C5" modified="1998-01-01" version="1">MASMGLQVMGIALAVLGWLAVMLCCALPMWRVTAFIGSNIVTSQTIWEGLWMNCVVQSTGQMQCKVYDSLLALPQDLQAARALVIISIIVAALGVLLSVVGGKCTNCLEDESAKAKTMIVAGVVFLLAGLMVIVPVSWTAHNIIQDFYNPLVASGQKREMGASLYVGWAASGLLLLGGGLLCCNCPPRTDKPYSAKYSAARSAAASNYV</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

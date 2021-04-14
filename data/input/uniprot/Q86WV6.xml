@@ -1,0 +1,3312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2007-01-09" modified="2020-10-07" version="146">
+<accession>Q86WV6</accession>
+<accession>A8K3P6</accession>
+<accession>B6EB35</accession>
+<accession>D6RBX0</accession>
+<accession>D6RE01</accession>
+<accession>D6RID9</accession>
+<name>STING_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="63">Stimulator of interferon genes protein</fullName>
+<shortName evidence="63 67 68">hSTING</shortName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="66">Endoplasmic reticulum interferon stimulator</fullName>
+<shortName evidence="66">ERIS</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="64 65">Mediator of IRF3 activation</fullName>
+<shortName evidence="64 65">hMITA</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="69">Transmembrane protein 173</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="63 68 71">STING1</name>
+<name type="synonym" evidence="66">ERIS</name>
+<name type="synonym" evidence="64 65">MITA</name>
+<name type="synonym" evidence="71">TMEM173</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2008" name="Immunity" volume="29" first="538" last="550">
+<title>The adaptor protein MITA links virus-sensing receptors to IRF3 transcription factor activation.</title>
+<authorList>
+<person name="Zhong B."/>
+<person name="Yang Y."/>
+<person name="Li S."/>
+<person name="Wang Y.-Y."/>
+<person name="Li Y."/>
+<person name="Diao F."/>
+<person name="Lei C."/>
+<person name="He X."/>
+<person name="Zhang L."/>
+<person name="Tien P."/>
+<person name="Shu H.-B."/>
+</authorList>
+<dbReference type="PubMed" id="18818105"/>
+<dbReference type="DOI" id="10.1016/j.immuni.2008.09.003"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INTERACTION WITH MAVS</scope>
+<scope>PHOSPHORYLATION AT SER-358</scope>
+<scope>MUTAGENESIS OF 324-SER--SER-326 AND SER-358</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<scope>VARIANT ARG-232</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Nature" volume="431" first="268" last="274">
+<title>The DNA sequence and comparative analysis of human chromosome 5.</title>
+<authorList>
+<person name="Schmutz J."/>
+<person name="Martin J."/>
+<person name="Terry A."/>
+<person name="Couronne O."/>
+<person name="Grimwood J."/>
+<person name="Lowry S."/>
+<person name="Gordon L.A."/>
+<person name="Scott D."/>
+<person name="Xie G."/>
+<person name="Huang W."/>
+<person name="Hellsten U."/>
+<person name="Tran-Gyamfi M."/>
+<person name="She X."/>
+<person name="Prabhakar S."/>
+<person name="Aerts A."/>
+<person name="Altherr M."/>
+<person name="Bajorek E."/>
+<person name="Black S."/>
+<person name="Branscomb E."/>
+<person name="Caoile C."/>
+<person name="Challacombe J.F."/>
+<person name="Chan Y.M."/>
+<person name="Denys M."/>
+<person name="Detter J.C."/>
+<person name="Escobar J."/>
+<person name="Flowers D."/>
+<person name="Fotopulos D."/>
+<person name="Glavina T."/>
+<person name="Gomez M."/>
+<person name="Gonzales E."/>
+<person name="Goodstein D."/>
+<person name="Grigoriev I."/>
+<person name="Groza M."/>
+<person name="Hammon N."/>
+<person name="Hawkins T."/>
+<person name="Haydu L."/>
+<person name="Israni S."/>
+<person name="Jett J."/>
+<person name="Kadner K."/>
+<person name="Kimball H."/>
+<person name="Kobayashi A."/>
+<person name="Lopez F."/>
+<person name="Lou Y."/>
+<person name="Martinez D."/>
+<person name="Medina C."/>
+<person name="Morgan J."/>
+<person name="Nandkeshwar R."/>
+<person name="Noonan J.P."/>
+<person name="Pitluck S."/>
+<person name="Pollard M."/>
+<person name="Predki P."/>
+<person name="Priest J."/>
+<person name="Ramirez L."/>
+<person name="Retterer J."/>
+<person name="Rodriguez A."/>
+<person name="Rogers S."/>
+<person name="Salamov A."/>
+<person name="Salazar A."/>
+<person name="Thayer N."/>
+<person name="Tice H."/>
+<person name="Tsai M."/>
+<person name="Ustaszewska A."/>
+<person name="Vo N."/>
+<person name="Wheeler J."/>
+<person name="Wu K."/>
+<person name="Yang J."/>
+<person name="Dickson M."/>
+<person name="Cheng J.-F."/>
+<person name="Eichler E.E."/>
+<person name="Olsen A."/>
+<person name="Pennacchio L.A."/>
+<person name="Rokhsar D.S."/>
+<person name="Richardson P."/>
+<person name="Lucas S.M."/>
+<person name="Myers R.M."/>
+<person name="Rubin E.M."/>
+</authorList>
+<dbReference type="PubMed" id="15372022"/>
+<dbReference type="DOI" id="10.1038/nature02919"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Lung</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2008" name="Nature" volume="455" first="674" last="678">
+<title>STING is an endoplasmic reticulum adaptor that facilitates innate immune signalling.</title>
+<authorList>
+<person name="Ishikawa H."/>
+<person name="Barber G.N."/>
+</authorList>
+<dbReference type="PubMed" id="18724357"/>
+<dbReference type="DOI" id="10.1038/nature07317"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INTERACTION WITH DDX58 AND SSR2</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2009" name="Immunity" volume="30" first="397" last="407">
+<title>The ubiquitin ligase RNF5 regulates antiviral responses by mediating degradation of the adaptor protein MITA.</title>
+<authorList>
+<person name="Zhong B."/>
+<person name="Zhang L."/>
+<person name="Lei C."/>
+<person name="Li Y."/>
+<person name="Mao A.P."/>
+<person name="Yang Y."/>
+<person name="Wang Y.Y."/>
+<person name="Zhang X.L."/>
+<person name="Shu H.B."/>
+</authorList>
+<dbReference type="PubMed" id="19285439"/>
+<dbReference type="DOI" id="10.1016/j.immuni.2009.01.008"/>
+</citation>
+<scope>UBIQUITINATION AT LYS-150</scope>
+<scope>INTERACTION WITH RNF5</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF LYS-150</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2009" name="Nature" volume="461" first="788" last="792">
+<title>STING regulates intracellular DNA-mediated, type I interferon-dependent innate immunity.</title>
+<authorList>
+<person name="Ishikawa H."/>
+<person name="Ma Z."/>
+<person name="Barber G.N."/>
+</authorList>
+<dbReference type="PubMed" id="19776740"/>
+<dbReference type="DOI" id="10.1038/nature08476"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2009" name="Proc. Natl. Acad. Sci. U.S.A." volume="106" first="7945" last="7950">
+<title>ISG56 is a negative-feedback regulator of virus-triggered signaling and cellular antiviral response.</title>
+<authorList>
+<person name="Li Y."/>
+<person name="Li C."/>
+<person name="Xue P."/>
+<person name="Zhong B."/>
+<person name="Mao A.P."/>
+<person name="Ran Y."/>
+<person name="Chen H."/>
+<person name="Wang Y.Y."/>
+<person name="Yang F."/>
+<person name="Shu H.B."/>
+</authorList>
+<dbReference type="PubMed" id="19416887"/>
+<dbReference type="DOI" id="10.1073/pnas.0900818106"/>
+</citation>
+<scope>INTERACTION WITH IFIT1; IFIT2; MAVS AND TBK1</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2009" name="Proc. Natl. Acad. Sci. U.S.A." volume="106" first="8653" last="8658">
+<title>ERIS, an endoplasmic reticulum IFN stimulator, activates innate immune signaling through dimerization.</title>
+<authorList>
+<person name="Sun W."/>
+<person name="Li Y."/>
+<person name="Chen L."/>
+<person name="Chen H."/>
+<person name="You F."/>
+<person name="Zhou X."/>
+<person name="Zhou Y."/>
+<person name="Zhai Z."/>
+<person name="Chen D."/>
+<person name="Jiang Z."/>
+</authorList>
+<dbReference type="PubMed" id="19433799"/>
+<dbReference type="DOI" id="10.1073/pnas.0900850106"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>HOMODIMERIZATION</scope>
+<scope>PHOSPHORYLATION</scope>
+<scope>UBIQUITINATION</scope>
+<scope>MUTAGENESIS OF 76-ARG--ARG-78 AND 178-ARG--ARG-180</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2010" name="Immunity" volume="33" first="765" last="776">
+<title>The ubiquitin ligase TRIM56 regulates innate immune responses to intracellular double-stranded DNA.</title>
+<authorList>
+<person name="Tsuchida T."/>
+<person name="Zou J."/>
+<person name="Saitoh T."/>
+<person name="Kumar H."/>
+<person name="Abe T."/>
+<person name="Matsuura Y."/>
+<person name="Kawai T."/>
+<person name="Akira S."/>
+</authorList>
+<dbReference type="PubMed" id="21074459"/>
+<dbReference type="DOI" id="10.1016/j.immuni.2010.10.013"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>HOMODIMERIZATION</scope>
+<scope>UBIQUITINATION AT LYS-150</scope>
+<scope>MUTAGENESIS OF LYS-20; LYS-137 AND LYS-150</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2011" name="Nature" volume="478" first="515" last="518">
+<title>STING is a direct innate immune sensor of cyclic di-GMP.</title>
+<authorList>
+<person name="Burdette D.L."/>
+<person name="Monroe K.M."/>
+<person name="Sotelo-Troha K."/>
+<person name="Iwig J.S."/>
+<person name="Eckert B."/>
+<person name="Hyodo M."/>
+<person name="Hayakawa Y."/>
+<person name="Vance R.E."/>
+</authorList>
+<dbReference type="PubMed" id="21947006"/>
+<dbReference type="DOI" id="10.1038/nature10429"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>C-DI-GMP-BINDING</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2012" name="Proc. Natl. Acad. Sci. U.S.A." volume="109" first="E3008" last="E3017">
+<title>Nuclear IFI16 induction of IRF-3 signaling during herpesviral infection and degradation of IFI16 by the viral ICP0 protein.</title>
+<authorList>
+<person name="Orzalli M.H."/>
+<person name="DeLuca N.A."/>
+<person name="Knipe D.M."/>
+</authorList>
+<dbReference type="PubMed" id="23027953"/>
+<dbReference type="DOI" id="10.1073/pnas.1211302109"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2012" name="Sci. Signal." volume="5" first="RA20" last="RA20">
+<title>STING specifies IRF3 phosphorylation by TBK1 in the cytosolic DNA signaling pathway.</title>
+<authorList>
+<person name="Tanaka Y."/>
+<person name="Chen Z.J."/>
+</authorList>
+<dbReference type="PubMed" id="22394562"/>
+<dbReference type="DOI" id="10.1126/scisignal.2002521"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH IRF3</scope>
+<scope>MUTAGENESIS OF VAL-341; THR-342; SER-358; GLU-360; SER-366; GLY-367; LEU-374; ARG-375 AND ASP-377</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2013" name="Cell Rep." volume="3" first="1355" last="1361">
+<title>The innate immune DNA sensor cGAS produces a noncanonical cyclic dinucleotide that activates human STING.</title>
+<authorList>
+<person name="Diner E.J."/>
+<person name="Burdette D.L."/>
+<person name="Wilson S.C."/>
+<person name="Monroe K.M."/>
+<person name="Kellenberger C.A."/>
+<person name="Hyodo M."/>
+<person name="Hayakawa Y."/>
+<person name="Hammond M.C."/>
+<person name="Vance R.E."/>
+</authorList>
+<dbReference type="PubMed" id="23707065"/>
+<dbReference type="DOI" id="10.1016/j.celrep.2013.05.009"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2013" name="Nature" volume="498" first="380" last="384">
+<title>cGAS produces a 2'-5'-linked cyclic dinucleotide second messenger that activates STING.</title>
+<authorList>
+<person name="Ablasser A."/>
+<person name="Goldeck M."/>
+<person name="Cavlar T."/>
+<person name="Deimling T."/>
+<person name="Witte G."/>
+<person name="Rohl I."/>
+<person name="Hopfner K.P."/>
+<person name="Ludwig J."/>
+<person name="Hornung V."/>
+</authorList>
+<dbReference type="PubMed" id="23722158"/>
+<dbReference type="DOI" id="10.1038/nature12306"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2013" name="Science" volume="339" first="826" last="830">
+<title>Cyclic GMP-AMP is an endogenous second messenger in innate immune signaling by cytosolic DNA.</title>
+<authorList>
+<person name="Wu J."/>
+<person name="Sun L."/>
+<person name="Chen X."/>
+<person name="Du F."/>
+<person name="Shi H."/>
+<person name="Chen C."/>
+<person name="Chen Z.J."/>
+</authorList>
+<dbReference type="PubMed" id="23258412"/>
+<dbReference type="DOI" id="10.1126/science.1229963"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2014" name="Cell Host Microbe" volume="16" first="450" last="461">
+<title>The ER-associated protein ZDHHC1 is a positive regulator of DNA virus-triggered, MITA/STING-dependent innate immune signaling.</title>
+<authorList>
+<person name="Zhou Q."/>
+<person name="Lin H."/>
+<person name="Wang S."/>
+<person name="Wang S."/>
+<person name="Ran Y."/>
+<person name="Liu Y."/>
+<person name="Ye W."/>
+<person name="Xiong X."/>
+<person name="Zhong B."/>
+<person name="Shu H.B."/>
+<person name="Wang Y.Y."/>
+</authorList>
+<dbReference type="PubMed" id="25299331"/>
+<dbReference type="DOI" id="10.1016/j.chom.2014.09.006"/>
+</citation>
+<scope>INTERACTION WITH ZDHHC1</scope>
+<scope>REGION</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2014" name="Nat. Chem. Biol." volume="10" first="1043" last="1048">
+<title>Hydrolysis of 2'3'-cGAMP by ENPP1 and design of nonhydrolyzable analogs.</title>
+<authorList>
+<person name="Li L."/>
+<person name="Yin Q."/>
+<person name="Kuss P."/>
+<person name="Maliga Z."/>
+<person name="Millan J.L."/>
+<person name="Wu H."/>
+<person name="Mitchison T.J."/>
+</authorList>
+<dbReference type="PubMed" id="25344812"/>
+<dbReference type="DOI" id="10.1038/nchembio.1661"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2014" name="PLoS Pathog." volume="10" first="E1004358" last="E1004358">
+<title>RNF26 temporally regulates virus-triggered type I interferon induction by two distinct mechanisms.</title>
+<authorList>
+<person name="Qin Y."/>
+<person name="Zhou M.T."/>
+<person name="Hu M.M."/>
+<person name="Hu Y.H."/>
+<person name="Zhang J."/>
+<person name="Guo L."/>
+<person name="Zhong B."/>
+<person name="Shu H.B."/>
+</authorList>
+<dbReference type="PubMed" id="25254379"/>
+<dbReference type="DOI" id="10.1371/journal.ppat.1004358"/>
+</citation>
+<scope>UBIQUITINATION AT LYS-150</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF LYS-150</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+<dbReference type="DOI" id="10.1002/pmic.201400617"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2015" name="Sci. Rep." volume="5" first="18035" last="18035">
+<title>Rat and human STINGs profile similarly towards anticancer/antiviral compounds.</title>
+<authorList>
+<person name="Zhang H."/>
+<person name="Han M.J."/>
+<person name="Tao J."/>
+<person name="Ye Z.Y."/>
+<person name="Du X.X."/>
+<person name="Deng M.J."/>
+<person name="Zhang X.Y."/>
+<person name="Li L.F."/>
+<person name="Jiang Z.F."/>
+<person name="Su X.D."/>
+</authorList>
+<dbReference type="PubMed" id="26669264"/>
+<dbReference type="DOI" id="10.1038/srep18035"/>
+</citation>
+<scope>MUTAGENESIS OF SER-162</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2015" name="Mol. Cell" volume="59" first="891" last="903">
+<title>Ancient origin of cGAS-STING reveals mechanism of universal 2',3' cGAMP signaling.</title>
+<authorList>
+<person name="Kranzusch P.J."/>
+<person name="Wilson S.C."/>
+<person name="Lee A.S."/>
+<person name="Berger J.M."/>
+<person name="Doudna J.A."/>
+<person name="Vance R.E."/>
+</authorList>
+<dbReference type="PubMed" id="26300263"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2015.07.022"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CHARACTERIZATION OF VARIANT ARG-232</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2015" name="Science" volume="349" first="1228" last="1232">
+<title>Viruses transfer the antiviral second messenger cGAMP between cells.</title>
+<authorList>
+<person name="Bridgeman A."/>
+<person name="Maelfait J."/>
+<person name="Davenne T."/>
+<person name="Partridge T."/>
+<person name="Peng Y."/>
+<person name="Mayer A."/>
+<person name="Dong T."/>
+<person name="Kaever V."/>
+<person name="Borrow P."/>
+<person name="Rehwinkel J."/>
+</authorList>
+<dbReference type="PubMed" id="26229117"/>
+<dbReference type="DOI" id="10.1126/science.aab3632"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2015" name="Science" volume="350" first="568" last="571">
+<title>DNA tumor virus oncogenes antagonize the cGAS-STING DNA-sensing pathway.</title>
+<authorList>
+<person name="Lau L."/>
+<person name="Gray E.E."/>
+<person name="Brunette R.L."/>
+<person name="Stetson D.B."/>
+</authorList>
+<dbReference type="PubMed" id="26405230"/>
+<dbReference type="DOI" id="10.1126/science.aab3291"/>
+</citation>
+<scope>FUNCTION (MICROBIAL INFECTION)</scope>
+<scope>INTERACTION WITH PAPILLOMAVIRUS PROTEIN E7 AND ADENOVIRUS EARLY E1A PROTEIN (MICROBIAL INFECTION)</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2015" name="Science" volume="347" first="AAA2630" last="AAA2630">
+<title>Phosphorylation of innate immune adaptor proteins MAVS, STING, and TRIF induces IRF3 activation.</title>
+<authorList>
+<person name="Liu S."/>
+<person name="Cai X."/>
+<person name="Wu J."/>
+<person name="Cong Q."/>
+<person name="Chen X."/>
+<person name="Li T."/>
+<person name="Du F."/>
+<person name="Ren J."/>
+<person name="Wu Y.T."/>
+<person name="Grishin N.V."/>
+<person name="Chen Z.J."/>
+</authorList>
+<dbReference type="PubMed" id="25636800"/>
+<dbReference type="DOI" id="10.1126/science.aaa2630"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>DOMAIN</scope>
+<scope>INTERACTION WITH IRF3</scope>
+<scope>PHOSPHORYLATION AT SER-366</scope>
+<scope>MUTAGENESIS OF SER-366</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2017" name="Leukemia" volume="31" first="1470" last="1473">
+<title>ZDHHC11 and ZDHHC11B are critical novel components of the oncogenic MYC-miR-150-MYB network in Burkitt lymphoma.</title>
+<authorList>
+<person name="Dzikiewicz-Krawczyk A."/>
+<person name="Kok K."/>
+<person name="Slezak-Prochazka I."/>
+<person name="Robertus J.L."/>
+<person name="Bruining J."/>
+<person name="Tayari M.M."/>
+<person name="Rutgers B."/>
+<person name="de Jong D."/>
+<person name="Koerts J."/>
+<person name="Seitz A."/>
+<person name="Li J."/>
+<person name="Tillema B."/>
+<person name="Guikema J.E."/>
+<person name="Nolte I.M."/>
+<person name="Diepstra A."/>
+<person name="Visser L."/>
+<person name="Kluiver J."/>
+<person name="van den Berg A."/>
+</authorList>
+<dbReference type="PubMed" id="28331227"/>
+<dbReference type="DOI" id="10.1038/leu.2017.94"/>
+</citation>
+<scope>INTERACTION WITH IRF3 AND ZDHHC11</scope>
+<scope>REGION</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2017" name="Nat. Commun." volume="8" first="945" last="945">
+<title>TRIM29 promotes DNA virus infections by inhibiting innate immune response.</title>
+<authorList>
+<person name="Xing J."/>
+<person name="Zhang A."/>
+<person name="Zhang H."/>
+<person name="Wang J."/>
+<person name="Li X.C."/>
+<person name="Zeng M.S."/>
+<person name="Zhang Z."/>
+</authorList>
+<dbReference type="PubMed" id="29038422"/>
+<dbReference type="DOI" id="10.1038/s41467-017-00101-w"/>
+</citation>
+<scope>INTERACTION WITH TRIM29</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2018" name="Cell Death Differ.">
+<title>STING directly activates autophagy to tune the innate immune response.</title>
+<authorList>
+<person name="Liu D."/>
+<person name="Wu H."/>
+<person name="Wang C."/>
+<person name="Li Y."/>
+<person name="Tian H."/>
+<person name="Siraj S."/>
+<person name="Sehgal S.A."/>
+<person name="Wang X."/>
+<person name="Wang J."/>
+<person name="Shang Y."/>
+<person name="Jiang Z."/>
+<person name="Liu L."/>
+<person name="Chen Q."/>
+</authorList>
+<dbReference type="PubMed" id="30568238"/>
+<dbReference type="DOI" id="10.1038/s41418-018-0251-z"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2018" name="J. Virol.">
+<title>34.5 Protein Inhibits STING Activation That Restricts Viral Replication.</title>
+<authorList>
+<person name="Pan S."/>
+<person name="Liu X."/>
+<person name="Ma Y."/>
+<person name="Cao Y."/>
+<person name="He B."/>
+</authorList>
+<dbReference type="PubMed" id="30045990"/>
+<dbReference type="DOI" id="10.1128/jvi.01015-18"/>
+</citation>
+<scope>INTERACTION WITH HERPES SIMPLEX VIRUS 1 PROTEIN ICP34.5 (MICROBIAL INFECTION)</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2019" name="Nature" volume="567" first="394" last="398">
+<title>Structural basis of STING binding with and phosphorylation by TBK1.</title>
+<authorList>
+<person name="Zhang C."/>
+<person name="Shang G."/>
+<person name="Gui X."/>
+<person name="Zhang X."/>
+<person name="Bai X.C."/>
+<person name="Chen Z.J."/>
+</authorList>
+<dbReference type="PubMed" id="30842653"/>
+<dbReference type="DOI" id="10.1038/s41586-019-1000-2"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION</scope>
+<scope>MUTAGENESIS OF 238-ARG--TYR-240; GLN-273; ALA-277; PRO-371; LEU-374 AND ARG-375</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2019" name="Nature" volume="567" first="262" last="266">
+<title>Autophagy induction via STING1 trafficking is a primordial function of the cGAS pathway.</title>
+<authorList>
+<person name="Gui X."/>
+<person name="Yang H."/>
+<person name="Li T."/>
+<person name="Tan X."/>
+<person name="Shi P."/>
+<person name="Li M."/>
+<person name="Du F."/>
+<person name="Chen Z.J."/>
+</authorList>
+<dbReference type="PubMed" id="30842662"/>
+<dbReference type="DOI" id="10.1038/s41586-019-1006-9"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH SEC24C</scope>
+<scope>MUTAGENESIS OF 238-ARG--TYR-240; ARG-238 AND 333-LEU-ARG-334</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="2018" name="Proteomics" volume="18">
+<title>Quantitative Proteomics Identified TTC4 as a TBK1 Interactor and a Positive Regulator of SeV-Induced Innate Immunity.</title>
+<authorList>
+<person name="Shang J."/>
+<person name="Xia T."/>
+<person name="Han Q.Q."/>
+<person name="Zhao X."/>
+<person name="Hu M.M."/>
+<person name="Shu H.B."/>
+<person name="Guo L."/>
+</authorList>
+<dbReference type="PubMed" id="29251827"/>
+<dbReference type="DOI" id="10.1002/pmic.201700403"/>
+</citation>
+<scope>INTERACTION WITH SURF4</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="2019" name="Science">
+<title>Nuclear hnRNPA2B1 initiates and amplifies the innate immune response to DNA viruses.</title>
+<authorList>
+<person name="Wang L."/>
+<person name="Wen M."/>
+<person name="Cao X."/>
+</authorList>
+<dbReference type="PubMed" id="31320558"/>
+<dbReference type="DOI" id="10.1126/science.aav0758"/>
+</citation>
+<scope>INTERACTION WITH HNRNPA2B1</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="2012" name="Immunity" volume="36" first="1073" last="1086">
+<title>Structural analysis of the STING adaptor protein reveals a hydrophobic dimer interface and mode of cyclic di-GMP binding.</title>
+<authorList>
+<person name="Ouyang S."/>
+<person name="Song X."/>
+<person name="Wang Y."/>
+<person name="Ru H."/>
+<person name="Shaw N."/>
+<person name="Jiang Y."/>
+<person name="Niu F."/>
+<person name="Zhu Y."/>
+<person name="Qiu W."/>
+<person name="Parvatiyar K."/>
+<person name="Li Y."/>
+<person name="Zhang R."/>
+<person name="Cheng G."/>
+<person name="Liu Z.J."/>
+</authorList>
+<dbReference type="PubMed" id="22579474"/>
+<dbReference type="DOI" id="10.1016/j.immuni.2012.03.019"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.15 ANGSTROMS) OF 139-379</scope>
+<scope>SUBUNIT</scope>
+<scope>C-DI-GMP-BINDING</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="2012" name="Mol. Cell" volume="46" first="735" last="745">
+<title>Cyclic di-GMP sensing via the innate immune signaling protein STING.</title>
+<authorList>
+<person name="Yin Q."/>
+<person name="Tian Y."/>
+<person name="Kabaleeswaran V."/>
+<person name="Jiang X."/>
+<person name="Tu D."/>
+<person name="Eck M.J."/>
+<person name="Chen Z.J."/>
+<person name="Wu H."/>
+</authorList>
+<dbReference type="PubMed" id="22705373"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2012.05.029"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.75 ANGSTROMS) OF 139-379</scope>
+<scope>SUBUNIT</scope>
+<scope>C-DI-GMP-BINDING</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="2012" name="Nat. Struct. Mol. Biol." volume="19" first="722" last="724">
+<title>Structure of STING bound to cyclic di-GMP reveals the mechanism of cyclic dinucleotide recognition by the immune system.</title>
+<authorList>
+<person name="Shu C."/>
+<person name="Yi G."/>
+<person name="Watts T."/>
+<person name="Kao C.C."/>
+<person name="Li P."/>
+</authorList>
+<dbReference type="PubMed" id="22728658"/>
+<dbReference type="DOI" id="10.1038/nsmb.2331"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.5 ANGSTROMS) OF 155-341</scope>
+<scope>SUBUNIT</scope>
+<scope>C-DI-GMP-BINDING</scope>
+<scope>MUTAGENESIS OF SER-162; GLY-166; TYR-240; ASN-242; GLU-260; THR-263; PRO-264 AND THR-267</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="2012" name="Nat. Struct. Mol. Biol." volume="19" first="725" last="727">
+<title>Crystal structures of STING protein reveal basis for recognition of cyclic di-GMP.</title>
+<authorList>
+<person name="Shang G."/>
+<person name="Zhu D."/>
+<person name="Li N."/>
+<person name="Zhang J."/>
+<person name="Zhu C."/>
+<person name="Lu D."/>
+<person name="Liu C."/>
+<person name="Yu Q."/>
+<person name="Zhao Y."/>
+<person name="Xu S."/>
+<person name="Gu L."/>
+</authorList>
+<dbReference type="PubMed" id="22728660"/>
+<dbReference type="DOI" id="10.1038/nsmb.2332"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 149-379</scope>
+<scope>SUBUNIT</scope>
+<scope>C-DI-GMP-BINDING</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="2012" name="Nat. Struct. Mol. Biol." volume="19" first="728" last="730">
+<title>The structural basis for the sensing and binding of cyclic di-GMP by STING.</title>
+<authorList>
+<person name="Huang Y.H."/>
+<person name="Liu X.Y."/>
+<person name="Du X.X."/>
+<person name="Jiang Z.F."/>
+<person name="Su X.D."/>
+</authorList>
+<dbReference type="PubMed" id="22728659"/>
+<dbReference type="DOI" id="10.1038/nsmb.2333"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS) OF 141-379</scope>
+<scope>SUBUNIT</scope>
+<scope>C-DI-GMP-BINDING</scope>
+</reference>
+<reference key="40" evidence="4 5">
+<citation type="journal article" date="2013" name="Cell" volume="154" first="748" last="762">
+<title>Structure-function analysis of STING activation by c[G(2',5')pA(3',5')p] and targeting by antiviral DMXAA.</title>
+<authorList>
+<person name="Gao P."/>
+<person name="Ascano M."/>
+<person name="Zillinger T."/>
+<person name="Wang W."/>
+<person name="Dai P."/>
+<person name="Serganov A.A."/>
+<person name="Gaffney B.L."/>
+<person name="Shuman S."/>
+<person name="Jones R.A."/>
+<person name="Deng L."/>
+<person name="Hartmann G."/>
+<person name="Barchet W."/>
+<person name="Tuschl T."/>
+<person name="Patel D.J."/>
+</authorList>
+<dbReference type="PubMed" id="23910378"/>
+<dbReference type="DOI" id="10.1016/j.cell.2013.07.023"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.89 ANGSTROMS) OF 155-341 IN COMPLEX WITH CGAMP</scope>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>MUTAGENESIS OF SER-162; ARG-238; TYR-240; ASN-242 AND GLU-260</scope>
+</reference>
+<reference key="41" evidence="3">
+<citation type="journal article" date="2013" name="Mol. Cell" volume="51" first="226" last="235">
+<title>Cyclic GMP-AMP containing mixed phosphodiester linkages is an endogenous high-affinity ligand for STING.</title>
+<authorList>
+<person name="Zhang X."/>
+<person name="Shi H."/>
+<person name="Wu J."/>
+<person name="Zhang X."/>
+<person name="Sun L."/>
+<person name="Chen C."/>
+<person name="Chen Z.J."/>
+</authorList>
+<dbReference type="PubMed" id="23747010"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2013.05.022"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.88 ANGSTROMS) OF 138-379 IN COMPLEX WITH CGAMP</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="42" evidence="6 7 8 9">
+<citation type="journal article" date="2014" name="Cell Rep." volume="8" first="1668" last="1676">
+<title>Binding-pocket and lid-region substitutions render human STING sensitive to the species-specific drug DMXAA.</title>
+<authorList>
+<person name="Gao P."/>
+<person name="Zillinger T."/>
+<person name="Wang W."/>
+<person name="Ascano M."/>
+<person name="Dai P."/>
+<person name="Hartmann G."/>
+<person name="Tuschl T."/>
+<person name="Deng L."/>
+<person name="Barchet W."/>
+<person name="Patel D.J."/>
+</authorList>
+<dbReference type="PubMed" id="25199835"/>
+<dbReference type="DOI" id="10.1016/j.celrep.2014.08.010"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.88 ANGSTROMS) OF 155-341 OF MUTANTS IN COMPLEX WITH DMXAA</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>MUTAGENESIS OF SER-162; GLY-230 AND GLN-266</scope>
+</reference>
+<reference key="43" evidence="10">
+<citation type="journal article" date="2015" name="Proc. Natl. Acad. Sci. U.S.A." volume="112" first="8947" last="8952">
+<title>Molecular basis for the specific recognition of the metazoan cyclic GMP-AMP by the innate immune adaptor protein STING.</title>
+<authorList>
+<person name="Shi H."/>
+<person name="Wu J."/>
+<person name="Chen Z.J."/>
+<person name="Chen C."/>
+</authorList>
+<dbReference type="PubMed" id="26150511"/>
+<dbReference type="DOI" id="10.1073/pnas.1507317112"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 138-379 IN COMPLEX WITH 3'2'-CGAMP</scope>
+</reference>
+<reference key="44" evidence="11">
+<citation type="journal article" date="2016" name="Proc. Natl. Acad. Sci. U.S.A." volume="113" first="E3403" last="E3412">
+<title>Structural basis for concerted recruitment and activation of IRF-3 by innate immune adaptor proteins.</title>
+<authorList>
+<person name="Zhao B."/>
+<person name="Shu C."/>
+<person name="Gao X."/>
+<person name="Sankaran B."/>
+<person name="Du F."/>
+<person name="Shelton C.L."/>
+<person name="Herr A.B."/>
+<person name="Ji J.Y."/>
+<person name="Li P."/>
+</authorList>
+<dbReference type="PubMed" id="27302953"/>
+<dbReference type="DOI" id="10.1073/pnas.1603269113"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 342-379</scope>
+<scope>INTERACTION WITH IRF3</scope>
+<scope>PHOSPHORYLATION AT SER-366</scope>
+<scope>MUTAGENESIS OF SER-358; GLU-362; LEU-363; LEU-364; ILE-365; SER-366; THR-376 AND SER-379</scope>
+</reference>
+<reference key="45">
+<citation type="journal article" date="2019" name="Nature" volume="567" first="389" last="393">
+<title>Cryo-EM structures of STING reveal its mechanism of activation by cyclic GMP-AMP.</title>
+<authorList>
+<person name="Shang G."/>
+<person name="Zhang C."/>
+<person name="Chen Z.J."/>
+<person name="Bai X.C."/>
+<person name="Zhang X."/>
+</authorList>
+<dbReference type="PubMed" id="30842659"/>
+<dbReference type="DOI" id="10.1038/s41586-019-0998-5"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (4.1 ANGSTROMS) OF 1-379</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION</scope>
+<scope>MUTAGENESIS OF ILE-10; ARG-14; GLU-68; GLU-69; PHE-153 AND GLY-158</scope>
+<scope>CHARACTERIZATION OF VARIANT SAVI MET-155</scope>
+</reference>
+<reference key="46" evidence="12 13 14">
+<citation type="journal article" date="2019" name="ACS Med. Chem. Lett." volume="10" first="92" last="97">
+<title>Discovery of a novel cGAMP competitive ligand of the inactive form of STING.</title>
+<authorList>
+<person name="Siu T."/>
+<person name="Altman M.D."/>
+<person name="Baltus G.A."/>
+<person name="Childers M."/>
+<person name="Ellis J.M."/>
+<person name="Gunaydin H."/>
+<person name="Hatch H."/>
+<person name="Ho T."/>
+<person name="Jewell J."/>
+<person name="Lacey B.M."/>
+<person name="Lesburg C.A."/>
+<person name="Pan B.S."/>
+<person name="Sauvagnat B."/>
+<person name="Schroeder G.K."/>
+<person name="Xu S."/>
+</authorList>
+<dbReference type="PubMed" id="30655953"/>
+<dbReference type="DOI" id="10.1021/acsmedchemlett.8b00466"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.36 ANGSTROMS) OF 155-341 IN COMPLEX WITH COMPOUND 18 INHIBITOR</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="47">
+<citation type="journal article" date="2014" name="J. Clin. Invest." volume="124" first="5516" last="5520">
+<title>Inherited STING-activating mutation underlies a familial inflammatory syndrome with lupus-like manifestations.</title>
+<authorList>
+<person name="Jeremiah N."/>
+<person name="Neven B."/>
+<person name="Gentili M."/>
+<person name="Callebaut I."/>
+<person name="Maschalidi S."/>
+<person name="Stolzenberg M.C."/>
+<person name="Goudin N."/>
+<person name="Fremond M.L."/>
+<person name="Nitschke P."/>
+<person name="Molina T.J."/>
+<person name="Blanche S."/>
+<person name="Picard C."/>
+<person name="Rice G.I."/>
+<person name="Crow Y.J."/>
+<person name="Manel N."/>
+<person name="Fischer A."/>
+<person name="Bader-Meunier B."/>
+<person name="Rieux-Laucat F."/>
+</authorList>
+<dbReference type="PubMed" id="25401470"/>
+<dbReference type="DOI" id="10.1172/jci79100"/>
+</citation>
+<scope>VARIANT SAVI MET-155</scope>
+<scope>CHARACTERIZATION OF VARIANT SAVI MET-155</scope>
+</reference>
+<reference key="48">
+<citation type="journal article" date="2014" name="N. Engl. J. Med." volume="371" first="507" last="518">
+<title>Activated STING in a vascular and pulmonary syndrome.</title>
+<authorList>
+<person name="Liu Y."/>
+<person name="Jesus A.A."/>
+<person name="Marrero B."/>
+<person name="Yang D."/>
+<person name="Ramsey S.E."/>
+<person name="Montealegre Sanchez G.A."/>
+<person name="Tenbrock K."/>
+<person name="Wittkowski H."/>
+<person name="Jones O.Y."/>
+<person name="Kuehn H.S."/>
+<person name="Lee C.C."/>
+<person name="DiMattia M.A."/>
+<person name="Cowen E.W."/>
+<person name="Gonzalez B."/>
+<person name="Palmer I."/>
+<person name="DiGiovanna J.J."/>
+<person name="Biancotto A."/>
+<person name="Kim H."/>
+<person name="Tsai W.L."/>
+<person name="Trier A.M."/>
+<person name="Huang Y."/>
+<person name="Stone D.L."/>
+<person name="Hill S."/>
+<person name="Kim H.J."/>
+<person name="St Hilaire C."/>
+<person name="Gurprasad S."/>
+<person name="Plass N."/>
+<person name="Chapelle D."/>
+<person name="Horkayne-Szakaly I."/>
+<person name="Foell D."/>
+<person name="Barysenka A."/>
+<person name="Candotti F."/>
+<person name="Holland S.M."/>
+<person name="Hughes J.D."/>
+<person name="Mehmet H."/>
+<person name="Issekutz A.C."/>
+<person name="Raffeld M."/>
+<person name="McElwee J."/>
+<person name="Fontana J.R."/>
+<person name="Minniti C.P."/>
+<person name="Moir S."/>
+<person name="Kastner D.L."/>
+<person name="Gadina M."/>
+<person name="Steven A.C."/>
+<person name="Wingfield P.T."/>
+<person name="Brooks S.R."/>
+<person name="Rosenzweig S.D."/>
+<person name="Fleisher T.A."/>
+<person name="Deng Z."/>
+<person name="Boehm M."/>
+<person name="Paller A.S."/>
+<person name="Goldbach-Mansky R."/>
+</authorList>
+<dbReference type="PubMed" id="25029335"/>
+<dbReference type="DOI" id="10.1056/nejmoa1312625"/>
+</citation>
+<scope>VARIANTS SAVI LEU-147; SER-154 AND MET-155</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="49">
+<citation type="journal article" date="2018" name="Cell Rep." volume="23" first="1112" last="1123">
+<title>Pro-inflammation associated with a gain-of-function mutation (R284S) in the innate immune sensor STING.</title>
+<authorList>
+<person name="Konno H."/>
+<person name="Chinn I.K."/>
+<person name="Hong D."/>
+<person name="Orange J.S."/>
+<person name="Lupski J.R."/>
+<person name="Mendoza A."/>
+<person name="Pedroza L.A."/>
+<person name="Barber G.N."/>
+</authorList>
+<dbReference type="PubMed" id="29694889"/>
+<dbReference type="DOI" id="10.1016/j.celrep.2018.03.115"/>
+</citation>
+<scope>VARIANT SER-284</scope>
+<scope>CHARACTERIZATION OF VARIANT SER-284</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<comment type="function">
+<text evidence="16 19 20 23 24 26 27 33 34 35 36 37 38 45 46 47 48 57 59 60 61">Facilitator of innate immune signaling that acts as a sensor of cytosolic DNA from bacteria and viruses and promotes the production of type I interferon (IFN-alpha and IFN-beta) (PubMed:18724357, PubMed:18818105, PubMed:19433799, PubMed:19776740, PubMed:23027953, PubMed:23910378, PubMed:23747010, PubMed:30842659). Innate immune response is triggered in response to non-CpG double-stranded DNA from viruses and bacteria delivered to the cytoplasm (PubMed:26300263). Acts by binding cyclic dinucleotides: recognizes and binds cyclic di-GMP (c-di-GMP), a second messenger produced by bacteria, and cyclic GMP-AMP (cGAMP), a messenger produced by CGAS in response to DNA virus in the cytosol (PubMed:21947006, PubMed:23258412, PubMed:23707065, PubMed:23722158, PubMed:26229117, PubMed:23910378, PubMed:23747010, PubMed:30842659). Upon binding of c-di-GMP or cGAMP, STING1 oligomerizes, translocates from the endoplasmic reticulum and is phosphorylated by TBK1 on the pLxIS motif, leading to recruitment and subsequent activation of the transcription factor IRF3 to induce expression of type I interferon and exert a potent anti-viral state (PubMed:22394562, PubMed:25636800, PubMed:30842653). In addition to promote the production of type I interferons, plays a direct role in autophagy (PubMed:30568238, PubMed:30842662). Following cGAMP-binding, STING1 buds from the endoplasmic reticulum into COPII vesicles, which then form the endoplasmic reticulum-Golgi intermediate compartment (ERGIC) (PubMed:30842662). The ERGIC serves as the membrane source for WIPI2 recruitment and LC3 lipidation, leading to formation of autophagosomes that target cytosolic DNA or DNA viruses for degradation by the lysosome (PubMed:30842662). The autophagy- and interferon-inducing activities can be uncoupled and autophagy induction is independent of TBK1 phosphorylation (PubMed:30568238, PubMed:30842662). Autophagy is also triggered upon infection by bacteria: following c-di-GMP-binding, which is produced by live Gram-positive bacteria, promotes reticulophagy (By similarity). Exhibits 2',3' phosphodiester linkage-specific ligand recognition: can bind both 2'-3' linked cGAMP (2'-3'-cGAMP) and 3'-3' linked cGAMP but is preferentially activated by 2'-3' linked cGAMP (PubMed:26300263, PubMed:23910378, PubMed:23747010). The preference for 2'-3'-cGAMP, compared to other linkage isomers is probably due to the ligand itself, whichs adopts an organized free-ligand conformation that resembles the STING1-bound conformation and pays low energy costs in changing into the active conformation (PubMed:26150511). May be involved in translocon function, the translocon possibly being able to influence the induction of type I interferons (PubMed:18724357). May be involved in transduction of apoptotic signals via its association with the major histocompatibility complex class II (MHC-II) (By similarity).</text>
+</comment>
+<comment type="function">
+<text evidence="49">(Microbial infection) Antiviral activity is antagonized by oncoproteins, such as papillomavirus (HPV) protein E7 and adenovirus early E1A protein (PubMed:26405230). Such oncoproteins prevent the ability to sense cytosolic DNA (PubMed:26405230).</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="38 40 43 50 58">Activated upon binding to the hydrolysis-resistant 2'3'-cG(s)A(s)MP, an analog of cGAMP, in which phosphodiester linkages are replaced by phosphothioate linkages (PubMed:25344812). In contrast to mouse protein, not activated by anticancer molecule 5,6-dimethylxanthenone 4-acetic acid (DMXAA) (PubMed:26669264, PubMed:23910378, PubMed:25199835). Inhibited by compound 18 ([(3s,4s)-2-(4-Tert-Butyl-3-Chlorophenyl)-3-(2,3- Dihydro-1,4-Benzodioxin-6-Yl)-7-Fluoro-1-Oxo-1,2,3,4- Tetrahydroisoquinolin-4-Yl]acetate), a competite inhibitor with slow dissociation kinetics and good oral bioavailability (PubMed:30655953).</text>
+</comment>
+<comment type="subunit">
+<text evidence="16 19 20 21 22 25 27 28 29 30 31 32 42 45 51 52 53 54 60 61 62 70">Homodimer; forms a homodimer in absence of cyclic nucleotide (c-di-GMP or cGAMP); 'Lys-63'-linked ubiquitination at Lys-150 is required for homodimerization (PubMed:22579474, PubMed:22705373, PubMed:22728658, PubMed:22728660, PubMed:22728659, PubMed:19285439, PubMed:30842659). Homotetramer; in presence of cyclic nucleotide (c-di-GMP or cGAMP), forms tetramers and higher-order oligomers through side-by-side packing (Probable). Interacts (when phosphorylated) with IRF3; following activation and phosphorylation on the pLxIS motif by TBK1, recruits IRF3 (PubMed:22394562, PubMed:25636800, PubMed:28331227, PubMed:27302953). Interacts with DDX58/RIG-I, MAVS and SSR2 (PubMed:18818105, PubMed:18724357). Interacts with RNF5 and TRIM56 (PubMed:19285439, PubMed:21074459). Interacts with TBK1; when homodimer, leading to subsequent production of IFN-beta (PubMed:19416887). Interacts with IFIT1 and IFIT2 (PubMed:19416887). Interacts with TRIM29; this interaction induces STING1 ubiquitination and subsequent degradation (PubMed:29038422). Associates with the MHC-II complex (By similarity). Interacts with SEC24C; promoting translocation to the COPII vesicles (PubMed:30842662). Interacts (when ubiquitinated) with SQSTM1; leading to relocalization to autophagosomes (By similarity). Interacts with SURF4 (PubMed:29251827). Interacts with HNRNPA2B1 (PubMed:31320558). Interacts with ZDHHC1; ZDHHC1 constitutively interacts with STING1 and in presence of DNA viruses activates it by promoting its cGAMP-induced oligomerization and the recruitment of downstream signaling components (PubMed:25299331). Interacts with ZDHHC11; in presence of DNA viruses promotes the recruitment of IRF3 to STING1 (PubMed:28331227).</text>
+</comment>
+<comment type="subunit">
+<text evidence="49">(Microbial infection) Interacts with human papillomavirus (HPV) protein E7.</text>
+</comment>
+<comment type="subunit">
+<text evidence="49">(Microbial infection) Interacts with adenovirus early E1A protein.</text>
+</comment>
+<comment type="subunit">
+<text evidence="56">(Microbial infection) Interacts with herpes simplex virus 1 protein ICP34.5; this interaction inhibits the intracellular DNA sensing pathway.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-720151">
+<id>Q96A33</id>
+<label>CCDC47</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-11522780">
+<id>Q96DZ9-2</id>
+<label>CMTM5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-358866">
+<id>P39656</id>
+<label>DDOST</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-15577823">
+<id>O95786-1</id>
+<label>DDX58</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-2867186">
+<id>Q16666</id>
+<label>IFI16</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-745117">
+<id>P09914</id>
+<label>IFIT1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-3507167">
+<id>P09913</id>
+<label>IFIT2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-358664">
+<id>P51617</id>
+<label>IRAK1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-750776">
+<id>O95214</id>
+<label>LEPROTL1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-1044684">
+<id>O94822</id>
+<label>LTN1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-995373">
+<id>Q7Z434</id>
+<label>MAVS</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-15577799">
+<id>Q7Z434-1</id>
+<label>MAVS</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-6116499">
+<id>Q96N66</id>
+<label>MBOAT7</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-3919291">
+<id>Q9Y342</id>
+<label>PLLP</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-14065960">
+<id>Q96HR9-2</id>
+<label>REEP6</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-1046170">
+<id>O95470</id>
+<label>SGPL1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-12188413">
+<id>B2RUZ4</id>
+<label>SMIM1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-2822012">
+<id>P43308</id>
+<label>SSR2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-1186478">
+<id>P42226</id>
+<label>STAT6</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>12</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+<label>STING1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>14</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-719212">
+<id>P46977</id>
+<label>STT3A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-714206">
+<id>Q13190</id>
+<label>STX5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-1044848">
+<id>O15260</id>
+<label>SURF4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-356402">
+<id>Q9UHD2</id>
+<label>TBK1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-2877718">
+<id>Q9NZ01</id>
+<label>TECR</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-8644968">
+<id>Q9NV29</id>
+<label>TMEM100</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-751204">
+<id>Q9BWQ6</id>
+<label>YIPF2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-25622115">
+<id>PRO_0000283876</id>
+<label>rep</label>
+<dbReference type="UniProtKB" id="P0C6X5"/>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-2603114">
+<id>P03255</id>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-8763498">
+<id>PRO_0000037575</id>
+<dbReference type="UniProtKB" id="P27958"/>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2800345">
+<id>Q86WV6</id>
+</interactant>
+<interactant intactId="EBI-6928570">
+<id>PRO_0000045601</id>
+<dbReference type="UniProtKB" id="Q99IB8"/>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="19 21 23 24 41 55 59 60">Endoplasmic reticulum membrane</location>
+<topology evidence="17 60">Multi-pass membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="23 55 59">Cytoplasm</location>
+<location evidence="23 55 59">Perinuclear region</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="61">Endoplasmic reticulum-Golgi intermediate compartment membrane</location>
+<topology evidence="17">Multi-pass membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="61">Cytoplasmic vesicle</location>
+<location evidence="61">Autophagosome membrane</location>
+<topology evidence="17">Multi-pass membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="19 21 23 24">Mitochondrion outer membrane</location>
+<topology evidence="17">Multi-pass membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="16">Cell membrane</location>
+<topology evidence="17">Multi-pass membrane protein</topology>
+</subcellularLocation>
+<text evidence="23 55 59 60 61">In response to double-stranded DNA stimulation, translocates from the endoplasmic reticulum through the endoplasmic reticulum-Golgi intermediate compartment and Golgi to post-Golgi vesicles, where the kinase TBK1 is recruited (PubMed:19433799, PubMed:30842659, PubMed:30842653, PubMed:29694889). Upon cGAMP-binding, translocates to the endoplasmic reticulum-Golgi intermediate compartment (ERGIC) in a process that is dependent on COPII vesicles; STING1-containing ERGIC serves as a membrane source for LC3 lipidation, which is a key step in autophagosome biogenesis (PubMed:30842662).</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="19 20 39">Ubiquitously expressed. Expressed in skin endothelial cells, alveolar type 2 pneumocytes, bronchial epithelium and alveolar macrophages.</text>
+</comment>
+<comment type="domain">
+<text evidence="15 28 29 30 31 32">In absence of cGAMP, the transmembrane and cytoplasmic regions interact to form an integrated, domain-swapped dimeric assembly (By similarity). In absence of cyclic nucleotide (c-di-GMP or cGAMP), the protein is autoinhibited by an intramolecular interaction between the cyclic dinucleotide-binding domain (CBD) and the C-terminal tail (CTT) (PubMed:22579474, PubMed:22705373, PubMed:22728658, PubMed:22728660, PubMed:22728659). Following cGAMP-binding, the cyclic dinucleotide-binding domain (CBD) is closed, leading to a 180 degrees rotation of the CBD domain relative to the transmembrane domain. This rotation is coupled to a conformational change in a loop on the side of the CBD dimer, which leads to the formation of the STING1 tetramer and higher-order oligomers through side-by-side packing (By similarity). The N-terminal part of the CBD region was initially though to contain a fifth transmembrane region (TM5) but is part of the folded, soluble CBD (PubMed:22579474, PubMed:22705373, PubMed:22728658, PubMed:22728660, PubMed:22728659).</text>
+</comment>
+<comment type="domain">
+<text evidence="45">The pLxIS motif constitutes an IRF3-binding motif: following phosphorylation by TBK1, the phosphorylated pLxIS motif of STING1 recruits IRF3 (PubMed:25636800). IRF3 is then phosphorylated and activated by TBK1 to induce type-I interferons and other cytokines (PubMed:25636800).</text>
+</comment>
+<comment type="PTM">
+<text evidence="16 20 23 45 51 59 60">Phosphorylation by TBK1 leads to activation and production of IFN-beta (PubMed:18818105, PubMed:19433799, PubMed:25636800, PubMed:30842659, PubMed:30842653, PubMed:27302953). Following cyclic nucleotide (c-di-GMP or cGAMP)-binding, activation and translocation from the endoplasmic reticulum, STING1 is phosphorylated by TBK1 at Ser-366 in the pLxIS motif (PubMed:25636800). The phosphorylated pLxIS motif constitutes an IRF3-binding motif, leading to recruitment of the transcription factor IRF3 to induce type-I interferons and other cytokines (PubMed:25636800). Phosphorylated on tyrosine residues upon MHC-II aggregation (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="16 21 23 25 41">Ubiquitinated (PubMed:19285439, PubMed:19433799, PubMed:21074459, PubMed:25254379). Ubiquitinated via 'Lys-63'-linked ubiquitin chains in response to double-stranded DNA treatment, leading to relocalization to autophagosomes and subsequent degradation; this process is dependent on SQSTM1 (By similarity). 'Lys-63'-linked ubiquitination mediated by TRIM56 at Lys-150 promotes homodimerization and recruitment of the antiviral kinase TBK1 and subsequent production of IFN-beta (PubMed:21074459). 'Lys-48'-linked polyubiquitination at Lys-150 occurring after viral infection is mediated by RNF5 and leads to proteasomal degradation (PubMed:19285439). 'Lys-11'-linked polyubiquitination at Lys-150 by RNF26 leads to stabilize STING1: it protects STING1 from RNF5-mediated 'Lys-48'-linked polyubiquitination (PubMed:25254379).</text>
+</comment>
+<comment type="disease" evidence="39 44 60">
+<disease id="DI-04179">
+<name>STING-associated vasculopathy, infantile-onset</name>
+<acronym>SAVI</acronym>
+<description>An autoinflammatory disease characterized by early-onset systemic inflammation and cutaneous vasculopathy, resulting in severe skin lesions. Violaceous, scaling lesions of fingers, toes, nose, cheeks and ears progress to acral necrosis in most of the patients. Some patients have severe interstitial lung disease.</description>
+<dbReference type="MIM" id="615934"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="69">Belongs to the STING family.</text>
+</comment>
+<dbReference type="EMBL" id="FJ222241">
+<property type="protein sequence ID" value="ACI46648.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK290661">
+<property type="protein sequence ID" value="BAF83350.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC138517">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC047779">
+<property type="protein sequence ID" value="AAH47779.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS4215.1"/>
+<dbReference type="RefSeq" id="NP_938023.1">
+<property type="nucleotide sequence ID" value="NM_198282.3"/>
+</dbReference>
+<dbReference type="PDB" id="4EF4">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="A/B=139-379"/>
+</dbReference>
+<dbReference type="PDB" id="4EF5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.45"/>
+<property type="chains" value="A=139-379"/>
+</dbReference>
+<dbReference type="PDB" id="4EMT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=155-341"/>
+</dbReference>
+<dbReference type="PDB" id="4EMU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=155-341"/>
+</dbReference>
+<dbReference type="PDB" id="4F5D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B=141-379"/>
+</dbReference>
+<dbReference type="PDB" id="4F5E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A=141-379"/>
+</dbReference>
+<dbReference type="PDB" id="4F5W">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=149-379"/>
+</dbReference>
+<dbReference type="PDB" id="4F5Y">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A/B=149-379"/>
+</dbReference>
+<dbReference type="PDB" id="4F9E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.75"/>
+<property type="chains" value="A=139-379"/>
+</dbReference>
+<dbReference type="PDB" id="4F9G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.95"/>
+<property type="chains" value="A/C=139-379"/>
+</dbReference>
+<dbReference type="PDB" id="4KSY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.88"/>
+<property type="chains" value="A=138-379"/>
+</dbReference>
+<dbReference type="PDB" id="4LOH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="A/B=155-341"/>
+</dbReference>
+<dbReference type="PDB" id="4LOI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.89"/>
+<property type="chains" value="A/B=155-341"/>
+</dbReference>
+<dbReference type="PDB" id="4QXO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.88"/>
+<property type="chains" value="A=155-341"/>
+</dbReference>
+<dbReference type="PDB" id="4QXP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.51"/>
+<property type="chains" value="A/B=155-341"/>
+</dbReference>
+<dbReference type="PDB" id="4QXQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.42"/>
+<property type="chains" value="A/B=155-341"/>
+</dbReference>
+<dbReference type="PDB" id="4QXR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.37"/>
+<property type="chains" value="A/B=155-341"/>
+</dbReference>
+<dbReference type="PDB" id="5BQX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A=138-379"/>
+</dbReference>
+<dbReference type="PDB" id="5JEJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="C/D/E=342-377"/>
+</dbReference>
+<dbReference type="PDB" id="6CFF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="A=139-379"/>
+</dbReference>
+<dbReference type="PDB" id="6CY7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A=139-379"/>
+</dbReference>
+<dbReference type="PDB" id="6DNK">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.95"/>
+<property type="chains" value="A=154-337"/>
+</dbReference>
+<dbReference type="PDB" id="6DXG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.91"/>
+<property type="chains" value="A=153-343"/>
+</dbReference>
+<dbReference type="PDB" id="6DXL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.45"/>
+<property type="chains" value="A/B=153-343"/>
+</dbReference>
+<dbReference type="PDB" id="6MX0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.73"/>
+<property type="chains" value="A/B=155-341"/>
+</dbReference>
+<dbReference type="PDB" id="6MX3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.36"/>
+<property type="chains" value="A/B=155-341"/>
+</dbReference>
+<dbReference type="PDB" id="6MXE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.47"/>
+<property type="chains" value="A/B=155-341"/>
+</dbReference>
+<dbReference type="PDB" id="6NT5">
+<property type="method" value="EM"/>
+<property type="resolution" value="4.1"/>
+<property type="chains" value="A/B=1-379"/>
+</dbReference>
+<dbReference type="PDB" id="6O8B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.40"/>
+<property type="chains" value="D/E=155-379"/>
+</dbReference>
+<dbReference type="PDB" id="6O8C">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.17"/>
+<property type="chains" value="D/E=342-379"/>
+</dbReference>
+<dbReference type="PDB" id="6RM0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.51"/>
+<property type="chains" value="A=140-343"/>
+</dbReference>
+<dbReference type="PDB" id="6S26">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.05"/>
+<property type="chains" value="A/B=140-343"/>
+</dbReference>
+<dbReference type="PDB" id="6S27">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=140-343"/>
+</dbReference>
+<dbReference type="PDB" id="6S86">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A/B=140-343"/>
+</dbReference>
+<dbReference type="PDBsum" id="4EF4"/>
+<dbReference type="PDBsum" id="4EF5"/>
+<dbReference type="PDBsum" id="4EMT"/>
+<dbReference type="PDBsum" id="4EMU"/>
+<dbReference type="PDBsum" id="4F5D"/>
+<dbReference type="PDBsum" id="4F5E"/>
+<dbReference type="PDBsum" id="4F5W"/>
+<dbReference type="PDBsum" id="4F5Y"/>
+<dbReference type="PDBsum" id="4F9E"/>
+<dbReference type="PDBsum" id="4F9G"/>
+<dbReference type="PDBsum" id="4KSY"/>
+<dbReference type="PDBsum" id="4LOH"/>
+<dbReference type="PDBsum" id="4LOI"/>
+<dbReference type="PDBsum" id="4QXO"/>
+<dbReference type="PDBsum" id="4QXP"/>
+<dbReference type="PDBsum" id="4QXQ"/>
+<dbReference type="PDBsum" id="4QXR"/>
+<dbReference type="PDBsum" id="5BQX"/>
+<dbReference type="PDBsum" id="5JEJ"/>
+<dbReference type="PDBsum" id="6CFF"/>
+<dbReference type="PDBsum" id="6CY7"/>
+<dbReference type="PDBsum" id="6DNK"/>
+<dbReference type="PDBsum" id="6DXG"/>
+<dbReference type="PDBsum" id="6DXL"/>
+<dbReference type="PDBsum" id="6MX0"/>
+<dbReference type="PDBsum" id="6MX3"/>
+<dbReference type="PDBsum" id="6MXE"/>
+<dbReference type="PDBsum" id="6NT5"/>
+<dbReference type="PDBsum" id="6O8B"/>
+<dbReference type="PDBsum" id="6O8C"/>
+<dbReference type="PDBsum" id="6RM0"/>
+<dbReference type="PDBsum" id="6S26"/>
+<dbReference type="PDBsum" id="6S27"/>
+<dbReference type="PDBsum" id="6S86"/>
+<dbReference type="SMR" id="Q86WV6"/>
+<dbReference type="BioGRID" id="130988">
+<property type="interactions" value="67"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-2127">
+<property type="entry name" value="Sting complex"/>
+</dbReference>
+<dbReference type="CORUM" id="Q86WV6"/>
+<dbReference type="DIP" id="DIP-48847N"/>
+<dbReference type="IntAct" id="Q86WV6">
+<property type="interactions" value="77"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000331288"/>
+<dbReference type="GuidetoPHARMACOLOGY" id="2902"/>
+<dbReference type="iPTMnet" id="Q86WV6"/>
+<dbReference type="PhosphoSitePlus" id="Q86WV6"/>
+<dbReference type="SwissPalm" id="Q86WV6"/>
+<dbReference type="BioMuta" id="TMEM173"/>
+<dbReference type="DMDM" id="74727720"/>
+<dbReference type="EPD" id="Q86WV6"/>
+<dbReference type="jPOST" id="Q86WV6"/>
+<dbReference type="MassIVE" id="Q86WV6"/>
+<dbReference type="MaxQB" id="Q86WV6"/>
+<dbReference type="PaxDb" id="Q86WV6"/>
+<dbReference type="PeptideAtlas" id="Q86WV6"/>
+<dbReference type="PRIDE" id="Q86WV6"/>
+<dbReference type="ProteomicsDB" id="70211"/>
+<dbReference type="Antibodypedia" id="26796">
+<property type="antibodies" value="707 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="340061"/>
+<dbReference type="Ensembl" id="ENST00000330794">
+<property type="protein sequence ID" value="ENSP00000331288"/>
+<property type="gene ID" value="ENSG00000184584"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000651699">
+<property type="protein sequence ID" value="ENSP00000499166"/>
+<property type="gene ID" value="ENSG00000184584"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000652271">
+<property type="protein sequence ID" value="ENSP00000498596"/>
+<property type="gene ID" value="ENSG00000184584"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000672096">
+<property type="protein sequence ID" value="ENSP00000500685"/>
+<property type="gene ID" value="ENSG00000288243"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000672102">
+<property type="protein sequence ID" value="ENSP00000500793"/>
+<property type="gene ID" value="ENSG00000288243"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000672865">
+<property type="protein sequence ID" value="ENSP00000500823"/>
+<property type="gene ID" value="ENSG00000288243"/>
+</dbReference>
+<dbReference type="GeneID" id="340061"/>
+<dbReference type="KEGG" id="hsa:340061"/>
+<dbReference type="UCSC" id="uc003lep.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="340061"/>
+<dbReference type="DisGeNET" id="340061"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000184584.12"/>
+<dbReference type="GeneCards" id="STING1"/>
+<dbReference type="HGNC" id="HGNC:27962">
+<property type="gene designation" value="STING1"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000184584">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MalaCards" id="STING1"/>
+<dbReference type="MIM" id="612374">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="615934">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q86WV6"/>
+<dbReference type="OpenTargets" id="ENSG00000184584"/>
+<dbReference type="Orphanet" id="481662">
+<property type="disease" value="Familial Chilblain lupus"/>
+</dbReference>
+<dbReference type="Orphanet" id="425120">
+<property type="disease" value="STING-associated vasculopathy with onset in infancy"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA162405934"/>
+<dbReference type="eggNOG" id="ENOG502R15M">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000008582"/>
+<dbReference type="HOGENOM" id="CLU_062449_0_0_1"/>
+<dbReference type="InParanoid" id="Q86WV6"/>
+<dbReference type="KO" id="K12654"/>
+<dbReference type="OMA" id="FAMSQYG"/>
+<dbReference type="OrthoDB" id="865174at2759"/>
+<dbReference type="PhylomeDB" id="Q86WV6"/>
+<dbReference type="TreeFam" id="TF324444"/>
+<dbReference type="PathwayCommons" id="Q86WV6"/>
+<dbReference type="Reactome" id="R-HSA-1834941">
+<property type="pathway name" value="STING mediated induction of host immune responses"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3134975">
+<property type="pathway name" value="Regulation of innate immune responses to cytosolic DNA"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3249367">
+<property type="pathway name" value="STAT6-mediated induction of chemokines"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3270619">
+<property type="pathway name" value="IRF3-mediated induction of type I IFN"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6798695">
+<property type="pathway name" value="Neutrophil degranulation"/>
+</dbReference>
+<dbReference type="SIGNOR" id="Q86WV6"/>
+<dbReference type="BioGRID-ORCS" id="340061">
+<property type="hits" value="3 hits in 876 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="TMEM173">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="340061"/>
+<dbReference type="Pharos" id="Q86WV6">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q86WV6"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="RNAct" id="Q86WV6">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000184584">
+<property type="expression patterns" value="Expressed in layer of synovial tissue and 203 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q86WV6">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q86WV6">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005776">
+<property type="term" value="C:autophagosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000421">
+<property type="term" value="C:autophagosome membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030659">
+<property type="term" value="C:cytoplasmic vesicle membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005789">
+<property type="term" value="C:endoplasmic reticulum membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005768">
+<property type="term" value="C:endosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005794">
+<property type="term" value="C:Golgi apparatus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030176">
+<property type="term" value="C:integral component of endoplasmic reticulum membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="FlyBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990701">
+<property type="term" value="C:integral component of endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005741">
+<property type="term" value="C:mitochondrial outer membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048471">
+<property type="term" value="C:perinuclear region of cytoplasm"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005777">
+<property type="term" value="C:peroxisome"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030667">
+<property type="term" value="C:secretory granule membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035438">
+<property type="term" value="F:cyclic-di-GMP binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061507">
+<property type="term" value="F:cyclic-GMP-AMP binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042803">
+<property type="term" value="F:protein homodimerization activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019901">
+<property type="term" value="F:protein kinase binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008134">
+<property type="term" value="F:transcription factor binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031625">
+<property type="term" value="F:ubiquitin protein ligase binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002218">
+<property type="term" value="P:activation of innate immune response"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000045">
+<property type="term" value="P:autophagosome assembly"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071360">
+<property type="term" value="P:cellular response to exogenous dsRNA"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035458">
+<property type="term" value="P:cellular response to interferon-beta"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071407">
+<property type="term" value="P:cellular response to organic cyclic compound"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051607">
+<property type="term" value="P:defense response to virus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045087">
+<property type="term" value="P:innate immune response"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032608">
+<property type="term" value="P:interferon-beta production"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043312">
+<property type="term" value="P:neutrophil degranulation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002230">
+<property type="term" value="P:positive regulation of defense response to virus by host"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051091">
+<property type="term" value="P:positive regulation of DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016239">
+<property type="term" value="P:positive regulation of macroautophagy"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032092">
+<property type="term" value="P:positive regulation of protein binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032481">
+<property type="term" value="P:positive regulation of type I interferon production"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051259">
+<property type="term" value="P:protein complex oligomerization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050727">
+<property type="term" value="P:regulation of inflammatory response"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032479">
+<property type="term" value="P:regulation of type I interferon production"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061709">
+<property type="term" value="P:reticulophagy"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016032">
+<property type="term" value="P:viral process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd12146">
+<property type="entry name" value="STING_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="DisProt" id="DP01602"/>
+<dbReference type="Gene3D" id="3.40.50.12100">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029158">
+<property type="entry name" value="STING"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR033952">
+<property type="entry name" value="STING_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR038623">
+<property type="entry name" value="STING_C_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR34339">
+<property type="entry name" value="PTHR34339"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF15009">
+<property type="entry name" value="TMEM173"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0072">Autophagy</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0968">Cytoplasmic vesicle</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0256">Endoplasmic reticulum</keyword>
+<keyword id="KW-0945">Host-virus interaction</keyword>
+<keyword id="KW-0391">Immunity</keyword>
+<keyword id="KW-0399">Innate immunity</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0496">Mitochondrion</keyword>
+<keyword id="KW-1000">Mitochondrion outer membrane</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<feature type="chain" description="Stimulator of interferon genes protein" id="PRO_0000271116">
+<location>
+<begin position="1"/>
+<end position="379"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="60">
+<location>
+<begin position="1"/>
+<end position="17"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=1" evidence="60">
+<location>
+<begin position="18"/>
+<end position="34"/>
+</location>
+</feature>
+<feature type="topological domain" description="Lumenal" evidence="60">
+<location>
+<begin position="35"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=2" evidence="60">
+<location>
+<begin position="45"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="60">
+<location>
+<begin position="70"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=3" evidence="60">
+<location>
+<begin position="92"/>
+<end position="106"/>
+</location>
+</feature>
+<feature type="topological domain" description="Lumenal" evidence="60">
+<location>
+<begin position="107"/>
+<end position="116"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical; Name=4" evidence="60">
+<location>
+<begin position="117"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="60">
+<location>
+<begin position="135"/>
+<end position="379"/>
+</location>
+</feature>
+<feature type="region of interest" description="Mediates interaction with ZDHHC1 and ZDHHC11" evidence="42 52">
+<location>
+<begin position="1"/>
+<end position="190"/>
+</location>
+</feature>
+<feature type="region of interest" description="Cyclic dinucleotide-binding domain (CBD)" evidence="29">
+<location>
+<begin position="153"/>
+<end position="340"/>
+</location>
+</feature>
+<feature type="region of interest" description="Cyclic dinucleotide binding" evidence="3 4 28 29 30 31 32 37 38">
+<location>
+<begin position="162"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="region of interest" description="Cyclic dinucleotide binding" evidence="3 4 10 28 29 30 31 32 37 38 46">
+<location>
+<begin position="238"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="region of interest" description="C-terminal tail (CTT)" evidence="29">
+<location>
+<begin position="340"/>
+<end position="379"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="pLxIS motif" evidence="45">
+<location>
+<begin position="363"/>
+<end position="366"/>
+</location>
+</feature>
+<feature type="binding site" description="Compound 18 inhibitor" evidence="14 58">
+<location>
+<position position="263"/>
+</location>
+</feature>
+<feature type="binding site" description="Cyclic dinucleotide" evidence="4 28 29 30 31 32 38">
+<location>
+<position position="263"/>
+</location>
+</feature>
+<feature type="binding site" description="Compound 18 inhibitor" evidence="14 58">
+<location>
+<position position="267"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by TBK1" evidence="20">
+<location>
+<position position="358"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by TBK1" evidence="45 51">
+<location>
+<position position="366"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="21 25">
+<location>
+<position position="150"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11554776." id="VAR_029863">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="71"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In SAVI; dbSNP:rs587777611." id="VAR_071878" evidence="39">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="147"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In SAVI; dbSNP:rs587777609." id="VAR_071879" evidence="39">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="154"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In SAVI; constitutively active mutant that promotes the production of type I interferon in absence of cGAMP ligand; dbSNP:rs587777610." id="VAR_071880" evidence="39 44 60">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="155"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Activated by both 2'-3' linked cGAMP and 3'-3' linked cGAMP; dbSNP:rs1131769." id="VAR_029864" evidence="18 48">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="232"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Probable disease-associated variant found in a 9-month-old patient who died following a fever and severe neck abscess without indication of any severe bacterial infection; may affect splicing; constitutively active mutant that promotes the production of type I interferon in absence of cyclic dinucleotide ligand; localizes to the perinuclear region in absence of cyclic dinucleotide ligand." id="VAR_081660" evidence="55">
+<original>R</original>
+<variation>S</variation>
+<location>
+<position position="284"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs7380824." id="VAR_029865">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="293"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolished ability to induce the production of type I interferon." evidence="60">
+<original>I</original>
+<variation>Q</variation>
+<location>
+<position position="10"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolished ability to induce the production of type I interferon." evidence="60">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="14"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect amount of ubiquitination." evidence="25">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="20"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolished ability to induce the production of type I interferon." evidence="60">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="68"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolished ability to induce the production of type I interferon." evidence="60">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes the endoplasmic reticulum location." evidence="23">
+<original>RYR</original>
+<variation>AYA</variation>
+<location>
+<begin position="76"/>
+<end position="78"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect amount of ubiquitination." evidence="25">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="137"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes ubiquitination, homodimerization and subsequent production of IFN-beta." evidence="21 25 41">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="150"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Partially constitutively active mutant that promotes the production of type I interferon in absence of cGAMP ligand." evidence="60">
+<original>F</original>
+<variation>A</variation>
+<location>
+<position position="153"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Constitutively active mutant that promotes the production of type I interferon in absence of cGAMP ligand." evidence="60">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="158"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Partially constitutively active mutant that promotes the production of type I interferon in absence of cGAMP ligand." evidence="60">
+<original>G</original>
+<variation>S</variation>
+<variation>V</variation>
+<location>
+<position position="158"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slight decrease in c-di-GMP-binding. Renders the enzyme senstive to 5,6-dimethylxanthenone 4-acetic acid (DMXAA) drug, leading to activation of the STING1 pathway. Renders the enzyme senstive to 5,6-dimethylxanthenone 4-acetic acid (DMXAA) drug; when associated with I-266." evidence="30 38 40 50">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="162"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slight decrease in c-di-GMP-binding." evidence="30">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="166"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes the endoplasmic reticulum location." evidence="23">
+<original>RIR</original>
+<variation>AIA</variation>
+<location>
+<begin position="178"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Renders the enzyme senstive to 5,6-dimethylxanthenone 4-acetic acid (DMXAA) drug, leading to activation of the STING1 pathway." evidence="40">
+<original>G</original>
+<variation>I</variation>
+<location>
+<position position="230"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strong decrease in cGAMP-binding without affecting interaction with TBK1. Abolished ability to induce autophagy." evidence="59 61">
+<original>RVY</original>
+<variation>AVA</variation>
+<location>
+<begin position="238"/>
+<end position="240"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolished cGAMP-binding. Abolished ability to induce autophagy." evidence="38 61">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="238"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolished cGAMP-binding." evidence="38">
+<original>Y</original>
+<variation>A</variation>
+<location>
+<position position="240"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strong decrease in c-di-GMP-binding." evidence="30">
+<original>Y</original>
+<variation>S</variation>
+<location>
+<position position="240"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strong decrease in c-di-GMP and cGAMP-binding." evidence="30 38">
+<original>N</original>
+<variation>A</variation>
+<location>
+<position position="242"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strong decrease in c-di-GMP and cGAMP-binding." evidence="30 38">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="260"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strong decrease in c-di-GMP-binding." evidence="30">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="263"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strong decrease in c-di-GMP-binding." evidence="30">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="264"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Renders the enzyme senstive to 5,6-dimethylxanthenone 4-acetic acid (DMXAA) drug, leading to activation of the STING1 pathway; when associated with A-162." evidence="40">
+<original>Q</original>
+<variation>I</variation>
+<location>
+<position position="266"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Strong decrease in c-di-GMP-binding." evidence="30">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="267"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolished translocation from the endoplasmic reticulum in response to cGAMP-binding. Reduced phosphorylation by TBK1." evidence="59 60">
+<original>Q</original>
+<variation>A</variation>
+<location>
+<position position="273"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolished translocation from the endoplasmic reticulum in response to cGAMP-binding. Reduced phosphorylation by TBK1." evidence="59 60">
+<original>A</original>
+<variation>Q</variation>
+<location>
+<position position="277"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Induces a decrease in phosphorylation by TBK1." evidence="20">
+<original>SLS</original>
+<variation>ALA</variation>
+<location>
+<begin position="324"/>
+<end position="326"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolished ability to induce autophagy. Abolished interaction with SEC24C." evidence="61">
+<original>LR</original>
+<variation>AA</variation>
+<location>
+<begin position="333"/>
+<end position="334"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect ability to activate IRF3." evidence="27">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="341"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect ability to activate IRF3." evidence="27">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="342"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Induces a decrease in phosphorylation by TBK1. Does not affect ability to activate IRF3." evidence="20 27 45 51">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="358"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect ability to activate IRF3." evidence="27">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="360"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slightly affects ability to induce the production of type I interferon." evidence="51">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="362"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolished ability to induce the production of type I interferon." evidence="51">
+<original>L</original>
+<variation>A</variation>
+<location>
+<position position="363"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Slightly affects ability to induce the production of type I interferon." evidence="51">
+<original>L</original>
+<variation>A</variation>
+<location>
+<position position="364"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolished ability to induce the production of type I interferon." evidence="51">
+<original>I</original>
+<variation>A</variation>
+<location>
+<position position="365"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Induces a decrease in phosphorylation by TBK1. Abolished ability to activate IRF3." evidence="27 45 51">
+<original>S</original>
+<variation>A</variation>
+<variation>N</variation>
+<variation>C</variation>
+<location>
+<position position="366"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Phosphomimetic mutant; retains some ability to activate IRF3. It probably incompletely mimics phosphorylation." evidence="45">
+<original>S</original>
+<variation>D</variation>
+<location>
+<position position="366"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect ability to activate IRF3." evidence="27">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="367"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolished ability to induce the production of type I interferon." evidence="59">
+<original>P</original>
+<variation>Q</variation>
+<location>
+<position position="371"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolished ability to activate IRF3 and induce the production of type I interferon." evidence="27 59">
+<original>L</original>
+<variation>A</variation>
+<location>
+<position position="374"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect ability to activate IRF3. Abolished ability to induce the production of type I interferon." evidence="27 59">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="375"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect ability to activate IRF3." evidence="51">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="376"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect ability to activate IRF3." evidence="27">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="377"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect ability to activate IRF3." evidence="51">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="379"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; BAF83350." ref="2" evidence="69">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="262"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; BAF83350." ref="2" evidence="69">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="363"/>
+</location>
+</feature>
+<feature type="helix" evidence="13">
+<location>
+<begin position="156"/>
+<end position="166"/>
+</location>
+</feature>
+<feature type="helix" evidence="13">
+<location>
+<begin position="168"/>
+<end position="185"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="186"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="196"/>
+<end position="203"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="212"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="219"/>
+<end position="224"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="228"/>
+<end position="230"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="233"/>
+<end position="235"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="237"/>
+<end position="240"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="243"/>
+<end position="249"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="252"/>
+<end position="261"/>
+</location>
+</feature>
+<feature type="helix" evidence="13">
+<location>
+<begin position="265"/>
+<end position="272"/>
+</location>
+</feature>
+<feature type="helix" evidence="13">
+<location>
+<begin position="275"/>
+<end position="277"/>
+</location>
+</feature>
+<feature type="helix" evidence="13">
+<location>
+<begin position="281"/>
+<end position="301"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="303"/>
+<end position="306"/>
+</location>
+</feature>
+<feature type="strand" evidence="13">
+<location>
+<begin position="309"/>
+<end position="314"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="318"/>
+<end position="320"/>
+</location>
+</feature>
+<feature type="helix" evidence="13">
+<location>
+<begin position="325"/>
+<end position="335"/>
+</location>
+</feature>
+<feature type="helix" evidence="11">
+<location>
+<begin position="372"/>
+<end position="374"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4EMT"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4F5E"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4KSY"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4LOH"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4LOI"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4QXO"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4QXP"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4QXQ"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4QXR"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5BQX"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5JEJ"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6MX0"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6MX3"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6MXE"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="E1C7U0"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q3TBT3"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000255"/>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18724357"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18818105"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19285439"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19416887"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19433799"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19776740"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21074459"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21947006"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22394562"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22579474"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22705373"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22728658"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22728659"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22728660"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23027953"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23258412"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23707065"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23722158"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23747010"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23910378"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25029335"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25199835"/>
+</source>
+</evidence>
+<evidence key="41" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25254379"/>
+</source>
+</evidence>
+<evidence key="42" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25299331"/>
+</source>
+</evidence>
+<evidence key="43" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25344812"/>
+</source>
+</evidence>
+<evidence key="44" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25401470"/>
+</source>
+</evidence>
+<evidence key="45" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25636800"/>
+</source>
+</evidence>
+<evidence key="46" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26150511"/>
+</source>
+</evidence>
+<evidence key="47" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26229117"/>
+</source>
+</evidence>
+<evidence key="48" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26300263"/>
+</source>
+</evidence>
+<evidence key="49" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26405230"/>
+</source>
+</evidence>
+<evidence key="50" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26669264"/>
+</source>
+</evidence>
+<evidence key="51" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27302953"/>
+</source>
+</evidence>
+<evidence key="52" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28331227"/>
+</source>
+</evidence>
+<evidence key="53" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="29038422"/>
+</source>
+</evidence>
+<evidence key="54" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="29251827"/>
+</source>
+</evidence>
+<evidence key="55" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="29694889"/>
+</source>
+</evidence>
+<evidence key="56" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30045990"/>
+</source>
+</evidence>
+<evidence key="57" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30568238"/>
+</source>
+</evidence>
+<evidence key="58" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30655953"/>
+</source>
+</evidence>
+<evidence key="59" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30842653"/>
+</source>
+</evidence>
+<evidence key="60" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30842659"/>
+</source>
+</evidence>
+<evidence key="61" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30842662"/>
+</source>
+</evidence>
+<evidence key="62" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="31320558"/>
+</source>
+</evidence>
+<evidence key="63" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="18724357"/>
+</source>
+</evidence>
+<evidence key="64" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="18818105"/>
+</source>
+</evidence>
+<evidence key="65" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="19285439"/>
+</source>
+</evidence>
+<evidence key="66" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="19433799"/>
+</source>
+</evidence>
+<evidence key="67" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="23910378"/>
+</source>
+</evidence>
+<evidence key="68" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="26669264"/>
+</source>
+</evidence>
+<evidence key="69" type="ECO:0000305"/>
+<evidence key="70" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="30842653"/>
+</source>
+</evidence>
+<evidence key="71" type="ECO:0000312">
+<source>
+<dbReference type="HGNC" id="HGNC:27962"/>
+</source>
+</evidence>
+<sequence length="379" mass="42193" checksum="CB54D6A4D4D8E7C0" modified="2003-06-01" version="1">MPHSSLHPSIPCPRGHGAQKAALVLLSACLVTLWGLGEPPEHTLRYLVLHLASLQLGLLLNGVCSLAEELRHIHSRYRGSYWRTVRACLGCPLRRGALLLLSIYFYYSLPNAVGPPFTWMLALLGLSQALNILLGLKGLAPAEISAVCEKGNFNVAHGLAWSYYIGYLRLILPELQARIRTYNQHYNNLLRGAVSQRLYILLPLDCGVPDNLSMADPNIRFLDKLPQQTGDHAGIKDRVYSNSIYELLENGQRAGTCVLEYATPLQTLFAMSQYSQAGFSREDRLEQAKLFCRTLEDILADAPESQNNCRLIAYQEPADDSSFSLSQEVLRHLRQEEKEEVTVGSLKTSAVPSTSTMSQEPELLISGMEKPLPLRTDFS</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-04-26" modified="2020-10-07" version="172">
+<accession>Q9NQA5</accession>
+<accession>A4D2H7</accession>
+<accession>E9PBZ6</accession>
+<accession>Q8N4C1</accession>
+<accession>Q8NDW5</accession>
+<accession>Q8NDX7</accession>
+<accession>Q8NDX8</accession>
+<accession>Q96PM6</accession>
+<name>TRPV5_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Transient receptor potential cation channel subfamily V member 5</fullName>
+<shortName>TrpV5</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Calcium transport protein 2</fullName>
+<shortName>CaT2</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="13">Epithelial calcium channel 1</fullName>
+<shortName>ECaC</shortName>
+<shortName>ECaC1</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Osm-9-like TRP channel 3</fullName>
+<shortName>OTRPC3</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">TRPV5</name>
+<name type="synonym" evidence="13">ECAC1</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2000" name="Genomics" volume="67" first="48" last="53">
+<title>Molecular cloning, tissue distribution, and chromosomal mapping of the human epithelial calcium channel (ECAC1).</title>
+<authorList>
+<person name="Mueller D."/>
+<person name="Hoenderop J.G."/>
+<person name="Meij I.C."/>
+<person name="van den Heuvel L.P.J."/>
+<person name="Knoers N.V."/>
+<person name="den Hollander A.I."/>
+<person name="Eggert P."/>
+<person name="Garcia-Nieto V."/>
+<person name="Claverie-Martin F."/>
+<person name="Bindels R.J.M."/>
+</authorList>
+<dbReference type="PubMed" id="10945469"/>
+<dbReference type="DOI" id="10.1006/geno.2000.6203"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2001" name="Genomics" volume="76" first="99" last="109">
+<title>Structural conservation of the genes encoding CaT1, CaT2, and related cation channels.</title>
+<authorList>
+<person name="Peng J.-B."/>
+<person name="Brown E.M."/>
+<person name="Hediger M.A."/>
+</authorList>
+<dbReference type="PubMed" id="11549322"/>
+<dbReference type="DOI" id="10.1006/geno.2001.6606"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>FUNCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2002-05" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Kelsell R.E."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>VARIANT HIS-154</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2002-12" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="SeattleSNPs variation discovery resource"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>VARIANTS VAL-8; HIS-154; THR-563 AND PHE-712</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2003" name="Nature" volume="424" first="157" last="164">
+<title>The DNA sequence of human chromosome 7.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Graves T.A."/>
+<person name="Pepin K.H."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Maas J."/>
+<person name="Jaeger S."/>
+<person name="Walker R."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="O'Laughlin M.D."/>
+<person name="Schaller M.E."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Cordes M."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Edwards J."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Andrews S."/>
+<person name="Isak A."/>
+<person name="Vanbrunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Lamar B."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Bielicki L."/>
+<person name="Scott K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Harris A."/>
+<person name="Strong C.M."/>
+<person name="Hou S."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Leonard S."/>
+<person name="Rohlfing T."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Abbott A."/>
+<person name="Minx P."/>
+<person name="Maupin R."/>
+<person name="Strowmatt C."/>
+<person name="Latreille P."/>
+<person name="Miller N."/>
+<person name="Johnson D."/>
+<person name="Murray J."/>
+<person name="Woessner J.P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Schultz B.R."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Nelson J.O."/>
+<person name="Berkowicz N."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Bedell J.A."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Chissoe S.L."/>
+<person name="Marra M.A."/>
+<person name="Raymond C."/>
+<person name="Haugen E."/>
+<person name="Gillett W."/>
+<person name="Zhou Y."/>
+<person name="James R."/>
+<person name="Phelps K."/>
+<person name="Iadanoto S."/>
+<person name="Bubb K."/>
+<person name="Simms E."/>
+<person name="Levy R."/>
+<person name="Clendenning J."/>
+<person name="Kaul R."/>
+<person name="Kent W.J."/>
+<person name="Furey T.S."/>
+<person name="Baertsch R.A."/>
+<person name="Brent M.R."/>
+<person name="Keibler E."/>
+<person name="Flicek P."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Bailey J.A."/>
+<person name="Portnoy M.E."/>
+<person name="Torrents D."/>
+<person name="Chinwalla A.T."/>
+<person name="Gish W.R."/>
+<person name="Eddy S.R."/>
+<person name="McPherson J.D."/>
+<person name="Olson M.V."/>
+<person name="Eichler E.E."/>
+<person name="Green E.D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="12853948"/>
+<dbReference type="DOI" id="10.1038/nature01782"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2003" name="Science" volume="300" first="767" last="772">
+<title>Human chromosome 7: DNA sequence and biology.</title>
+<authorList>
+<person name="Scherer S.W."/>
+<person name="Cheung J."/>
+<person name="MacDonald J.R."/>
+<person name="Osborne L.R."/>
+<person name="Nakabayashi K."/>
+<person name="Herbrick J.-A."/>
+<person name="Carson A.R."/>
+<person name="Parker-Katiraee L."/>
+<person name="Skaug J."/>
+<person name="Khaja R."/>
+<person name="Zhang J."/>
+<person name="Hudek A.K."/>
+<person name="Li M."/>
+<person name="Haddad M."/>
+<person name="Duggan G.E."/>
+<person name="Fernandez B.A."/>
+<person name="Kanematsu E."/>
+<person name="Gentles S."/>
+<person name="Christopoulos C.C."/>
+<person name="Choufani S."/>
+<person name="Kwasnicka D."/>
+<person name="Zheng X.H."/>
+<person name="Lai Z."/>
+<person name="Nusskern D.R."/>
+<person name="Zhang Q."/>
+<person name="Gu Z."/>
+<person name="Lu F."/>
+<person name="Zeesman S."/>
+<person name="Nowaczyk M.J."/>
+<person name="Teshima I."/>
+<person name="Chitayat D."/>
+<person name="Shuman C."/>
+<person name="Weksberg R."/>
+<person name="Zackai E.H."/>
+<person name="Grebe T.A."/>
+<person name="Cox S.R."/>
+<person name="Kirkpatrick S.J."/>
+<person name="Rahman N."/>
+<person name="Friedman J.M."/>
+<person name="Heng H.H.Q."/>
+<person name="Pelicci P.G."/>
+<person name="Lo-Coco F."/>
+<person name="Belloni E."/>
+<person name="Shaffer L.G."/>
+<person name="Pober B."/>
+<person name="Morton C.C."/>
+<person name="Gusella J.F."/>
+<person name="Bruns G.A.P."/>
+<person name="Korf B.R."/>
+<person name="Quade B.J."/>
+<person name="Ligon A.H."/>
+<person name="Ferguson H."/>
+<person name="Higgins A.W."/>
+<person name="Leach N.T."/>
+<person name="Herrick S.R."/>
+<person name="Lemyre E."/>
+<person name="Farra C.G."/>
+<person name="Kim H.-G."/>
+<person name="Summers A.M."/>
+<person name="Gripp K.W."/>
+<person name="Roberts W."/>
+<person name="Szatmari P."/>
+<person name="Winsor E.J.T."/>
+<person name="Grzeschik K.-H."/>
+<person name="Teebi A."/>
+<person name="Minassian B.A."/>
+<person name="Kere J."/>
+<person name="Armengol L."/>
+<person name="Pujana M.A."/>
+<person name="Estivill X."/>
+<person name="Wilson M.D."/>
+<person name="Koop B.F."/>
+<person name="Tosi S."/>
+<person name="Moore G.E."/>
+<person name="Boright A.P."/>
+<person name="Zlotorynski E."/>
+<person name="Kerem B."/>
+<person name="Kroisel P.M."/>
+<person name="Petek E."/>
+<person name="Oscier D.G."/>
+<person name="Mould S.J."/>
+<person name="Doehner H."/>
+<person name="Doehner K."/>
+<person name="Rommens J.M."/>
+<person name="Vincent J.B."/>
+<person name="Venter J.C."/>
+<person name="Li P.W."/>
+<person name="Mural R.J."/>
+<person name="Adams M.D."/>
+<person name="Tsui L.-C."/>
+</authorList>
+<dbReference type="PubMed" id="12690205"/>
+<dbReference type="DOI" id="10.1126/science.1083423"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="7">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+<scope>VARIANT HIS-154</scope>
+<source>
+<tissue>Colon</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2008" name="Am. J. Physiol." volume="295" first="F1472" last="F1484">
+<title>WNK3 positively regulates epithelial calcium channels TRPV5 and TRPV6 via a kinase-dependent pathway.</title>
+<authorList>
+<person name="Zhang W."/>
+<person name="Na T."/>
+<person name="Peng J.B."/>
+</authorList>
+<dbReference type="PubMed" id="18768590"/>
+<dbReference type="DOI" id="10.1152/ajprenal.90229.2008"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>GLYCOSYLATION AT ASN-358</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>MUTAGENESIS OF ASN-358</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="10762" last="10767">
+<title>A quantitative atlas of mitotic phosphorylation.</title>
+<authorList>
+<person name="Dephoure N."/>
+<person name="Zhou C."/>
+<person name="Villen J."/>
+<person name="Beausoleil S.A."/>
+<person name="Bakalarski C.E."/>
+<person name="Elledge S.J."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="18669648"/>
+<dbReference type="DOI" id="10.1073/pnas.0805139105"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<comment type="function">
+<text evidence="3 5 8 10">Constitutively active calcium selective cation channel thought to be involved in Ca(2+) reabsorption in kidney and intestine (PubMed:11549322, PubMed:18768590). Required for normal Ca(2+) reabsorption in the kidney distal convoluted tubules (By similarity). The channel is activated by low internal calcium level and the current exhibits an inward rectification (PubMed:11549322, PubMed:18768590). A Ca(2+)-dependent feedback regulation includes fast channel inactivation and slow current decay (By similarity). Heteromeric assembly with TRPV6 seems to modify channel properties. TRPV5-TRPV6 heteromultimeric concatemers exhibit voltage-dependent gating (By similarity).</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="10">Activated by WNK3.</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 5">Homotetramer and probably heterotetramer with TRPV6. Interacts with TRPV6 (By similarity). Interacts with S100A10 and probably with the ANAX2-S100A10 heterotetramer. The interaction with S100A10 is required for the trafficking to the plasma membrane. Interacts with calmodulin. Interacts with BSPRY, which results in its inactivation.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-751281">
+<id>Q9NQA5</id>
+</interactant>
+<interactant intactId="EBI-4286943">
+<id>P05937</id>
+<label>CALB1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="10">Apical cell membrane</location>
+<topology evidence="10">Multi-pass membrane protein</topology>
+</subcellularLocation>
+<text evidence="3 10">Colocalized with S100A10 and ANAX2 along the apical domain of kidney distal tubular cells (By similarity). The expression of the glycosylated form in the cell membrane is increased in the presence of WNK3 (PubMed:18768590).</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q9NQA5-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q9NQA5-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_057199 VSP_057200"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="7 8">Expressed at high levels in kidney, small intestine and pancreas, and at lower levels in testis, prostate, placenta, brain, colon and rectum.</text>
+</comment>
+<comment type="PTM">
+<text evidence="10">Glycosylated.</text>
+</comment>
+<comment type="similarity">
+<text evidence="15">Belongs to the transient receptor (TC 1.A.4) family. TrpV subfamily. TRPV5 sub-subfamily.</text>
+</comment>
+<comment type="online information" name="SeattleSNPs">
+<link uri="http://pga.gs.washington.edu/data/trpv5/"/>
+</comment>
+<dbReference type="EMBL" id="AJ271207">
+<property type="protein sequence ID" value="CAB96365.2"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF304464">
+<property type="protein sequence ID" value="AAL04015.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ487965">
+<property type="protein sequence ID" value="CAD32312.2"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY206695">
+<property type="protein sequence ID" value="AAO13488.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC245427">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH236959">
+<property type="protein sequence ID" value="EAL23777.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471198">
+<property type="protein sequence ID" value="EAW51896.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC034740">
+<property type="protein sequence ID" value="AAH34740.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS5875.1">
+<molecule id="Q9NQA5-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_062815.3">
+<property type="nucleotide sequence ID" value="NM_019841.6"/>
+</dbReference>
+<dbReference type="PDB" id="5OEO">
+<property type="method" value="NMR"/>
+<property type="chains" value="C=655-725"/>
+</dbReference>
+<dbReference type="PDBsum" id="5OEO"/>
+<dbReference type="BMRB" id="Q9NQA5"/>
+<dbReference type="SMR" id="Q9NQA5"/>
+<dbReference type="BioGRID" id="121137">
+<property type="interactions" value="22"/>
+</dbReference>
+<dbReference type="IntAct" id="Q9NQA5">
+<property type="interactions" value="13"/>
+</dbReference>
+<dbReference type="MINT" id="Q9NQA5"/>
+<dbReference type="STRING" id="9606.ENSP00000265310"/>
+<dbReference type="DrugBank" id="DB11093">
+<property type="generic name" value="Calcium citrate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB11348">
+<property type="generic name" value="Calcium Phosphate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB14481">
+<property type="generic name" value="Calcium phosphate dihydrate"/>
+</dbReference>
+<dbReference type="GuidetoPHARMACOLOGY" id="511"/>
+<dbReference type="TCDB" id="1.A.4.2.10">
+<property type="family name" value="the transient receptor potential ca(2+) channel (trp-cc) family"/>
+</dbReference>
+<dbReference type="GlyGen" id="Q9NQA5">
+<property type="glycosylation" value="1 site"/>
+</dbReference>
+<dbReference type="iPTMnet" id="Q9NQA5"/>
+<dbReference type="PhosphoSitePlus" id="Q9NQA5"/>
+<dbReference type="SwissPalm" id="Q9NQA5"/>
+<dbReference type="BioMuta" id="TRPV5"/>
+<dbReference type="DMDM" id="62901471"/>
+<dbReference type="EPD" id="Q9NQA5"/>
+<dbReference type="MassIVE" id="Q9NQA5"/>
+<dbReference type="MaxQB" id="Q9NQA5"/>
+<dbReference type="PaxDb" id="Q9NQA5"/>
+<dbReference type="PeptideAtlas" id="Q9NQA5"/>
+<dbReference type="PRIDE" id="Q9NQA5"/>
+<dbReference type="ProteomicsDB" id="19327"/>
+<dbReference type="ProteomicsDB" id="82119">
+<molecule id="Q9NQA5-1"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="32594">
+<property type="antibodies" value="283 antibodies"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000442623">
+<property type="protein sequence ID" value="ENSP00000406572"/>
+<property type="gene ID" value="ENSG00000127412"/>
+</dbReference>
+<dbReference type="GeneID" id="56302"/>
+<dbReference type="KEGG" id="hsa:56302"/>
+<dbReference type="UCSC" id="uc003wbz.3">
+<molecule id="Q9NQA5-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="56302"/>
+<dbReference type="DisGeNET" id="56302"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000127412.6"/>
+<dbReference type="GeneCards" id="TRPV5"/>
+<dbReference type="HGNC" id="HGNC:3145">
+<property type="gene designation" value="TRPV5"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000127412">
+<property type="expression patterns" value="Tissue enriched (kidney)"/>
+</dbReference>
+<dbReference type="MIM" id="606679">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9NQA5"/>
+<dbReference type="PharmGKB" id="PA35045"/>
+<dbReference type="eggNOG" id="KOG3676">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="HOGENOM" id="CLU_062553_0_0_1"/>
+<dbReference type="InParanoid" id="Q9NQA5"/>
+<dbReference type="KO" id="K04974"/>
+<dbReference type="OrthoDB" id="693004at2759"/>
+<dbReference type="PhylomeDB" id="Q9NQA5"/>
+<dbReference type="TreeFam" id="TF314711"/>
+<dbReference type="PathwayCommons" id="Q9NQA5"/>
+<dbReference type="Reactome" id="R-HSA-3295583">
+<property type="pathway name" value="TRP channels"/>
+</dbReference>
+<dbReference type="SIGNOR" id="Q9NQA5"/>
+<dbReference type="BioGRID-ORCS" id="56302">
+<property type="hits" value="5 hits in 863 CRISPR screens"/>
+</dbReference>
+<dbReference type="GeneWiki" id="TRPV5"/>
+<dbReference type="GenomeRNAi" id="56302"/>
+<dbReference type="Pharos" id="Q9NQA5">
+<property type="development level" value="Tchem"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q9NQA5"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 7"/>
+</dbReference>
+<dbReference type="RNAct" id="Q9NQA5">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000127412">
+<property type="expression patterns" value="Expressed in adult mammalian kidney and 37 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q9NQA5">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9NQA5">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016324">
+<property type="term" value="C:apical plasma membrane"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005262">
+<property type="term" value="F:calcium channel activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005516">
+<property type="term" value="F:calmodulin binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005216">
+<property type="term" value="F:ion channel activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055074">
+<property type="term" value="P:calcium ion homeostasis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0098703">
+<property type="term" value="P:calcium ion import across plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070588">
+<property type="term" value="P:calcium ion transmembrane transport"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006816">
+<property type="term" value="P:calcium ion transport"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051289">
+<property type="term" value="P:protein homotetramerization"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035809">
+<property type="term" value="P:regulation of urine volume"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="DisProt" id="DP01765"/>
+<dbReference type="Gene3D" id="1.25.40.20">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002110">
+<property type="entry name" value="Ankyrin_rpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020683">
+<property type="entry name" value="Ankyrin_rpt-contain_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036770">
+<property type="entry name" value="Ankyrin_rpt-contain_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005821">
+<property type="entry name" value="Ion_trans_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024862">
+<property type="entry name" value="TRPV"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008346">
+<property type="entry name" value="TRPV5"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008344">
+<property type="entry name" value="TRPV5/TRPV6"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10582">
+<property type="entry name" value="PTHR10582"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12796">
+<property type="entry name" value="Ank_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13606">
+<property type="entry name" value="Ank_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00520">
+<property type="entry name" value="Ion_trans"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01415">
+<property type="entry name" value="ANKYRIN"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01765">
+<property type="entry name" value="ECACCHANNEL"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01767">
+<property type="entry name" value="ECACCHANNEL2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00248">
+<property type="entry name" value="ANK"/>
+<property type="match status" value="5"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48403">
+<property type="entry name" value="SSF48403"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50297">
+<property type="entry name" value="ANK_REP_REGION"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50088">
+<property type="entry name" value="ANK_REPEAT"/>
+<property type="match status" value="2"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0040">ANK repeat</keyword>
+<keyword id="KW-0106">Calcium</keyword>
+<keyword id="KW-0107">Calcium channel</keyword>
+<keyword id="KW-0109">Calcium transport</keyword>
+<keyword id="KW-0112">Calmodulin-binding</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0407">Ion channel</keyword>
+<keyword id="KW-0406">Ion transport</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<feature type="chain" description="Transient receptor potential cation channel subfamily V member 5" id="PRO_0000215350">
+<location>
+<begin position="1"/>
+<end position="729"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="5">
+<location>
+<begin position="1"/>
+<end position="327"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="328"/>
+<end position="348"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="5">
+<location>
+<begin position="349"/>
+<end position="385"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="386"/>
+<end position="408"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="5">
+<location>
+<begin position="409"/>
+<end position="419"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="420"/>
+<end position="442"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="5">
+<location>
+<begin position="443"/>
+<end position="448"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="449"/>
+<end position="469"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="5">
+<location>
+<begin position="470"/>
+<end position="492"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="493"/>
+<end position="513"/>
+</location>
+</feature>
+<feature type="intramembrane region" description="Pore-forming" evidence="5">
+<location>
+<begin position="524"/>
+<end position="544"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="5">
+<location>
+<begin position="557"/>
+<end position="577"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="5">
+<location>
+<begin position="578"/>
+<end position="729"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 1" evidence="6">
+<location>
+<begin position="44"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 2" evidence="6">
+<location>
+<begin position="78"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 3" evidence="6">
+<location>
+<begin position="116"/>
+<end position="145"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 4" evidence="6">
+<location>
+<begin position="162"/>
+<end position="191"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 5" evidence="6">
+<location>
+<begin position="195"/>
+<end position="228"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 6" evidence="6">
+<location>
+<begin position="239"/>
+<end position="268"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with S100A10" evidence="3">
+<location>
+<begin position="598"/>
+<end position="602"/>
+</location>
+</feature>
+<feature type="region of interest" description="Involved in Ca(2+)-dependent inactivation" evidence="2">
+<location>
+<begin position="650"/>
+<end position="653"/>
+</location>
+</feature>
+<feature type="region of interest" description="Involved in Ca(2+)-dependent inactivation" evidence="2">
+<location>
+<begin position="700"/>
+<end position="729"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium; shared with neighboring subunits" evidence="4">
+<location>
+<position position="542"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="3">
+<location>
+<position position="685"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="689"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="10">
+<location>
+<position position="358"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_057199" evidence="14">
+<original>EAYETRE</original>
+<variation>VILLRRG</variation>
+<location>
+<begin position="375"/>
+<end position="381"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_057200" evidence="14">
+<location>
+<begin position="382"/>
+<end position="729"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs4252372." id="VAR_022247" evidence="12">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="8"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs4236480." id="VAR_022248" evidence="9 11 12">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="154"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs4252499." id="VAR_022249" evidence="12">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="563"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs4252509." id="VAR_022250" evidence="12">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="712"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of glycosylation." evidence="10">
+<original>N</original>
+<variation>Q</variation>
+<location>
+<position position="358"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="699"/>
+<end position="709"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="719"/>
+<end position="722"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5OEO"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P69744"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9R186"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9XSM3"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000255"/>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10945469"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11549322"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18768590"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source ref="3"/>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source ref="4"/>
+</evidence>
+<evidence key="13" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="10945469"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000305"/>
+<sequence length="729" mass="82551" checksum="A10FB80205FD0DBB" modified="2002-03-01" version="2">MGGFLPKAEGPGSQLQKLLPSFLVREQDWDQHLDKLHMLQQKRILESPLLRASKENDLSVLRQLLLDCTCDVRQRGALGETALHIAALYDNLEAALVLMEAAPELVFEPTTCEAFAGQTALHIAVVNQNVNLVRALLTRRASVSARATGTAFRRSPRNLIYFGEHPLSFAACVNSEEIVRLLIEHGADIRAQDSLGNTVLHILILQPNKTFACQMYNLLLSYDGHGDHLQPLDLVPNHQGLTPFKLAGVEGNTVMFQHLMQKRRHIQWTYGPLTSILYDLTEIDSWGEELSFLELVVSSDKREARQILEQTPVKELVSFKWNKYGRPYFCILAALYLLYMICFTTCCVYRPLKFRGGNRTHSRDITILQQKLLQEAYETREDIIRLVGELVSIVGAVIILLLEIPDIFRVGASRYFGKTILGGPFHVIIITYASLVLVTMVMRLTNTNGEVVPMSFALVLGWCSVMYFTRGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFYIIFQTEDPTSLGQFYDYPMALFTTFELFLTVIDAPANYDVDLPFMFSIVNFAFAIIATLLMLNLFIAMMGDTHWRVAQERDELWRAQVVATTVMLERKLPRCLWPRSGICGCEFGLGDRWFLRVENHNDQNPLRVLRYVEVFKNSDKEDDQEHPSEKQPSGAESGTLARASLALPTSSLSRTASQSSSHRGWEILRQNTLGHLNLGLNLSEGDGEEVYHF</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

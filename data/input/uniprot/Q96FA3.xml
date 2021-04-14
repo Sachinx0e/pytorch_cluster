@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2003-10-24" modified="2020-10-07" version="151">
+<accession>Q96FA3</accession>
+<accession>Q96SM0</accession>
+<accession>Q9GZY5</accession>
+<accession>Q9HCX0</accession>
+<name>PELI1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>E3 ubiquitin-protein ligase pellino homolog 1</fullName>
+<shortName>Pellino-1</shortName>
+<ecNumber evidence="8">2.3.2.27</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Pellino-related intracellular-signaling molecule</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="9">RING-type E3 ubiquitin transferase pellino homolog 1</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">PELI1</name>
+<name type="synonym">PRISM</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2000" name="Immunogenetics" volume="52" first="145" last="149">
+<title>Pellino-related sequences from Caenorhabditis elegans and Homo sapiens.</title>
+<authorList>
+<person name="Rich T."/>
+<person name="Allen R.L."/>
+<person name="Lucas A.-M."/>
+<person name="Trowsdale J."/>
+</authorList>
+<dbReference type="PubMed" id="11132151"/>
+<dbReference type="DOI" id="10.1007/s002510000249"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Thymus</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2001" name="Cytogenet. Cell Genet." volume="92" first="172" last="174">
+<title>Assignment of homologous genes, Peli1/PELI1 and Peli2/PELI2, for the Pelle adaptor protein Pellino to mouse chromosomes 11 and 14 and human chromosomes 2p13.3 and 14q21, respectively, by physical and radiation hybrid mapping.</title>
+<authorList>
+<person name="Resch K."/>
+<person name="Jockusch H."/>
+<person name="Schmitt-John T."/>
+</authorList>
+<dbReference type="PubMed" id="11306823"/>
+<dbReference type="DOI" id="10.1159/000056895"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2000-08" db="EMBL/GenBank/DDBJ databases">
+<title>PRISM, a novel mediator of Toll/IL-1 signalling.</title>
+<authorList>
+<person name="Kennedy E.J."/>
+<person name="Moynagh P.N."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Ovary</tissue>
+<tissue>Placenta</tissue>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 78-418</scope>
+<source>
+<tissue>Teratocarcinoma</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="10952" last="10956">
+<title>Pellino 1 is required for interleukin-1 (IL-1)-mediated signaling through its interaction with the IL-1 receptor-associated kinase 4 (IRAK4)-IRAK-tumor necrosis factor receptor-associated factor 6 (TRAF6) complex.</title>
+<authorList>
+<person name="Jiang Z."/>
+<person name="Johnson H.J."/>
+<person name="Nie H."/>
+<person name="Qin J."/>
+<person name="Bird T.A."/>
+<person name="Li X."/>
+</authorList>
+<dbReference type="PubMed" id="12496252"/>
+<dbReference type="DOI" id="10.1074/jbc.m212112200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH IRAK1; IRAK4 AND TRAF6</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2003" name="FEBS Lett." volume="545" first="199" last="202">
+<title>Pellino2 activates the mitogen activated protein kinase pathway.</title>
+<authorList>
+<person name="Jensen L.E."/>
+<person name="Whitehead A.S."/>
+</authorList>
+<dbReference type="PubMed" id="12804775"/>
+<dbReference type="DOI" id="10.1016/s0014-5793(03)00533-7"/>
+</citation>
+<scope>INTERACTION WITH TRAF6 AND MAP3K7</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2006" name="Nat. Immunol." volume="7" first="1057" last="1065">
+<title>Smad6 negatively regulates interleukin 1-receptor-Toll-like receptor signaling through direct interaction with the adapter Pellino-1.</title>
+<authorList>
+<person name="Choi K.C."/>
+<person name="Lee Y.S."/>
+<person name="Lim S."/>
+<person name="Choi H.K."/>
+<person name="Lee C.H."/>
+<person name="Lee E.K."/>
+<person name="Hong S."/>
+<person name="Kim I.H."/>
+<person name="Kim S.J."/>
+<person name="Park S.H."/>
+</authorList>
+<dbReference type="PubMed" id="16951688"/>
+<dbReference type="DOI" id="10.1038/ni1383"/>
+</citation>
+<scope>INTERACTION WITH IRAK1; IRAK4; MYD88; SMAD6 AND TRAF6</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2007" name="J. Biol. Chem." volume="282" first="29729" last="29737">
+<title>Kinase-active interleukin-1 receptor-associated kinases promote polyubiquitination and degradation of the Pellino family: direct evidence for PELLINO proteins being ubiquitin-protein isopeptide ligases.</title>
+<authorList>
+<person name="Butler M.P."/>
+<person name="Hanly J.A."/>
+<person name="Moynagh P.N."/>
+</authorList>
+<dbReference type="PubMed" id="17675297"/>
+<dbReference type="DOI" id="10.1074/jbc.m704558200"/>
+</citation>
+<scope>FUNCTION AS E3 UBIQUITIN LIGASE</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2008" name="Biochem. J." volume="409" first="43" last="52">
+<title>The IRAK-catalysed activation of the E3 ligase function of Pellino isoforms induces the Lys63-linked polyubiquitination of IRAK1.</title>
+<authorList>
+<person name="Ordureau A."/>
+<person name="Smith H."/>
+<person name="Windheim M."/>
+<person name="Peggie M."/>
+<person name="Carrick E."/>
+<person name="Morrice N."/>
+<person name="Cohen P."/>
+</authorList>
+<dbReference type="PubMed" id="17997719"/>
+<dbReference type="DOI" id="10.1042/bj20071365"/>
+</citation>
+<scope>PHOSPHORYLATION BY IRAK1 AND IRAK4</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2011" name="Mol. Cells" volume="31" first="85" last="89">
+<title>Pellino-1, an adaptor protein of interleukin-1 receptor/toll-like receptor signaling, is sumoylated by Ubc9.</title>
+<authorList>
+<person name="Kim J.H."/>
+<person name="Sung K.S."/>
+<person name="Jung S.M."/>
+<person name="Lee Y.S."/>
+<person name="Kwon J.Y."/>
+<person name="Choi C.Y."/>
+<person name="Park S.H."/>
+</authorList>
+<dbReference type="PubMed" id="21120624"/>
+<dbReference type="DOI" id="10.1007/s10059-011-0006-x"/>
+</citation>
+<scope>SUMOYLATION</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2018" name="Mol. Cell" volume="70" first="920" last="935">
+<title>PELI1 selectively targets kinase-active RIP3 for ubiquitylation-dependent proteasomal degradation.</title>
+<authorList>
+<person name="Choi S.W."/>
+<person name="Park H.H."/>
+<person name="Kim S."/>
+<person name="Chung J.M."/>
+<person name="Noh H.J."/>
+<person name="Kim S.K."/>
+<person name="Song H.K."/>
+<person name="Lee C.W."/>
+<person name="Morgan M.J."/>
+<person name="Kang H.C."/>
+<person name="Kim Y.S."/>
+</authorList>
+<dbReference type="PubMed" id="29883609"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2018.05.016"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>INTERACTION WITH RIPK1; IRAK1 AND RIPK3</scope>
+<scope>MUTAGENESIS OF ARG-104; HIS-313 AND CYS-336</scope>
+<scope>REGION RING-LIKE DOMAIN</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<comment type="function">
+<text evidence="2 5 8">E3 ubiquitin ligase catalyzing the covalent attachment of ubiquitin moieties onto substrate proteins. Involved in the TLR and IL-1 signaling pathways via interaction with the complex containing IRAK kinases and TRAF6. Mediates 'Lys-63'-linked polyubiquitination of IRAK1 allowing subsequent NF-kappa-B activation (PubMed:12496252, PubMed:17675297). Mediates 'Lys-48'-linked polyubiquitination of RIPK3 leading to its subsequent proteasome-dependent degradation; preferentially recognizes and mediates the degradation of the 'Thr-182' phosphorylated form of RIPK3 (PubMed:29883609). Negatively regulates necroptosis by reducing RIPK3 expression (PubMed:29883609). Mediates 'Lys-63'-linked ubiquitination of RIPK1 (PubMed:29883609).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="8">
+<text>S-ubiquitinyl-[E2 ubiquitin-conjugating enzyme]-L-cysteine + [acceptor protein]-L-lysine = [E2 ubiquitin-conjugating enzyme]-L-cysteine + N(6)-ubiquitinyl-[acceptor protein]-L-lysine.</text>
+<dbReference type="EC" id="2.3.2.27"/>
+</reaction>
+</comment>
+<comment type="pathway">
+<text>Protein modification; protein ubiquitination.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 3 4 8">Interacts with MAP3K7. Upon IL1B treatment, forms a complex with TRAF6, IRAK1, IRAK4 and MYD88; this complex recruits MAP3K7/TAK1, TAB1 and TAB2 to mediate NF-kappa-B activation. Direct binding of SMAD6 to PELI1 prevents the complex formation and hence negatively regulates IL1R-TLR signaling and eventually NF-kappa-B-mediated gene expression (PubMed:12496252, PubMed:12804775, PubMed:16951688). Interacts (via atypical FHA domain) with RIPK3; preferentially binds to the 'Thr-182' phosphorylated form of RIPK3 (PubMed:29883609). Interacts with RIPK1 and IRAK1 (PubMed:29883609).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-448369">
+<id>Q96FA3</id>
+</interactant>
+<interactant intactId="EBI-11977093">
+<id>Q6ZS10</id>
+<label>CLEC17A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-448369">
+<id>Q96FA3</id>
+</interactant>
+<interactant intactId="EBI-947360">
+<id>Q8N137</id>
+<label>CNTROB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-448369">
+<id>Q96FA3</id>
+</interactant>
+<interactant intactId="EBI-4401517">
+<id>O14653</id>
+<label>GOSR2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-448369">
+<id>Q96FA3</id>
+</interactant>
+<interactant intactId="EBI-10236940">
+<id>Q15735</id>
+<label>INPP5J</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-448369">
+<id>Q96FA3</id>
+</interactant>
+<interactant intactId="EBI-358664">
+<id>P51617</id>
+<label>IRAK1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-448369">
+<id>Q96FA3</id>
+</interactant>
+<interactant intactId="EBI-448378">
+<id>Q9NWZ3</id>
+<label>IRAK4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-448369">
+<id>Q96FA3</id>
+</interactant>
+<interactant intactId="EBI-11911016">
+<id>P80188</id>
+<label>LCN2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-448369">
+<id>Q96FA3</id>
+</interactant>
+<interactant intactId="EBI-351935">
+<id>P02545</id>
+<label>LMNA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-448369">
+<id>Q96FA3</id>
+</interactant>
+<interactant intactId="EBI-1390763">
+<id>Q13442</id>
+<label>PDAP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-448369">
+<id>Q96FA3</id>
+</interactant>
+<interactant intactId="EBI-6660974">
+<id>Q9H426</id>
+<label>RIMS4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-448369">
+<id>Q96FA3</id>
+</interactant>
+<interactant intactId="EBI-2337775">
+<id>Q9H3D4</id>
+<label>TP63</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-448369">
+<id>Q96FA3</id>
+</interactant>
+<interactant intactId="EBI-358993">
+<id>Q15645</id>
+<label>TRIP13</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-448369">
+<id>Q96FA3</id>
+</interactant>
+<interactant intactId="EBI-2107455">
+<id>Q08AM6</id>
+<label>VAC14</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-448369">
+<id>Q96FA3</id>
+</interactant>
+<interactant intactId="EBI-712969">
+<id>Q9Y3C0</id>
+<label>WASHC3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="tissue specificity">
+<text evidence="8">Expressed at high levels in normal skin but decreased in keratinocytes from toxic epidermal necrolysis (TEN) patients (at protein level).</text>
+</comment>
+<comment type="PTM">
+<text evidence="6">Phosphorylation by IRAK1 and IRAK4 enhances its E3 ligase activity.</text>
+</comment>
+<comment type="PTM">
+<text evidence="7">Sumoylated.</text>
+</comment>
+<comment type="similarity">
+<text evidence="9">Belongs to the pellino family.</text>
+</comment>
+<comment type="sequence caution" evidence="9">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAH11419" version="1"/>
+</conflict>
+<text>Truncated N-terminus.</text>
+</comment>
+<comment type="sequence caution" evidence="9">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="BAB55280" version="1"/>
+</conflict>
+<text>Truncated N-terminus.</text>
+</comment>
+<dbReference type="EC" id="2.3.2.27" evidence="8"/>
+<dbReference type="EMBL" id="AJ278859">
+<property type="protein sequence ID" value="CAC04320.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF302505">
+<property type="protein sequence ID" value="AAG15393.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF300987">
+<property type="protein sequence ID" value="AAG17451.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC011419">
+<property type="protein sequence ID" value="AAH11419.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC050019">
+<property type="protein sequence ID" value="AAH50019.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC063611">
+<property type="protein sequence ID" value="AAH63611.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK027668">
+<property type="protein sequence ID" value="BAB55280.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS1876.1"/>
+<dbReference type="RefSeq" id="NP_065702.2">
+<property type="nucleotide sequence ID" value="NM_020651.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011531296.1">
+<property type="nucleotide sequence ID" value="XM_011532994.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016860009.1">
+<property type="nucleotide sequence ID" value="XM_017004520.1"/>
+</dbReference>
+<dbReference type="SMR" id="Q96FA3"/>
+<dbReference type="BioGRID" id="121418">
+<property type="interactions" value="53"/>
+</dbReference>
+<dbReference type="CORUM" id="Q96FA3"/>
+<dbReference type="DIP" id="DIP-32488N"/>
+<dbReference type="IntAct" id="Q96FA3">
+<property type="interactions" value="26"/>
+</dbReference>
+<dbReference type="MINT" id="Q96FA3"/>
+<dbReference type="STRING" id="9606.ENSP00000351789"/>
+<dbReference type="iPTMnet" id="Q96FA3"/>
+<dbReference type="PhosphoSitePlus" id="Q96FA3"/>
+<dbReference type="BioMuta" id="PELI1"/>
+<dbReference type="DMDM" id="37999756"/>
+<dbReference type="EPD" id="Q96FA3"/>
+<dbReference type="MassIVE" id="Q96FA3"/>
+<dbReference type="MaxQB" id="Q96FA3"/>
+<dbReference type="PaxDb" id="Q96FA3"/>
+<dbReference type="PeptideAtlas" id="Q96FA3"/>
+<dbReference type="PRIDE" id="Q96FA3"/>
+<dbReference type="ProteomicsDB" id="76505"/>
+<dbReference type="Antibodypedia" id="16046">
+<property type="antibodies" value="222 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="57162"/>
+<dbReference type="Ensembl" id="ENST00000358912">
+<property type="protein sequence ID" value="ENSP00000351789"/>
+<property type="gene ID" value="ENSG00000197329"/>
+</dbReference>
+<dbReference type="GeneID" id="57162"/>
+<dbReference type="KEGG" id="hsa:57162"/>
+<dbReference type="UCSC" id="uc002sct.5">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="57162"/>
+<dbReference type="DisGeNET" id="57162"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000197329.11"/>
+<dbReference type="GeneCards" id="PELI1"/>
+<dbReference type="HGNC" id="HGNC:8827">
+<property type="gene designation" value="PELI1"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000197329">
+<property type="expression patterns" value="Tissue enhanced (bone)"/>
+</dbReference>
+<dbReference type="MIM" id="614797">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q96FA3"/>
+<dbReference type="OpenTargets" id="ENSG00000197329"/>
+<dbReference type="PharmGKB" id="PA33172"/>
+<dbReference type="eggNOG" id="KOG3842">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00950000183050"/>
+<dbReference type="HOGENOM" id="CLU_029221_2_0_1"/>
+<dbReference type="InParanoid" id="Q96FA3"/>
+<dbReference type="KO" id="K11964"/>
+<dbReference type="OMA" id="TFAFNPC"/>
+<dbReference type="OrthoDB" id="837213at2759"/>
+<dbReference type="PhylomeDB" id="Q96FA3"/>
+<dbReference type="TreeFam" id="TF314338"/>
+<dbReference type="PathwayCommons" id="Q96FA3"/>
+<dbReference type="Reactome" id="R-HSA-9020702">
+<property type="pathway name" value="Interleukin-1 signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-937039">
+<property type="pathway name" value="IRAK1 recruits IKK complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-975144">
+<property type="pathway name" value="IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation"/>
+</dbReference>
+<dbReference type="SignaLink" id="Q96FA3"/>
+<dbReference type="SIGNOR" id="Q96FA3"/>
+<dbReference type="UniPathway" id="UPA00143"/>
+<dbReference type="BioGRID-ORCS" id="57162">
+<property type="hits" value="5 hits in 876 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="PELI1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="PELI1"/>
+<dbReference type="GenomeRNAi" id="57162"/>
+<dbReference type="Pharos" id="Q96FA3">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q96FA3"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 2"/>
+</dbReference>
+<dbReference type="RNAct" id="Q96FA3">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000197329">
+<property type="expression patterns" value="Expressed in bone marrow and 238 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q96FA3">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q96FA3">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000778">
+<property type="term" value="C:condensed nuclear chromosome kinetochore"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061630">
+<property type="term" value="F:ubiquitin protein ligase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034450">
+<property type="term" value="F:ubiquitin-ubiquitin ligase activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070498">
+<property type="term" value="P:interleukin-1-mediated signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060546">
+<property type="term" value="P:negative regulation of necroptotic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032088">
+<property type="term" value="P:negative regulation of NF-kappaB transcription factor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042130">
+<property type="term" value="P:negative regulation of T cell proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030890">
+<property type="term" value="P:positive regulation of B cell proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001819">
+<property type="term" value="P:positive regulation of cytokine production"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043123">
+<property type="term" value="P:positive regulation of I-kappaB kinase/NF-kappaB signaling"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031398">
+<property type="term" value="P:positive regulation of protein ubiquitination"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034141">
+<property type="term" value="P:positive regulation of toll-like receptor 3 signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034145">
+<property type="term" value="P:positive regulation of toll-like receptor 4 signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043161">
+<property type="term" value="P:proteasome-mediated ubiquitin-dependent protein catabolic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070936">
+<property type="term" value="P:protein K48-linked ubiquitination"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070534">
+<property type="term" value="P:protein K63-linked ubiquitination"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000209">
+<property type="term" value="P:protein polyubiquitination"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008592">
+<property type="term" value="P:regulation of Toll signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043331">
+<property type="term" value="P:response to dsRNA"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032496">
+<property type="term" value="P:response to lipopolysaccharide"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008063">
+<property type="term" value="P:Toll signaling pathway"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006800">
+<property type="entry name" value="Pellino_fam"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR12098">
+<property type="entry name" value="PTHR12098"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04710">
+<property type="entry name" value="Pellino"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF038886">
+<property type="entry name" value="Pellino"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<keyword id="KW-0833">Ubl conjugation pathway</keyword>
+<feature type="chain" description="E3 ubiquitin-protein ligase pellino homolog 1" id="PRO_0000194172">
+<location>
+<begin position="1"/>
+<end position="418"/>
+</location>
+</feature>
+<feature type="domain" description="FHA; atypical" evidence="1">
+<location>
+<begin position="13"/>
+<end position="200"/>
+</location>
+</feature>
+<feature type="region of interest" description="Ring-like domain; necessary for ubiqitination of RIPK3" evidence="8">
+<location>
+<begin position="311"/>
+<end position="399"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of ability to ubiquitinate RIPK3. Loss of interaction with RIPK1, IRAK1 and RIPK3." evidence="8">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="104"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of ability to ubiquitinate RIPK3. No loss of interaction with RIPK3." evidence="8">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="313"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of ability to ubiquitinate RIPK3. No loss of interaction with RIPK3." evidence="8">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="336"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC04320." ref="1" evidence="9">
+<original>S</original>
+<variation>F</variation>
+<location>
+<position position="11"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; BAB55280." ref="5" evidence="9">
+<original>F</original>
+<variation>S</variation>
+<location>
+<position position="100"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 5; BAB55280." ref="5" evidence="9">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="260"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9HAT8"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12496252"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12804775"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16951688"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17675297"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17997719"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21120624"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="29883609"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000305"/>
+<sequence length="418" mass="46286" checksum="233318A45E7546F7" modified="2003-10-24" version="2">MFSPDQENHPSKAPVKYGELIVLGYNGSLPNGDRGRRKSRFALFKRPKANGVKPSTVHIACTPQAAKAISNKDQHSISYTLSRAQTVVVEYTHDSNTDMFQIGRSTESPIDFVVTDTVPGSQSNSDTQSVQSTISRFACRIICERNPPFTARIYAAGFDSSKNIFLGEKAAKWKTSDGQMDGLTTNGVLVMHPRNGFTEDSKPGIWREISVCGNVFSLRETRSAQQRGKMVEIETNQLQDGSLIDLCGATLLWRTAEGLSHTPTVKHLEALRQEINAARPQCPVGFNTLAFPSMKRKDVVDEKQPWVYLNCGHVHGYHNWGNKEERDGKDRECPMCRSVGPYVPLWLGCEAGFYVDAGPPTHAFSPCGHVCSEKTTAYWSQIPLPHGTHTFHAACPFCAHQLAGEQGYIRLIFQGPLD</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

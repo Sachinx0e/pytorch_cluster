@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2013-03-06" modified="2020-10-07" version="39">
+<accession>K9JYP4</accession>
+<name>K9JYP4_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="9">RON variant 21</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="9">RON</name>
+</gene>
+<organism evidence="9">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="9">
+<citation type="submission" date="2011-01" db="EMBL/GenBank/DDBJ databases">
+<title>Expression of tyrosine kinase receptor RON mRNA and splicing variant of the RON in bladder tumors and its significance.</title>
+<authorList>
+<person name="Guo F."/>
+<person name="Tao Z.-H."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="caution">
+<text evidence="5">Lacks conserved residue(s) required for the propagation of feature annotation.</text>
+</comment>
+<dbReference type="EMBL" id="HQ908652">
+<property type="protein sequence ID" value="AEB22138.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="SMR" id="K9JYP4"/>
+<dbReference type="iPTMnet" id="K9JYP4"/>
+<dbReference type="PeptideAtlas" id="K9JYP4"/>
+<dbReference type="PRIDE" id="K9JYP4"/>
+<dbReference type="ChiTaRS" id="MST1R">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd11279">
+<property type="entry name" value="Sema_RON"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.130.10.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.40.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013783">
+<property type="entry name" value="Ig-like_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014756">
+<property type="entry name" value="Ig_E-set"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002909">
+<property type="entry name" value="IPT_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016201">
+<property type="entry name" value="PSI"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR039413">
+<property type="entry name" value="RON_Sema"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001627">
+<property type="entry name" value="Semap_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036352">
+<property type="entry name" value="Semap_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015943">
+<property type="entry name" value="WD40/YVTN_repeat-like_dom_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01403">
+<property type="entry name" value="Sema"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01833">
+<property type="entry name" value="TIG"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00429">
+<property type="entry name" value="IPT"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="SMART" id="SM00423">
+<property type="entry name" value="PSI"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00630">
+<property type="entry name" value="Sema"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF101912">
+<property type="entry name" value="SSF101912"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF81296">
+<property type="entry name" value="SSF81296"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51004">
+<property type="entry name" value="SEMA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-1015" evidence="3">Disulfide bond</keyword>
+<keyword id="KW-0325" evidence="4">Glycoprotein</keyword>
+<keyword id="KW-0472" evidence="6">Membrane</keyword>
+<keyword id="KW-0677" evidence="2">Repeat</keyword>
+<keyword id="KW-0732" evidence="1 7">Signal</keyword>
+<keyword id="KW-0812" evidence="6">Transmembrane</keyword>
+<keyword id="KW-1133" evidence="6">Transmembrane helix</keyword>
+<feature type="signal peptide" evidence="7">
+<location>
+<begin position="1"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="chain" id="PRO_5003931838" evidence="7">
+<location>
+<begin position="25"/>
+<end position="1080"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="6">
+<location>
+<begin position="958"/>
+<end position="982"/>
+</location>
+</feature>
+<feature type="domain" description="Sema" evidence="8">
+<location>
+<begin position="31"/>
+<end position="522"/>
+</location>
+</feature>
+<feature type="non-terminal residue" evidence="9">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="ARBA" id="ARBA00022729"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000256">
+<source>
+<dbReference type="ARBA" id="ARBA00022737"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000256">
+<source>
+<dbReference type="ARBA" id="ARBA00023157"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000256">
+<source>
+<dbReference type="ARBA" id="ARBA00023180"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000256">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00352"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="Phobius"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="SignalP"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS51004"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AEB22138.1"/>
+</source>
+</evidence>
+<sequence length="1080" mass="115458" checksum="9FD1D04AFDBA2000" modified="2013-03-06" version="1" fragment="single">MELLPPLPQSFLLLLLLPAKPAAGEDWQCPRTPYAASRDFDVKYVVPSFSAGGLVQAMVTYEGDRNESAVFVAIRNRLHVLGPDLKSVQSLATGPAGDPGCQTCAACGPGPHGPPGDTDTKVLVLDPALPALVSCGSSLQGRCFLHDLEPQGTAVHLAAPACLFSAHHNRPDDCPDCVASPLGTRVTVVEQGQASYFYVASSLDAAVAASFSPRSVSIRRLKADASGFAPGFVALSVLPKHLVSYSIEYVHSFHTGAFVYFLTVQPASVTDDPSALHTRLARLSATEPELGDYRELVLDCRFAPKRRRRGAPEGGQPYPVLRVAHSAPVGAQLATELSIAEGQEVLFGVFVTGKDGGPGVGPNSVVCAFPIDLLDTLIDEGVERCCESPVHPGLRRGLDFFQSPSFCPNPPGLEALSPNTSCRHFPLLVSSSFSRVDLFNGLLGPVQVTALYVTRLDNVTVAHMGTMDGRILQVELVRSLNYLLYVSNFSLGDSGQPVQRDVSRLGDHLLFASGDQVFQVPIQGPGCRHFLTCGRCLRAWHFMGCGWCGNMCGQQKECPGSWQQDHCPPKLTEFHPHSGPLRGSTRLTLCGSNFYLHPSGLVPEGTHQVTVGQSPCRPLPKDSSKLRPVPRKDFVEEFECELEPLGTQAVGPTNVSLTVTNMPPGKHFRVDGTSVLRGFSFMEPVLIAVQPLFGPRAGGTCLTLEGQSLSVGTSRAVLVNGTECLLARVSEGQLLCATPPGATVASVPLSLQVGGAQVPGSWTFQYREDPVVLSISPNCGYINSHITICGQHLTSAWHLVLSFHDGLRAVESRCERQLPEQQLCRLPEYVVRDPQGWVAGNLSARGDGAAGFTLPGFRFLPPPHPPSANLVPLKPEEHAIKFEYIGLGAVADCVGINVTVGGESCQHEFRGDMVVCPLPPSLQLGQDGAPLQVCVDGECHILGRVVRPGPDGVPQSTLLGILLPLLLLVAALATALVFSYWWRRKQLVLPPNLNDLASLDQTAGATPLPILYSGSDYRSGLALPAIDGLDSTTCVHGASFSDSEDESCVPLLRKESIQLRDLDSALLAEVTLELSTTENT</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

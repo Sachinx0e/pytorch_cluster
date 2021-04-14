@@ -1,0 +1,4617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1995-11-01" modified="2020-10-07" version="240">
+<accession>P46531</accession>
+<accession>Q59ED8</accession>
+<accession>Q5SXM3</accession>
+<name>NOTC1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Neurogenic locus notch homolog protein 1</fullName>
+<shortName>Notch 1</shortName>
+<shortName>hN1</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Translocation-associated notch protein TAN-1</fullName>
+</alternativeName>
+<component>
+<recommendedName>
+<fullName>Notch 1 extracellular truncation</fullName>
+<shortName>NEXT</shortName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Notch 1 intracellular domain</fullName>
+<shortName>NICD</shortName>
+</recommendedName>
+</component>
+</protein>
+<gene>
+<name type="primary">NOTCH1</name>
+<name type="synonym">TAN1</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="2000-09" db="EMBL/GenBank/DDBJ databases">
+<title>Complete human notch 1 (hN1) cDNA sequence.</title>
+<authorList>
+<person name="Mann R.S."/>
+<person name="Blaumueller C.M."/>
+<person name="Zagouras P."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Nature" volume="429" first="369" last="374">
+<title>DNA sequence and analysis of human chromosome 9.</title>
+<authorList>
+<person name="Humphray S.J."/>
+<person name="Oliver K."/>
+<person name="Hunt A.R."/>
+<person name="Plumb R.W."/>
+<person name="Loveland J.E."/>
+<person name="Howe K.L."/>
+<person name="Andrews T.D."/>
+<person name="Searle S."/>
+<person name="Hunt S.E."/>
+<person name="Scott C.E."/>
+<person name="Jones M.C."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ambrose K.D."/>
+<person name="Ashwell R.I.S."/>
+<person name="Babbage A.K."/>
+<person name="Babbage S."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Banerjee R."/>
+<person name="Barker D.J."/>
+<person name="Barlow K.F."/>
+<person name="Bates K."/>
+<person name="Beasley H."/>
+<person name="Beasley O."/>
+<person name="Bird C.P."/>
+<person name="Bray-Allen S."/>
+<person name="Brown A.J."/>
+<person name="Brown J.Y."/>
+<person name="Burford D."/>
+<person name="Burrill W."/>
+<person name="Burton J."/>
+<person name="Carder C."/>
+<person name="Carter N.P."/>
+<person name="Chapman J.C."/>
+<person name="Chen Y."/>
+<person name="Clarke G."/>
+<person name="Clark S.Y."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Collier R.E."/>
+<person name="Corby N."/>
+<person name="Crosier M."/>
+<person name="Cummings A.T."/>
+<person name="Davies J."/>
+<person name="Dhami P."/>
+<person name="Dunn M."/>
+<person name="Dutta I."/>
+<person name="Dyer L.W."/>
+<person name="Earthrowl M.E."/>
+<person name="Faulkner L."/>
+<person name="Fleming C.J."/>
+<person name="Frankish A."/>
+<person name="Frankland J.A."/>
+<person name="French L."/>
+<person name="Fricker D.G."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Ghori J."/>
+<person name="Gilbert J.G.R."/>
+<person name="Glison C."/>
+<person name="Grafham D.V."/>
+<person name="Gribble S."/>
+<person name="Griffiths C."/>
+<person name="Griffiths-Jones S."/>
+<person name="Grocock R."/>
+<person name="Guy J."/>
+<person name="Hall R.E."/>
+<person name="Hammond S."/>
+<person name="Harley J.L."/>
+<person name="Harrison E.S.I."/>
+<person name="Hart E.A."/>
+<person name="Heath P.D."/>
+<person name="Henderson C.D."/>
+<person name="Hopkins B.L."/>
+<person name="Howard P.J."/>
+<person name="Howden P.J."/>
+<person name="Huckle E."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Joy A.A."/>
+<person name="Kay M."/>
+<person name="Keenan S."/>
+<person name="Kershaw J.K."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Knights A."/>
+<person name="Laird G.K."/>
+<person name="Langford C."/>
+<person name="Lawlor S."/>
+<person name="Leongamornlert D.A."/>
+<person name="Leversha M."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Lovell J."/>
+<person name="Martin S."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="McLaren S."/>
+<person name="McLay K.E."/>
+<person name="McMurray A."/>
+<person name="Milne S."/>
+<person name="Nickerson T."/>
+<person name="Nisbett J."/>
+<person name="Nordsiek G."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Porter K.M."/>
+<person name="Pandian R."/>
+<person name="Pelan S."/>
+<person name="Phillimore B."/>
+<person name="Povey S."/>
+<person name="Ramsey Y."/>
+<person name="Rand V."/>
+<person name="Scharfe M."/>
+<person name="Sehra H.K."/>
+<person name="Shownkeen R."/>
+<person name="Sims S.K."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Steward C.A."/>
+<person name="Swarbreck D."/>
+<person name="Sycamore N."/>
+<person name="Tester J."/>
+<person name="Thorpe A."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Thomas D.W."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="West A.P."/>
+<person name="Whitehead S.L."/>
+<person name="Willey D.L."/>
+<person name="Williams S.A."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Young L."/>
+<person name="Ashurst J.L."/>
+<person name="Coulson A."/>
+<person name="Blocker H."/>
+<person name="Durbin R.M."/>
+<person name="Sulston J.E."/>
+<person name="Hubbard T."/>
+<person name="Jackson M.J."/>
+<person name="Bentley D.R."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+<person name="Dunham I."/>
+</authorList>
+<dbReference type="PubMed" id="15164053"/>
+<dbReference type="DOI" id="10.1038/nature02465"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1991" name="Cell" volume="66" first="649" last="661">
+<title>TAN-1, the human homolog of the Drosophila notch gene, is broken by chromosomal translocations in T lymphoblastic neoplasms.</title>
+<authorList>
+<person name="Ellisen L.W."/>
+<person name="Bird J."/>
+<person name="West D.C."/>
+<person name="Soreng A.L."/>
+<person name="Reynolds T.C."/>
+<person name="Smith S.D."/>
+<person name="Sklar J."/>
+</authorList>
+<dbReference type="PubMed" id="1831692"/>
+<dbReference type="DOI" id="10.1016/0092-8674(91)90111-b"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 1-2443</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2005-03" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Totoki Y."/>
+<person name="Toyoda A."/>
+<person name="Takeda T."/>
+<person name="Sakaki Y."/>
+<person name="Tanaka A."/>
+<person name="Yokoyama S."/>
+<person name="Ohara O."/>
+<person name="Nagase T."/>
+<person name="Kikuno R.F."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 489-2555</scope>
+<source>
+<tissue>Aortic endothelium</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2007" name="J. Biol. Chem." volume="282" first="24027" last="24038">
+<title>Asparaginyl hydroxylation of the Notch ankyrin repeat domain by factor inhibiting hypoxia-inducible factor.</title>
+<authorList>
+<person name="Coleman M.L."/>
+<person name="McDonough M.A."/>
+<person name="Hewitson K.S."/>
+<person name="Coles C."/>
+<person name="Mecinovic J."/>
+<person name="Edelmann M."/>
+<person name="Cook K.M."/>
+<person name="Cockman M.E."/>
+<person name="Lancaster D.E."/>
+<person name="Kessler B.M."/>
+<person name="Oldham N.J."/>
+<person name="Ratcliffe P.J."/>
+<person name="Schofield C.J."/>
+</authorList>
+<dbReference type="PubMed" id="17573339"/>
+<dbReference type="DOI" id="10.1074/jbc.m704102200"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 1947-1962</scope>
+<scope>INTERACTION WITH HIF1AN</scope>
+<scope>HYDROXYLATION AT ASN-1955</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1999" name="Am. J. Pathol." volume="154" first="785" last="794">
+<title>Human ligands of the Notch receptor.</title>
+<authorList>
+<person name="Gray G.E."/>
+<person name="Mann R.S."/>
+<person name="Mitsiadis E."/>
+<person name="Henrique D."/>
+<person name="Carcangiu M.-L."/>
+<person name="Banks A."/>
+<person name="Leiman J."/>
+<person name="Ward D."/>
+<person name="Ish-Horowitz D."/>
+<person name="Artavanis-Tsakonas S."/>
+</authorList>
+<dbReference type="PubMed" id="10079256"/>
+<dbReference type="DOI" id="10.1016/s0002-9440(10)65325-4"/>
+</citation>
+<scope>IDENTIFICATION OF LIGANDS</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1998" name="Nat. Genet." volume="19" first="74" last="78">
+<title>Human deltex is a conserved regulator of Notch signalling.</title>
+<authorList>
+<person name="Matsuno K."/>
+<person name="Eastman D."/>
+<person name="Mitsiades T."/>
+<person name="Quinn A.M."/>
+<person name="Carcanciu M.L."/>
+<person name="Ordentlich P."/>
+<person name="Kadesch T."/>
+<person name="Artavanis-Tsakonas S."/>
+</authorList>
+<dbReference type="PubMed" id="9590294"/>
+<dbReference type="DOI" id="10.1038/ng0598-74"/>
+</citation>
+<scope>INTERACTION WITH DTX1</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2000" name="Mol. Cell. Biol." volume="20" first="2400" last="2410">
+<title>SKIP, a CBF1-associated protein, interacts with the ankyrin repeat domain of NotchIC To facilitate NotchIC function.</title>
+<authorList>
+<person name="Zhou S."/>
+<person name="Fujimuro M."/>
+<person name="Hsieh J.J."/>
+<person name="Chen L."/>
+<person name="Miyamoto A."/>
+<person name="Weinmaster G."/>
+<person name="Hayward S.D."/>
+</authorList>
+<dbReference type="PubMed" id="10713164"/>
+<dbReference type="DOI" id="10.1128/mcb.20.7.2400-2410.2000"/>
+</citation>
+<scope>INTERACTION WITH SNW1</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2000" name="Nat. Genet." volume="26" first="484" last="489">
+<title>MAML1, a human homologue of Drosophila mastermind, is a transcriptional co-activator for NOTCH receptors.</title>
+<authorList>
+<person name="Wu L."/>
+<person name="Aster J.C."/>
+<person name="Blacklow S.C."/>
+<person name="Lake R."/>
+<person name="Artavanis-Tsakonas S."/>
+<person name="Griffin J.D."/>
+</authorList>
+<dbReference type="PubMed" id="11101851"/>
+<dbReference type="DOI" id="10.1038/82644"/>
+</citation>
+<scope>INTERACTION WITH MAML1</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2002" name="Mol. Cell. Biol." volume="22" first="7688" last="7700">
+<title>Identification of a family of mastermind-like transcriptional coactivators for mammalian notch receptors.</title>
+<authorList>
+<person name="Wu L."/>
+<person name="Sun T."/>
+<person name="Kobayashi K."/>
+<person name="Gao P."/>
+<person name="Griffin J.D."/>
+</authorList>
+<dbReference type="PubMed" id="12370315"/>
+<dbReference type="DOI" id="10.1128/mcb.22.21.7688-7700.2002"/>
+</citation>
+<scope>INTERACTION WITH MAML2 AND MAML3</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="29399" last="29405">
+<title>The nephroblastoma overexpressed gene (NOV/ccn3) protein associates with Notch1 extracellular domain and inhibits myoblast differentiation via Notch signaling pathway.</title>
+<authorList>
+<person name="Sakamoto K."/>
+<person name="Yamaguchi S."/>
+<person name="Ando R."/>
+<person name="Miyawaki A."/>
+<person name="Kabasawa Y."/>
+<person name="Takagi M."/>
+<person name="Li C.L."/>
+<person name="Perbal B."/>
+<person name="Katsube K."/>
+</authorList>
+<dbReference type="PubMed" id="12050162"/>
+<dbReference type="DOI" id="10.1074/jbc.m203727200"/>
+</citation>
+<scope>INTERACTION WITH CCN3</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2005" name="Nature" volume="437" first="270" last="274">
+<title>Mutations in NOTCH1 cause aortic valve disease.</title>
+<authorList>
+<person name="Garg V."/>
+<person name="Muth A.N."/>
+<person name="Ransom J.F."/>
+<person name="Schluterman M.K."/>
+<person name="Barnes R."/>
+<person name="King I.N."/>
+<person name="Grossfeld P.D."/>
+<person name="Srivastava D."/>
+</authorList>
+<dbReference type="PubMed" id="16025100"/>
+<dbReference type="DOI" id="10.1038/nature03940"/>
+</citation>
+<scope>INVOLVEMENT IN AOVD1</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2008" name="PLoS ONE" volume="3" first="E2735" last="E2735">
+<title>AIP4/Itch regulates Notch receptor degradation in the absence of ligand.</title>
+<authorList>
+<person name="Chastagner P."/>
+<person name="Israel A."/>
+<person name="Brou C."/>
+</authorList>
+<dbReference type="PubMed" id="18628966"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0002735"/>
+</citation>
+<scope>UBIQUITINATION BY ITCH</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="10762" last="10767">
+<title>A quantitative atlas of mitotic phosphorylation.</title>
+<authorList>
+<person name="Dephoure N."/>
+<person name="Zhou C."/>
+<person name="Villen J."/>
+<person name="Beausoleil S.A."/>
+<person name="Bakalarski C.E."/>
+<person name="Elledge S.J."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="18669648"/>
+<dbReference type="DOI" id="10.1073/pnas.0805139105"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2010" name="Circ. Res." volume="107" first="592" last="601">
+<title>Integrin cytoplasmic domain-associated protein-1 attenuates sprouting angiogenesis.</title>
+<authorList>
+<person name="Brutsch R."/>
+<person name="Liebler S.S."/>
+<person name="Wustehube J."/>
+<person name="Bartol A."/>
+<person name="Herberich S.E."/>
+<person name="Adam M.G."/>
+<person name="Telzerow A."/>
+<person name="Augustin H.G."/>
+<person name="Fischer A."/>
+</authorList>
+<dbReference type="PubMed" id="20616313"/>
+<dbReference type="DOI" id="10.1161/circresaha.110.217257"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2011" name="BMC Biol." volume="9" first="83" last="83">
+<title>Notch1 binds and induces degradation of Snail in hepatocellular carcinoma.</title>
+<authorList>
+<person name="Lim S.O."/>
+<person name="Kim H.S."/>
+<person name="Quan X."/>
+<person name="Ahn S.M."/>
+<person name="Kim H."/>
+<person name="Hsieh D."/>
+<person name="Seong J.K."/>
+<person name="Jung G."/>
+</authorList>
+<dbReference type="PubMed" id="22128911"/>
+<dbReference type="DOI" id="10.1186/1741-7007-9-83"/>
+</citation>
+<scope>INTERACTION WITH SNAI1 AND MDM2A</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2011" name="J. Biol. Chem." volume="286" first="18720" last="18730">
+<title>The adaptor-associated kinase 1, AAK1, is a positive regulator of the Notch pathway.</title>
+<authorList>
+<person name="Gupta-Rossi N."/>
+<person name="Ortica S."/>
+<person name="Meas-Yedid V."/>
+<person name="Heuss S."/>
+<person name="Moretti J."/>
+<person name="Olivo-Marin J.C."/>
+<person name="Israel A."/>
+</authorList>
+<dbReference type="PubMed" id="21464124"/>
+<dbReference type="DOI" id="10.1074/jbc.m110.190769"/>
+</citation>
+<scope>INTERACTION WITH AAK1</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2011" name="J. Cell Sci." volume="124" first="100" last="112">
+<title>Serum- and glucocorticoid-inducible kinase 1 (SGK1) controls Notch1 signaling by downregulation of protein stability through Fbw7 ubiquitin ligase.</title>
+<authorList>
+<person name="Mo J.S."/>
+<person name="Ann E.J."/>
+<person name="Yoon J.H."/>
+<person name="Jung J."/>
+<person name="Choi Y.H."/>
+<person name="Kim H.Y."/>
+<person name="Ahn J.S."/>
+<person name="Kim S.M."/>
+<person name="Kim M.Y."/>
+<person name="Hong J.A."/>
+<person name="Seo M.S."/>
+<person name="Lang F."/>
+<person name="Choi E.J."/>
+<person name="Park H.S."/>
+</authorList>
+<dbReference type="PubMed" id="21147854"/>
+<dbReference type="DOI" id="10.1242/jcs.073924"/>
+</citation>
+<scope>INTERACTION WITH SGK1 AND FBXW7</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2011" name="Mol. Cell. Biol." volume="31" first="1396" last="1408">
+<title>Assembly of a Notch transcriptional activation complex requires multimerization.</title>
+<authorList>
+<person name="Vasquez-Del Carpio R."/>
+<person name="Kaplan F.M."/>
+<person name="Weaver K.L."/>
+<person name="VanWye J.D."/>
+<person name="Alves-Guerra M.C."/>
+<person name="Robbins D.J."/>
+<person name="Capobianco A.J."/>
+</authorList>
+<dbReference type="PubMed" id="21245387"/>
+<dbReference type="DOI" id="10.1128/mcb.00360-10"/>
+</citation>
+<scope>INTERACTION WITH SNW1</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2013" name="J. Cell Sci." volume="126" first="4457" last="4468">
+<title>Alpha-arrestin 1 (ARRDC1) and beta-arrestins cooperate to mediate Notch degradation in mammals.</title>
+<authorList>
+<person name="Puca L."/>
+<person name="Chastagner P."/>
+<person name="Meas-Yedid V."/>
+<person name="Israel A."/>
+<person name="Brou C."/>
+</authorList>
+<dbReference type="PubMed" id="23886940"/>
+<dbReference type="DOI" id="10.1242/jcs.130500"/>
+</citation>
+<scope>UBIQUITINATION BY ITCH</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2013" name="Nature" volume="504" first="456" last="459">
+<title>The heterotaxy gene GALNT11 glycosylates Notch to orchestrate cilia type and laterality.</title>
+<authorList>
+<person name="Boskovski M.T."/>
+<person name="Yuan S."/>
+<person name="Pedersen N.B."/>
+<person name="Goth C.K."/>
+<person name="Makova S."/>
+<person name="Clausen H."/>
+<person name="Brueckner M."/>
+<person name="Khokha M.K."/>
+</authorList>
+<dbReference type="PubMed" id="24226769"/>
+<dbReference type="DOI" id="10.1038/nature12723"/>
+</citation>
+<scope>GLYCOSYLATION AT THR-232; THR-1402 AND THR-1725</scope>
+<scope>PROTEOLYTIC PROCESSING</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2014" name="BMC Bioinformatics" volume="15" first="6599" last="6599">
+<title>Identifying tandem Ankyrin repeats in protein structures.</title>
+<authorList>
+<person name="Chakrabarty B."/>
+<person name="Parekh N."/>
+</authorList>
+<dbReference type="PubMed" id="25547411"/>
+<dbReference type="DOI" id="10.1186/s12859-014-0440-9"/>
+</citation>
+<scope>ANKYRIN REPEATS</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2015" name="Immunity" volume="43" first="870" last="883">
+<title>The PIAS-like coactivator Zmiz1 is a direct and selective cofactor of Notch1 in T cell development and leukemia.</title>
+<authorList>
+<person name="Pinnell N."/>
+<person name="Yan R."/>
+<person name="Cho H.J."/>
+<person name="Keeley T."/>
+<person name="Murai M.J."/>
+<person name="Liu Y."/>
+<person name="Alarcon A.S."/>
+<person name="Qin J."/>
+<person name="Wang Q."/>
+<person name="Kuick R."/>
+<person name="Elenitoba-Johnson K.S."/>
+<person name="Maillard I."/>
+<person name="Samuelson L.C."/>
+<person name="Cierpicki T."/>
+<person name="Chiang M.Y."/>
+</authorList>
+<dbReference type="PubMed" id="26522984"/>
+<dbReference type="DOI" id="10.1016/j.immuni.2015.10.007"/>
+</citation>
+<scope>INTERACTION WITH ZMIZ1</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2018" name="Proc. Natl. Acad. Sci. U.S.A." volume="115" first="E8395" last="E8402">
+<title>Two novel protein O-glucosyltransferases that modify sites distinct from POGLUT1 and affect Notch trafficking and signaling.</title>
+<authorList>
+<person name="Takeuchi H."/>
+<person name="Schneider M."/>
+<person name="Williamson D.B."/>
+<person name="Ito A."/>
+<person name="Takeuchi M."/>
+<person name="Handford P.A."/>
+<person name="Haltiwanger R.S."/>
+</authorList>
+<dbReference type="PubMed" id="30127001"/>
+<dbReference type="DOI" id="10.1073/pnas.1804005115"/>
+</citation>
+<scope>GLYCOSYLATION AT SER-435</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2003" name="Biochemistry" volume="42" first="7061" last="7067">
+<title>Nuclear magnetic resonance structure of a prototype Lin12-Notch repeat module from human Notch1.</title>
+<authorList>
+<person name="Vardar D."/>
+<person name="North C.L."/>
+<person name="Sanchez-Irizarry C."/>
+<person name="Aster J.C."/>
+<person name="Blacklow S.C."/>
+</authorList>
+<dbReference type="PubMed" id="12795601"/>
+<dbReference type="DOI" id="10.1021/bi034156y"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1446-1480 IN COMPLEX WITH CALCIUM IONS</scope>
+<scope>DISULFIDE BONDS</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2004" name="Structure" volume="12" first="2173" last="2183">
+<title>Structural and functional properties of the human notch-1 ligand binding region.</title>
+<authorList>
+<person name="Hambleton S."/>
+<person name="Valeyev N.V."/>
+<person name="Muranyi A."/>
+<person name="Knott V."/>
+<person name="Werner J.M."/>
+<person name="McMichael A.J."/>
+<person name="Handford P.A."/>
+<person name="Downing A.K."/>
+</authorList>
+<dbReference type="PubMed" id="15576031"/>
+<dbReference type="DOI" id="10.1016/j.str.2004.09.012"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 411-526</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2005" name="Biochem. J." volume="392" first="13" last="20">
+<title>High-resolution crystal structure of the human Notch 1 ankyrin domain.</title>
+<authorList>
+<person name="Ehebauer M.T."/>
+<person name="Chirgadze D.Y."/>
+<person name="Hayward P."/>
+<person name="Martinez Arias A."/>
+<person name="Blundell T.L."/>
+</authorList>
+<dbReference type="PubMed" id="16011479"/>
+<dbReference type="DOI" id="10.1042/bj20050515"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 1872-2114</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2006" name="Cell" volume="124" first="973" last="983">
+<title>Structural basis for cooperativity in recruitment of MAML coactivators to Notch transcription complexes.</title>
+<authorList>
+<person name="Nam Y."/>
+<person name="Sliz P."/>
+<person name="Song L."/>
+<person name="Aster J.C."/>
+<person name="Blacklow S.C."/>
+</authorList>
+<dbReference type="PubMed" id="16530044"/>
+<dbReference type="DOI" id="10.1016/j.cell.2005.12.037"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.25 ANGSTROMS) OF 1872-2126 IN COMPLEX WITH RBPSUH AND MAML1</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2017" name="Sci. Adv." volume="3" first="E1602794" last="E1602794">
+<title>Structural and biochemical differences between the Notch and the amyloid precursor protein transmembrane domains.</title>
+<authorList>
+<person name="Deatherage C.L."/>
+<person name="Lu Z."/>
+<person name="Kroncke B.M."/>
+<person name="Ma S."/>
+<person name="Smith J.A."/>
+<person name="Voehler M.W."/>
+<person name="McFeeters R.L."/>
+<person name="Sanders C.R."/>
+</authorList>
+<dbReference type="PubMed" id="28439555"/>
+<dbReference type="DOI" id="10.1126/sciadv.1602794"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 1721-1771</scope>
+<scope>TOPOLOGY</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2019" name="Nature" volume="565" first="192" last="197">
+<title>Structural basis of Notch recognition by human gamma-secretase.</title>
+<authorList>
+<person name="Yang G."/>
+<person name="Zhou R."/>
+<person name="Zhou Q."/>
+<person name="Guo X."/>
+<person name="Yan C."/>
+<person name="Ke M."/>
+<person name="Lei J."/>
+<person name="Shi Y."/>
+</authorList>
+<dbReference type="PubMed" id="30598546"/>
+<dbReference type="DOI" id="10.1038/s41586-018-0813-8"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (2.70 ANGSTROMS) OF 1721-1821 IN COMPLEX WITH GAMMA-SECRETASE</scope>
+<scope>SUBUNIT</scope>
+<scope>TOPOLOGY</scope>
+<scope>INTERACTION WITH PSEN1</scope>
+<scope>PROTEOLYTIC CLEAVAGE BY PSEN1</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF PRO-1728 AND 1755-LEU--ARG-1761</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2014" name="Am. J. Hum. Genet." volume="95" first="275" last="284">
+<title>Mutations in NOTCH1 cause Adams-Oliver syndrome.</title>
+<authorList>
+<person name="Stittrich A.B."/>
+<person name="Lehman A."/>
+<person name="Bodian D.L."/>
+<person name="Ashworth J."/>
+<person name="Zong Z."/>
+<person name="Li H."/>
+<person name="Lam P."/>
+<person name="Khromykh A."/>
+<person name="Iyer R.K."/>
+<person name="Vockley J.G."/>
+<person name="Baveja R."/>
+<person name="Silva E.S."/>
+<person name="Dixon J."/>
+<person name="Leon E.L."/>
+<person name="Solomon B.D."/>
+<person name="Glusman G."/>
+<person name="Niederhuber J.E."/>
+<person name="Roach J.C."/>
+<person name="Patel M.S."/>
+</authorList>
+<dbReference type="PubMed" id="25132448"/>
+<dbReference type="DOI" id="10.1016/j.ajhg.2014.07.011"/>
+</citation>
+<scope>INVOLVEMENT IN AOS5</scope>
+<scope>VARIANTS AOS5 ARG-429; TYR-1496 AND ASN-1989</scope>
+</reference>
+<comment type="function">
+<text evidence="25">Functions as a receptor for membrane-bound ligands Jagged-1 (JAG1), Jagged-2 (JAG2) and Delta-1 (DLL1) to regulate cell-fate determination. Upon ligand activation through the released notch intracellular domain (NICD) it forms a transcriptional activator complex with RBPJ/RBPSUH and activates genes of the enhancer of split locus. Affects the implementation of differentiation, proliferation and apoptotic programs. Involved in angiogenesis; negatively regulates endothelial cell proliferation and migration and angiogenic sprouting. Involved in the maturation of both CD4(+) and CD8(+) cells in the thymus. Important for follicular differentiation and possibly cell fate selection within the follicle. During cerebellar development, functions as a receptor for neuronal DNER and is involved in the differentiation of Bergmann glia. Represses neuronal and myogenic differentiation. May play an essential role in postimplantation development, probably in some aspect of cell specification and/or differentiation. May be involved in mesoderm development, somite formation and neurogenesis. May enhance HIF1A function by sequestering HIF1AN away from HIF1A. Required for the THBS4 function in regulating protective astrogenesis from the subventricular zone (SVZ) niche after injury. Involved in determination of left/right symmetry by modulating the balance between motile and immotile (sensory) cilia at the left-right organiser (LRO).</text>
+</comment>
+<comment type="subunit">
+<text evidence="12 13 17 18 19 20 23 29 32 33">Heterodimer of a C-terminal fragment N(TM) and an N-terminal fragment N(EC) which are probably linked by disulfide bonds. Interacts with DNER, DTX1, DTX2 and RBPJ/RBPSUH. Also interacts with MAML1, MAML2 and MAML3 which act as transcriptional coactivators for NOTCH1 (PubMed:11101851, PubMed:12370315). The NOTCH1 intracellular domain interacts with SNW1; the interaction involves multimerized NOTCH1 NICD and is implicated in a formation of an intermediate preactivation complex which associates with DNA-bound CBF-1/RBPJ (PubMed:10713164). The activated membrane-bound form interacts with AAK1 which promotes NOTCH1 stabilization. Forms a trimeric complex with FBXW7 and SGK1. Interacts with HIF1AN. HIF1AN negatively regulates the function of notch intracellular domain (NICD), accelerating myogenic differentiation (PubMed:17573339). Interacts (via NICD) with SNAI1 (via zinc fingers); the interaction induces SNAI1 degradation via MDM2-mediated ubiquitination and inhibits SNAI1-induced cell invasion. Interacts (via NICD) with MDM2A. Interacts (via NICD) with BCL6; the interaction decreases MAML1 recruitment by NOTCH1 NICD on target genes DNA and inhibits NOTCH1 transcractivation activity. Interacts with THBS4 (By similarity). Interacts (via the EGF-like repeat region) with CCN3 (via CTCK domain) (PubMed:12050162). Interacts (via EGF-like domains) with DLL4 (via N-terminal DSL and MNNL domains) (By similarity). Interacts with ZMIZ1. Interacts (via NICD domain) with MEGF10 (via the cytoplasmic domain). Interacts with DLL1 and JAG1 (By similarity). Interacts (via NICD domain) with PRAG1 (By similarity). Forms a complex with PRAG1, N1ICD and MAML1, in a MAML1-dependent manner (By similarity). Interacts (via transmembrane region) with PSEN1; the interaction is direct (PubMed:30598546).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-636374">
+<id>P46531</id>
+</interactant>
+<interactant intactId="EBI-495465">
+<id>Q13315</id>
+<label>ATM</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-636374">
+<id>P46531</id>
+</interactant>
+<interactant intactId="EBI-359574">
+<id>Q969H0</id>
+<label>FBXW7</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>10</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-636374">
+<id>P46531</id>
+</interactant>
+<interactant intactId="EBI-447269">
+<id>Q16665</id>
+<label>HIF1A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-636374">
+<id>P46531</id>
+</interactant>
+<interactant intactId="EBI-2847071">
+<id>P78504</id>
+<label>JAG1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-636374">
+<id>P46531</id>
+</interactant>
+<interactant intactId="EBI-710124">
+<id>O60341</id>
+<label>KDM1A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-636374">
+<id>P46531</id>
+</interactant>
+<interactant intactId="EBI-2816428">
+<id>Q8N423</id>
+<label>LILRB2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-636374">
+<id>P46531</id>
+</interactant>
+<interactant intactId="EBI-908250">
+<id>Q92585</id>
+<label>MAML1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>14</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-636374">
+<id>P46531</id>
+</interactant>
+<interactant intactId="EBI-300010">
+<id>P19838</id>
+<label>NFKB1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-636374">
+<id>P46531</id>
+</interactant>
+<interactant intactId="EBI-636374">
+<id>P46531</id>
+<label>NOTCH1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-636374">
+<id>P46531</id>
+</interactant>
+<interactant intactId="EBI-714158">
+<id>Q13526</id>
+<label>PIN1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>9</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-636374">
+<id>P46531</id>
+</interactant>
+<interactant intactId="EBI-632552">
+<id>Q06330</id>
+<label>RBPJ</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>12</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-636374">
+<id>P46531</id>
+</interactant>
+<interactant intactId="EBI-12599287">
+<id>Q06330-6</id>
+<label>RBPJ</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-636374">
+<id>P46531</id>
+</interactant>
+<interactant intactId="EBI-632715">
+<id>Q13573</id>
+<label>SNW1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-636374">
+<id>P46531</id>
+</interactant>
+<interactant intactId="EBI-517127">
+<id>P98170</id>
+<label>XIAP</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="12">Cell membrane</location>
+<topology evidence="36">Single-pass type I membrane protein</topology>
+</subcellularLocation>
+</comment>
+<comment type="subcellular location">
+<molecule>Notch 1 intracellular domain</molecule>
+<subcellularLocation>
+<location evidence="12">Nucleus</location>
+</subcellularLocation>
+<text evidence="12">Following proteolytical processing NICD is translocated to the nucleus. Nuclear location may require MEGF10.</text>
+</comment>
+<comment type="tissue specificity">
+<text>In fetal tissues most abundant in spleen, brain stem and lung. Also present in most adult tissues where it is found mainly in lymphoid tissues.</text>
+</comment>
+<comment type="domain">
+<text evidence="32">Interaction with PSEN1 causes partial unwinding of the transmembrane helix, facilitating access to the scissile peptide bond.</text>
+</comment>
+<comment type="PTM">
+<text evidence="12 27 32">Synthesized in the endoplasmic reticulum as an inactive form which is proteolytically cleaved by a furin-like convertase in the trans-Golgi network before it reaches the plasma membrane to yield an active, ligand-accessible form (By similarity). Cleavage results in a C-terminal fragment N(TM) and a N-terminal fragment N(EC). Following ligand binding, it is cleaved by ADAM17 to yield a membrane-associated intermediate fragment called notch extracellular truncation (NEXT) (PubMed:24226769). Following endocytosis, this fragment is then cleaved by one of the catalytic subunits of gamma-secretase (PSEN1 or PSEN2), to release a Notch-derived peptide containing the intracellular domain (NICD) from the membrane (PubMed:30598546).</text>
+</comment>
+<comment type="PTM">
+<text evidence="11">Phosphorylated.</text>
+</comment>
+<comment type="PTM">
+<text evidence="12 13 27 31">O-glycosylated on the EGF-like domains (PubMed:24226769). O-glucosylated at Ser-435 by KDELC1 and KDELC2 (PubMed:30127001). Contains both O-linked fucose and O-linked glucose in the EGF-like domains 11, 12 and 13, which are interacting with the residues on DLL4 (By similarity). O-linked glycosylation by GALNT11 is involved in determination of left/right symmetry: glycosylation promotes activation of NOTCH1, possibly by promoting cleavage by ADAM17, modulating the balance between motile and immotile (sensory) cilia at the left-right organiser (LRO) (PubMed:24226769). MFNG-, RFNG- and LFNG-mediated modification of O-fucose residues at specific EGF-like domains results in inhibition of its activation by JAG1 and enhancement of its activation by DLL1 via an increased binding to DLL1 (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="24 26 27">Ubiquitinated. Undergoes 'Lys-29'-linked polyubiquitination by ITCH; promotes the lysosomal degradation of non-activated internalized NOTCH1 (PubMed:18628966, PubMed:23886940). Monoubiquitination at Lys-1759 is required for activation by gamma-secretase cleavage, it promotes interaction with AAK1, which stabilizes it. Deubiquitination by EIF3F is necessary for nuclear import of activated Notch (PubMed:24226769).</text>
+</comment>
+<comment type="PTM">
+<text evidence="11">Hydroxylated at Asn-1955 by HIF1AN. Hydroxylated at Asn-2022 by HIF1AN (By similarity). Hydroxylation reduces affinity for HI1AN and may thus indirectly modulate negative regulation of NICD (By similarity).</text>
+</comment>
+<comment type="disease" evidence="22">
+<disease id="DI-01186">
+<name>Aortic valve disease 1</name>
+<acronym>AOVD1</acronym>
+<description>A common defect in the aortic valve in which two rather than three leaflets are present. It is often associated with aortic valve calcification, stenosis and insufficiency. In extreme cases, the blood flow may be so restricted that the left ventricle fails to grow, resulting in hypoplastic left heart syndrome.</description>
+<dbReference type="MIM" id="109730"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="28">
+<disease id="DI-04227">
+<name>Adams-Oliver syndrome 5</name>
+<acronym>AOS5</acronym>
+<description>A form of Adams-Oliver syndrome, a disorder characterized by the congenital absence of skin (aplasia cutis congenita) in combination with transverse limb defects. Aplasia cutis congenita can be located anywhere on the body, but in the vast majority of the cases, it is present on the posterior parietal region where it is often associated with an underlying defect of the parietal bones. Limb abnormalities are typically limb truncation defects affecting the distal phalanges or entire digits (true ectrodactyly). Only rarely, metatarsals/metacarpals or more proximal limb structures are also affected. Apart from transverse limb defects, syndactyly, most commonly of second and third toes, can also be observed. The clinical features are highly variable and can also include cardiovascular malformations, brain abnormalities and vascular defects such as cutis marmorata and dilated scalp veins.</description>
+<dbReference type="MIM" id="616028"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="34">Belongs to the NOTCH family.</text>
+</comment>
+<comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+<link uri="http://atlasgeneticsoncology.org/Genes/NOTCH1ID30ch9q34.html"/>
+</comment>
+<dbReference type="EMBL" id="AF308602">
+<property type="protein sequence ID" value="AAG33848.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL592301">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL354671">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M73980">
+<property type="protein sequence ID" value="AAA60614.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB209873">
+<property type="protein sequence ID" value="BAD93110.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS43905.1"/>
+<dbReference type="PIR" id="A40043">
+<property type="entry name" value="A40043"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_060087.3">
+<property type="nucleotide sequence ID" value="NM_017617.4"/>
+</dbReference>
+<dbReference type="PDB" id="1PB5">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1446-1480"/>
+</dbReference>
+<dbReference type="PDB" id="1TOZ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=411-526"/>
+</dbReference>
+<dbReference type="PDB" id="1YYH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=1872-2114"/>
+</dbReference>
+<dbReference type="PDB" id="2F8X">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.25"/>
+<property type="chains" value="K=1872-2126"/>
+</dbReference>
+<dbReference type="PDB" id="2F8Y">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.55"/>
+<property type="chains" value="A/B=1905-2126"/>
+</dbReference>
+<dbReference type="PDB" id="2HE0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=1872-2114"/>
+</dbReference>
+<dbReference type="PDB" id="2VJ3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.60"/>
+<property type="chains" value="A=411-526"/>
+</dbReference>
+<dbReference type="PDB" id="3ETO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=1446-1733"/>
+</dbReference>
+<dbReference type="PDB" id="3I08">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="A/C=1446-1664, B/D=1665-1733"/>
+</dbReference>
+<dbReference type="PDB" id="3L95">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.19"/>
+<property type="chains" value="X/Y=1448-1728"/>
+</dbReference>
+<dbReference type="PDB" id="3NBN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.45"/>
+<property type="chains" value="B/E=1872-2126"/>
+</dbReference>
+<dbReference type="PDB" id="3V79">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.85"/>
+<property type="chains" value="K=1872-2126, R=1759-1777"/>
+</dbReference>
+<dbReference type="PDB" id="4CUD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A=411-526"/>
+</dbReference>
+<dbReference type="PDB" id="4CUE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A=411-526"/>
+</dbReference>
+<dbReference type="PDB" id="4CUF">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.29"/>
+<property type="chains" value="A=411-526"/>
+</dbReference>
+<dbReference type="PDB" id="4D0E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.61"/>
+<property type="chains" value="A=411-526"/>
+</dbReference>
+<dbReference type="PDB" id="4D0F">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A=411-526"/>
+</dbReference>
+<dbReference type="PDB" id="5FM9">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.92"/>
+<property type="chains" value="A=140-294"/>
+</dbReference>
+<dbReference type="PDB" id="5FMA">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.46"/>
+<property type="chains" value="A/B=142-294"/>
+</dbReference>
+<dbReference type="PDB" id="5KZO">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1721-1771"/>
+</dbReference>
+<dbReference type="PDB" id="5L0R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="B=452-491"/>
+</dbReference>
+<dbReference type="PDB" id="5UB5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.09"/>
+<property type="chains" value="B=452-491"/>
+</dbReference>
+<dbReference type="PDB" id="6IDF">
+<property type="method" value="EM"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="E=1721-1821"/>
+</dbReference>
+<dbReference type="PDB" id="6PY8">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.75"/>
+<property type="chains" value="F/K=1759-2127"/>
+</dbReference>
+<dbReference type="PDBsum" id="1PB5"/>
+<dbReference type="PDBsum" id="1TOZ"/>
+<dbReference type="PDBsum" id="1YYH"/>
+<dbReference type="PDBsum" id="2F8X"/>
+<dbReference type="PDBsum" id="2F8Y"/>
+<dbReference type="PDBsum" id="2HE0"/>
+<dbReference type="PDBsum" id="2VJ3"/>
+<dbReference type="PDBsum" id="3ETO"/>
+<dbReference type="PDBsum" id="3I08"/>
+<dbReference type="PDBsum" id="3L95"/>
+<dbReference type="PDBsum" id="3NBN"/>
+<dbReference type="PDBsum" id="3V79"/>
+<dbReference type="PDBsum" id="4CUD"/>
+<dbReference type="PDBsum" id="4CUE"/>
+<dbReference type="PDBsum" id="4CUF"/>
+<dbReference type="PDBsum" id="4D0E"/>
+<dbReference type="PDBsum" id="4D0F"/>
+<dbReference type="PDBsum" id="5FM9"/>
+<dbReference type="PDBsum" id="5FMA"/>
+<dbReference type="PDBsum" id="5KZO"/>
+<dbReference type="PDBsum" id="5L0R"/>
+<dbReference type="PDBsum" id="5UB5"/>
+<dbReference type="PDBsum" id="6IDF"/>
+<dbReference type="PDBsum" id="6PY8"/>
+<dbReference type="SMR" id="P46531"/>
+<dbReference type="BioGRID" id="110913">
+<property type="interactions" value="234"/>
+</dbReference>
+<dbReference type="CORUM" id="P46531"/>
+<dbReference type="DIP" id="DIP-29919N"/>
+<dbReference type="IntAct" id="P46531">
+<property type="interactions" value="157"/>
+</dbReference>
+<dbReference type="MINT" id="P46531"/>
+<dbReference type="STRING" id="9606.ENSP00000277541"/>
+<dbReference type="BindingDB" id="P46531"/>
+<dbReference type="ChEMBL" id="CHEMBL2146346"/>
+<dbReference type="TCDB" id="9.B.87.1.12">
+<property type="family name" value="the selenoprotein p receptor (selp-receptor) family"/>
+</dbReference>
+<dbReference type="GlyGen" id="P46531">
+<property type="glycosylation" value="47 sites, 1 O-linked glycan (2 sites)"/>
+</dbReference>
+<dbReference type="iPTMnet" id="P46531"/>
+<dbReference type="PhosphoSitePlus" id="P46531"/>
+<dbReference type="BioMuta" id="NOTCH1"/>
+<dbReference type="DMDM" id="206729936"/>
+<dbReference type="EPD" id="P46531"/>
+<dbReference type="jPOST" id="P46531"/>
+<dbReference type="MassIVE" id="P46531"/>
+<dbReference type="MaxQB" id="P46531"/>
+<dbReference type="PaxDb" id="P46531"/>
+<dbReference type="PeptideAtlas" id="P46531"/>
+<dbReference type="PRIDE" id="P46531"/>
+<dbReference type="ProteomicsDB" id="55742"/>
+<dbReference type="ABCD" id="P46531">
+<property type="antibodies" value="196 sequenced antibodies"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="8424">
+<property type="antibodies" value="1290 antibodies"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000651671">
+<property type="protein sequence ID" value="ENSP00000498587"/>
+<property type="gene ID" value="ENSG00000148400"/>
+</dbReference>
+<dbReference type="GeneID" id="4851"/>
+<dbReference type="KEGG" id="hsa:4851"/>
+<dbReference type="UCSC" id="uc004chz.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="4851"/>
+<dbReference type="DisGeNET" id="4851"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000148400.9"/>
+<dbReference type="GeneCards" id="NOTCH1"/>
+<dbReference type="GeneReviews" id="NOTCH1"/>
+<dbReference type="HGNC" id="HGNC:7881">
+<property type="gene designation" value="NOTCH1"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000148400">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MalaCards" id="NOTCH1"/>
+<dbReference type="MIM" id="109730">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="190198">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="616028">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P46531"/>
+<dbReference type="OpenTargets" id="ENSG00000148400"/>
+<dbReference type="Orphanet" id="974">
+<property type="disease" value="Adams-Oliver syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="402075">
+<property type="disease" value="Familial bicuspid aortic valve"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA31683"/>
+<dbReference type="eggNOG" id="KOG1217">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000157157"/>
+<dbReference type="HOGENOM" id="CLU_000576_2_0_1"/>
+<dbReference type="InParanoid" id="P46531"/>
+<dbReference type="KO" id="K02599"/>
+<dbReference type="OMA" id="NEGSCLD"/>
+<dbReference type="OrthoDB" id="7525at2759"/>
+<dbReference type="PhylomeDB" id="P46531"/>
+<dbReference type="TreeFam" id="TF351641"/>
+<dbReference type="PathwayCommons" id="P46531"/>
+<dbReference type="Reactome" id="R-HSA-1912399">
+<property type="pathway name" value="Pre-NOTCH Processing in the Endoplasmic Reticulum"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1912408">
+<property type="pathway name" value="Pre-NOTCH Transcription and Translation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1912420">
+<property type="pathway name" value="Pre-NOTCH Processing in Golgi"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-210744">
+<property type="pathway name" value="Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2122947">
+<property type="pathway name" value="NOTCH1 Intracellular Domain Regulates Transcription"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2122948">
+<property type="pathway name" value="Activated NOTCH1 Transmits Signal to the Nucleus"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2644606">
+<property type="pathway name" value="Constitutive Signaling by NOTCH1 PEST Domain Mutants"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2644607">
+<property type="pathway name" value="Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2660826">
+<property type="pathway name" value="Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2691232">
+<property type="pathway name" value="Constitutive Signaling by NOTCH1 HD Domain Mutants"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2894862">
+<property type="pathway name" value="Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-350054">
+<property type="pathway name" value="Notch-HLH transcription pathway"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5083630">
+<property type="pathway name" value="Defective LFNG causes SCDO3"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8941856">
+<property type="pathway name" value="RUNX3 regulates NOTCH signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9013508">
+<property type="pathway name" value="NOTCH3 Intracellular Domain Regulates Transcription"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9013695">
+<property type="pathway name" value="NOTCH4 Intracellular Domain Regulates Transcription"/>
+</dbReference>
+<dbReference type="SignaLink" id="P46531"/>
+<dbReference type="SIGNOR" id="P46531"/>
+<dbReference type="BioGRID-ORCS" id="4851">
+<property type="hits" value="7 hits in 885 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="NOTCH1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P46531"/>
+<dbReference type="GeneWiki" id="Notch-1"/>
+<dbReference type="GenomeRNAi" id="4851"/>
+<dbReference type="Pharos" id="P46531">
+<property type="development level" value="Tchem"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P46531"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 9"/>
+</dbReference>
+<dbReference type="RNAct" id="P46531">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000148400">
+<property type="expression patterns" value="Expressed in ventricular zone and 228 other tissues"/>
+</dbReference>
+<dbReference type="Genevisible" id="P46531">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001669">
+<property type="term" value="C:acrosomal vesicle"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005912">
+<property type="term" value="C:adherens junction"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016324">
+<property type="term" value="C:apical plasma membrane"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009986">
+<property type="term" value="C:cell surface"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005789">
+<property type="term" value="C:endoplasmic reticulum membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000139">
+<property type="term" value="C:Golgi membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002193">
+<property type="term" value="C:MAML1-RBP-Jkappa- ICN1 complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043235">
+<property type="term" value="C:receptor complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005509">
+<property type="term" value="F:calcium ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031490">
+<property type="term" value="F:chromatin DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019899">
+<property type="term" value="F:enzyme binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004857">
+<property type="term" value="F:enzyme inhibitor activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005112">
+<property type="term" value="F:Notch binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003713">
+<property type="term" value="F:transcription coactivator activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004888">
+<property type="term" value="F:transmembrane signaling receptor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031100">
+<property type="term" value="P:animal organ regeneration"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003180">
+<property type="term" value="P:aortic valve morphogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902263">
+<property type="term" value="P:apoptotic process involved in embryonic digit morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060842">
+<property type="term" value="P:arterial endothelial cell differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048708">
+<property type="term" value="P:astrocyte differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003162">
+<property type="term" value="P:atrioventricular node development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003181">
+<property type="term" value="P:atrioventricular valve morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009912">
+<property type="term" value="P:auditory receptor cell fate commitment"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007411">
+<property type="term" value="P:axon guidance"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048754">
+<property type="term" value="P:branching morphogenesis of an epithelial tube"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003209">
+<property type="term" value="P:cardiac atrium morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003207">
+<property type="term" value="P:cardiac chamber formation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060317">
+<property type="term" value="P:cardiac epithelial to mesenchymal transition"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003214">
+<property type="term" value="P:cardiac left ventricle morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060038">
+<property type="term" value="P:cardiac muscle cell proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055008">
+<property type="term" value="P:cardiac muscle tissue morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003213">
+<property type="term" value="P:cardiac right atrium morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003219">
+<property type="term" value="P:cardiac right ventricle formation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060411">
+<property type="term" value="P:cardiac septum morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060948">
+<property type="term" value="P:cardiac vascular smooth muscle cell development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003208">
+<property type="term" value="P:cardiac ventricle morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007050">
+<property type="term" value="P:cell cycle arrest"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021515">
+<property type="term" value="P:cell differentiation in spinal cord"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001708">
+<property type="term" value="P:cell fate specification"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003273">
+<property type="term" value="P:cell migration involved in endocardial cushion formation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071372">
+<property type="term" value="P:cellular response to follicle-stimulating hormone stimulus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035924">
+<property type="term" value="P:cellular response to vascular endothelial growth factor stimulus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060271">
+<property type="term" value="P:cilium assembly"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072044">
+<property type="term" value="P:collecting duct development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007386">
+<property type="term" value="P:compartment pattern specification"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060982">
+<property type="term" value="P:coronary artery morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003182">
+<property type="term" value="P:coronary sinus valve morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003169">
+<property type="term" value="P:coronary vein morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007368">
+<property type="term" value="P:determination of left/right symmetry"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072017">
+<property type="term" value="P:distal tubule development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035116">
+<property type="term" value="P:embryonic hindlimb morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060956">
+<property type="term" value="P:endocardial cell differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003203">
+<property type="term" value="P:endocardial cushion morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003157">
+<property type="term" value="P:endocardium development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003160">
+<property type="term" value="P:endocardium morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007492">
+<property type="term" value="P:endoderm development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001837">
+<property type="term" value="P:epithelial to mesenchymal transition"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003198">
+<property type="term" value="P:epithelial to mesenchymal transition involved in endocardial cushion formation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030900">
+<property type="term" value="P:forebrain development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007440">
+<property type="term" value="P:foregut morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072144">
+<property type="term" value="P:glomerular mesangial cell development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003241">
+<property type="term" value="P:growth involved in heart morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031069">
+<property type="term" value="P:hair follicle morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007507">
+<property type="term" value="P:heart development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="DFLAT"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001947">
+<property type="term" value="P:heart looping"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061384">
+<property type="term" value="P:heart trabecula morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048873">
+<property type="term" value="P:homeostasis of number of cells within a tissue"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006959">
+<property type="term" value="P:humoral immune response"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006955">
+<property type="term" value="P:immune response"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001701">
+<property type="term" value="P:in utero embryonic development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002437">
+<property type="term" value="P:inflammatory response to antigenic stimulus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032633">
+<property type="term" value="P:interleukin-4 production"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030216">
+<property type="term" value="P:keratinocyte differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070986">
+<property type="term" value="P:left/right axis specification"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001889">
+<property type="term" value="P:liver development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030324">
+<property type="term" value="P:lung development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014031">
+<property type="term" value="P:mesenchymal cell development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003192">
+<property type="term" value="P:mitral valve formation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000811">
+<property type="term" value="P:negative regulation of anoikis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070168">
+<property type="term" value="P:negative regulation of biomineral tissue development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030514">
+<property type="term" value="P:negative regulation of BMP signaling pathway"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045955">
+<property type="term" value="P:negative regulation of calcium ion-dependent exocytosis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090090">
+<property type="term" value="P:negative regulation of canonical Wnt signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010614">
+<property type="term" value="P:negative regulation of cardiac muscle hypertrophy"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043086">
+<property type="term" value="P:negative regulation of catalytic activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060354">
+<property type="term" value="P:negative regulation of cell adhesion molecule production"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090051">
+<property type="term" value="P:negative regulation of cell migration involved in sprouting angiogenesis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008285">
+<property type="term" value="P:negative regulation of cell population proliferation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003252">
+<property type="term" value="P:negative regulation of cell proliferation involved in heart valve morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000048">
+<property type="term" value="P:negative regulation of cell-cell adhesion mediated by cadherin"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010812">
+<property type="term" value="P:negative regulation of cell-substrate adhesion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0120163">
+<property type="term" value="P:negative regulation of cold-induced thermogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="YuBioLab"/>
+</dbReference>
+<dbReference type="GO" id="GO:2001027">
+<property type="term" value="P:negative regulation of endothelial cell chemotaxis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003332">
+<property type="term" value="P:negative regulation of extracellular matrix constituent secretion"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010629">
+<property type="term" value="P:negative regulation of gene expression"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060253">
+<property type="term" value="P:negative regulation of glial cell proliferation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045967">
+<property type="term" value="P:negative regulation of growth rate"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045608">
+<property type="term" value="P:negative regulation of inner ear auditory receptor cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045662">
+<property type="term" value="P:negative regulation of myoblast differentiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010832">
+<property type="term" value="P:negative regulation of myotube differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050768">
+<property type="term" value="P:negative regulation of neurogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048715">
+<property type="term" value="P:negative regulation of oligodendrocyte differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030279">
+<property type="term" value="P:negative regulation of ossification"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045668">
+<property type="term" value="P:negative regulation of osteoblast differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046533">
+<property type="term" value="P:negative regulation of photoreceptor cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000974">
+<property type="term" value="P:negative regulation of pro-B cell differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000737">
+<property type="term" value="P:negative regulation of stem cell differentiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000122">
+<property type="term" value="P:negative regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021915">
+<property type="term" value="P:neural tube development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097150">
+<property type="term" value="P:neuronal stem cell population maintenance"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061314">
+<property type="term" value="P:Notch signaling involved in heart development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007219">
+<property type="term" value="P:Notch signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003270">
+<property type="term" value="P:Notch signaling pathway involved in regulation of secondary heart field cardioblast proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048709">
+<property type="term" value="P:oligodendrocyte differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003151">
+<property type="term" value="P:outflow tract morphogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003344">
+<property type="term" value="P:pericardium morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903849">
+<property type="term" value="P:positive regulation of aorta morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902339">
+<property type="term" value="P:positive regulation of apoptotic process involved in morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048711">
+<property type="term" value="P:positive regulation of astrocyte differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030513">
+<property type="term" value="P:positive regulation of BMP signaling pathway"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0062043">
+<property type="term" value="P:positive regulation of cardiac epithelial to mesenchymal transition"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060045">
+<property type="term" value="P:positive regulation of cardiac muscle cell proliferation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030335">
+<property type="term" value="P:positive regulation of cell migration"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008284">
+<property type="term" value="P:positive regulation of cell population proliferation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045603">
+<property type="term" value="P:positive regulation of endothelial cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050679">
+<property type="term" value="P:positive regulation of epithelial cell proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070374">
+<property type="term" value="P:positive regulation of ERK1 and ERK2 cascade"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010628">
+<property type="term" value="P:positive regulation of gene expression"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045618">
+<property type="term" value="P:positive regulation of keratinocyte differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002052">
+<property type="term" value="P:positive regulation of neuroblast proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045747">
+<property type="term" value="P:positive regulation of Notch signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046579">
+<property type="term" value="P:positive regulation of Ras protein signal transduction"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046427">
+<property type="term" value="P:positive regulation of receptor signaling pathway via JAK-STAT"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061419">
+<property type="term" value="P:positive regulation of transcription from RNA polymerase II promoter in response to hypoxia"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007221">
+<property type="term" value="P:positive regulation of transcription of Notch receptor target"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045893">
+<property type="term" value="P:positive regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045070">
+<property type="term" value="P:positive regulation of viral genome replication"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060740">
+<property type="term" value="P:prostate gland epithelium morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003184">
+<property type="term" value="P:pulmonary valve morphogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060768">
+<property type="term" value="P:regulation of epithelial cell proliferation involved in prostate gland development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901201">
+<property type="term" value="P:regulation of extracellular matrix assembly"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014807">
+<property type="term" value="P:regulation of somitogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003256">
+<property type="term" value="P:regulation of transcription from RNA polymerase II promoter involved in myocardial precursor cell differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006355">
+<property type="term" value="P:regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031960">
+<property type="term" value="P:response to corticosteroid"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032496">
+<property type="term" value="P:response to lipopolysaccharide"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032495">
+<property type="term" value="P:response to muramyl dipeptide"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060528">
+<property type="term" value="P:secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035914">
+<property type="term" value="P:skeletal muscle cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048103">
+<property type="term" value="P:somatic stem cell division"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007283">
+<property type="term" value="P:spermatogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002040">
+<property type="term" value="P:sprouting angiogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042246">
+<property type="term" value="P:tissue regeneration"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006367">
+<property type="term" value="P:transcription initiation from RNA polymerase II promoter"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035148">
+<property type="term" value="P:tube formation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060979">
+<property type="term" value="P:vasculogenesis involved in coronary vascular morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060843">
+<property type="term" value="P:venous endothelial cell differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060412">
+<property type="term" value="P:ventricular septum morphogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003222">
+<property type="term" value="P:ventricular trabecula myocardium morphogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="DisProt" id="DP01104"/>
+<dbReference type="Gene3D" id="1.25.40.20">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="IDEAL" id="IID00199"/>
+<dbReference type="InterPro" id="IPR002110">
+<property type="entry name" value="Ankyrin_rpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020683">
+<property type="entry name" value="Ankyrin_rpt-contain_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036770">
+<property type="entry name" value="Ankyrin_rpt-contain_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024600">
+<property type="entry name" value="DUF3454_notch"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001881">
+<property type="entry name" value="EGF-like_Ca-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013032">
+<property type="entry name" value="EGF-like_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000742">
+<property type="entry name" value="EGF-like_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000152">
+<property type="entry name" value="EGF-type_Asp/Asn_hydroxyl_site"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018097">
+<property type="entry name" value="EGF_Ca-bd_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009030">
+<property type="entry name" value="Growth_fac_rcpt_cys_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008297">
+<property type="entry name" value="Notch"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035993">
+<property type="entry name" value="Notch-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022362">
+<property type="entry name" value="Notch_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000800">
+<property type="entry name" value="Notch_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR010660">
+<property type="entry name" value="Notch_NOD_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011656">
+<property type="entry name" value="Notch_NODP_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12796">
+<property type="entry name" value="Ank_2"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF11936">
+<property type="entry name" value="DUF3454"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00008">
+<property type="entry name" value="EGF"/>
+<property type="match status" value="25"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07645">
+<property type="entry name" value="EGF_CA"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="Pfam" id="PF12661">
+<property type="entry name" value="hEGF"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF06816">
+<property type="entry name" value="NOD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07684">
+<property type="entry name" value="NODP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00066">
+<property type="entry name" value="Notch"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF002279">
+<property type="entry name" value="Notch"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01452">
+<property type="entry name" value="LNOTCHREPEAT"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01984">
+<property type="entry name" value="NOTCH1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00248">
+<property type="entry name" value="ANK"/>
+<property type="match status" value="6"/>
+</dbReference>
+<dbReference type="SMART" id="SM01334">
+<property type="entry name" value="DUF3454"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00181">
+<property type="entry name" value="EGF"/>
+<property type="match status" value="36"/>
+</dbReference>
+<dbReference type="SMART" id="SM00179">
+<property type="entry name" value="EGF_CA"/>
+<property type="match status" value="33"/>
+</dbReference>
+<dbReference type="SMART" id="SM00004">
+<property type="entry name" value="NL"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="SMART" id="SM01338">
+<property type="entry name" value="NOD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01339">
+<property type="entry name" value="NODP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48403">
+<property type="entry name" value="SSF48403"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF57184">
+<property type="entry name" value="SSF57184"/>
+<property type="match status" value="6"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF90193">
+<property type="entry name" value="SSF90193"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50297">
+<property type="entry name" value="ANK_REP_REGION"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50088">
+<property type="entry name" value="ANK_REPEAT"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00010">
+<property type="entry name" value="ASX_HYDROXYL"/>
+<property type="match status" value="22"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00022">
+<property type="entry name" value="EGF_1"/>
+<property type="match status" value="35"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01186">
+<property type="entry name" value="EGF_2"/>
+<property type="match status" value="27"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50026">
+<property type="entry name" value="EGF_3"/>
+<property type="match status" value="36"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01187">
+<property type="entry name" value="EGF_CA"/>
+<property type="match status" value="20"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50258">
+<property type="entry name" value="LNR"/>
+<property type="match status" value="3"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0010">Activator</keyword>
+<keyword id="KW-0037">Angiogenesis</keyword>
+<keyword id="KW-0040">ANK repeat</keyword>
+<keyword id="KW-0106">Calcium</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0217">Developmental protein</keyword>
+<keyword id="KW-0221">Differentiation</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0245">EGF-like domain</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0379">Hydroxylation</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0914">Notch signaling pathway</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-0675">Receptor</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<feature type="signal peptide" evidence="14">
+<location>
+<begin position="1"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="chain" description="Neurogenic locus notch homolog protein 1" id="PRO_0000007674">
+<location>
+<begin position="19"/>
+<end position="2555"/>
+</location>
+</feature>
+<feature type="chain" description="Notch 1 extracellular truncation" id="PRO_0000007675" evidence="11">
+<location>
+<begin position="1721"/>
+<end position="2555"/>
+</location>
+</feature>
+<feature type="chain" description="Notch 1 intracellular domain" id="PRO_0000007676" evidence="11">
+<location>
+<begin position="1754"/>
+<end position="2555"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="35 36">
+<location>
+<begin position="19"/>
+<end position="1735"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="30 32">
+<location>
+<begin position="1736"/>
+<end position="1756"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="35 36">
+<location>
+<begin position="1757"/>
+<end position="2555"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 1" evidence="15">
+<location>
+<begin position="20"/>
+<end position="58"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 2" evidence="15">
+<location>
+<begin position="59"/>
+<end position="99"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 3" evidence="15">
+<location>
+<begin position="102"/>
+<end position="139"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 4" evidence="15">
+<location>
+<begin position="140"/>
+<end position="176"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 5; calcium-binding" evidence="15">
+<location>
+<begin position="178"/>
+<end position="216"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 6" evidence="15">
+<location>
+<begin position="218"/>
+<end position="255"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 7; calcium-binding" evidence="15">
+<location>
+<begin position="257"/>
+<end position="293"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 8; calcium-binding" evidence="15">
+<location>
+<begin position="295"/>
+<end position="333"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 9; calcium-binding" evidence="15">
+<location>
+<begin position="335"/>
+<end position="371"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 10" evidence="15">
+<location>
+<begin position="372"/>
+<end position="410"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 11; calcium-binding" evidence="15">
+<location>
+<begin position="412"/>
+<end position="450"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 12; calcium-binding" evidence="15">
+<location>
+<begin position="452"/>
+<end position="488"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 13; calcium-binding" evidence="15">
+<location>
+<begin position="490"/>
+<end position="526"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 14; calcium-binding" evidence="15">
+<location>
+<begin position="528"/>
+<end position="564"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 15; calcium-binding" evidence="15">
+<location>
+<begin position="566"/>
+<end position="601"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 16; calcium-binding" evidence="15">
+<location>
+<begin position="603"/>
+<end position="639"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 17; calcium-binding" evidence="15">
+<location>
+<begin position="641"/>
+<end position="676"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 18; calcium-binding" evidence="15">
+<location>
+<begin position="678"/>
+<end position="714"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 19; calcium-binding" evidence="15">
+<location>
+<begin position="716"/>
+<end position="751"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 20" evidence="15">
+<location>
+<begin position="753"/>
+<end position="789"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 21; calcium-binding" evidence="15">
+<location>
+<begin position="791"/>
+<end position="827"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 22" evidence="15">
+<location>
+<begin position="829"/>
+<end position="867"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 23; calcium-binding" evidence="15">
+<location>
+<begin position="869"/>
+<end position="905"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 24" evidence="15">
+<location>
+<begin position="907"/>
+<end position="943"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 25; calcium-binding" evidence="15">
+<location>
+<begin position="945"/>
+<end position="981"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 26" evidence="15">
+<location>
+<begin position="983"/>
+<end position="1019"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 27" evidence="15">
+<location>
+<begin position="1021"/>
+<end position="1057"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 28" evidence="15">
+<location>
+<begin position="1059"/>
+<end position="1095"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 29" evidence="34">
+<location>
+<begin position="1097"/>
+<end position="1143"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 30" evidence="15">
+<location>
+<begin position="1145"/>
+<end position="1181"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 31; calcium-binding" evidence="15">
+<location>
+<begin position="1183"/>
+<end position="1219"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 32; calcium-binding" evidence="15">
+<location>
+<begin position="1221"/>
+<end position="1265"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 33" evidence="15">
+<location>
+<begin position="1267"/>
+<end position="1305"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 34" evidence="15">
+<location>
+<begin position="1307"/>
+<end position="1346"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 35" evidence="15">
+<location>
+<begin position="1348"/>
+<end position="1384"/>
+</location>
+</feature>
+<feature type="domain" description="EGF-like 36" evidence="15">
+<location>
+<begin position="1387"/>
+<end position="1426"/>
+</location>
+</feature>
+<feature type="repeat" description="LNR 1" evidence="16">
+<location>
+<begin position="1449"/>
+<end position="1489"/>
+</location>
+</feature>
+<feature type="repeat" description="LNR 2" evidence="16">
+<location>
+<begin position="1490"/>
+<end position="1531"/>
+</location>
+</feature>
+<feature type="repeat" description="LNR 3" evidence="16">
+<location>
+<begin position="1532"/>
+<end position="1571"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 1" evidence="14">
+<location>
+<begin position="1927"/>
+<end position="1956"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 2" evidence="14">
+<location>
+<begin position="1960"/>
+<end position="1990"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 3" evidence="14">
+<location>
+<begin position="1994"/>
+<end position="2023"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 4" evidence="14">
+<location>
+<begin position="2027"/>
+<end position="2056"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 5" evidence="14">
+<location>
+<begin position="2060"/>
+<end position="2089"/>
+</location>
+</feature>
+<feature type="repeat" description="ANK 6">
+<location>
+<begin position="2095"/>
+<end position="2122"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with DLL4" evidence="13">
+<location>
+<begin position="420"/>
+<end position="421"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with DLL4" evidence="13">
+<location>
+<begin position="448"/>
+<end position="452"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with PSEN1" evidence="32">
+<location>
+<begin position="1728"/>
+<end position="1760"/>
+</location>
+</feature>
+<feature type="region of interest" description="HIF1AN-binding" evidence="11">
+<location>
+<begin position="1947"/>
+<end position="1955"/>
+</location>
+</feature>
+<feature type="region of interest" description="HIF1AN-binding" evidence="11">
+<location>
+<begin position="2014"/>
+<end position="2022"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Val">
+<location>
+<begin position="1575"/>
+<end position="1578"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Arg">
+<location>
+<begin position="1661"/>
+<end position="1664"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Pro">
+<location>
+<begin position="1728"/>
+<end position="1731"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ala">
+<location>
+<begin position="1740"/>
+<end position="1743"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Glu">
+<location>
+<begin position="1901"/>
+<end position="1904"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Gly">
+<location>
+<begin position="2259"/>
+<end position="2262"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Gln">
+<location>
+<begin position="2403"/>
+<end position="2406"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Pro">
+<location>
+<begin position="2410"/>
+<end position="2417"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ser">
+<location>
+<begin position="2521"/>
+<end position="2524"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1; via carbonyl oxygen" evidence="13">
+<location>
+<position position="432"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1; via amide nitrogen" evidence="13">
+<location>
+<position position="435"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2" evidence="13">
+<location>
+<position position="452"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2; via carbonyl oxygen" evidence="13">
+<location>
+<position position="453"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2" evidence="13">
+<location>
+<position position="455"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2" evidence="13">
+<location>
+<position position="469"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2; via carbonyl oxygen" evidence="13">
+<location>
+<position position="470"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 3" evidence="13">
+<location>
+<position position="490"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 3; via carbonyl oxygen" evidence="13">
+<location>
+<position position="491"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 3" evidence="13">
+<location>
+<position position="493"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 3" evidence="13">
+<location>
+<position position="507"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 3; via carbonyl oxygen" evidence="13">
+<location>
+<position position="508"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 4; via carbonyl oxygen">
+<location>
+<position position="1457"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 4">
+<location>
+<position position="1460"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 4">
+<location>
+<position position="1475"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 4">
+<location>
+<position position="1478"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DLL4" evidence="13">
+<location>
+<position position="469"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by furin-like protease" evidence="12">
+<location>
+<begin position="1664"/>
+<end position="1665"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by ADAM17" evidence="12">
+<location>
+<begin position="1710"/>
+<end position="1711"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="12">
+<location>
+<position position="1861"/>
+</location>
+</feature>
+<feature type="modified residue" description="(3S)-3-hydroxyasparagine; by HIF1AN; partial" evidence="23">
+<location>
+<position position="1955"/>
+</location>
+</feature>
+<feature type="modified residue" description="(3S)-3-hydroxyasparagine; by HIF1AN" evidence="11">
+<location>
+<position position="2022"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="14">
+<location>
+<position position="41"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="12">
+<location>
+<position position="65"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc...) threonine" evidence="12">
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc...) threonine" evidence="12">
+<location>
+<position position="116"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="12">
+<location>
+<position position="146"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc...) threonine" evidence="12">
+<location>
+<position position="194"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc...) threonine; alternate" evidence="27">
+<location>
+<position position="232"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (GalNAc...) threonine; alternate" evidence="27">
+<location>
+<position position="232"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc...) threonine" evidence="12">
+<location>
+<position position="311"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="12">
+<location>
+<position position="341"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc...) threonine" evidence="12">
+<location>
+<position position="349"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="12">
+<location>
+<position position="378"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="31">
+<location>
+<position position="435"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="13">
+<location>
+<position position="458"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc...) threonine" evidence="13">
+<location>
+<position position="466"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="13">
+<location>
+<position position="496"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="12">
+<location>
+<position position="534"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="12">
+<location>
+<position position="609"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc...) threonine" evidence="12">
+<location>
+<position position="617"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="12">
+<location>
+<position position="647"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc...) threonine" evidence="12">
+<location>
+<position position="692"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="12">
+<location>
+<position position="722"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="12">
+<location>
+<position position="759"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc...) threonine" evidence="12">
+<location>
+<position position="767"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (GlcNAc) serine" evidence="12">
+<location>
+<position position="784"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="12">
+<location>
+<position position="797"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc...) threonine" evidence="12">
+<location>
+<position position="805"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc) serine" evidence="12">
+<location>
+<position position="921"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="12">
+<location>
+<position position="951"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="14">
+<location>
+<position position="959"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc...) threonine" evidence="12">
+<location>
+<position position="997"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="12">
+<location>
+<position position="1027"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc...) threonine" evidence="12">
+<location>
+<position position="1035"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="12">
+<location>
+<position position="1065"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc...) threonine" evidence="12">
+<location>
+<position position="1159"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="14">
+<location>
+<position position="1179"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="12">
+<location>
+<position position="1189"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc...) threonine" evidence="12">
+<location>
+<position position="1197"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="14">
+<location>
+<position position="1241"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Glc...) serine" evidence="12">
+<location>
+<position position="1273"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc...) threonine" evidence="12">
+<location>
+<position position="1362"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (GlcNAc...) threonine" evidence="12">
+<location>
+<position position="1379"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (Fuc...) threonine; alternate" evidence="27">
+<location>
+<position position="1402"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (GalNAc...) threonine; alternate" evidence="27">
+<location>
+<position position="1402"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="14">
+<location>
+<position position="1489"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="14">
+<location>
+<position position="1587"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="O-linked (GalNAc...) threonine" evidence="27">
+<location>
+<position position="1725"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="24"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="31"/>
+<end position="46"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="48"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="63"/>
+<end position="74"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="68"/>
+<end position="87"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="89"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="106"/>
+<end position="117"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="111"/>
+<end position="127"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="129"/>
+<end position="138"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="144"/>
+<end position="155"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="149"/>
+<end position="164"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="166"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="182"/>
+<end position="195"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="189"/>
+<end position="204"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="206"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="222"/>
+<end position="233"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="227"/>
+<end position="243"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="245"/>
+<end position="254"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="261"/>
+<end position="272"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="266"/>
+<end position="281"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="283"/>
+<end position="292"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="299"/>
+<end position="312"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="306"/>
+<end position="321"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="323"/>
+<end position="332"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="339"/>
+<end position="350"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="344"/>
+<end position="359"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="361"/>
+<end position="370"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="376"/>
+<end position="387"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="381"/>
+<end position="398"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="400"/>
+<end position="409"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="13">
+<location>
+<begin position="416"/>
+<end position="429"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="13">
+<location>
+<begin position="423"/>
+<end position="438"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="13">
+<location>
+<begin position="440"/>
+<end position="449"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="13">
+<location>
+<begin position="456"/>
+<end position="467"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="13">
+<location>
+<begin position="461"/>
+<end position="476"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="13">
+<location>
+<begin position="478"/>
+<end position="487"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="13">
+<location>
+<begin position="494"/>
+<end position="505"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="13">
+<location>
+<begin position="499"/>
+<end position="514"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="13">
+<location>
+<begin position="516"/>
+<end position="525"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="532"/>
+<end position="543"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="537"/>
+<end position="552"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="554"/>
+<end position="563"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="570"/>
+<end position="580"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="575"/>
+<end position="589"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="591"/>
+<end position="600"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="607"/>
+<end position="618"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="612"/>
+<end position="627"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="629"/>
+<end position="638"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="645"/>
+<end position="655"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="650"/>
+<end position="664"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="666"/>
+<end position="675"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="682"/>
+<end position="693"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="687"/>
+<end position="702"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="704"/>
+<end position="713"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="720"/>
+<end position="730"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="725"/>
+<end position="739"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="741"/>
+<end position="750"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="757"/>
+<end position="768"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="762"/>
+<end position="777"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="779"/>
+<end position="788"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="795"/>
+<end position="806"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="800"/>
+<end position="815"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="817"/>
+<end position="826"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="833"/>
+<end position="844"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="838"/>
+<end position="855"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="857"/>
+<end position="866"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="873"/>
+<end position="884"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="878"/>
+<end position="893"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="895"/>
+<end position="904"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="911"/>
+<end position="922"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="916"/>
+<end position="931"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="933"/>
+<end position="942"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="949"/>
+<end position="960"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="954"/>
+<end position="969"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="971"/>
+<end position="980"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="987"/>
+<end position="998"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="992"/>
+<end position="1007"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1009"/>
+<end position="1018"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1025"/>
+<end position="1036"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1030"/>
+<end position="1045"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1047"/>
+<end position="1056"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1063"/>
+<end position="1074"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1068"/>
+<end position="1083"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1085"/>
+<end position="1094"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="34">
+<location>
+<begin position="1101"/>
+<end position="1122"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1116"/>
+<end position="1131"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1133"/>
+<end position="1142"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1149"/>
+<end position="1160"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1154"/>
+<end position="1169"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1171"/>
+<end position="1180"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1187"/>
+<end position="1198"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1192"/>
+<end position="1207"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1209"/>
+<end position="1218"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1238"/>
+<end position="1253"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1255"/>
+<end position="1264"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1271"/>
+<end position="1284"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1276"/>
+<end position="1293"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1295"/>
+<end position="1304"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1311"/>
+<end position="1322"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1316"/>
+<end position="1334"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1336"/>
+<end position="1345"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1352"/>
+<end position="1363"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1357"/>
+<end position="1372"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1374"/>
+<end position="1383"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1391"/>
+<end position="1403"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1397"/>
+<end position="1414"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="15">
+<location>
+<begin position="1416"/>
+<end position="1425"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="1449"/>
+<end position="1472"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="1454"/>
+<end position="1467"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="21">
+<location>
+<begin position="1463"/>
+<end position="1479"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="16">
+<location>
+<begin position="1490"/>
+<end position="1514"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="16">
+<location>
+<begin position="1496"/>
+<end position="1509"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="16">
+<location>
+<begin position="1505"/>
+<end position="1521"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="16">
+<location>
+<begin position="1536"/>
+<end position="1549"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="16">
+<location>
+<begin position="1545"/>
+<end position="1561"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="12">
+<location>
+<position position="1759"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11574885." id="VAR_034898">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="300"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AOS5; dbSNP:rs587777736." id="VAR_071960" evidence="28">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="429"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11574895." id="VAR_048990">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="879"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AOS5; dbSNP:rs587781259." id="VAR_071961" evidence="28">
+<original>C</original>
+<variation>Y</variation>
+<location>
+<position position="1496"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2229968." id="VAR_046618">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="1671"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In AOS5; dbSNP:rs587777734." id="VAR_071962" evidence="28">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="1989"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Formation of an artifactual disulfide bond with PSEN1." evidence="32">
+<original>P</original>
+<variation>C</variation>
+<location>
+<position position="1728"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of proteolytic cleavage by gamma-secretase." evidence="32">
+<location>
+<begin position="1755"/>
+<end position="1761"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAG33848 and 3; AAA60614." ref="1 3" evidence="34">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="187"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAG33848 and 3; AAA60614." ref="1 3" evidence="34">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="282"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAG33848 and 3; AAA60614." ref="1 3" evidence="34">
+<original>I</original>
+<variation>M</variation>
+<location>
+<position position="477"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAG33848 and 3; AAA60614." ref="1 3" evidence="34">
+<original>HG</original>
+<variation>LR</variation>
+<location>
+<begin position="614"/>
+<end position="615"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAG33848 and 3; AAA60614." ref="1 3" evidence="34">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="621"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAG33848 and 3; AAA60614." ref="1 3" evidence="34">
+<original>I</original>
+<variation>S</variation>
+<location>
+<position position="677"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAG33848 and 3; AAA60614." ref="1 3" evidence="34">
+<original>Y</original>
+<variation>I</variation>
+<location>
+<position position="775"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAG33848 and 3; AAA60614." ref="1 3" evidence="34">
+<original>Q</original>
+<variation>K</variation>
+<location>
+<position position="803"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAG33848 and 3; AAA60614." ref="1 3" evidence="34">
+<original>GWQ</original>
+<variation>AGAK</variation>
+<location>
+<begin position="860"/>
+<end position="862"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAG33848 and 3; AAA60614." ref="1 3" evidence="34">
+<original>D</original>
+<variation>V</variation>
+<location>
+<position position="1021"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAG33848 and 3; AAA60614." ref="1 3" evidence="34">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="1028"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAG33848 and 3; AAA60614." ref="1 3" evidence="34">
+<original>H</original>
+<variation>L</variation>
+<location>
+<position position="1032"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAG33848 and 3; AAA60614." ref="1 3" evidence="34">
+<original>CGSY</original>
+<variation>RGLH</variation>
+<location>
+<begin position="1040"/>
+<end position="1043"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="143"/>
+<end position="146"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="154"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="162"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="170"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="helix" evidence="7">
+<location>
+<begin position="181"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="turn" evidence="7">
+<location>
+<begin position="190"/>
+<end position="192"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="194"/>
+<end position="198"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="201"/>
+<end position="205"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="210"/>
+<end position="212"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="232"/>
+<end position="235"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="237"/>
+<end position="239"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="241"/>
+<end position="244"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="249"/>
+<end position="254"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="271"/>
+<end position="274"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="279"/>
+<end position="282"/>
+</location>
+</feature>
+<feature type="strand" evidence="7">
+<location>
+<begin position="289"/>
+<end position="292"/>
+</location>
+</feature>
+<feature type="helix" evidence="6">
+<location>
+<begin position="415"/>
+<end position="417"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="418"/>
+<end position="420"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="422"/>
+<end position="424"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="428"/>
+<end position="432"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="435"/>
+<end position="439"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="444"/>
+<end position="446"/>
+</location>
+</feature>
+<feature type="helix" evidence="9">
+<location>
+<begin position="455"/>
+<end position="458"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="466"/>
+<end position="470"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="473"/>
+<end position="477"/>
+</location>
+</feature>
+<feature type="strand" evidence="9">
+<location>
+<begin position="482"/>
+<end position="484"/>
+</location>
+</feature>
+<feature type="turn" evidence="6">
+<location>
+<begin position="493"/>
+<end position="496"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="500"/>
+<end position="502"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="504"/>
+<end position="507"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="512"/>
+<end position="515"/>
+</location>
+</feature>
+<feature type="strand" evidence="6">
+<location>
+<begin position="520"/>
+<end position="522"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1448"/>
+<end position="1450"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="1452"/>
+<end position="1457"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="1460"/>
+<end position="1462"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="1465"/>
+<end position="1467"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="1470"/>
+<end position="1472"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="1473"/>
+<end position="1476"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="1477"/>
+<end position="1482"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="1486"/>
+<end position="1489"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="1492"/>
+<end position="1494"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="1496"/>
+<end position="1498"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="1499"/>
+<end position="1501"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="1502"/>
+<end position="1504"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="1507"/>
+<end position="1509"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="1512"/>
+<end position="1519"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="1530"/>
+<end position="1532"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="1533"/>
+<end position="1539"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="1542"/>
+<end position="1544"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="1547"/>
+<end position="1549"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="1552"/>
+<end position="1559"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="1563"/>
+<end position="1565"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="1571"/>
+<end position="1580"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="1582"/>
+<end position="1587"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="1589"/>
+<end position="1600"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="1602"/>
+<end position="1606"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="1616"/>
+<end position="1620"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="1672"/>
+<end position="1681"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="1685"/>
+<end position="1688"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="1696"/>
+<end position="1708"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="1714"/>
+<end position="1716"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="1718"/>
+<end position="1724"/>
+</location>
+</feature>
+<feature type="strand" evidence="10">
+<location>
+<begin position="1733"/>
+<end position="1735"/>
+</location>
+</feature>
+<feature type="helix" evidence="10">
+<location>
+<begin position="1736"/>
+<end position="1741"/>
+</location>
+</feature>
+<feature type="helix" evidence="10">
+<location>
+<begin position="1743"/>
+<end position="1746"/>
+</location>
+</feature>
+<feature type="turn" evidence="10">
+<location>
+<begin position="1747"/>
+<end position="1752"/>
+</location>
+</feature>
+<feature type="strand" evidence="10">
+<location>
+<begin position="1755"/>
+<end position="1760"/>
+</location>
+</feature>
+<feature type="strand" evidence="8">
+<location>
+<begin position="1767"/>
+<end position="1769"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1884"/>
+<end position="1890"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1909"/>
+<end position="1914"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="1925"/>
+<end position="1927"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="1931"/>
+<end position="1937"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="1941"/>
+<end position="1949"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="1964"/>
+<end position="1970"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="1974"/>
+<end position="1982"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="1983"/>
+<end position="1985"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="1998"/>
+<end position="2005"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="2008"/>
+<end position="2016"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="2031"/>
+<end position="2037"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="2041"/>
+<end position="2049"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="2064"/>
+<end position="2071"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="2074"/>
+<end position="2082"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="2097"/>
+<end position="2103"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="2107"/>
+<end position="2115"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2F8X"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2F8Y"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2VJ3"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3ETO"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3L95"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4D0E"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5FMA"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5KZO"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5L0R"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6IDF"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000250"/>
+<evidence key="12" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q01705"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q07008"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000255"/>
+<evidence key="15" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00076"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00525"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10713164"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11101851"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12050162"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12370315"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12795601"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16025100"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17573339"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18628966"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20616313"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23886940"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24226769"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25132448"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26522984"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28439555"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30127001"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30598546"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9590294"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000305"/>
+<evidence key="35" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="28439555"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="30598546"/>
+</source>
+</evidence>
+<sequence length="2555" mass="272505" checksum="E173C872D195F028" modified="2008-09-23" version="4" precursor="true">MPPLLAPLLCLALLPALAARGPRCSQPGETCLNGGKCEAANGTEACVCGGAFVGPRCQDPNPCLSTPCKNAGTCHVVDRRGVADYACSCALGFSGPLCLTPLDNACLTNPCRNGGTCDLLTLTEYKCRCPPGWSGKSCQQADPCASNPCANGGQCLPFEASYICHCPPSFHGPTCRQDVNECGQKPGLCRHGGTCHNEVGSYRCVCRATHTGPNCERPYVPCSPSPCQNGGTCRPTGDVTHECACLPGFTGQNCEENIDDCPGNNCKNGGACVDGVNTYNCRCPPEWTGQYCTEDVDECQLMPNACQNGGTCHNTHGGYNCVCVNGWTGEDCSENIDDCASAACFHGATCHDRVASFYCECPHGRTGLLCHLNDACISNPCNEGSNCDTNPVNGKAICTCPSGYTGPACSQDVDECSLGANPCEHAGKCINTLGSFECQCLQGYTGPRCEIDVNECVSNPCQNDATCLDQIGEFQCICMPGYEGVHCEVNTDECASSPCLHNGRCLDKINEFQCECPTGFTGHLCQYDVDECASTPCKNGAKCLDGPNTYTCVCTEGYTGTHCEVDIDECDPDPCHYGSCKDGVATFTCLCRPGYTGHHCETNINECSSQPCRHGGTCQDRDNAYLCFCLKGTTGPNCEINLDDCASSPCDSGTCLDKIDGYECACEPGYTGSMCNINIDECAGNPCHNGGTCEDGINGFTCRCPEGYHDPTCLSEVNECNSNPCVHGACRDSLNGYKCDCDPGWSGTNCDINNNECESNPCVNGGTCKDMTSGYVCTCREGFSGPNCQTNINECASNPCLNQGTCIDDVAGYKCNCLLPYTGATCEVVLAPCAPSPCRNGGECRQSEDYESFSCVCPTGWQGQTCEVDINECVLSPCRHGASCQNTHGGYRCHCQAGYSGRNCETDIDDCRPNPCHNGGSCTDGINTAFCDCLPGFRGTFCEEDINECASDPCRNGANCTDCVDSYTCTCPAGFSGIHCENNTPDCTESSCFNGGTCVDGINSFTCLCPPGFTGSYCQHDVNECDSQPCLHGGTCQDGCGSYRCTCPQGYTGPNCQNLVHWCDSSPCKNGGKCWQTHTQYRCECPSGWTGLYCDVPSVSCEVAAQRQGVDVARLCQHGGLCVDAGNTHHCRCQAGYTGSYCEDLVDECSPSPCQNGATCTDYLGGYSCKCVAGYHGVNCSEEIDECLSHPCQNGGTCLDLPNTYKCSCPRGTQGVHCEINVDDCNPPVDPVSRSPKCFNNGTCVDQVGGYSCTCPPGFVGERCEGDVNECLSNPCDARGTQNCVQRVNDFHCECRAGHTGRRCESVINGCKGKPCKNGGTCAVASNTARGFICKCPAGFEGATCENDARTCGSLRCLNGGTCISGPRSPTCLCLGPFTGPECQFPASSPCLGGNPCYNQGTCEPTSESPFYRCLCPAKFNGLLCHILDYSFGGGAGRDIPPPLIEEACELPECQEDAGNKVCSLQCNNHACGWDGGDCSLNFNDPWKNCTQSLQCWKYFSDGHCDSQCNSAGCLFDGFDCQRAEGQCNPLYDQYCKDHFSDGHCDQGCNSAECEWDGLDCAEHVPERLAAGTLVVVVLMPPEQLRNSSFHFLRELSRVLHTNVVFKRDAHGQQMIFPYYGREEELRKHPIKRAAEGWAAPDALLGQVKASLLPGGSEGGRRRRELDPMDVRGSIVYLEIDNRQCVQASSQCFQSATDVAAFLGALASLGSLNIPYKIEAVQSETVEPPPPAQLHFMYVAAAAFVLLFFVGCGVLLSRKRRRQHGQLWFPEGFKVSEASKKKRREPLGEDSVGLKPLKNASDGALMDDNQNEWGDEDLETKKFRFEEPVVLPDLDDQTDHRQWTQQHLDAADLRMSAMAPTPPQGEVDADCMDVNVRGPDGFTPLMIASCSGGGLETGNSEEEEDAPAVISDFIYQGASLHNQTDRTGETALHLAARYSRSDAAKRLLEASADANIQDNMGRTPLHAAVSADAQGVFQILIRNRATDLDARMHDGTTPLILAARLAVEGMLEDLINSHADVNAVDDLGKSALHWAAAVNNVDAAVVLLKNGANKDMQNNREETPLFLAAREGSYETAKVLLDHFANRDITDHMDRLPRDIAQERMHHDIVRLLDEYNLVRSPQLHGAPLGGTPTLSPPLCSPNGYLGSLKPGVQGKKVRKPSSKGLACGSKEAKDLKARRKKSQDGKGCLLDSSGMLSPVDSLESPHGYLSDVASPPLLPSPFQQSPSVPLNHLPGMPDTHLGIGHLNVAAKPEMAALGGGGRLAFETGPPRLSHLPVASGTSTVLGSSSGGALNFTVGGSTSLNGQCEWLSRLQSGMVPNQYNPLRGSVAPGPLSTQAPSLQHGMVGPLHSSLAASALSQMMSYQGLPSTRLATQPHLVQTQQVQPQNLQMQQQNLQPANIQQQQSLQPPPPPPQPHLGVSSAASGHLGRSFLSGEPSQADVQPLGPSSLAVHTILPQESPALPTSLPSSLVPPVTAAQFLTPPSQHSYSSPVDNTPSHQLQVPEHPFLTPSPESPDQWSSSSPHSNVSDWSEGVSSPPTSMQSQIARIPEAFK</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

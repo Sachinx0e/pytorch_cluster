@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2002-01-23" modified="2020-08-12" version="175">
+<accession>Q9NP71</accession>
+<accession>C5HU02</accession>
+<accession>C5HU03</accession>
+<accession>C5HU04</accession>
+<accession>Q96E48</accession>
+<accession>Q9BY03</accession>
+<accession>Q9BY04</accession>
+<accession>Q9BY05</accession>
+<accession>Q9BY06</accession>
+<accession>Q9Y2P3</accession>
+<name>MLXPL_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Carbohydrate-responsive element-binding protein</fullName>
+<shortName>ChREBP</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Class D basic helix-loop-helix protein 14</fullName>
+<shortName>bHLHd14</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>MLX interactor</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>MLX-interacting protein-like</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>WS basic-helix-loop-helix leucine zipper protein</fullName>
+<shortName>WS-bHLH</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Williams-Beuren syndrome chromosomal region 14 protein</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">MLXIPL</name>
+<name type="synonym">BHLHD14</name>
+<name type="synonym">MIO</name>
+<name type="synonym">WBSCR14</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2000" name="Eur. J. Hum. Genet." volume="8" first="215" last="222">
+<title>WBSCR14, a putative transcription factor gene deleted in Williams-Beuren syndrome: complete characterisation of the human gene and the mouse ortholog.</title>
+<authorList>
+<person name="de Luis O."/>
+<person name="Valero M.C."/>
+<person name="Perez Jurado L.A."/>
+</authorList>
+<dbReference type="PubMed" id="10780788"/>
+<dbReference type="DOI" id="10.1038/sj.ejhg.5200435"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE (ISOFORM 1)</scope>
+<scope>INVOLVEMENT IN WBS</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2001" name="Hum. Mol. Genet." volume="10" first="617" last="627">
+<title>WBSCR14, a gene mapping to the Williams-Beuren syndrome deleted region, is a new member of the Mlx transcription factor network.</title>
+<authorList>
+<person name="Cairo S."/>
+<person name="Merla G."/>
+<person name="Urbinati F."/>
+<person name="Ballabio A."/>
+<person name="Reymond A."/>
+</authorList>
+<dbReference type="PubMed" id="11230181"/>
+<dbReference type="DOI" id="10.1093/hmg/10.6.617"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1; 2; 3; 4 AND 5)</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2008-12" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="NHLBI resequencing and genotyping service (RS&amp;G)"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1998" name="Hum. Genet." volume="103" first="590" last="599">
+<title>Complete physical map of the common deletion region in Williams syndrome and identification and characterization of three novel genes.</title>
+<authorList>
+<person name="Meng X."/>
+<person name="Lu X."/>
+<person name="Li Z."/>
+<person name="Green E.D."/>
+<person name="Massa H."/>
+<person name="Trask B.J."/>
+<person name="Morris C.A."/>
+<person name="Keating M.T."/>
+</authorList>
+<dbReference type="PubMed" id="9860302"/>
+<dbReference type="DOI" id="10.1007/s004390050874"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 620-852 (ISOFORM 4)</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 6)</scope>
+<source>
+<tissue>Eye</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Genome Biol." volume="5" first="R8.1" last="R8.16">
+<title>An unappreciated role for RNA surveillance.</title>
+<authorList>
+<person name="Hillman R.T."/>
+<person name="Green R.E."/>
+<person name="Brenner S.E."/>
+</authorList>
+<dbReference type="PubMed" id="14759258"/>
+<dbReference type="DOI" id="10.1186/gb-2004-5-2-r8"/>
+</citation>
+<scope>SPLICE ISOFORM(S) THAT ARE POTENTIAL NMD TARGET(S)</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+<dbReference type="DOI" id="10.1021/pr300630k"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-196; SER-602 AND SER-614</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-20; SER-23; SER-25; THR-27; SER-29; SER-602 AND SER-631</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<comment type="function">
+<text evidence="3">Transcriptional repressor. Binds to the canonical and non-canonical E box sequences 5'-CACGTG-3' (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="7">Binds DNA as a heterodimer with TCFL4/MLX.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q9NP71-1</id>
+<name>1</name>
+<name>Alpha</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q9NP71-2</id>
+<name>2</name>
+<name>Beta</name>
+<sequence type="described" ref="VSP_002171"/>
+</isoform>
+<isoform>
+<id>Q9NP71-3</id>
+<name>3</name>
+<name>Gamma</name>
+<sequence type="described" ref="VSP_002170"/>
+</isoform>
+<isoform>
+<id>Q9NP71-4</id>
+<name>4</name>
+<name>Delta</name>
+<sequence type="described" ref="VSP_002170 VSP_002171"/>
+</isoform>
+<isoform>
+<id>Q9NP71-5</id>
+<name>5</name>
+<name>Epsilon</name>
+<sequence type="described" ref="VSP_002168 VSP_002169"/>
+</isoform>
+<isoform>
+<id>Q9NP71-6</id>
+<name>6</name>
+<sequence type="described" ref="VSP_002167 VSP_002172 VSP_002173"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text>Expressed in liver, heart, kidney, cerebellum and intestinal tissues.</text>
+</comment>
+<comment type="PTM">
+<text evidence="3">Phosphorylation at Ser-556 by AMPK inactivates the DNA-binding activity.</text>
+</comment>
+<comment type="disease">
+<text evidence="6">WBSCR14 is located in the Williams-Beuren syndrome (WBS) critical region. WBS results from a hemizygous deletion of several genes on chromosome 7q11.23, thought to arise as a consequence of unequal crossing over between highly homologous low-copy repeat sequences flanking the deleted region. Haploinsufficiency of WBSCR14 may be the cause of certain cardiovascular and musculo-skeletal abnormalities observed in the disease.</text>
+</comment>
+<comment type="miscellaneous">
+<molecule>Isoform 5</molecule>
+<text evidence="11">May be produced at very low levels due to a premature stop codon in the mRNA, leading to nonsense-mediated mRNA decay.</text>
+</comment>
+<dbReference type="EMBL" id="AF156673">
+<property type="protein sequence ID" value="AAF68176.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF156603">
+<property type="protein sequence ID" value="AAF68174.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF245470">
+<property type="protein sequence ID" value="AAK20935.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF245471">
+<property type="protein sequence ID" value="AAK20936.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF245472">
+<property type="protein sequence ID" value="AAK20937.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF245473">
+<property type="protein sequence ID" value="AAK20938.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF245474">
+<property type="protein sequence ID" value="AAK20939.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="FJ515858">
+<property type="protein sequence ID" value="ACS13745.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="FJ515858">
+<property type="protein sequence ID" value="ACS13746.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="FJ515858">
+<property type="protein sequence ID" value="ACS13748.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF056184">
+<property type="protein sequence ID" value="AAD28084.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471200">
+<property type="protein sequence ID" value="EAW69660.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471200">
+<property type="protein sequence ID" value="EAW69661.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471200">
+<property type="protein sequence ID" value="EAW69662.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC012925">
+<property type="protein sequence ID" value="AAH12925.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS47605.1">
+<molecule id="Q9NP71-2"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS47606.1">
+<molecule id="Q9NP71-3"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS5553.1">
+<molecule id="Q9NP71-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS5554.1">
+<molecule id="Q9NP71-4"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_116569.1">
+<molecule id="Q9NP71-1"/>
+<property type="nucleotide sequence ID" value="NM_032951.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_116570.1">
+<molecule id="Q9NP71-2"/>
+<property type="nucleotide sequence ID" value="NM_032952.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_116571.1">
+<molecule id="Q9NP71-3"/>
+<property type="nucleotide sequence ID" value="NM_032953.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_116572.1">
+<molecule id="Q9NP71-4"/>
+<property type="nucleotide sequence ID" value="NM_032954.2"/>
+</dbReference>
+<dbReference type="PDB" id="6MJL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A=168-176"/>
+</dbReference>
+<dbReference type="PDBsum" id="6MJL"/>
+<dbReference type="SMR" id="Q9NP71"/>
+<dbReference type="BioGRID" id="119275">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="IntAct" id="Q9NP71">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000320886"/>
+<dbReference type="iPTMnet" id="Q9NP71"/>
+<dbReference type="PhosphoSitePlus" id="Q9NP71"/>
+<dbReference type="BioMuta" id="MLXIPL"/>
+<dbReference type="DMDM" id="20140871"/>
+<dbReference type="jPOST" id="Q9NP71"/>
+<dbReference type="MassIVE" id="Q9NP71"/>
+<dbReference type="MaxQB" id="Q9NP71"/>
+<dbReference type="PaxDb" id="Q9NP71"/>
+<dbReference type="PeptideAtlas" id="Q9NP71"/>
+<dbReference type="PRIDE" id="Q9NP71"/>
+<dbReference type="ProteomicsDB" id="81900">
+<molecule id="Q9NP71-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="81901">
+<molecule id="Q9NP71-2"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="81902">
+<molecule id="Q9NP71-3"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="81903">
+<molecule id="Q9NP71-4"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="81904">
+<molecule id="Q9NP71-5"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="81905">
+<molecule id="Q9NP71-6"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="14346">
+<property type="antibodies" value="346 antibodies"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000313375">
+<molecule id="Q9NP71-1"/>
+<property type="protein sequence ID" value="ENSP00000320886"/>
+<property type="gene ID" value="ENSG00000009950"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000345114">
+<molecule id="Q9NP71-5"/>
+<property type="protein sequence ID" value="ENSP00000343767"/>
+<property type="gene ID" value="ENSG00000009950"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000354613">
+<molecule id="Q9NP71-4"/>
+<property type="protein sequence ID" value="ENSP00000346629"/>
+<property type="gene ID" value="ENSG00000009950"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000414749">
+<molecule id="Q9NP71-3"/>
+<property type="protein sequence ID" value="ENSP00000412330"/>
+<property type="gene ID" value="ENSG00000009950"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000429400">
+<molecule id="Q9NP71-2"/>
+<property type="protein sequence ID" value="ENSP00000406296"/>
+<property type="gene ID" value="ENSG00000009950"/>
+</dbReference>
+<dbReference type="GeneID" id="51085"/>
+<dbReference type="KEGG" id="hsa:51085"/>
+<dbReference type="UCSC" id="uc003tyk.1">
+<molecule id="Q9NP71-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="51085"/>
+<dbReference type="DisGeNET" id="51085"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000009950.15"/>
+<dbReference type="GeneCards" id="MLXIPL"/>
+<dbReference type="HGNC" id="HGNC:12744">
+<property type="gene designation" value="MLXIPL"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000009950">
+<property type="expression patterns" value="Tissue enhanced (liver)"/>
+</dbReference>
+<dbReference type="MalaCards" id="MLXIPL"/>
+<dbReference type="MIM" id="605678">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9NP71"/>
+<dbReference type="OpenTargets" id="ENSG00000009950"/>
+<dbReference type="PharmGKB" id="PA37353"/>
+<dbReference type="eggNOG" id="KOG3582">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000159210"/>
+<dbReference type="HOGENOM" id="CLU_007471_1_1_1"/>
+<dbReference type="InParanoid" id="Q9NP71"/>
+<dbReference type="KO" id="K09113"/>
+<dbReference type="OMA" id="DRHNTYT"/>
+<dbReference type="OrthoDB" id="388166at2759"/>
+<dbReference type="PhylomeDB" id="Q9NP71"/>
+<dbReference type="TreeFam" id="TF324749"/>
+<dbReference type="PathwayCommons" id="Q9NP71"/>
+<dbReference type="Reactome" id="R-HSA-163358">
+<property type="pathway name" value="PKA-mediated phosphorylation of key metabolic factors"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-163680">
+<property type="pathway name" value="AMPK inhibits chREBP transcriptional activation activity"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-163765">
+<property type="pathway name" value="ChREBP activates metabolic gene expression"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-163767">
+<property type="pathway name" value="PP2A-mediated dephosphorylation of key metabolic factors"/>
+</dbReference>
+<dbReference type="SIGNOR" id="Q9NP71"/>
+<dbReference type="BioGRID-ORCS" id="51085">
+<property type="hits" value="4 hits in 893 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="MLXIPL">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="MLXIPL"/>
+<dbReference type="GenomeRNAi" id="51085"/>
+<dbReference type="Pharos" id="Q9NP71">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q9NP71"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 7"/>
+</dbReference>
+<dbReference type="RNAct" id="Q9NP71">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000009950">
+<property type="expression patterns" value="Expressed in right lobe of liver and 171 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q9NP71">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9NP71">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000790">
+<property type="term" value="C:nuclear chromatin"/>
+<property type="evidence" value="ECO:0000247"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005667">
+<property type="term" value="C:transcription regulator complex"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035538">
+<property type="term" value="F:carbohydrate response element binding"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000981">
+<property type="term" value="F:DNA-binding transcription factor activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000247"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001227">
+<property type="term" value="F:DNA-binding transcription repressor activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046982">
+<property type="term" value="F:protein heterodimerization activity"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008134">
+<property type="term" value="F:transcription factor binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009653">
+<property type="term" value="P:anatomical structure morphogenesis"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097009">
+<property type="term" value="P:energy homeostasis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055089">
+<property type="term" value="P:fatty acid homeostasis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042593">
+<property type="term" value="P:glucose homeostasis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010255">
+<property type="term" value="P:glucose mediated signaling pathway"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035556">
+<property type="term" value="P:intracellular signal transduction"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071157">
+<property type="term" value="P:negative regulation of cell cycle arrest"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090324">
+<property type="term" value="P:negative regulation of oxidative phosphorylation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033137">
+<property type="term" value="P:negative regulation of peptidyl-serine phosphorylation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008284">
+<property type="term" value="P:positive regulation of cell population proliferation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045723">
+<property type="term" value="P:positive regulation of fatty acid biosynthetic process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045821">
+<property type="term" value="P:positive regulation of glycolytic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046889">
+<property type="term" value="P:positive regulation of lipid biosynthetic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045893">
+<property type="term" value="P:positive regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006357">
+<property type="term" value="P:regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006355">
+<property type="term" value="P:regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070328">
+<property type="term" value="P:triglyceride homeostasis"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="CDD" id="cd00083">
+<property type="entry name" value="HLH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="4.10.280.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011598">
+<property type="entry name" value="bHLH_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036638">
+<property type="entry name" value="HLH_DNA-bd_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00010">
+<property type="entry name" value="HLH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00353">
+<property type="entry name" value="HLH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47459">
+<property type="entry name" value="SSF47459"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50888">
+<property type="entry name" value="BHLH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<keyword id="KW-0856">Williams-Beuren syndrome</keyword>
+<feature type="chain" description="Carbohydrate-responsive element-binding protein" id="PRO_0000127504">
+<location>
+<begin position="1"/>
+<end position="852"/>
+</location>
+</feature>
+<feature type="domain" description="bHLH" evidence="5">
+<location>
+<begin position="649"/>
+<end position="703"/>
+</location>
+</feature>
+<feature type="region of interest" description="Leucine-zipper">
+<location>
+<begin position="703"/>
+<end position="724"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Pro">
+<location>
+<begin position="387"/>
+<end position="394"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Pro">
+<location>
+<begin position="409"/>
+<end position="417"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="2">
+<location>
+<position position="20"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="2">
+<location>
+<position position="23"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="2">
+<location>
+<position position="25"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="2">
+<location>
+<position position="27"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="2">
+<location>
+<position position="29"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="196"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by AMPK" evidence="4">
+<location>
+<position position="556"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1 2">
+<location>
+<position position="602"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="614"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="2">
+<location>
+<position position="631"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 6." id="VSP_002167" evidence="9">
+<location>
+<begin position="176"/>
+<end position="268"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 5." id="VSP_002168" evidence="8">
+<original>QETVPEFPCTFLPPTPAP</original>
+<variation>AVNGGCQGTSAPCQALGL</variation>
+<location>
+<begin position="558"/>
+<end position="575"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 5." id="VSP_002169" evidence="8">
+<location>
+<begin position="576"/>
+<end position="852"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3 and isoform 4." id="VSP_002170" evidence="8 10">
+<location>
+<begin position="647"/>
+<end position="648"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2 and isoform 4." id="VSP_002171" evidence="8 10">
+<location>
+<begin position="687"/>
+<end position="705"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 6." id="VSP_002172" evidence="9">
+<original>TV</original>
+<variation>ST</variation>
+<location>
+<begin position="814"/>
+<end position="815"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 6." id="VSP_002173" evidence="9">
+<location>
+<begin position="816"/>
+<end position="852"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3812316." id="VAR_049556">
+<original>Q</original>
+<variation>H</variation>
+<location>
+<position position="241"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34922362." id="VAR_049557">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="244"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 6; AAH12925." ref="6" evidence="11">
+<location>
+<position position="558"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="24275569"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250"/>
+<evidence key="4" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q8VIP2"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00981"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10780788"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11230181"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="11230181"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9860302"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<sequence length="852" mass="93073" checksum="D49E5C3D7C0A72EC" modified="2000-10-01" version="1">MAGALAGLAAGLQVPRVAPSPDSDSDTDSEDPSLRRSAGGLLRSQVIHSGHFMVSSPHSDSLPRRRDQEGSVGPSDFGPRSIDPTLTRLFECLSLAYSGKLVSPKWKNFKGLKLLCRDKIRLNNAIWRAWYIQYVKRRKSPVCGFVTPLQGPEADAHRKPEAVVLEGNYWKRRIEVVMREYHKWRIYYKKRLRKPSREDDLLAPKQAEGRWPPPEQWCKQLFSSVVPVLLGDPEEEPGGRQLLDLNCFLSDISDTLFTMTQSGPSPLQLPPEDAYVGNADMIQPDLTPLQPSLDDFMDISDFFTNSRLPQPPMPSNFPEPPSFSPVVDSLFSSGTLGPEVPPASSAMTHLSGHSRLQARNSCPGPLDSSAFLSSDFLLPEDPKPRLPPPPVPPPLLHYPPPAKVPGLEPCPPPPFPPMAPPTALLQEEPLFSPRFPFPTVPPAPGVSPLPAPAAFPPTPQSVPSPAPTPFPIELLPLGYSEPAFGPCFSMPRGKPPAPSPRGQKASPPTLAPATASPPTTAGSNNPCLTQLLTAAKPEQALEPPLVSSTLLRSPGSPQETVPEFPCTFLPPTPAPTPPRPPPGPATLAPSRPLLVPKAERLSPPAPSGSERRLSGDLSSMPGPGTLSVRVSPPQPILSRGRPDSNKTENRRITHISAEQKRRFNIKLGFDTLHGLVSTLSAQPSLKVSKATTLQKTAEYILMLQQERAGLQEEAQQLRDEIEELNAAINLCQQQLPATGVPITHQRFDQMRDMFDDYVRTRTLHNWKFWVFSILIRPLFESFNGMVSTASVHTLRQTSLAWLDQYCSLPALRPTVLNSLRQLGTSTSILTDPGRIPEQATRAVTEGTLGKPL</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

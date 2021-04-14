@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2002-06-06" modified="2020-10-07" version="169">
+<accession>Q9C029</accession>
+<accession>A2RUE4</accession>
+<accession>D3DWR7</accession>
+<accession>Q969F5</accession>
+<accession>Q96F67</accession>
+<accession>Q96J89</accession>
+<accession>Q96J90</accession>
+<name>TRIM7_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="12">E3 ubiquitin-protein ligase TRIM7</fullName>
+<ecNumber evidence="8">2.3.2.27</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Glycogenin-interacting protein</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>RING finger protein 90</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Tripartite motif-containing protein 7</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">TRIM7</name>
+<name type="synonym">GNIP</name>
+<name type="synonym">RNF90</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2001" name="EMBO J." volume="20" first="2140" last="2151">
+<title>The tripartite motif family identifies cell compartments.</title>
+<authorList>
+<person name="Reymond A."/>
+<person name="Meroni G."/>
+<person name="Fantozzi A."/>
+<person name="Merla G."/>
+<person name="Cairo S."/>
+<person name="Luzi L."/>
+<person name="Riganelli D."/>
+<person name="Zanaria E."/>
+<person name="Messali S."/>
+<person name="Cainarca S."/>
+<person name="Guffanti A."/>
+<person name="Minucci S."/>
+<person name="Pelicci P.G."/>
+<person name="Ballabio A."/>
+</authorList>
+<dbReference type="PubMed" id="11331580"/>
+<dbReference type="DOI" id="10.1093/emboj/20.9.2140"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 4)</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="19331" last="19338">
+<title>GNIP, a novel protein that binds and activates glycogenin, the self-glucosylating initiator of glycogen biosynthesis.</title>
+<authorList>
+<person name="Skurat A.V."/>
+<person name="Dietrich A.D."/>
+<person name="Zhai L."/>
+<person name="Roach P.J."/>
+</authorList>
+<dbReference type="PubMed" id="11916970"/>
+<dbReference type="DOI" id="10.1074/jbc.m201190200"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1; 2 AND 3)</scope>
+<scope>INTERACTION WITH GYG</scope>
+<source>
+<tissue>Skeletal muscle</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 1 AND 4)</scope>
+<scope>VARIANT GLU-95</scope>
+<source>
+<tissue>Lung</tissue>
+<tissue>Salivary gland</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Arch. Biochem. Biophys." volume="421" first="236" last="242">
+<title>Structure-function analysis of GNIP, the glycogenin-interacting protein.</title>
+<authorList>
+<person name="Zhai L."/>
+<person name="Dietrich A."/>
+<person name="Skurat A.V."/>
+<person name="Roach P.J."/>
+</authorList>
+<dbReference type="PubMed" id="14984203"/>
+<dbReference type="DOI" id="10.1016/j.abb.2003.11.017"/>
+</citation>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH GYG</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2015" name="Nat. Commun." volume="6" first="6782" last="6782">
+<title>The E3 ubiquitin ligase Trim7 mediates c-Jun/AP-1 activation by Ras signalling.</title>
+<authorList>
+<person name="Chakraborty A."/>
+<person name="Diefenbacher M.E."/>
+<person name="Mylona A."/>
+<person name="Kassel O."/>
+<person name="Behrens A."/>
+</authorList>
+<dbReference type="PubMed" id="25851810"/>
+<dbReference type="DOI" id="10.1038/ncomms7782"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>PATHWAY</scope>
+<scope>SUBUNIT</scope>
+<scope>INTERACTION WITH RNF187</scope>
+<scope>PHOSPHORYLATION AT SER-107 BY RPS6KA5</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<scope>MUTAGENESIS OF CYS-29; CYS-32; TRP-57 AND SER-107</scope>
+</reference>
+<comment type="function">
+<text evidence="8">E3 ubiquitin-protein ligase. Mediates 'Lys-63'-linked polyubiquitination and stabilization of the JUN coactivator RNF187 in response to growth factor signaling via the MEK/ERK pathway, thereby regulating JUN transactivation and cellular proliferation.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="8">
+<text>S-ubiquitinyl-[E2 ubiquitin-conjugating enzyme]-L-cysteine + [acceptor protein]-L-lysine = [E2 ubiquitin-conjugating enzyme]-L-cysteine + N(6)-ubiquitinyl-[acceptor protein]-L-lysine.</text>
+<dbReference type="EC" id="2.3.2.27"/>
+</reaction>
+</comment>
+<comment type="pathway" evidence="8">
+<text>Protein modification; protein ubiquitination.</text>
+</comment>
+<comment type="subunit">
+<text evidence="5 6 8">Forms homodimers, and heterodimers with GNIP2 (PubMed:14984203, PubMed:25851810). Interacts with GYG (PubMed:11916970, PubMed:14984203). Interacts with RNF187 (via C-terminus) (PubMed:25851810).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-745213">
+<id>P29972</id>
+<label>AQP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-10212133">
+<id>P50895</id>
+<label>BCAM</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-22523896">
+<id>A0A2R8YD28</id>
+<label>CDK13</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-351218">
+<id>Q9Y281</id>
+<label>CFL2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-6875941">
+<id>P07315</id>
+<label>CRYGC</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-514206">
+<id>Q9UBT7</id>
+<label>CTNNAL1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-1045262">
+<id>P52657</id>
+<label>GTF2A2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-448378">
+<id>Q9NWZ3</id>
+<label>IRAK4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-77889">
+<id>Q9UI95</id>
+<label>MAD2L2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-9106478">
+<id>Q5VZE5</id>
+<label>NAA35</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-2889252">
+<id>Q96AH0</id>
+<label>NABP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-11960139">
+<id>Q7L8S5</id>
+<label>OTUD6A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-752037">
+<id>P61019</id>
+<label>RAB2A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-366017">
+<id>Q13671</id>
+<label>RIN1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-2823523">
+<id>P07998</id>
+<label>RNASE1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-748350">
+<id>Q9UHP6</id>
+<label>RSPH14</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-724442">
+<id>P57060</id>
+<label>RWDD2B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-747107">
+<id>Q8IUQ4</id>
+<label>SIAH1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-11992976">
+<id>Q8NBR0</id>
+<label>TP53I13</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2813981">
+<id>Q9C029</id>
+</interactant>
+<interactant intactId="EBI-11059925">
+<id>Q8TBZ6</id>
+<label>TRMT10A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q9C029-2</id>
+<name>1</name>
+<name>GNIP1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q9C029-3</id>
+<name>2</name>
+<name>GNIP2</name>
+<sequence type="described" ref="VSP_009020"/>
+</isoform>
+<isoform>
+<id>Q9C029-4</id>
+<name>3</name>
+<name>GNIP3</name>
+<sequence type="described" ref="VSP_009018 VSP_009019"/>
+</isoform>
+<isoform>
+<id>Q9C029-1</id>
+<name>4</name>
+<name>TRIM7</name>
+<sequence type="described" ref="VSP_009021 VSP_009022"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="6">Skeletal muscle and placenta, at lower levels in heart, brain and pancreas. Isoform 1 is widely expressed with high level in testis, kidney and heart.</text>
+</comment>
+<comment type="domain">
+<text evidence="6">The B30.2 domain mediates interaction with GYG.</text>
+</comment>
+<comment type="domain">
+<text evidence="6">The coiled-coil region mediates homodimerization and heterodimerization.</text>
+</comment>
+<comment type="PTM">
+<text evidence="8">Phosphorylated at Ser-107 by RPS6KA5/MSK1, which stimulates the ubiquitin ligase activity.</text>
+</comment>
+<comment type="similarity">
+<text evidence="12">Belongs to the TRIM/RBCC family.</text>
+</comment>
+<dbReference type="EC" id="2.3.2.27" evidence="8"/>
+<dbReference type="EMBL" id="AF220032">
+<property type="protein sequence ID" value="AAG53486.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF396651">
+<property type="protein sequence ID" value="AAK85377.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF396652">
+<property type="protein sequence ID" value="AAK85378.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF396653">
+<property type="protein sequence ID" value="AAK85379.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF396654">
+<property type="protein sequence ID" value="AAK85380.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF396655">
+<property type="protein sequence ID" value="AAK85381.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471165">
+<property type="protein sequence ID" value="EAW53718.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471165">
+<property type="protein sequence ID" value="EAW53716.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471165">
+<property type="protein sequence ID" value="EAW53717.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471165">
+<property type="protein sequence ID" value="EAW53719.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC011567">
+<property type="protein sequence ID" value="AAH11567.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC080553">
+<property type="protein sequence ID" value="AAH80553.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC132863">
+<property type="protein sequence ID" value="AAI32864.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC132867">
+<property type="protein sequence ID" value="AAI32868.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS43414.1">
+<molecule id="Q9C029-4"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS4462.1">
+<molecule id="Q9C029-2"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS4463.1">
+<molecule id="Q9C029-3"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS4464.1">
+<molecule id="Q9C029-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_203128.1">
+<molecule id="Q9C029-1"/>
+<property type="nucleotide sequence ID" value="NM_033342.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_976038.1">
+<molecule id="Q9C029-2"/>
+<property type="nucleotide sequence ID" value="NM_203293.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_976039.1">
+<molecule id="Q9C029-3"/>
+<property type="nucleotide sequence ID" value="NM_203294.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_976040.1">
+<molecule id="Q9C029-3"/>
+<property type="nucleotide sequence ID" value="NM_203295.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_976041.1">
+<molecule id="Q9C029-3"/>
+<property type="nucleotide sequence ID" value="NM_203296.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_976042.1">
+<molecule id="Q9C029-4"/>
+<property type="nucleotide sequence ID" value="NM_203297.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016865392.1">
+<molecule id="Q9C029-3"/>
+<property type="nucleotide sequence ID" value="XM_017009903.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016865393.1">
+<molecule id="Q9C029-1"/>
+<property type="nucleotide sequence ID" value="XM_017009904.1"/>
+</dbReference>
+<dbReference type="SMR" id="Q9C029"/>
+<dbReference type="BioGRID" id="123579">
+<property type="interactions" value="30"/>
+</dbReference>
+<dbReference type="IntAct" id="Q9C029">
+<property type="interactions" value="35"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000274773"/>
+<dbReference type="iPTMnet" id="Q9C029"/>
+<dbReference type="PhosphoSitePlus" id="Q9C029"/>
+<dbReference type="BioMuta" id="TRIM7"/>
+<dbReference type="DMDM" id="38605728"/>
+<dbReference type="EPD" id="Q9C029"/>
+<dbReference type="jPOST" id="Q9C029"/>
+<dbReference type="MassIVE" id="Q9C029"/>
+<dbReference type="PaxDb" id="Q9C029"/>
+<dbReference type="PeptideAtlas" id="Q9C029"/>
+<dbReference type="PRIDE" id="Q9C029"/>
+<dbReference type="ProteomicsDB" id="79946">
+<molecule id="Q9C029-2"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="79947">
+<molecule id="Q9C029-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="79948">
+<molecule id="Q9C029-3"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="79949">
+<molecule id="Q9C029-4"/>
+</dbReference>
+<dbReference type="TopDownProteomics" id="Q9C029-2">
+<molecule id="Q9C029-2"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="29710">
+<property type="antibodies" value="150 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="81786"/>
+<dbReference type="Ensembl" id="ENST00000274773">
+<molecule id="Q9C029-2"/>
+<property type="protein sequence ID" value="ENSP00000274773"/>
+<property type="gene ID" value="ENSG00000146054"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000334421">
+<molecule id="Q9C029-1"/>
+<property type="protein sequence ID" value="ENSP00000334666"/>
+<property type="gene ID" value="ENSG00000146054"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000393315">
+<molecule id="Q9C029-3"/>
+<property type="protein sequence ID" value="ENSP00000376991"/>
+<property type="gene ID" value="ENSG00000146054"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000393319">
+<molecule id="Q9C029-4"/>
+<property type="protein sequence ID" value="ENSP00000376994"/>
+<property type="gene ID" value="ENSG00000146054"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000422067">
+<molecule id="Q9C029-3"/>
+<property type="protein sequence ID" value="ENSP00000391458"/>
+<property type="gene ID" value="ENSG00000146054"/>
+</dbReference>
+<dbReference type="GeneID" id="81786"/>
+<dbReference type="KEGG" id="hsa:81786"/>
+<dbReference type="UCSC" id="uc003mmv.2">
+<molecule id="Q9C029-2"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="81786"/>
+<dbReference type="DisGeNET" id="81786"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000146054.17"/>
+<dbReference type="GeneCards" id="TRIM7"/>
+<dbReference type="HGNC" id="HGNC:16278">
+<property type="gene designation" value="TRIM7"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000146054">
+<property type="expression patterns" value="Tissue enhanced (skeletal muscle, tongue)"/>
+</dbReference>
+<dbReference type="MIM" id="609315">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9C029"/>
+<dbReference type="OpenTargets" id="ENSG00000146054"/>
+<dbReference type="PharmGKB" id="PA38398"/>
+<dbReference type="eggNOG" id="KOG2177">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000153316"/>
+<dbReference type="HOGENOM" id="CLU_013137_0_3_1"/>
+<dbReference type="InParanoid" id="Q9C029"/>
+<dbReference type="KO" id="K12000"/>
+<dbReference type="OMA" id="AENMQHI"/>
+<dbReference type="OrthoDB" id="423686at2759"/>
+<dbReference type="PhylomeDB" id="Q9C029"/>
+<dbReference type="TreeFam" id="TF342569"/>
+<dbReference type="PathwayCommons" id="Q9C029"/>
+<dbReference type="UniPathway" id="UPA00143"/>
+<dbReference type="BioGRID-ORCS" id="81786">
+<property type="hits" value="8 hits in 879 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="TRIM7">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="81786"/>
+<dbReference type="Pharos" id="Q9C029">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q9C029"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="RNAct" id="Q9C029">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000146054">
+<property type="expression patterns" value="Expressed in skeletal muscle tissue and 154 other tissues"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9C029">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061630">
+<property type="term" value="F:ubiquitin protein ligase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016567">
+<property type="term" value="P:protein ubiquitination"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="CDD" id="cd00021">
+<property type="entry name" value="BBOX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.120.920">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.40.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001870">
+<property type="entry name" value="B30.2/SPRY"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR043136">
+<property type="entry name" value="B30.2/SPRY_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003879">
+<property type="entry name" value="Butyrophylin_SPRY"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013320">
+<property type="entry name" value="ConA-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006574">
+<property type="entry name" value="PRY"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003877">
+<property type="entry name" value="SPRY_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000315">
+<property type="entry name" value="Znf_B-box"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020457">
+<property type="entry name" value="Znf_B-box_chordata"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001841">
+<property type="entry name" value="Znf_RING"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013083">
+<property type="entry name" value="Znf_RING/FYVE/PHD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017907">
+<property type="entry name" value="Znf_RING_CS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13765">
+<property type="entry name" value="PRY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00622">
+<property type="entry name" value="SPRY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00643">
+<property type="entry name" value="zf-B_box"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01406">
+<property type="entry name" value="BBOXZNFINGER"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01407">
+<property type="entry name" value="BUTYPHLNCDUF"/>
+</dbReference>
+<dbReference type="SMART" id="SM00336">
+<property type="entry name" value="BBOX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00589">
+<property type="entry name" value="PRY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00184">
+<property type="entry name" value="RING"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00449">
+<property type="entry name" value="SPRY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF49899">
+<property type="entry name" value="SSF49899"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50188">
+<property type="entry name" value="B302_SPRY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50119">
+<property type="entry name" value="ZF_BBOX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00518">
+<property type="entry name" value="ZF_RING_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50089">
+<property type="entry name" value="ZF_RING_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0833">Ubl conjugation pathway</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<keyword id="KW-0863">Zinc-finger</keyword>
+<feature type="chain" description="E3 ubiquitin-protein ligase TRIM7" id="PRO_0000056204">
+<location>
+<begin position="1"/>
+<end position="511"/>
+</location>
+</feature>
+<feature type="domain" description="B30.2/SPRY" evidence="4">
+<location>
+<begin position="324"/>
+<end position="511"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="RING-type" evidence="3">
+<location>
+<begin position="29"/>
+<end position="82"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="B box-type" evidence="2">
+<location>
+<begin position="125"/>
+<end position="166"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="1">
+<location>
+<begin position="166"/>
+<end position="263"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ala">
+<location>
+<begin position="120"/>
+<end position="128"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by RPS6KA5" evidence="8">
+<location>
+<position position="107"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_009020" evidence="10">
+<location>
+<begin position="1"/>
+<end position="208"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_009018" evidence="10">
+<location>
+<begin position="1"/>
+<end position="182"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_009019" evidence="10">
+<original>VLKKELEDCEVFRSTEKKESKELL</original>
+<variation>MTQATGQMLCLHVQVPLQLLLLGQ</variation>
+<location>
+<begin position="183"/>
+<end position="206"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_009021" evidence="9 11">
+<original>KQMAAEQEKVGAEFQ</original>
+<variation>VSQAPAGPPWDITEA</variation>
+<location>
+<begin position="207"/>
+<end position="221"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_009022" evidence="9 11">
+<location>
+<begin position="222"/>
+<end position="511"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3857300." id="VAR_017399">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="18"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2770946." id="VAR_017400">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2770945." id="VAR_017401" evidence="7">
+<original>Q</original>
+<variation>E</variation>
+<location>
+<position position="95"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs416574." id="VAR_052125">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="258"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs254460." id="VAR_052126">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="363"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes ubiquitination and stabilization of RNF187; when associated with A-32." evidence="8">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="29"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes ubiquitination and stabilization of RNF187; when associated with A-29." evidence="8">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="32"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes ubiquitination and stabilization of RNF187." evidence="8">
+<original>W</original>
+<variation>A</variation>
+<location>
+<position position="57"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes phosphorylation by RPS6KA5/MSK1. Reduced ubiquitination activity towards RNF187." evidence="8">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="107"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00024"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00175"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00548"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11916970"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14984203"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25851810"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="11331580"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="11916970"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000305"/>
+<sequence length="511" mass="56631" checksum="05C37C837A462597" modified="2003-11-28" version="2">MAAVGPRTGPGTGAEALALAAELQGEATCSICLELFREPVSVECGHSFCRACIGRCWERPGAGSVGAATRAPPFPLPCPQCREPARPSQLRPNRQLAAVATLLRRFSLPAAAPGEHGSQAAAARAAAARCGQHGEPFKLYCQDDGRAICVVCDRAREHREHAVLPLDEAVQEAKELLESRLRVLKKELEDCEVFRSTEKKESKELLKQMAAEQEKVGAEFQALRAFLVEQEGRLLGRLEELSREVAQKQNENLAQLGVEITQLSKLSSQIQETAQKPDLDFLQEFKSTLSRCSNVPGPKPTTVSSEMKNKVWNVSLKTFVLKGMLKKFKEDLRGELEKEEKVELTLDPDTANPRLILSLDLKGVRLGERAQDLPNHPCRFDTNTRVLASCGFSSGRHHWEVEVGSKDGWAFGVARESVRRKGLTPFTPEEGVWALQLNGGQYWAVTSPERSPLSCGHLSRVRVALDLEVGAVSFYAVEDMRHLYTFRVNFQERVFPLFSVCSTGTYLRIWP</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

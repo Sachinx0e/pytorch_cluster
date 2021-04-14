@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1990-11-01" modified="2020-10-07" version="197">
+<accession>P18146</accession>
+<name>EGR1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="13">Early growth response protein 1</fullName>
+<shortName evidence="13">EGR-1</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>AT225</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Nerve growth factor-induced protein A</fullName>
+<shortName>NGFI-A</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Transcription factor ETR103</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Transcription factor Zif268</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="12">Zinc finger protein 225</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Zinc finger protein Krox-24</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">EGR1</name>
+<name type="synonym">KROX24</name>
+<name type="synonym" evidence="12">ZNF225</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1990" name="Nucleic Acids Res." volume="18" first="4283" last="4283">
+<title>cDNA sequence of the human cellular early growth response gene Egr-1.</title>
+<authorList>
+<person name="Suggs S.V."/>
+<person name="Katzowitz J.L."/>
+<person name="Tsai-Morris C.-H."/>
+<person name="Sukhatme V.P."/>
+</authorList>
+<dbReference type="PubMed" id="2377485"/>
+<dbReference type="DOI" id="10.1093/nar/18.14.4283"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Foreskin</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1992" name="J. Biochem." volume="111" first="272" last="277">
+<title>A gene coding for a zinc finger protein is induced during 12-O-tetradecanoylphorbol-13-acetate-stimulated HL-60 cell differentiation.</title>
+<authorList>
+<person name="Shimizu N."/>
+<person name="Ohta M."/>
+<person name="Fujiwara C."/>
+<person name="Sagara J."/>
+<person name="Mochizuki N."/>
+<person name="Oda T."/>
+<person name="Utiyama H."/>
+</authorList>
+<dbReference type="PubMed" id="1569051"/>
+<dbReference type="DOI" id="10.1093/oxfordjournals.jbchem.a123748"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1990" name="Science" volume="248" first="588" last="591">
+<title>Expression of a zinc finger gene in HTLV-I- and HTLV-II-transformed cells.</title>
+<authorList>
+<person name="Wright J.J."/>
+<person name="Gunter K.C."/>
+<person name="Mitsuya H."/>
+<person name="Irving S.G."/>
+<person name="Kelly K."/>
+<person name="Siebenlist U."/>
+</authorList>
+<dbReference type="PubMed" id="2110381"/>
+<dbReference type="DOI" id="10.1126/science.2110381"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>PNS</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2009" name="Sci. Signal." volume="2" first="RA46" last="RA46">
+<title>Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions.</title>
+<authorList>
+<person name="Mayya V."/>
+<person name="Lundgren D.H."/>
+<person name="Hwang S.-I."/>
+<person name="Rezaul K."/>
+<person name="Wu L."/>
+<person name="Eng J.K."/>
+<person name="Rodionov V."/>
+<person name="Han D.K."/>
+</authorList>
+<dbReference type="PubMed" id="19690332"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000007"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Leukemic T-cell</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2010" name="FEBS J." volume="277" first="1202" last="1218">
+<title>Snail associates with EGR-1 and SP-1 to upregulate transcriptional activation of p15INK4b.</title>
+<authorList>
+<person name="Hu C.T."/>
+<person name="Chang T.Y."/>
+<person name="Cheng C.C."/>
+<person name="Liu C.S."/>
+<person name="Wu J.R."/>
+<person name="Li M.C."/>
+<person name="Wu W.S."/>
+</authorList>
+<dbReference type="PubMed" id="20121949"/>
+<dbReference type="DOI" id="10.1111/j.1742-4658.2009.07553.x"/>
+</citation>
+<scope>INTERACTION WITH SNAI1 AND SP1</scope>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2010" name="Mol. Immunol." volume="47" first="1701" last="1709">
+<title>Mature human neutrophils constitutively express the transcription factor EGR-1.</title>
+<authorList>
+<person name="Cullen E.M."/>
+<person name="Brazil J.C."/>
+<person name="O'Connor C.M."/>
+</authorList>
+<dbReference type="PubMed" id="20363028"/>
+<dbReference type="DOI" id="10.1016/j.molimm.2010.03.003"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INDUCTION BY GROWTH FACTORS</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2017" name="Nat. Struct. Mol. Biol." volume="24" first="325" last="336">
+<title>Site-specific mapping of the human SUMO proteome reveals co-modification with phosphorylation.</title>
+<authorList>
+<person name="Hendriks I.A."/>
+<person name="Lyon D."/>
+<person name="Young C."/>
+<person name="Jensen L.J."/>
+<person name="Vertegaal A.C."/>
+<person name="Nielsen M.L."/>
+</authorList>
+<dbReference type="PubMed" id="28112733"/>
+<dbReference type="DOI" id="10.1038/nsmb.3366"/>
+</citation>
+<scope>SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-305</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="9" evidence="1 2 3">
+<citation type="journal article" date="2014" name="Genes Dev." volume="28" first="2304" last="2313">
+<title>Wilms tumor protein recognizes 5-carboxylcytosine within a specific DNA sequence.</title>
+<authorList>
+<person name="Hashimoto H."/>
+<person name="Olanrewaju Y.O."/>
+<person name="Zheng Y."/>
+<person name="Wilson G.G."/>
+<person name="Zhang X."/>
+<person name="Cheng X."/>
+</authorList>
+<dbReference type="PubMed" id="25258363"/>
+<dbReference type="DOI" id="10.1101/gad.250746.114"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.59 ANGSTROMS) OF 335-423 IN COMPLEX WITH ZINC AND TARGET DNA</scope>
+<scope>FUNCTION</scope>
+<scope>DOMAIN</scope>
+<scope>SITES OF INTERACTION WITH DNA</scope>
+</reference>
+<reference key="10" evidence="4">
+<citation type="journal article" date="2015" name="FEBS Lett." volume="589" first="1748" last="1753">
+<title>Structural impact of complete CpG methylation within target DNA on specific complex formation of the inducible transcription factor Egr-1.</title>
+<authorList>
+<person name="Zandarashvili L."/>
+<person name="White M.A."/>
+<person name="Esadze A."/>
+<person name="Iwahara J."/>
+</authorList>
+<dbReference type="PubMed" id="25999311"/>
+<dbReference type="DOI" id="10.1016/j.febslet.2015.05.022"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.41 ANGSTROMS) OF 335-423 IN COMPLEX WITH ZINC AND TARGET DNA</scope>
+<scope>FUNCTION</scope>
+<scope>DOMAIN</scope>
+<scope>SITES OF INTERACTION WITH DNA</scope>
+</reference>
+<comment type="function">
+<text evidence="6 8 10 11">Transcriptional regulator (PubMed:20121949). Recognizes and binds to the DNA sequence 5'-GCG(T/G)GGGCG-3'(EGR-site) in the promoter region of target genes (By similarity). Binds double-stranded target DNA, irrespective of the cytosine methylation status (PubMed:25258363, PubMed:25999311). Regulates the transcription of numerous target genes, and thereby plays an important role in regulating the response to growth factors, DNA damage, and ischemia. Plays a role in the regulation of cell survival, proliferation and cell death. Activates expression of p53/TP53 and TGFB1, and thereby helps prevent tumor formation. Required for normal progress through mitosis and normal proliferation of hepatocytes after partial hepatectomy. Mediates responses to ischemia and hypoxia; regulates the expression of proteins such as IL1B and CXCL2 that are involved in inflammatory processes and development of tissue damage after ischemia. Regulates biosynthesis of luteinizing hormone (LHB) in the pituitary (By similarity). Regulates the amplitude of the expression rhythms of clock genes: ARNTL/BMAL1, PER2 and NR1D1 in the liver via the activation of PER1 (clock repressor) transcription. Regulates the rhythmic expression of core-clock gene ARNTL/BMAL1 in the suprachiasmatic nucleus (SCN) (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="8">Interacts with SNAI1 and SP1 upon 12-O-tetradecanoylphorbol-13-acetate (TPA) induction.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2834611">
+<id>P18146</id>
+</interactant>
+<interactant intactId="EBI-625922">
+<id>Q8N726</id>
+<label>CDKN2A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2834611">
+<id>P18146</id>
+</interactant>
+<interactant intactId="EBI-491549">
+<id>P35222</id>
+<label>CTNNB1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="9">Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="9">Cytoplasm</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="9">Detected in neutrophils (at protein level).</text>
+</comment>
+<comment type="induction">
+<text evidence="9">By growth factors.</text>
+</comment>
+<comment type="domain">
+<text evidence="10 11">Binds to DNA motifs with the sequence 5'-GCG(T/G)GGGCG-3' via its C2H2-type zinc fingers (PubMed:25258363, PubMed:25999311). The first, most N-terminal zinc finger binds to the 3'-GCG motif, the middle zinc finger interacts with the central TGG motif, and the C-terminal zinc finger binds to the 5'-GCG motif. Binds double-stranded target DNA, irrespective of the cytosine methylation status. Has reduced affinity for target DNA where the cytosines have been oxidized to 5-hydroxymethylcytosine. Does not bind target DNA where the cytosines have been oxidized to 5-formylcytosine or 5-carboxylcytosine (PubMed:25258363).</text>
+</comment>
+<comment type="similarity">
+<text evidence="14">Belongs to the EGR C2H2-type zinc-finger protein family.</text>
+</comment>
+<comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+<link uri="http://atlasgeneticsoncology.org/Genes/EGR1ID496ch5q31.html"/>
+</comment>
+<dbReference type="EMBL" id="X52541">
+<property type="protein sequence ID" value="CAA36777.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M62829">
+<property type="protein sequence ID" value="AAA35815.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M80583">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC073983">
+<property type="protein sequence ID" value="AAH73983.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS4206.1"/>
+<dbReference type="PIR" id="A41211">
+<property type="entry name" value="A41211"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001955.1">
+<property type="nucleotide sequence ID" value="NM_001964.2"/>
+</dbReference>
+<dbReference type="PDB" id="4R2A">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.59"/>
+<property type="chains" value="A=335-423"/>
+</dbReference>
+<dbReference type="PDB" id="4R2C">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.89"/>
+<property type="chains" value="A=335-423"/>
+</dbReference>
+<dbReference type="PDB" id="4R2D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.09"/>
+<property type="chains" value="A=335-423"/>
+</dbReference>
+<dbReference type="PDB" id="4X9J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.41"/>
+<property type="chains" value="A=335-423"/>
+</dbReference>
+<dbReference type="PDB" id="5N14">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=395-408"/>
+</dbReference>
+<dbReference type="PDBsum" id="4R2A"/>
+<dbReference type="PDBsum" id="4R2C"/>
+<dbReference type="PDBsum" id="4R2D"/>
+<dbReference type="PDBsum" id="4X9J"/>
+<dbReference type="PDBsum" id="5N14"/>
+<dbReference type="BMRB" id="P18146"/>
+<dbReference type="SMR" id="P18146"/>
+<dbReference type="BioGRID" id="108278">
+<property type="interactions" value="43"/>
+</dbReference>
+<dbReference type="CORUM" id="P18146"/>
+<dbReference type="IntAct" id="P18146">
+<property type="interactions" value="28"/>
+</dbReference>
+<dbReference type="MINT" id="P18146"/>
+<dbReference type="STRING" id="9606.ENSP00000239938"/>
+<dbReference type="ChEMBL" id="CHEMBL3616355"/>
+<dbReference type="GlyConnect" id="2852">
+<property type="glycosylation" value="1 O-Linked glycan (1 site)"/>
+</dbReference>
+<dbReference type="GlyGen" id="P18146">
+<property type="glycosylation" value="1 site, 1 O-linked glycan (1 site)"/>
+</dbReference>
+<dbReference type="iPTMnet" id="P18146"/>
+<dbReference type="PhosphoSitePlus" id="P18146"/>
+<dbReference type="BioMuta" id="EGR1"/>
+<dbReference type="DMDM" id="119242"/>
+<dbReference type="EPD" id="P18146"/>
+<dbReference type="MassIVE" id="P18146"/>
+<dbReference type="PaxDb" id="P18146"/>
+<dbReference type="PeptideAtlas" id="P18146"/>
+<dbReference type="PRIDE" id="P18146"/>
+<dbReference type="ProteomicsDB" id="53552"/>
+<dbReference type="Antibodypedia" id="14988">
+<property type="antibodies" value="533 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="1958"/>
+<dbReference type="Ensembl" id="ENST00000239938">
+<property type="protein sequence ID" value="ENSP00000239938"/>
+<property type="gene ID" value="ENSG00000120738"/>
+</dbReference>
+<dbReference type="GeneID" id="1958"/>
+<dbReference type="KEGG" id="hsa:1958"/>
+<dbReference type="CTD" id="1958"/>
+<dbReference type="DisGeNET" id="1958"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000120738.7"/>
+<dbReference type="GeneCards" id="EGR1"/>
+<dbReference type="HGNC" id="HGNC:3238">
+<property type="gene designation" value="EGR1"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000120738">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MIM" id="128990">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P18146"/>
+<dbReference type="OpenTargets" id="ENSG00000120738"/>
+<dbReference type="PharmGKB" id="PA27673"/>
+<dbReference type="eggNOG" id="KOG1721">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000160184"/>
+<dbReference type="HOGENOM" id="CLU_043235_2_0_1"/>
+<dbReference type="InParanoid" id="P18146"/>
+<dbReference type="KO" id="K09203"/>
+<dbReference type="OMA" id="SPVHTSY"/>
+<dbReference type="OrthoDB" id="1318335at2759"/>
+<dbReference type="PhylomeDB" id="P18146"/>
+<dbReference type="TreeFam" id="TF318980"/>
+<dbReference type="PathwayCommons" id="P18146"/>
+<dbReference type="Reactome" id="R-HSA-8943724">
+<property type="pathway name" value="Regulation of PTEN gene transcription"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9031628">
+<property type="pathway name" value="NGF-stimulated transcription"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-909733">
+<property type="pathway name" value="Interferon alpha/beta signaling"/>
+</dbReference>
+<dbReference type="SignaLink" id="P18146"/>
+<dbReference type="SIGNOR" id="P18146"/>
+<dbReference type="BioGRID-ORCS" id="1958">
+<property type="hits" value="14 hits in 894 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="EGR1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="EGR1"/>
+<dbReference type="GenomeRNAi" id="1958"/>
+<dbReference type="Pharos" id="P18146">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P18146"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="RNAct" id="P18146">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000120738">
+<property type="expression patterns" value="Expressed in epithelium of mammary gland and 246 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="P18146">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P18146">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000790">
+<property type="term" value="C:nuclear chromatin"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001228">
+<property type="term" value="F:DNA-binding transcription activator activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003700">
+<property type="term" value="F:DNA-binding transcription factor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000981">
+<property type="term" value="F:DNA-binding transcription factor activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000247"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010385">
+<property type="term" value="F:double-stranded methylated DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044729">
+<property type="term" value="F:hemi-methylated DNA-binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035035">
+<property type="term" value="F:histone acetyltransferase binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990841">
+<property type="term" value="F:promoter-specific chromatin binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000977">
+<property type="term" value="F:RNA polymerase II transcription regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990837">
+<property type="term" value="F:sequence-specific double-stranded DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000976">
+<property type="term" value="F:transcription regulatory region sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030509">
+<property type="term" value="P:BMP signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071480">
+<property type="term" value="P:cellular response to gamma radiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071504">
+<property type="term" value="P:cellular response to heparin"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0098759">
+<property type="term" value="P:cellular response to interleukin-8"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071506">
+<property type="term" value="P:cellular response to mycophenolic acid"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032922">
+<property type="term" value="P:circadian regulation of gene expression"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060086">
+<property type="term" value="P:circadian temperature homeostasis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044849">
+<property type="term" value="P:estrous cycle"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072110">
+<property type="term" value="P:glomerular mesangial cell proliferation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070498">
+<property type="term" value="P:interleukin-1-mediated signaling pathway"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045475">
+<property type="term" value="P:locomotor rhythm"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090090">
+<property type="term" value="P:negative regulation of canonical Wnt signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000122">
+<property type="term" value="P:negative regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045080">
+<property type="term" value="P:positive regulation of chemokine biosynthetic process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010628">
+<property type="term" value="P:positive regulation of gene expression"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072303">
+<property type="term" value="P:positive regulation of glomerular metanephric mesangial cell proliferation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046886">
+<property type="term" value="P:positive regulation of hormone biosynthetic process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032731">
+<property type="term" value="P:positive regulation of interleukin-1 beta production"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901216">
+<property type="term" value="P:positive regulation of neuron death"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902895">
+<property type="term" value="P:positive regulation of pri-miRNA transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902949">
+<property type="term" value="P:positive regulation of tau-protein kinase activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045893">
+<property type="term" value="P:positive regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042981">
+<property type="term" value="P:regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000182">
+<property type="term" value="P:regulation of progesterone biosynthetic process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033233">
+<property type="term" value="P:regulation of protein sumoylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061418">
+<property type="term" value="P:regulation of transcription from RNA polymerase II promoter in response to hypoxia"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009749">
+<property type="term" value="P:response to glucose"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001666">
+<property type="term" value="P:response to hypoxia"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032868">
+<property type="term" value="P:response to insulin"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002931">
+<property type="term" value="P:response to ischemia"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035914">
+<property type="term" value="P:skeletal muscle cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030217">
+<property type="term" value="P:T cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060337">
+<property type="term" value="P:type I interferon signaling pathway"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021839">
+<property type="entry name" value="EGR1_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021849">
+<property type="entry name" value="EGR_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036236">
+<property type="entry name" value="Znf_C2H2_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013087">
+<property type="entry name" value="Znf_C2H2_type"/>
+</dbReference>
+<dbReference type="Pfam" id="PF11914">
+<property type="entry name" value="DUF3432"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF11928">
+<property type="entry name" value="DUF3446"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00096">
+<property type="entry name" value="zf-C2H2"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="SMART" id="SM00355">
+<property type="entry name" value="ZnF_C2H2"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF57667">
+<property type="entry name" value="SSF57667"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00028">
+<property type="entry name" value="ZINC_FINGER_C2H2_1"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50157">
+<property type="entry name" value="ZINC_FINGER_C2H2_2"/>
+<property type="match status" value="3"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0010">Activator</keyword>
+<keyword id="KW-0090">Biological rhythms</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<keyword id="KW-0863">Zinc-finger</keyword>
+<feature type="chain" description="Early growth response protein 1" id="PRO_0000047109">
+<location>
+<begin position="1"/>
+<end position="543"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="C2H2-type 1" evidence="1 2 3 4 7 10 11">
+<location>
+<begin position="338"/>
+<end position="362"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="C2H2-type 2" evidence="1 2 3 4 7 10 11">
+<location>
+<begin position="368"/>
+<end position="390"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="C2H2-type 3" evidence="1 2 3 4 7 10 11">
+<location>
+<begin position="396"/>
+<end position="418"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Gly/Ser-rich">
+<location>
+<begin position="57"/>
+<end position="84"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA" evidence="1 10">
+<location>
+<position position="336"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA" evidence="6">
+<location>
+<position position="347"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA" evidence="6">
+<location>
+<position position="351"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA" evidence="1 10">
+<location>
+<position position="357"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA" evidence="6">
+<location>
+<position position="375"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA" evidence="1 10">
+<location>
+<position position="379"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA" evidence="4 11">
+<location>
+<position position="403"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA" evidence="1 10">
+<location>
+<position position="407"/>
+</location>
+</feature>
+<feature type="site" description="Interaction with DNA" evidence="1 4 10 11">
+<location>
+<position position="413"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)" evidence="5">
+<location>
+<position position="305"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs13181973." id="VAR_052712">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="28"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs28365166." id="VAR_029330">
+<original>N</original>
+<variation>K</variation>
+<location>
+<position position="144"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs28365164." id="VAR_029331">
+<original>S</original>
+<variation>R</variation>
+<location>
+<position position="145"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs28365165." id="VAR_029332">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="219"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="348"/>
+<end position="351"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="352"/>
+<end position="363"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="371"/>
+<end position="373"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="376"/>
+<end position="378"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="380"/>
+<end position="391"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="399"/>
+<end position="401"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="404"/>
+<end position="407"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="408"/>
+<end position="415"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="416"/>
+<end position="418"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4R2A"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4R2C"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4R2D"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4X9J"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="28112733"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P08046"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00042"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20121949"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20363028"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25258363"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25999311"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="2110381"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="2377485"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000305"/>
+<sequence length="543" mass="57507" checksum="768CE670D9743E4E" modified="1990-11-01" version="1">MAAAKAEMQLMSPLQISDPFGSFPHSPTMDNYPKLEEMMLLSNGAPQFLGAAGAPEGSGSNSSSSSSGGGGGGGGGSNSSSSSSTFNPQADTGEQPYEHLTAESFPDISLNNEKVLVETSYPSQTTRLPPITYTGRFSLEPAPNSGNTLWPEPLFSLVSGLVSMTNPPASSSSAPSPAASSASASQSPPLSCAVPSNDSSPIYSAAPTFPTPNTDIFPEPQSQAFPGSAGTALQYPPPAYPAAKGGFQVPMIPDYLFPQQQGDLGLGTPDQKPFQGLESRTQQPSLTPLSTIKAFATQSGSQDLKALNTSYQSQLIKPSRMRKYPNRPSKTPPHERPYACPVESCDRRFSRSDELTRHIRIHTGQKPFQCRICMRNFSRSDHLTTHIRTHTGEKPFACDICGRKFARSDERKRHTKIHLRQKDKKADKSVVASSATSSLSSYPSPVATSYPSPVTTSYPSPATTSYPSPVPTSFSSPGSSTYPSPVHSGFPSPSVATTYSSVPPAFPAQVSSFPSSAVTNSFSASTGLSDMTATFSPRTIEIC</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

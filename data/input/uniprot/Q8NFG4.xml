@@ -1,0 +1,2553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2006-02-21" modified="2020-10-07" version="152">
+<accession>Q8NFG4</accession>
+<accession>A6NJJ8</accession>
+<accession>Q6ZRX1</accession>
+<accession>Q96BD2</accession>
+<accession>Q96BE4</accession>
+<name>FLCN_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="49">Folliculin</fullName>
+</recommendedName>
+<alternativeName>
+<fullName evidence="46">BHD skin lesion fibrofolliculoma protein</fullName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="46">Birt-Hogg-Dube syndrome protein</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="49 51">FLCN</name>
+<name type="synonym" evidence="46">BHD</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2002" name="Cancer Cell" volume="2" first="157" last="164">
+<title>Mutations in a novel gene lead to kidney tumors, lung wall defects, and benign tumors of the hair follicle in patients with the Birt-Hogg-Dube syndrome.</title>
+<authorList>
+<person name="Nickerson M.L."/>
+<person name="Warren M.B."/>
+<person name="Toro J.R."/>
+<person name="Matrosova V."/>
+<person name="Glenn G."/>
+<person name="Turner M.L."/>
+<person name="Duray P."/>
+<person name="Merino M."/>
+<person name="Choyke P.L."/>
+<person name="Pavlovich C.P."/>
+<person name="Sharma N."/>
+<person name="Walther M.M."/>
+<person name="Munroe D."/>
+<person name="Hill R."/>
+<person name="Maher E."/>
+<person name="Greenberg C."/>
+<person name="Lerman M.I."/>
+<person name="Linehan W.M."/>
+<person name="Zbar B."/>
+<person name="Schmidt L.S."/>
+</authorList>
+<dbReference type="PubMed" id="12204536"/>
+<dbReference type="DOI" id="10.1016/s1535-6108(02)00104-6"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>DEVELOPMENTAL STAGE</scope>
+<scope>INVOLVEMENT IN BIRT-HOGG-DUBE SYNDROME</scope>
+<source>
+<tissue>Lung</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3)</scope>
+<source>
+<tissue>Spleen</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="Nature" volume="440" first="1045" last="1049">
+<title>DNA sequence of human chromosome 17 and analysis of rearrangement in the human lineage.</title>
+<authorList>
+<person name="Zody M.C."/>
+<person name="Garber M."/>
+<person name="Adams D.J."/>
+<person name="Sharpe T."/>
+<person name="Harrow J."/>
+<person name="Lupski J.R."/>
+<person name="Nicholson C."/>
+<person name="Searle S.M."/>
+<person name="Wilming L."/>
+<person name="Young S.K."/>
+<person name="Abouelleil A."/>
+<person name="Allen N.R."/>
+<person name="Bi W."/>
+<person name="Bloom T."/>
+<person name="Borowsky M.L."/>
+<person name="Bugalter B.E."/>
+<person name="Butler J."/>
+<person name="Chang J.L."/>
+<person name="Chen C.-K."/>
+<person name="Cook A."/>
+<person name="Corum B."/>
+<person name="Cuomo C.A."/>
+<person name="de Jong P.J."/>
+<person name="DeCaprio D."/>
+<person name="Dewar K."/>
+<person name="FitzGerald M."/>
+<person name="Gilbert J."/>
+<person name="Gibson R."/>
+<person name="Gnerre S."/>
+<person name="Goldstein S."/>
+<person name="Grafham D.V."/>
+<person name="Grocock R."/>
+<person name="Hafez N."/>
+<person name="Hagopian D.S."/>
+<person name="Hart E."/>
+<person name="Norman C.H."/>
+<person name="Humphray S."/>
+<person name="Jaffe D.B."/>
+<person name="Jones M."/>
+<person name="Kamal M."/>
+<person name="Khodiyar V.K."/>
+<person name="LaButti K."/>
+<person name="Laird G."/>
+<person name="Lehoczky J."/>
+<person name="Liu X."/>
+<person name="Lokyitsang T."/>
+<person name="Loveland J."/>
+<person name="Lui A."/>
+<person name="Macdonald P."/>
+<person name="Major J.E."/>
+<person name="Matthews L."/>
+<person name="Mauceli E."/>
+<person name="McCarroll S.A."/>
+<person name="Mihalev A.H."/>
+<person name="Mudge J."/>
+<person name="Nguyen C."/>
+<person name="Nicol R."/>
+<person name="O'Leary S.B."/>
+<person name="Osoegawa K."/>
+<person name="Schwartz D.C."/>
+<person name="Shaw-Smith C."/>
+<person name="Stankiewicz P."/>
+<person name="Steward C."/>
+<person name="Swarbreck D."/>
+<person name="Venkataraman V."/>
+<person name="Whittaker C.A."/>
+<person name="Yang X."/>
+<person name="Zimmer A.R."/>
+<person name="Bradley A."/>
+<person name="Hubbard T."/>
+<person name="Birren B.W."/>
+<person name="Rogers J."/>
+<person name="Lander E.S."/>
+<person name="Nusbaum C."/>
+</authorList>
+<dbReference type="PubMed" id="16625196"/>
+<dbReference type="DOI" id="10.1038/nature04689"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 267-579 (ISOFORM 1)</scope>
+<source>
+<tissue>Skin</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2003" name="J. Med. Genet." volume="40" first="511" last="515">
+<title>Alterations of the Birt-Hogg-Dube gene (BHD) in sporadic colorectal tumours.</title>
+<authorList>
+<person name="Kahnoski K."/>
+<person name="Khoo S.K."/>
+<person name="Nassif N.T."/>
+<person name="Chen J."/>
+<person name="Lobo G.P."/>
+<person name="Segelov E."/>
+<person name="Teh B.T."/>
+</authorList>
+<dbReference type="PubMed" id="12843323"/>
+<dbReference type="DOI" id="10.1136/jmg.40.7.511"/>
+</citation>
+<scope>POSSIBLE INVOLVEMENT IN COLORECTAL CANCER</scope>
+<scope>VARIANTS TRP-79 AND THR-445</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2003" name="J. Med. Genet." volume="40" first="820" last="824">
+<title>Analysis of the Birt-Hogg-Dube (BHD) tumour suppressor gene in sporadic renal cell carcinoma and colorectal cancer.</title>
+<authorList>
+<person name="da Silva N.F."/>
+<person name="Gentle D."/>
+<person name="Hesson L.B."/>
+<person name="Morton D.G."/>
+<person name="Latif F."/>
+<person name="Maher E.R."/>
+</authorList>
+<dbReference type="PubMed" id="14627671"/>
+<dbReference type="DOI" id="10.1136/jmg.40.11.820"/>
+</citation>
+<scope>POSSIBLE INVOLVEMENT IN RENAL CELL CARCINOMA AND COLORECTAL CANCER</scope>
+<scope>VARIANTS VAL-238; GLN-320; GLY-392 AND SER-444</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2005" name="Am. J. Hum. Genet." volume="76" first="522" last="527">
+<title>A 4-bp deletion in the Birt-Hogg-Dube gene (FLCN) causes dominantly inherited spontaneous pneumothorax.</title>
+<authorList>
+<person name="Painter J.N."/>
+<person name="Tapanainen H."/>
+<person name="Somer M."/>
+<person name="Tukiainen P."/>
+<person name="Aittomaeki K."/>
+</authorList>
+<dbReference type="PubMed" id="15657874"/>
+<dbReference type="DOI" id="10.1086/428455"/>
+</citation>
+<scope>INVOLVEMENT IN PSP</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2005" name="Am. J. Hum. Genet." volume="76" first="1023" last="1033">
+<title>Germline BHD-mutation spectrum and phenotype analysis of a large cohort of families with Birt-Hogg-Dube syndrome.</title>
+<authorList>
+<person name="Schmidt L.S."/>
+<person name="Nickerson M.L."/>
+<person name="Warren M.B."/>
+<person name="Glenn G.M."/>
+<person name="Toro J.R."/>
+<person name="Merino M.J."/>
+<person name="Turner M.L."/>
+<person name="Choyke P.L."/>
+<person name="Sharma N."/>
+<person name="Peterson J."/>
+<person name="Morrison P."/>
+<person name="Maher E.R."/>
+<person name="Walther M.M."/>
+<person name="Zbar B."/>
+<person name="Linehan W.M."/>
+</authorList>
+<dbReference type="PubMed" id="15852235"/>
+<dbReference type="DOI" id="10.1086/430842"/>
+</citation>
+<scope>INVOLVEMENT IN BIRT-HOGG-DUBE SYNDROME</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2006" name="Proc. Natl. Acad. Sci. U.S.A." volume="103" first="15552" last="15557">
+<title>Folliculin encoded by the BHD gene interacts with a binding protein, FNIP1, and AMPK, and is involved in AMPK and mTOR signaling.</title>
+<authorList>
+<person name="Baba M."/>
+<person name="Hong S.-B."/>
+<person name="Sharma N."/>
+<person name="Warren M.B."/>
+<person name="Nickerson M.L."/>
+<person name="Iwamatsu A."/>
+<person name="Esposito D."/>
+<person name="Gillette W.K."/>
+<person name="Hopkins R.F. III"/>
+<person name="Hartley J.L."/>
+<person name="Furihata M."/>
+<person name="Oishi S."/>
+<person name="Zhen W."/>
+<person name="Burke T.R. Jr."/>
+<person name="Linehan W.M."/>
+<person name="Schmidt L.S."/>
+<person name="Zbar B."/>
+</authorList>
+<dbReference type="PubMed" id="17028174"/>
+<dbReference type="DOI" id="10.1073/pnas.0603781103"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>PHOSPHORYLATION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH FNIP1</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2007" name="J. Med. Genet." volume="44" first="588" last="593">
+<title>Mutations of the Birt Hogg Dube gene in patients with multiple lung cysts and recurrent pneumothorax.</title>
+<authorList>
+<person name="Gunji Y."/>
+<person name="Akiyoshi T."/>
+<person name="Sato T."/>
+<person name="Kurihara M."/>
+<person name="Tominaga S."/>
+<person name="Takahashi K."/>
+<person name="Seyama K."/>
+</authorList>
+<dbReference type="PubMed" id="17496196"/>
+<dbReference type="DOI" id="10.1136/jmg.2007.049874"/>
+</citation>
+<scope>INVOLVEMENT IN PSP</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2008" name="Gene" volume="415" first="60" last="67">
+<title>Identification and characterization of a novel folliculin-interacting protein FNIP2.</title>
+<authorList>
+<person name="Hasumi H."/>
+<person name="Baba M."/>
+<person name="Hong S.-B."/>
+<person name="Hasumi Y."/>
+<person name="Huang Y."/>
+<person name="Yao M."/>
+<person name="Valera V.A."/>
+<person name="Linehan W.M."/>
+<person name="Schmidt L.S."/>
+</authorList>
+<dbReference type="PubMed" id="18403135"/>
+<dbReference type="DOI" id="10.1016/j.gene.2008.02.022"/>
+</citation>
+<scope>INTERACTION WITH FNIP2</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2008" name="Oncogene" volume="27" first="5339" last="5347">
+<title>Interaction of folliculin (Birt-Hogg-Dube gene product) with a novel Fnip1-like (FnipL/Fnip2) protein.</title>
+<authorList>
+<person name="Takagi Y."/>
+<person name="Kobayashi T."/>
+<person name="Shiono M."/>
+<person name="Wang L."/>
+<person name="Piao X."/>
+<person name="Sun G."/>
+<person name="Zhang D."/>
+<person name="Abe M."/>
+<person name="Hagiwara Y."/>
+<person name="Takahashi K."/>
+<person name="Hino O."/>
+</authorList>
+<dbReference type="PubMed" id="18663353"/>
+<dbReference type="DOI" id="10.1038/onc.2008.261"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH FNIP2</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="10762" last="10767">
+<title>A quantitative atlas of mitotic phosphorylation.</title>
+<authorList>
+<person name="Dephoure N."/>
+<person name="Zhou C."/>
+<person name="Villen J."/>
+<person name="Beausoleil S.A."/>
+<person name="Bakalarski C.E."/>
+<person name="Elledge S.J."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="18669648"/>
+<dbReference type="DOI" id="10.1073/pnas.0805139105"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-62</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2009" name="Anal. Chem." volume="81" first="4493" last="4501">
+<title>Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach.</title>
+<authorList>
+<person name="Gauci S."/>
+<person name="Helbig A.O."/>
+<person name="Slijper M."/>
+<person name="Krijgsveld J."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="19413330"/>
+<dbReference type="DOI" id="10.1021/ac9004309"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2009" name="Eur. Respir. J." volume="33" first="1510" last="1512">
+<title>Familial spontaneous pneumothorax and lung cysts due to a Folliculin exon 10 mutation.</title>
+<authorList>
+<person name="Sundaram S."/>
+<person name="Tasker A.D."/>
+<person name="Morrell N.W."/>
+</authorList>
+<dbReference type="PubMed" id="19483054"/>
+<dbReference type="DOI" id="10.1183/09031936.00062608"/>
+</citation>
+<scope>INVOLVEMENT IN PSP</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2010" name="PLoS ONE" volume="5" first="E15793" last="E15793">
+<title>Inactivation of the FLCN tumor suppressor gene induces TFE3 transcriptional activity by increasing its nuclear localization.</title>
+<authorList>
+<person name="Hong S.B."/>
+<person name="Oh H."/>
+<person name="Valera V.A."/>
+<person name="Baba M."/>
+<person name="Schmidt L.S."/>
+<person name="Linehan W.M."/>
+</authorList>
+<dbReference type="PubMed" id="21209915"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0015793"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2011" name="Sci. Signal." volume="4" first="RS3" last="RS3">
+<title>System-wide temporal characterization of the proteome and phosphoproteome of human embryonic stem cell differentiation.</title>
+<authorList>
+<person name="Rigbolt K.T."/>
+<person name="Prokhorova T.A."/>
+<person name="Akimov V."/>
+<person name="Henningsen J."/>
+<person name="Johansen P.T."/>
+<person name="Kratchmarova I."/>
+<person name="Kassem M."/>
+<person name="Mann M."/>
+<person name="Olsen J.V."/>
+<person name="Blagoev B."/>
+</authorList>
+<dbReference type="PubMed" id="21406692"/>
+<dbReference type="DOI" id="10.1126/scisignal.2001570"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-62</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2013" name="Hum. Mol. Genet." volume="22" first="4383" last="4397">
+<title>Birt-Hogg-Dube syndrome is a novel ciliopathy.</title>
+<authorList>
+<person name="Luijten M.N."/>
+<person name="Basten S.G."/>
+<person name="Claessens T."/>
+<person name="Vernooij M."/>
+<person name="Scott C.L."/>
+<person name="Janssen R."/>
+<person name="Easton J.A."/>
+<person name="Kamps M.A."/>
+<person name="Vreeburg M."/>
+<person name="Broers J.L."/>
+<person name="van Geel M."/>
+<person name="Menko F.H."/>
+<person name="Harbottle R.P."/>
+<person name="Nookala R.K."/>
+<person name="Tee A.R."/>
+<person name="Land S.C."/>
+<person name="Giles R.H."/>
+<person name="Coull B.J."/>
+<person name="van Steensel M.A."/>
+</authorList>
+<dbReference type="PubMed" id="23784378"/>
+<dbReference type="DOI" id="10.1093/hmg/ddt288"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INVOLVEMENT IN BHD</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+<dbReference type="DOI" id="10.1021/pr300630k"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-62; SER-73; SER-302 AND SER-571</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2013" name="J. Cell Biol." volume="202" first="1107" last="1122">
+<title>Recruitment of folliculin to lysosomes supports the amino acid-dependent activation of Rag GTPases.</title>
+<authorList>
+<person name="Petit C.S."/>
+<person name="Roczniak-Ferguson A."/>
+<person name="Ferguson S.M."/>
+</authorList>
+<dbReference type="PubMed" id="24081491"/>
+<dbReference type="DOI" id="10.1083/jcb.201307084"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2013" name="Mol. Cell" volume="52" first="495" last="505">
+<title>The folliculin tumor suppressor is a GAP for the RagC/D GTPases that signal amino acid levels to mTORC1.</title>
+<authorList>
+<person name="Tsun Z.Y."/>
+<person name="Bar-Peled L."/>
+<person name="Chantranupong L."/>
+<person name="Zoncu R."/>
+<person name="Wang T."/>
+<person name="Kim C."/>
+<person name="Spooner E."/>
+<person name="Sabatini D.M."/>
+</authorList>
+<dbReference type="PubMed" id="24095279"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2013.09.016"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2013" name="PLoS ONE" volume="8" first="E70030" last="E70030">
+<title>Folliculin contributes to VHL tumor suppressing activity in renal cancer through regulation of autophagy.</title>
+<authorList>
+<person name="Bastola P."/>
+<person name="Stratton Y."/>
+<person name="Kellner E."/>
+<person name="Mikhaylova O."/>
+<person name="Yi Y."/>
+<person name="Sartor M.A."/>
+<person name="Medvedovic M."/>
+<person name="Biesiada J."/>
+<person name="Meller J."/>
+<person name="Czyzyk-Krzeska M.F."/>
+</authorList>
+<dbReference type="PubMed" id="23922894"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0070030"/>
+</citation>
+<scope>INVOLVEMENT IN RCC</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2014" name="Autophagy" volume="10" first="1749" last="1760">
+<title>FLCN, a novel autophagy component, interacts with GABARAP and is regulated by ULK1 phosphorylation.</title>
+<authorList>
+<person name="Dunlop E.A."/>
+<person name="Seifan S."/>
+<person name="Claessens T."/>
+<person name="Behrends C."/>
+<person name="Kamps M.A."/>
+<person name="Rozycka E."/>
+<person name="Kemp A.J."/>
+<person name="Nookala R.K."/>
+<person name="Blenis J."/>
+<person name="Coull B.J."/>
+<person name="Murray J.T."/>
+<person name="van Steensel M.A."/>
+<person name="Wilkinson S."/>
+<person name="Tee A.R."/>
+</authorList>
+<dbReference type="PubMed" id="25126726"/>
+<dbReference type="DOI" id="10.4161/auto.29640"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH GABARAP; FNIP1 AND FNIP2</scope>
+<scope>PHOSPHORYLATION AT SER-406; SER-537 AND SER-542</scope>
+<scope>MUTAGENESIS OF SER-406; SER-537 AND SER-542</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2015" name="Lung" volume="193" first="433" last="438">
+<title>Genetic analysis of familial spontaneous pneumothorax in an Indian family.</title>
+<authorList>
+<person name="Ray A."/>
+<person name="Paul S."/>
+<person name="Chattopadhyay E."/>
+<person name="Kundu S."/>
+<person name="Roy B."/>
+</authorList>
+<dbReference type="PubMed" id="25827758"/>
+<dbReference type="DOI" id="10.1007/s00408-015-9723-9"/>
+</citation>
+<scope>INVOLVEMENT IN PSP</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2016" name="EMBO Rep." volume="17" first="823" last="841">
+<title>Folliculin directs the formation of a Rab34-RILP complex to control the nutrient-dependent dynamic distribution of lysosomes.</title>
+<authorList>
+<person name="Starling G.P."/>
+<person name="Yip Y.Y."/>
+<person name="Sanger A."/>
+<person name="Morton P.E."/>
+<person name="Eden E.R."/>
+<person name="Dodding M.P."/>
+</authorList>
+<dbReference type="PubMed" id="27113757"/>
+<dbReference type="DOI" id="10.15252/embr.201541382"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH RILP</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2016" name="J. Biol. Chem." volume="291" first="11689" last="11697">
+<title>Tumor suppressor folliculin regulates mTORC1 through primary cilia.</title>
+<authorList>
+<person name="Zhong M."/>
+<person name="Zhao X."/>
+<person name="Li J."/>
+<person name="Yuan W."/>
+<person name="Yan G."/>
+<person name="Tong M."/>
+<person name="Guo S."/>
+<person name="Zhu Y."/>
+<person name="Jiang Y."/>
+<person name="Liu Y."/>
+<person name="Jiang Y."/>
+</authorList>
+<dbReference type="PubMed" id="27072130"/>
+<dbReference type="DOI" id="10.1074/jbc.m116.719997"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH KIF3A AND KIF3B</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2016" name="Nat. Commun." volume="7" first="12037" last="12037">
+<title>The FNIP co-chaperones decelerate the Hsp90 chaperone cycle and enhance drug binding.</title>
+<authorList>
+<person name="Woodford M.R."/>
+<person name="Dunn D.M."/>
+<person name="Blanden A.R."/>
+<person name="Capriotti D."/>
+<person name="Loiselle D."/>
+<person name="Prodromou C."/>
+<person name="Panaretou B."/>
+<person name="Hughes P.F."/>
+<person name="Smith A."/>
+<person name="Ackerman W."/>
+<person name="Haystead T.A."/>
+<person name="Loh S.N."/>
+<person name="Bourboulia D."/>
+<person name="Schmidt L.S."/>
+<person name="Marston Linehan W."/>
+<person name="Bratslavsky G."/>
+<person name="Mollapour M."/>
+</authorList>
+<dbReference type="PubMed" id="27353360"/>
+<dbReference type="DOI" id="10.1038/ncomms12037"/>
+</citation>
+<scope>INTERACTION WITH HSP70; HSP90AA1; STUB1; CDC37; AHSA1; CCT2; STIP1; FNIP1; FNIP2; PTGES3 AND PPP5C</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2018" name="J. Cell Biol." volume="217" first="2765" last="2776">
+<title>GATOR1-dependent recruitment of FLCN-FNIP to lysosomes coordinates Rag GTPase heterodimer nucleotide status in response to amino acids.</title>
+<authorList>
+<person name="Meng J."/>
+<person name="Ferguson S.M."/>
+</authorList>
+<dbReference type="PubMed" id="29848618"/>
+<dbReference type="DOI" id="10.1083/jcb.201712177"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2019" name="Hum. Mol. Genet." volume="28" first="3270" last="3281">
+<title>Loss of FLCN inhibits canonical WNT signaling via TFE3.</title>
+<authorList>
+<person name="Kennedy J.C."/>
+<person name="Khabibullin D."/>
+<person name="Hougard T."/>
+<person name="Nijmeh J."/>
+<person name="Shi W."/>
+<person name="Henske E.P."/>
+</authorList>
+<dbReference type="PubMed" id="31272105"/>
+<dbReference type="DOI" id="10.1093/hmg/ddz158"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2019" name="Nat. Commun." volume="10" first="632" last="632">
+<title>Folliculin regulates mTORC1/2 and WNT pathways in early human pluripotency.</title>
+<authorList>
+<person name="Mathieu J."/>
+<person name="Detraux D."/>
+<person name="Kuppers D."/>
+<person name="Wang Y."/>
+<person name="Cavanaugh C."/>
+<person name="Sidhu S."/>
+<person name="Levy S."/>
+<person name="Robitaille A.M."/>
+<person name="Ferreccio A."/>
+<person name="Bottorff T."/>
+<person name="McAlister A."/>
+<person name="Somasundaram L."/>
+<person name="Artoni F."/>
+<person name="Battle S."/>
+<person name="Hawkins R.D."/>
+<person name="Moon R.T."/>
+<person name="Ware C.B."/>
+<person name="Paddison P.J."/>
+<person name="Ruohola-Baker H."/>
+</authorList>
+<dbReference type="PubMed" id="30733432"/>
+<dbReference type="DOI" id="10.1038/s41467-018-08020-0"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="32" evidence="1">
+<citation type="journal article" date="2012" name="Open Biol." volume="2" first="120071" last="120071">
+<title>Crystal structure of folliculin reveals a hidDENN function in genetically inherited renal cancer.</title>
+<authorList>
+<person name="Nookala R.K."/>
+<person name="Langemeyer L."/>
+<person name="Pacitto A."/>
+<person name="Ochoa-Montano B."/>
+<person name="Donaldson J.C."/>
+<person name="Blaszczyk B.K."/>
+<person name="Chirgadze D.Y."/>
+<person name="Barr F.A."/>
+<person name="Bazan J.F."/>
+<person name="Blundell T.L."/>
+</authorList>
+<dbReference type="PubMed" id="22977732"/>
+<dbReference type="DOI" id="10.1098/rsob.120071"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 341-566</scope>
+</reference>
+<reference key="33" evidence="3">
+<citation type="journal article" date="2019" name="Cell" volume="179" first="1319" last="1329">
+<title>Cryo-EM structure of the human FLCN-FNIP2-Rag-Ragulator complex.</title>
+<authorList>
+<person name="Shen K."/>
+<person name="Rogala K.B."/>
+<person name="Chou H.T."/>
+<person name="Huang R.K."/>
+<person name="Yu Z."/>
+<person name="Sabatini D.M."/>
+</authorList>
+<dbReference type="PubMed" id="31704029"/>
+<dbReference type="DOI" id="10.1016/j.cell.2019.10.036"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (3.31 ANGSTROMS) IN COMPLEX WITH FNIP2; RRAGA; RRAGC; LAMTOR1; LAMTOR2; LAMTOR3; LAMTOR4 AND LAMTOR5</scope>
+<scope>FUNCTION</scope>
+<scope>IDENTIFICATION IN THE LFC COMPLEX</scope>
+<scope>MUTAGENESIS OF ARG-164</scope>
+</reference>
+<reference key="34" evidence="2">
+<citation type="journal article" date="2019" name="Science" volume="366" first="971" last="977">
+<title>Structural mechanism of a Rag GTPase activation checkpoint by the lysosomal folliculin complex.</title>
+<authorList>
+<person name="Lawrence R.E."/>
+<person name="Fromm S.A."/>
+<person name="Fu Y."/>
+<person name="Yokom A.L."/>
+<person name="Kim D.J."/>
+<person name="Thelen A.M."/>
+<person name="Young L.N."/>
+<person name="Lim C.Y."/>
+<person name="Samelson A.J."/>
+<person name="Hurley J.H."/>
+<person name="Zoncu R."/>
+</authorList>
+<dbReference type="PubMed" id="31672913"/>
+<dbReference type="DOI" id="10.1126/science.aax0364"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (3.60 ANGSTROMS) IN COMPLEX WITH FNIP2; RRAGA; RRAGC; LAMTOR1; LAMTOR2; LAMTOR3; LAMTOR4 AND LAMTOR5</scope>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>IDENTIFICATION IN THE LFC COMPLEX</scope>
+<scope>MUTAGENESIS OF PHE-118 AND ARG-164</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="2005" name="Am. J. Respir. Crit. Care Med." volume="172" first="39" last="44">
+<title>Nonsense mutations in folliculin presenting as isolated familial spontaneous pneumothorax in adults.</title>
+<authorList>
+<person name="Graham R.B."/>
+<person name="Nolasco M."/>
+<person name="Peterlin B."/>
+<person name="Garcia C.K."/>
+</authorList>
+<dbReference type="PubMed" id="15805188"/>
+<dbReference type="DOI" id="10.1164/rccm.200501-143oc"/>
+</citation>
+<scope>VARIANTS PSP 315-GLU--ASN-579 DEL AND 477-ARG--ASN-579 DEL</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="2008" name="Clin. Cancer Res." volume="14" first="5925" last="5930">
+<title>Familial non-VHL clear cell (conventional) renal cell carcinoma: clinical features, segregation analysis, and mutation analysis of FLCN.</title>
+<authorList>
+<person name="Woodward E.R."/>
+<person name="Ricketts C."/>
+<person name="Killick P."/>
+<person name="Gad S."/>
+<person name="Morris M.R."/>
+<person name="Kavalier F."/>
+<person name="Hodgson S.V."/>
+<person name="Giraud S."/>
+<person name="Bressac-de Paillerets B."/>
+<person name="Chapman C."/>
+<person name="Escudier B."/>
+<person name="Latif F."/>
+<person name="Richard S."/>
+<person name="Maher E.R."/>
+</authorList>
+<dbReference type="PubMed" id="18794106"/>
+<dbReference type="DOI" id="10.1158/1078-0432.ccr-08-0608"/>
+</citation>
+<scope>VARIANT RCC CYS-239</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="2008" name="Clin. Genet." volume="74" first="178" last="183">
+<title>Mutation analysis of the FLCN gene in Chinese patients with sporadic and familial isolated primary spontaneous pneumothorax.</title>
+<authorList>
+<person name="Ren H.Z."/>
+<person name="Zhu C.C."/>
+<person name="Yang C."/>
+<person name="Chen S.L."/>
+<person name="Xie J."/>
+<person name="Hou Y.Y."/>
+<person name="Xu Z.F."/>
+<person name="Wang D.J."/>
+<person name="Mu D.K."/>
+<person name="Ma D.H."/>
+<person name="Wang Y."/>
+<person name="Ye M.H."/>
+<person name="Ye Z.R."/>
+<person name="Chen B.F."/>
+<person name="Wang C.G."/>
+<person name="Lin J."/>
+<person name="Qiao D."/>
+<person name="Yi L."/>
+</authorList>
+<dbReference type="PubMed" id="18505456"/>
+<dbReference type="DOI" id="10.1111/j.1399-0004.2008.01030.x"/>
+</citation>
+<scope>VARIANTS PSP PHE-157 DEL AND TYR-429</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="2008" name="Eur. Respir. J." volume="32" first="1316" last="1320">
+<title>Novel mutations in the folliculin gene associated with spontaneous pneumothorax.</title>
+<authorList>
+<person name="Frohlich B.A."/>
+<person name="Zeitz C."/>
+<person name="Matyas G."/>
+<person name="Alkadhi H."/>
+<person name="Tuor C."/>
+<person name="Berger W."/>
+<person name="Russi E.W."/>
+</authorList>
+<dbReference type="PubMed" id="18579543"/>
+<dbReference type="DOI" id="10.1183/09031936.00132707"/>
+</citation>
+<scope>VARIANT PSP LYS-132</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="2008" name="J. Med. Genet." volume="45" first="321" last="331">
+<title>BHD mutations, clinical and molecular genetic investigations of Birt-Hogg-Dube syndrome: a new series of 50 families and a review of published reports.</title>
+<authorList>
+<person name="Toro J.R."/>
+<person name="Wei M.H."/>
+<person name="Glenn G.M."/>
+<person name="Weinreich M."/>
+<person name="Toure O."/>
+<person name="Vocke C."/>
+<person name="Turner M."/>
+<person name="Choyke P."/>
+<person name="Merino M.J."/>
+<person name="Pinto P.A."/>
+<person name="Steinberg S.M."/>
+<person name="Schmidt L.S."/>
+<person name="Linehan W.M."/>
+</authorList>
+<dbReference type="PubMed" id="18234728"/>
+<dbReference type="DOI" id="10.1136/jmg.2007.054304"/>
+</citation>
+<scope>VARIANT BHD ARG-508</scope>
+</reference>
+<reference key="40">
+<citation type="journal article" date="2010" name="Br. J. Dermatol." volume="162" first="527" last="537">
+<title>Birt-Hogg-Dube syndrome: clinical and genetic studies of 10 French families.</title>
+<authorList>
+<person name="Kluger N."/>
+<person name="Giraud S."/>
+<person name="Coupier I."/>
+<person name="Avril M.F."/>
+<person name="Dereure O."/>
+<person name="Guillot B."/>
+<person name="Richard S."/>
+<person name="Bessis D."/>
+</authorList>
+<dbReference type="PubMed" id="19785621"/>
+<dbReference type="DOI" id="10.1111/j.1365-2133.2009.09517.x"/>
+</citation>
+<scope>VARIANT BHD ILE-108</scope>
+</reference>
+<reference key="41">
+<citation type="journal article" date="2011" name="Hum. Mutat." volume="32" first="921" last="929">
+<title>Birt Hogg-Dube syndrome-associated FLCN mutations disrupt protein stability.</title>
+<authorList>
+<person name="Nahorski M.S."/>
+<person name="Reiman A."/>
+<person name="Lim D.H."/>
+<person name="Nookala R.K."/>
+<person name="Seabra L."/>
+<person name="Lu X."/>
+<person name="Fenton J."/>
+<person name="Boora U."/>
+<person name="Nordenskjold M."/>
+<person name="Latif F."/>
+<person name="Hurst L.D."/>
+<person name="Maher E.R."/>
+</authorList>
+<dbReference type="PubMed" id="21538689"/>
+<dbReference type="DOI" id="10.1002/humu.21519"/>
+</citation>
+<scope>VARIANT CYS-362</scope>
+<scope>CHARACTERIZATION OF VARIANTS PHE-157 DEL; CYS-239; CYS-362 AND ARG-508</scope>
+</reference>
+<reference key="42">
+<citation type="journal article" date="2017" name="QJM" volume="110" first="23" last="26">
+<title>Novel folliculin (FLCN) mutation and familial spontaneous pneumothorax.</title>
+<authorList>
+<person name="Zhu J.F."/>
+<person name="Shen X.Q."/>
+<person name="Zhu F."/>
+<person name="Tian L."/>
+</authorList>
+<dbReference type="PubMed" id="27486260"/>
+<dbReference type="DOI" id="10.1093/qjmed/hcw109"/>
+</citation>
+<scope>VARIANT PSP 170-TYR--ASN-579 DEL</scope>
+</reference>
+<reference key="43">
+<citation type="journal article" date="2019" name="Mol. Genet. Genomic Med." volume="7" first="E1003" last="E1003">
+<title>A novel FLCN mutation in family members diagnosed with primary spontaneous pneumothorax.</title>
+<authorList>
+<person name="Genc Yavuz B."/>
+<person name="Guzel Tanoglu E."/>
+<person name="Salman Yilmaz S."/>
+<person name="Colak S."/>
+</authorList>
+<dbReference type="PubMed" id="31625278"/>
+<dbReference type="DOI" id="10.1002/mgg3.1003"/>
+</citation>
+<scope>VARIANT PSP 425-GLN--ASN-579 DEL</scope>
+</reference>
+<reference key="44">
+<citation type="journal article" date="2019" name="Orphanet J. Rare Dis." volume="14" first="223" last="223">
+<title>Genotypic characteristics of Chinese patients with BHD syndrome and functional analysis of FLCN variants.</title>
+<authorList>
+<person name="Liu K."/>
+<person name="Xu W."/>
+<person name="Tian X."/>
+<person name="Xiao M."/>
+<person name="Zhao X."/>
+<person name="Zhang Q."/>
+<person name="Qu T."/>
+<person name="Song J."/>
+<person name="Liu Y."/>
+<person name="Xu K.F."/>
+<person name="Zhang X."/>
+</authorList>
+<dbReference type="PubMed" id="31615547"/>
+<dbReference type="DOI" id="10.1186/s13023-019-1198-y"/>
+</citation>
+<scope>VARIANTS BHD PHE-157 DEL; 220-GLN--ASN-579 DEL; 339-GLN--ASN-579 DEL; 409-TYR--ASN-579 DEL; 511-TRP--ASN-579 DEL AND 533-GLN--ASN-579 DEL</scope>
+</reference>
+<comment type="function">
+<text evidence="7 16 22 26 31 32 33 35 36 40 41 44 45">GTPase-activating protein that plays a key role in the cellular response to amino acid availability through regulation of the mTORC1 signaling cascade controlling the MiT/TFE factors TFEB and TFE3 (PubMed:17028174, PubMed:18663353, PubMed:21209915, PubMed:24081491, PubMed:24095279, PubMed:31704029, PubMed:31672913). Activates mTORC1 by acting as a GTPase-activating protein: specifically stimulates GTP hydrolysis by RRAGC/RagC or RRAGD/RagD, promoting the conversion to the GDP-bound state of RRAGC/RagC or RRAGD/RagD, and thereby activating the kinase activity of mTORC1 (PubMed:24095279, PubMed:31704029, PubMed:31672913). The GTPase-activating activity is inhibited during starvation and activated in presence of nutrients (PubMed:31672913). Acts as a key component for mTORC1-dependent control of the MiT/TFE factors TFEB and TFE3, while it is not involved in mTORC1-dependent phosphorylation of canonical RPS6KB1/S6K1 and EIF4EBP1/4E-BP1 (PubMed:21209915, PubMed:24081491, PubMed:31672913). In low-amino acid conditions, the lysosomal folliculin complex (LFC) is formed on the membrane of lysosomes, which inhibits the GTPase-activating activity of FLCN, inactivates mTORC1 and maximizes nuclear translocation of TFEB and TFE3 (PubMed:31672913). Upon amino acid restimulation, RRAGA/RagA (or RRAGB/RagB) nucleotide exchange promotes disassembly of the LFC complex and liberates the GTPase-activating activity of FLCN, leading to activation of mTORC1 and subsequent cytoplasmic retention of TFEB and TFE3 (PubMed:31672913). Indirectly acts as a positive regulator of Wnt signaling by promoting mTOR-dependent cytoplasmic retention of MiT/TFE factor TFE3 (PubMed:31272105). Required for the exit of hematopoietic stem cell from pluripotency by promoting mTOR-dependent cytoplasmic retention of TFE3, thereby increasing Wnt signaling (PubMed:30733432). Acts as an inhibitor of browning of adipose tissue by regulating mTOR-dependent cytoplasmic retention of TFE3 (By similarity). In response to flow stress, regulates STK11/LKB1 accumulation and mTORC1 activation through primary cilia: may act by recruiting STK11/LKB1 to primary cilia for activation of AMPK resided at basal bodies, causing mTORC1 down-regulation (PubMed:27072130). Together with FNIP1 and/or FNIP2, regulates autophagy: following phosphorylation by ULK1, interacts with GABARAP and promotes autophagy (PubMed:25126726). Required for starvation-induced perinuclear clustering of lysosomes by promoting association of RILP with its effector RAB34 (PubMed:27113757).</text>
+</comment>
+<comment type="activity regulation">
+<text evidence="44">GTPase-activating activity is inhibited in the folliculin complex (LFC), which stabilizes the GDP-bound state of RRAGA/RagA (or RRAGB/RagB), because Arg-164 is located far from the RRAGC/RagC or RRAGD/RagD nucleotide pocket (PubMed:31672913). Disassembly of the LFC complex upon amino acid restimulation liberates the GTPase-activating activity (PubMed:31672913).</text>
+</comment>
+<comment type="subunit">
+<text evidence="16 19 22 33 35 36 37 44 45">Interacts (via C-terminus) with FNIP1 or FNIP2 (via C-terminus) (PubMed:17028174, PubMed:18403135, PubMed:18663353, PubMed:27353360). Component of the lysosomal folliculin complex (LFC), composed of FLCN, FNIP1 (or FNIP2), RRAGA/RagA or RRAGB/RagB GDP-bound, RRAGC/RagC or RRAGD/RagD GTP-bound, and Ragulator (PubMed:31704029, PubMed:31672913). Interaction with FNIP1 or FNIP2 mediates indirect interaction with the PRKAA1, PRKAB1 and PRKAG1 subunits of 5'-AMP-activated protein kinase (AMPK) (PubMed:17028174). Interacts with HSP90AA1 in the presence of FNIP1 (PubMed:27353360). Interacts with HSP70, STUB1, CDC37, AHSA1, CCT2, STIP1, PTGES3 and PPP5C (PubMed:27353360). Interacts with GABARAP; interaction takes place in the presence of FNIP1 and/or FNIP2 (PubMed:25126726). Interacts with RILP; the interaction is direct and promotes association between RILP and RAB34 (PubMed:27113757). Interacts with KIF3A and KIF3B (PubMed:27072130).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-2970160">
+<id>Q8NFG4</id>
+</interactant>
+<interactant intactId="EBI-2946919">
+<id>Q8TF40</id>
+<label>FNIP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-15604776">
+<id>Q8NFG4-1</id>
+</interactant>
+<interactant intactId="EBI-15604805">
+<id>Q8TF40-1</id>
+<label>FNIP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="31 32 36 39 44">Lysosome membrane</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="16 22 31 32 39 44">Cytoplasm</location>
+<location evidence="16 22 31 32 39 44">Cytosol</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="29 35">Cell projection</location>
+<location evidence="29 35">Cilium</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="29">Cytoplasm</location>
+<location evidence="29">Cytoskeleton</location>
+<location evidence="29">Microtubule organizing center</location>
+<location evidence="29">Centrosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="29">Cytoplasm</location>
+<location evidence="29">Cytoskeleton</location>
+<location evidence="29">Spindle</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="16 22">Nucleus</location>
+</subcellularLocation>
+<text evidence="16 22 29 32 39 44">Localizes to lysosome membrane in amino acid-depleted conditions and relocalizes to the cytosol upon refeeding (PubMed:24095279, PubMed:29848618, PubMed:31672913). Colocalizes with FNIP1 and FNIP2 in the cytoplasm (PubMed:17028174, PubMed:18663353). Also localizes to motile and non-motile cilia, centrosomes and the mitotic spindle (PubMed:23784378).</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q8NFG4-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q8NFG4-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_017314 VSP_017315"/>
+</isoform>
+<isoform>
+<id>Q8NFG4-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_017312 VSP_017313"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="10">Expressed in most tissues tested, including skin, lung, kidney, heart, testis and stomach.</text>
+</comment>
+<comment type="developmental stage">
+<text evidence="10">Expressed in fetal lung, kidney, liver, and brain.</text>
+</comment>
+<comment type="PTM">
+<text evidence="33">Phosphorylation by ULK1 modulates the interaction with GABARAP and is required to regulate autophagy.</text>
+</comment>
+<comment type="disease" evidence="10 15 18 25 29 42">
+<disease id="DI-00190">
+<name>Birt-Hogg-Dube syndrome</name>
+<acronym>BHD</acronym>
+<description>A rare autosomal dominant genodermatosis characterized by hair follicle hamartomas (fibrofolliculomas), kidney tumors, and spontaneous pneumothorax. Fibrofolliculomas are part of the triad of Birt-Hogg-Dube syndrome skin lesions that also includes trichodiscomas and acrochordons. Onset of this dermatologic condition is invariably in adulthood. Birt-Hogg-Dube syndrome is associated with a variety of histologic types of renal tumors, including chromophobe renal cell carcinoma (RCC), benign renal oncocytoma, clear-cell RCC and papillary type I RCC. Multiple lipomas, angiolipomas, and parathyroid adenomas are also seen in Birt-Hogg-Dube syndrome patients.</description>
+<dbReference type="MIM" id="135150"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="13 14 17 20 21 24 34 38 43">
+<disease id="DI-02208">
+<name>Primary spontaneous pneumothorax</name>
+<acronym>PSP</acronym>
+<description>Condition in which air is present in the pleural space in the absence of a precipitating event, such as trauma or lung disease. This results in secondary collapse of the lung, either partially or completely, and some degree of hypoxia. PSP is relatively common, with an incidence between 7.4-18/100'000 for men and 1.2-6/100'000 for women and a dose-dependent, increased risk among smokers. Most cases are sporadic, typically occurring in tall, thin men aged 10-30 years and generally while at rest. Familial PSP is rarer and usually is inherited as an autosomal dominant condition with reduced penetrance, although X-linked recessive and autosomal recessive inheritance have also been suggested.</description>
+<dbReference type="MIM" id="173600"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="23 30">
+<disease id="DI-02254">
+<name>Renal cell carcinoma</name>
+<acronym>RCC</acronym>
+<description>Renal cell carcinoma is a heterogeneous group of sporadic or hereditary carcinoma derived from cells of the proximal renal tubular epithelium. It is subclassified into clear cell renal carcinoma (non-papillary carcinoma), papillary renal cell carcinoma, chromophobe renal cell carcinoma, collecting duct carcinoma with medullary carcinoma of the kidney, and unclassified renal cell carcinoma. Clear cell renal cell carcinoma is the most common subtype.</description>
+<dbReference type="MIM" id="144700"/>
+</disease>
+<text>The gene represented in this entry may be involved in disease pathogenesis.</text>
+</comment>
+<comment type="similarity">
+<text evidence="50">Belongs to the folliculin family.</text>
+</comment>
+<comment type="caution">
+<text evidence="28 32">Based on its structure and in vitro assays, was initially thought to have guanine nucleotide exchange factor (GEF) activity (PubMed:22977732). However, subsequent studies showed that it does not act as GEF in vivo (PubMed:24095279).</text>
+</comment>
+<comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+<link uri="http://atlasgeneticsoncology.org/Genes/FLCNID789ch17p11.html"/>
+</comment>
+<comment type="online information" name="Leiden Open Variation Database">
+<link uri="https://databases.lovd.nl/shared/genes/FLCN"/>
+<text>Folliculin (FLCN)</text>
+</comment>
+<dbReference type="EMBL" id="AF517523">
+<property type="protein sequence ID" value="AAM94803.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK127912">
+<property type="protein sequence ID" value="BAC87186.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK126951">
+<property type="protein sequence ID" value="BAC86760.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC055811">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471196">
+<property type="protein sequence ID" value="EAW55716.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC015687">
+<property type="protein sequence ID" value="AAH15687.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC015725">
+<property type="protein sequence ID" value="AAH15725.2"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS32579.1">
+<molecule id="Q8NFG4-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS32580.1">
+<molecule id="Q8NFG4-2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_653207.1">
+<molecule id="Q8NFG4-2"/>
+<property type="nucleotide sequence ID" value="NM_144606.5"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_659434.2">
+<molecule id="Q8NFG4-1"/>
+<property type="nucleotide sequence ID" value="NM_144997.5"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016879795.1">
+<property type="nucleotide sequence ID" value="XM_017024306.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016879796.1">
+<property type="nucleotide sequence ID" value="XM_017024307.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016879797.1">
+<molecule id="Q8NFG4-1"/>
+<property type="nucleotide sequence ID" value="XM_017024308.1"/>
+</dbReference>
+<dbReference type="PDB" id="3V42">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00"/>
+<property type="chains" value="A/B=341-566"/>
+</dbReference>
+<dbReference type="PDB" id="6NZD">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.60"/>
+<property type="chains" value="H=1-579"/>
+</dbReference>
+<dbReference type="PDB" id="6ULG">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.31"/>
+<property type="chains" value="L=1-579"/>
+</dbReference>
+<dbReference type="PDBsum" id="3V42"/>
+<dbReference type="PDBsum" id="6NZD"/>
+<dbReference type="PDBsum" id="6ULG"/>
+<dbReference type="SMR" id="Q8NFG4"/>
+<dbReference type="BioGRID" id="128366">
+<property type="interactions" value="70"/>
+</dbReference>
+<dbReference type="CORUM" id="Q8NFG4"/>
+<dbReference type="DIP" id="DIP-61287N"/>
+<dbReference type="IntAct" id="Q8NFG4">
+<property type="interactions" value="26"/>
+</dbReference>
+<dbReference type="MINT" id="Q8NFG4"/>
+<dbReference type="STRING" id="9606.ENSP00000285071"/>
+<dbReference type="iPTMnet" id="Q8NFG4"/>
+<dbReference type="MetOSite" id="Q8NFG4"/>
+<dbReference type="PhosphoSitePlus" id="Q8NFG4"/>
+<dbReference type="BioMuta" id="FLCN"/>
+<dbReference type="DMDM" id="74751276"/>
+<dbReference type="EPD" id="Q8NFG4"/>
+<dbReference type="jPOST" id="Q8NFG4"/>
+<dbReference type="MassIVE" id="Q8NFG4"/>
+<dbReference type="MaxQB" id="Q8NFG4"/>
+<dbReference type="PaxDb" id="Q8NFG4"/>
+<dbReference type="PeptideAtlas" id="Q8NFG4"/>
+<dbReference type="PRIDE" id="Q8NFG4"/>
+<dbReference type="ProteomicsDB" id="73302">
+<molecule id="Q8NFG4-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="73303">
+<molecule id="Q8NFG4-2"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="73304">
+<molecule id="Q8NFG4-3"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="4192">
+<property type="antibodies" value="295 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="201163"/>
+<dbReference type="Ensembl" id="ENST00000285071">
+<molecule id="Q8NFG4-1"/>
+<property type="protein sequence ID" value="ENSP00000285071"/>
+<property type="gene ID" value="ENSG00000154803"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000389169">
+<molecule id="Q8NFG4-2"/>
+<property type="protein sequence ID" value="ENSP00000373821"/>
+<property type="gene ID" value="ENSG00000154803"/>
+</dbReference>
+<dbReference type="GeneID" id="201163"/>
+<dbReference type="KEGG" id="hsa:201163"/>
+<dbReference type="UCSC" id="uc002gra.5">
+<molecule id="Q8NFG4-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="201163"/>
+<dbReference type="DisGeNET" id="201163"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000154803.12"/>
+<dbReference type="GeneCards" id="FLCN"/>
+<dbReference type="GeneReviews" id="FLCN"/>
+<dbReference type="HGNC" id="HGNC:27310">
+<property type="gene designation" value="FLCN"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000154803">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MalaCards" id="FLCN"/>
+<dbReference type="MIM" id="135150">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="144700">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="173600">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="607273">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q8NFG4"/>
+<dbReference type="OpenTargets" id="ENSG00000154803"/>
+<dbReference type="Orphanet" id="122">
+<property type="disease" value="Birt-Hogg-Dube syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="2903">
+<property type="disease" value="Familial spontaneous pneumothorax"/>
+</dbReference>
+<dbReference type="Orphanet" id="422526">
+<property type="disease" value="Hereditary clear cell renal cell carcinoma"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA134901005"/>
+<dbReference type="eggNOG" id="KOG3715">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000009864"/>
+<dbReference type="HOGENOM" id="CLU_035854_2_0_1"/>
+<dbReference type="InParanoid" id="Q8NFG4"/>
+<dbReference type="KO" id="K09594"/>
+<dbReference type="OMA" id="CYCALTG"/>
+<dbReference type="OrthoDB" id="188544at2759"/>
+<dbReference type="PhylomeDB" id="Q8NFG4"/>
+<dbReference type="TreeFam" id="TF315084"/>
+<dbReference type="PathwayCommons" id="Q8NFG4"/>
+<dbReference type="Reactome" id="R-HSA-9639288">
+<property type="pathway name" value="Amino acids regulate mTORC1"/>
+</dbReference>
+<dbReference type="SIGNOR" id="Q8NFG4"/>
+<dbReference type="BioGRID-ORCS" id="201163">
+<property type="hits" value="67 hits in 877 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="FLCN">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="Folliculin"/>
+<dbReference type="GenomeRNAi" id="201163"/>
+<dbReference type="Pharos" id="Q8NFG4">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q8NFG4"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 17"/>
+</dbReference>
+<dbReference type="RNAct" id="Q8NFG4">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000154803">
+<property type="expression patterns" value="Expressed in right hemisphere of cerebellum and 226 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q8NFG4">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q8NFG4">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005813">
+<property type="term" value="C:centrosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005929">
+<property type="term" value="C:cilium"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005765">
+<property type="term" value="C:lysosomal membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005764">
+<property type="term" value="C:lysosome"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072686">
+<property type="term" value="C:mitotic spindle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005096">
+<property type="term" value="F:GTPase activator activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005085">
+<property type="term" value="F:guanyl-nucleotide exchange factor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044877">
+<property type="term" value="F:protein-containing complex binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007043">
+<property type="term" value="P:cell-cell junction assembly"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034198">
+<property type="term" value="P:cellular response to amino acid starvation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009267">
+<property type="term" value="P:cellular response to starvation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097009">
+<property type="term" value="P:energy homeostasis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030097">
+<property type="term" value="P:hemopoiesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001701">
+<property type="term" value="P:in utero embryonic development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032418">
+<property type="term" value="P:lysosome localization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2001170">
+<property type="term" value="P:negative regulation of ATP biosynthetic process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903444">
+<property type="term" value="P:negative regulation of brown fat cell differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030308">
+<property type="term" value="P:negative regulation of cell growth"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030336">
+<property type="term" value="P:negative regulation of cell migration"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901723">
+<property type="term" value="P:negative regulation of cell proliferation involved in kidney development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0120163">
+<property type="term" value="P:negative regulation of cold-induced thermogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="YuBioLab"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070373">
+<property type="term" value="P:negative regulation of ERK1 and ERK2 cascade"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010629">
+<property type="term" value="P:negative regulation of gene expression"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010823">
+<property type="term" value="P:negative regulation of mitochondrion organization"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051898">
+<property type="term" value="P:negative regulation of protein kinase B signaling"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900181">
+<property type="term" value="P:negative regulation of protein localization to nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035024">
+<property type="term" value="P:negative regulation of Rho protein signal transduction"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032007">
+<property type="term" value="P:negative regulation of TOR signaling"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000122">
+<property type="term" value="P:negative regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043065">
+<property type="term" value="P:positive regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010508">
+<property type="term" value="P:positive regulation of autophagy"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045785">
+<property type="term" value="P:positive regulation of cell adhesion"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043547">
+<property type="term" value="P:positive regulation of GTPase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001934">
+<property type="term" value="P:positive regulation of protein phosphorylation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032008">
+<property type="term" value="P:positive regulation of TOR signaling"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904263">
+<property type="term" value="P:positive regulation of TORC1 signaling"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030511">
+<property type="term" value="P:positive regulation of transforming growth factor beta receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032465">
+<property type="term" value="P:regulation of cytokinesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035065">
+<property type="term" value="P:regulation of histone acetylation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000973">
+<property type="term" value="P:regulation of pro-B cell differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001932">
+<property type="term" value="P:regulation of protein phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046578">
+<property type="term" value="P:regulation of Ras protein signal transduction"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032006">
+<property type="term" value="P:regulation of TOR signaling"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031929">
+<property type="term" value="P:TOR signaling"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037521">
+<property type="entry name" value="FLCN/SMCR8_DENN"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021713">
+<property type="entry name" value="Folliculin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037520">
+<property type="entry name" value="Folliculin/SMCR8_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032035">
+<property type="entry name" value="Folliculin_C"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR31441">
+<property type="entry name" value="PTHR31441"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF11704">
+<property type="entry name" value="Folliculin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF16692">
+<property type="entry name" value="Folliculin_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51834">
+<property type="entry name" value="DENN_FLCN_SMCR8"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0966">Cell projection</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0343">GTPase activation</keyword>
+<keyword id="KW-0458">Lysosome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0043">Tumor suppressor</keyword>
+<feature type="chain" description="Folliculin" id="PRO_0000223940">
+<location>
+<begin position="1"/>
+<end position="579"/>
+</location>
+</feature>
+<feature type="domain" description="uDENN FLCN/SMCR8-type" evidence="9">
+<location>
+<begin position="86"/>
+<end position="242"/>
+</location>
+</feature>
+<feature type="domain" description="cDENN FLCN/SMCR8-type" evidence="9">
+<location>
+<begin position="339"/>
+<end position="491"/>
+</location>
+</feature>
+<feature type="domain" description="dDENN FLCN/SMCR8-type" evidence="9">
+<location>
+<begin position="493"/>
+<end position="558"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="8">
+<location>
+<begin position="287"/>
+<end position="310"/>
+</location>
+</feature>
+<feature type="site" description="Essential for GTPase activation (GAP) activity" evidence="44 45">
+<location>
+<position position="164"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="4 5 6">
+<location>
+<position position="62"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="73"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="302"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by ULK1" evidence="33">
+<location>
+<position position="406"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by ULK1" evidence="33">
+<location>
+<position position="537"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by ULK1" evidence="33">
+<location>
+<position position="542"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="571"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_017312" evidence="47">
+<original>CPGREGPIFFGDEQHGFVFSHTFFIKDSLARGFQRWYSIITIMMDRIYLINSWPFLLGKVRGII</original>
+<variation>SLVATEPVSVGAHMLPGALGGLGASIAQGGRHWSSLRADPQISTAQGTGRLPCPELREESCWTC</variation>
+<location>
+<begin position="134"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_017313" evidence="47">
+<location>
+<begin position="198"/>
+<end position="579"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_017314" evidence="48">
+<original>DLEEESESWDNSEAEEEEKAPVLPESTEGRELTQGPAESSSLSGCGSWQPRK</original>
+<variation>GEAGVLLPGPWPGWPWGGTSCLLSWQESLREGNAALNQPRTSLREAHPPISV</variation>
+<location>
+<begin position="291"/>
+<end position="342"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_017315" evidence="48">
+<location>
+<begin position="343"/>
+<end position="579"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a sporadic colorectal carcinoma; somatic mutation; dbSNP:rs137852930." id="VAR_025356" evidence="11">
+<original>S</original>
+<variation>W</variation>
+<location>
+<position position="79"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BHD." id="VAR_066023" evidence="25">
+<original>S</original>
+<variation>I</variation>
+<location>
+<position position="108"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PSP." id="VAR_066024" evidence="21">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="132"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PSP and BHD; impaired protein stability." id="VAR_066025" evidence="20 27 42">
+<location>
+<position position="157"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PSP." id="VAR_083268" evidence="38">
+<location>
+<begin position="170"/>
+<end position="579"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BHD." id="VAR_083269" evidence="42">
+<location>
+<begin position="220"/>
+<end position="579"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a renal cell carcinoma cell line." id="VAR_025357" evidence="12">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="238"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In RCC; impaired protein stability; dbSNP:rs78683075." id="VAR_066026" evidence="23 27">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="239"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PSP." id="VAR_083270" evidence="14">
+<location>
+<begin position="315"/>
+<end position="579"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a primary colorectal cancer; dbSNP:rs143483053." id="VAR_025358" evidence="12">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="320"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BHD." id="VAR_083271" evidence="42">
+<location>
+<begin position="339"/>
+<end position="579"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in a colorectal cell line; impaired protein stability; dbSNP:rs557336321." id="VAR_066027" evidence="27">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="362"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a primary colorectal cancer; somatic mutation; dbSNP:rs1060502374." id="VAR_025359" evidence="12">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="392"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BHD." id="VAR_083272" evidence="42">
+<location>
+<begin position="409"/>
+<end position="579"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PSP." id="VAR_083273" evidence="43">
+<location>
+<begin position="425"/>
+<end position="579"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PSP; dbSNP:rs375082054." id="VAR_066028" evidence="20">
+<original>H</original>
+<variation>Y</variation>
+<location>
+<position position="429"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a primary clear-cell renal cell carcinoma; somatic mutation." id="VAR_025360" evidence="12">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="444"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a sporadic colorectal carcinoma; somatic mutation; dbSNP:rs41419545." id="VAR_025361" evidence="11">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="445"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PSP." id="VAR_083274" evidence="14">
+<location>
+<begin position="477"/>
+<end position="579"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BHD; does not impair protein stability, growth suppression activity or intracellular localization of folliculin; dbSNP:rs199643834." id="VAR_066029" evidence="18 27">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="508"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BHD." id="VAR_083275" evidence="42">
+<location>
+<begin position="511"/>
+<end position="579"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BHD." id="VAR_083276" evidence="42">
+<location>
+<begin position="533"/>
+<end position="579"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not assemble into a stable folliculin complex (LFC), preventing localization to the lysosomal membrane upon amino acid starvation." evidence="44">
+<original>F</original>
+<variation>D</variation>
+<location>
+<position position="118"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolished GTPase activation (GAP) activity." evidence="44 45">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="164"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired ability to regulate autophagy; when associated with A-537 and A-542." evidence="33">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="406"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired ability to regulate autophagy; when associated with A-406 and A-542." evidence="33">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="537"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired ability to regulate autophagy; when associated with A-406 and A-537." evidence="33">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="542"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="4"/>
+<end position="10"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="12"/>
+<end position="14"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="16"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="95"/>
+<end position="98"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="100"/>
+<end position="102"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="105"/>
+<end position="108"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="115"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="135"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="139"/>
+<end position="144"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="150"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="161"/>
+<end position="177"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="179"/>
+<end position="183"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="186"/>
+<end position="214"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="243"/>
+<end position="245"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="250"/>
+<end position="266"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="267"/>
+<end position="269"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="283"/>
+<end position="290"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="340"/>
+<end position="343"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="349"/>
+<end position="356"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="358"/>
+<end position="370"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="373"/>
+<end position="377"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="381"/>
+<end position="391"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="392"/>
+<end position="394"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="397"/>
+<end position="399"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="402"/>
+<end position="408"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="412"/>
+<end position="414"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="416"/>
+<end position="420"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="428"/>
+<end position="431"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="436"/>
+<end position="443"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="463"/>
+<end position="469"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="473"/>
+<end position="476"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="481"/>
+<end position="491"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="493"/>
+<end position="495"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="497"/>
+<end position="521"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="530"/>
+<end position="538"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="544"/>
+<end position="553"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="554"/>
+<end position="556"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="559"/>
+<end position="567"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3V42"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6NZD"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6ULG"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="18669648"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="21406692"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q8QZS3"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000255"/>
+<evidence key="9" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU01178"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12204536"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12843323"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14627671"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15657874"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15805188"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15852235"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17028174"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17496196"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18234728"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18403135"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18505456"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18579543"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18663353"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18794106"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19483054"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19785621"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21209915"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21538689"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22977732"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23784378"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23922894"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24081491"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24095279"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25126726"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25827758"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27072130"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27113757"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27353360"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27486260"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="29848618"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30733432"/>
+</source>
+</evidence>
+<evidence key="41" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="31272105"/>
+</source>
+</evidence>
+<evidence key="42" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="31615547"/>
+</source>
+</evidence>
+<evidence key="43" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="31625278"/>
+</source>
+</evidence>
+<evidence key="44" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="31672913"/>
+</source>
+</evidence>
+<evidence key="45" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="31704029"/>
+</source>
+</evidence>
+<evidence key="46" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="12204536"/>
+</source>
+</evidence>
+<evidence key="47" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="48" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="49" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15657874"/>
+</source>
+</evidence>
+<evidence key="50" type="ECO:0000305"/>
+<evidence key="51" type="ECO:0000312">
+<source>
+<dbReference type="HGNC" id="HGNC:27310"/>
+</source>
+</evidence>
+<sequence length="579" mass="64473" checksum="E168EB34544C6336" modified="2002-10-01" version="1">MNAIVALCHFCELHGPRTLFCTEVLHAPLPQGDGNEDSPGQGEQAEEEEGGIQMNSRMRAHSPAEGASVESSSPGPKKSDMCEGCRSLAAGHPGYISHDKETSIKYVSHQHPSHPQLFSIVRQACVRSLSCEVCPGREGPIFFGDEQHGFVFSHTFFIKDSLARGFQRWYSIITIMMDRIYLINSWPFLLGKVRGIIDELQGKALKVFEAEQFGCPQRAQRMNTAFTPFLHQRNGNAARSLTSLTSDDNLWACLHTSFAWLLKACGSRLTEKLLEGAPTEDTLVQMEKLADLEEESESWDNSEAEEEEKAPVLPESTEGRELTQGPAESSSLSGCGSWQPRKLPVFKSLRHMRQVLGAPSFRMLAWHVLMGNQVIWKSRDVDLVQSAFEVLRTMLPVGCVRIIPYSSQYEEAYRCNFLGLSPHVQIPPHVLSSEFAVIVEVHAAARSTLHPVGCEDDQSLSKYEFVVTSGSPVAADRVGPTILNKIEAALTNQNLSVDVVDQCLVCLKEEWMNKVKVLFKFTKVDSRPKEDTQKLLSILGASEEDNVKLLKFWMTGLSKTYKSHLMSTVRSPTASESRN</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

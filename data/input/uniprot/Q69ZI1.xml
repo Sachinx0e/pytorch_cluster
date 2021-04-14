@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2008-05-20" modified="2020-10-07" version="118">
+<accession>Q69ZI1</accession>
+<accession>O70254</accession>
+<accession>Q3UG42</accession>
+<accession>Q6P9M8</accession>
+<accession>Q8BR66</accession>
+<accession>Q8C2T5</accession>
+<name>SH3R1_MOUSE</name>
+<protein>
+<recommendedName>
+<fullName>E3 ubiquitin-protein ligase SH3RF1</fullName>
+<ecNumber evidence="3">2.3.2.27</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Plenty of SH3s</fullName>
+<shortName evidence="16 17">Protein POSH</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="18">RING-type E3 ubiquitin transferase SH3RF1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>SH3 domain-containing RING finger protein 1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>SH3 multiple domains protein 2</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">Sh3rf1</name>
+<name type="synonym">Kiaa1494</name>
+<name type="synonym" evidence="16 17">Posh</name>
+<name type="synonym" evidence="3">Posh1</name>
+<name type="synonym">Sh3md2</name>
+</gene>
+<organism>
+<name type="scientific">Mus musculus</name>
+<name type="common">Mouse</name>
+<dbReference type="NCBI Taxonomy" id="10090"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Glires</taxon>
+<taxon>Rodentia</taxon>
+<taxon>Myomorpha</taxon>
+<taxon>Muroidea</taxon>
+<taxon>Muridae</taxon>
+<taxon>Murinae</taxon>
+<taxon>Mus</taxon>
+<taxon>Mus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1998" name="EMBO J." volume="17" first="1395" last="1404">
+<title>A new rac target POSH is an SH3-containing scaffold protein involved in the JNK and NF-kappaB signalling pathways.</title>
+<authorList>
+<person name="Tapon N."/>
+<person name="Nagata K."/>
+<person name="Lamarche N."/>
+<person name="Hall A."/>
+</authorList>
+<dbReference type="PubMed" id="9482736"/>
+<dbReference type="DOI" id="10.1093/emboj/17.5.1395"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>FUNCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INTERACTION WITH RAC1</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="DNA Res." volume="11" first="205" last="218">
+<title>Prediction of the coding sequences of mouse homologues of KIAA gene: IV. The complete nucleotide sequences of 500 mouse KIAA-homologous cDNAs identified by screening of terminal sequences of cDNA clones randomly sampled from size-fractionated libraries.</title>
+<authorList>
+<person name="Okazaki N."/>
+<person name="Kikuno R."/>
+<person name="Ohara R."/>
+<person name="Inamoto S."/>
+<person name="Koseki H."/>
+<person name="Hiraoka S."/>
+<person name="Saga Y."/>
+<person name="Seino S."/>
+<person name="Nishimura M."/>
+<person name="Kaisho T."/>
+<person name="Hoshino K."/>
+<person name="Kitamura H."/>
+<person name="Nagase T."/>
+<person name="Ohara O."/>
+<person name="Koga H."/>
+</authorList>
+<dbReference type="PubMed" id="15368895"/>
+<dbReference type="DOI" id="10.1093/dnares/11.3.205"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Embryonic tail</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2005" name="Science" volume="309" first="1559" last="1563">
+<title>The transcriptional landscape of the mammalian genome.</title>
+<authorList>
+<person name="Carninci P."/>
+<person name="Kasukawa T."/>
+<person name="Katayama S."/>
+<person name="Gough J."/>
+<person name="Frith M.C."/>
+<person name="Maeda N."/>
+<person name="Oyama R."/>
+<person name="Ravasi T."/>
+<person name="Lenhard B."/>
+<person name="Wells C."/>
+<person name="Kodzius R."/>
+<person name="Shimokawa K."/>
+<person name="Bajic V.B."/>
+<person name="Brenner S.E."/>
+<person name="Batalov S."/>
+<person name="Forrest A.R."/>
+<person name="Zavolan M."/>
+<person name="Davis M.J."/>
+<person name="Wilming L.G."/>
+<person name="Aidinis V."/>
+<person name="Allen J.E."/>
+<person name="Ambesi-Impiombato A."/>
+<person name="Apweiler R."/>
+<person name="Aturaliya R.N."/>
+<person name="Bailey T.L."/>
+<person name="Bansal M."/>
+<person name="Baxter L."/>
+<person name="Beisel K.W."/>
+<person name="Bersano T."/>
+<person name="Bono H."/>
+<person name="Chalk A.M."/>
+<person name="Chiu K.P."/>
+<person name="Choudhary V."/>
+<person name="Christoffels A."/>
+<person name="Clutterbuck D.R."/>
+<person name="Crowe M.L."/>
+<person name="Dalla E."/>
+<person name="Dalrymple B.P."/>
+<person name="de Bono B."/>
+<person name="Della Gatta G."/>
+<person name="di Bernardo D."/>
+<person name="Down T."/>
+<person name="Engstrom P."/>
+<person name="Fagiolini M."/>
+<person name="Faulkner G."/>
+<person name="Fletcher C.F."/>
+<person name="Fukushima T."/>
+<person name="Furuno M."/>
+<person name="Futaki S."/>
+<person name="Gariboldi M."/>
+<person name="Georgii-Hemming P."/>
+<person name="Gingeras T.R."/>
+<person name="Gojobori T."/>
+<person name="Green R.E."/>
+<person name="Gustincich S."/>
+<person name="Harbers M."/>
+<person name="Hayashi Y."/>
+<person name="Hensch T.K."/>
+<person name="Hirokawa N."/>
+<person name="Hill D."/>
+<person name="Huminiecki L."/>
+<person name="Iacono M."/>
+<person name="Ikeo K."/>
+<person name="Iwama A."/>
+<person name="Ishikawa T."/>
+<person name="Jakt M."/>
+<person name="Kanapin A."/>
+<person name="Katoh M."/>
+<person name="Kawasawa Y."/>
+<person name="Kelso J."/>
+<person name="Kitamura H."/>
+<person name="Kitano H."/>
+<person name="Kollias G."/>
+<person name="Krishnan S.P."/>
+<person name="Kruger A."/>
+<person name="Kummerfeld S.K."/>
+<person name="Kurochkin I.V."/>
+<person name="Lareau L.F."/>
+<person name="Lazarevic D."/>
+<person name="Lipovich L."/>
+<person name="Liu J."/>
+<person name="Liuni S."/>
+<person name="McWilliam S."/>
+<person name="Madan Babu M."/>
+<person name="Madera M."/>
+<person name="Marchionni L."/>
+<person name="Matsuda H."/>
+<person name="Matsuzawa S."/>
+<person name="Miki H."/>
+<person name="Mignone F."/>
+<person name="Miyake S."/>
+<person name="Morris K."/>
+<person name="Mottagui-Tabar S."/>
+<person name="Mulder N."/>
+<person name="Nakano N."/>
+<person name="Nakauchi H."/>
+<person name="Ng P."/>
+<person name="Nilsson R."/>
+<person name="Nishiguchi S."/>
+<person name="Nishikawa S."/>
+<person name="Nori F."/>
+<person name="Ohara O."/>
+<person name="Okazaki Y."/>
+<person name="Orlando V."/>
+<person name="Pang K.C."/>
+<person name="Pavan W.J."/>
+<person name="Pavesi G."/>
+<person name="Pesole G."/>
+<person name="Petrovsky N."/>
+<person name="Piazza S."/>
+<person name="Reed J."/>
+<person name="Reid J.F."/>
+<person name="Ring B.Z."/>
+<person name="Ringwald M."/>
+<person name="Rost B."/>
+<person name="Ruan Y."/>
+<person name="Salzberg S.L."/>
+<person name="Sandelin A."/>
+<person name="Schneider C."/>
+<person name="Schoenbach C."/>
+<person name="Sekiguchi K."/>
+<person name="Semple C.A."/>
+<person name="Seno S."/>
+<person name="Sessa L."/>
+<person name="Sheng Y."/>
+<person name="Shibata Y."/>
+<person name="Shimada H."/>
+<person name="Shimada K."/>
+<person name="Silva D."/>
+<person name="Sinclair B."/>
+<person name="Sperling S."/>
+<person name="Stupka E."/>
+<person name="Sugiura K."/>
+<person name="Sultana R."/>
+<person name="Takenaka Y."/>
+<person name="Taki K."/>
+<person name="Tammoja K."/>
+<person name="Tan S.L."/>
+<person name="Tang S."/>
+<person name="Taylor M.S."/>
+<person name="Tegner J."/>
+<person name="Teichmann S.A."/>
+<person name="Ueda H.R."/>
+<person name="van Nimwegen E."/>
+<person name="Verardo R."/>
+<person name="Wei C.L."/>
+<person name="Yagi K."/>
+<person name="Yamanishi H."/>
+<person name="Zabarovsky E."/>
+<person name="Zhu S."/>
+<person name="Zimmer A."/>
+<person name="Hide W."/>
+<person name="Bult C."/>
+<person name="Grimmond S.M."/>
+<person name="Teasdale R.D."/>
+<person name="Liu E.T."/>
+<person name="Brusic V."/>
+<person name="Quackenbush J."/>
+<person name="Wahlestedt C."/>
+<person name="Mattick J.S."/>
+<person name="Hume D.A."/>
+<person name="Kai C."/>
+<person name="Sasaki D."/>
+<person name="Tomaru Y."/>
+<person name="Fukuda S."/>
+<person name="Kanamori-Katayama M."/>
+<person name="Suzuki M."/>
+<person name="Aoki J."/>
+<person name="Arakawa T."/>
+<person name="Iida J."/>
+<person name="Imamura K."/>
+<person name="Itoh M."/>
+<person name="Kato T."/>
+<person name="Kawaji H."/>
+<person name="Kawagashira N."/>
+<person name="Kawashima T."/>
+<person name="Kojima M."/>
+<person name="Kondo S."/>
+<person name="Konno H."/>
+<person name="Nakano K."/>
+<person name="Ninomiya N."/>
+<person name="Nishio T."/>
+<person name="Okada M."/>
+<person name="Plessy C."/>
+<person name="Shibata K."/>
+<person name="Shiraki T."/>
+<person name="Suzuki S."/>
+<person name="Tagami M."/>
+<person name="Waki K."/>
+<person name="Watahiki A."/>
+<person name="Okamura-Oho Y."/>
+<person name="Suzuki H."/>
+<person name="Kawai J."/>
+<person name="Hayashizaki Y."/>
+</authorList>
+<dbReference type="PubMed" id="16141072"/>
+<dbReference type="DOI" id="10.1126/science.1112014"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 3 AND 4)</scope>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 200-892 (ISOFORM 1)</scope>
+<source>
+<strain>C57BL/6J</strain>
+<strain>NOD</strain>
+<tissue>Corpora quadrigemina</tissue>
+<tissue>Thymus</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2)</scope>
+<source>
+<strain>C57BL/6J</strain>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2003" name="EMBO J." volume="22" first="252" last="261">
+<title>POSH acts as a scaffold for a multiprotein complex that mediates JNK activation in apoptosis.</title>
+<authorList>
+<person name="Xu Z."/>
+<person name="Kukekov N.V."/>
+<person name="Greene L.A."/>
+</authorList>
+<dbReference type="PubMed" id="12514131"/>
+<dbReference type="DOI" id="10.1093/emboj/cdg021"/>
+</citation>
+<scope>INTERACTION WITH MAP3K10; MAP3K11; DLK1; MAP2K4; MAP2K7; MAPK8 AND MAPK9</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="47922" last="47927">
+<title>Akt2 negatively regulates assembly of the POSH-MLK-JNK signaling complex.</title>
+<authorList>
+<person name="Figueroa C."/>
+<person name="Tarras S."/>
+<person name="Taylor J."/>
+<person name="Vojtek A.B."/>
+</authorList>
+<dbReference type="PubMed" id="14504284"/>
+<dbReference type="DOI" id="10.1074/jbc.m307357200"/>
+</citation>
+<scope>INTERACTION WITH AKT2</scope>
+<scope>MUTAGENESIS OF GLU-470 AND TRP-489</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2006" name="J. Biol. Chem." volume="281" first="303" last="312">
+<title>Siah1 interacts with the scaffold protein POSH to promote JNK activation and apoptosis.</title>
+<authorList>
+<person name="Xu Z."/>
+<person name="Sproul A."/>
+<person name="Wang W."/>
+<person name="Kukekov N."/>
+<person name="Greene L.A."/>
+</authorList>
+<dbReference type="PubMed" id="16230351"/>
+<dbReference type="DOI" id="10.1074/jbc.m509060200"/>
+</citation>
+<scope>INTERACTION WITH SIAH1</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2006" name="J. Biol. Chem." volume="281" first="15517" last="15524">
+<title>Direct interaction of the molecular scaffolds POSH and JIP is required for apoptotic activation of JNKs.</title>
+<authorList>
+<person name="Kukekov N.V."/>
+<person name="Xu Z."/>
+<person name="Greene L.A."/>
+</authorList>
+<dbReference type="PubMed" id="16571722"/>
+<dbReference type="DOI" id="10.1074/jbc.m601056200"/>
+</citation>
+<scope>INTERACTION WITH MAPK8IP</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2010" name="Cell" volume="143" first="1174" last="1189">
+<title>A tissue-specific atlas of mouse protein phosphorylation and expression.</title>
+<authorList>
+<person name="Huttlin E.L."/>
+<person name="Jedrychowski M.P."/>
+<person name="Elias J.E."/>
+<person name="Goswami T."/>
+<person name="Rad R."/>
+<person name="Beausoleil S.A."/>
+<person name="Villen J."/>
+<person name="Haas W."/>
+<person name="Sowa M.E."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="21183079"/>
+<dbReference type="DOI" id="10.1016/j.cell.2010.12.001"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-304 AND SER-741</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Brain</tissue>
+<tissue>Kidney</tissue>
+<tissue>Lung</tissue>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2012" name="Cell Rep." volume="2" first="640" last="651">
+<title>POSH localizes activated Rac1 to control the formation of cytoplasmic dilation of the leading process and neuronal migration.</title>
+<authorList>
+<person name="Yang T."/>
+<person name="Sun Y."/>
+<person name="Zhang F."/>
+<person name="Zhu Y."/>
+<person name="Shi L."/>
+<person name="Li H."/>
+<person name="Xu Z."/>
+</authorList>
+<dbReference type="PubMed" id="22959435"/>
+<dbReference type="DOI" id="10.1016/j.celrep.2012.08.007"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH RAC1</scope>
+<scope>DEVELOPMENTAL STAGE</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2013" name="Eur. J. Immunol." volume="43" first="3361" last="3371">
+<title>The POSH/JIP-1 scaffold network regulates TCR-mediated JNK1 signals and effector function in CD8(+) T cells.</title>
+<authorList>
+<person name="Cunningham C.A."/>
+<person name="Knudson K.M."/>
+<person name="Peng B.J."/>
+<person name="Teixeiro E."/>
+<person name="Daniels M.A."/>
+</authorList>
+<dbReference type="PubMed" id="23963642"/>
+<dbReference type="DOI" id="10.1002/eji.201343635"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH MAPK8IP1</scope>
+<scope>IDENTIFICATION IN A COMPLEX WITH RAC1; MAP3K11; MAP2K7; MAPK8IP1 AND MAPK8</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2016" name="J. Immunol." volume="196" first="4003" last="4013">
+<title>POSH regulates CD4+ T cell differentiation and survival.</title>
+<authorList>
+<person name="Cunningham C.A."/>
+<person name="Cardwell L.N."/>
+<person name="Guan Y."/>
+<person name="Teixeiro E."/>
+<person name="Daniels M.A."/>
+</authorList>
+<dbReference type="PubMed" id="27084103"/>
+<dbReference type="DOI" id="10.4049/jimmunol.1501728"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>IDENTIFICATION IN A COMPLEX WITH RAC2; MAP3K7; MAP2K7; MAPK8IP1; MAPK8 AND MAPK9</scope>
+</reference>
+<comment type="function">
+<text evidence="3 10 11 12 13">Has E3 ubiquitin-protein ligase activity. In the absence of an external substrate, it can catalyze self-ubiquitination. Stimulates ubiquitination of potassium channel KCNJ1, enhancing its dynamin-dependent and clathrin-independent endocytosis (By similarity). Acts as a scaffold protein that coordinates with MAPK8IP1/JIP1 in organizing different components of the JNK pathway, including RAC1 or RAC2, MAP3K11/MLK3 or MAP3K7/TAK1, MAP2K7/MKK7, MAPK8/JNK1 and/or MAPK9/JNK2 into a functional multiprotein complex to ensure the effective activation of the JNK signaling pathway. Regulates the differentiation of CD4(+) and CD8(+) T-cells and promotes T-helper 1 (Th1) cell differentiation. Regulates the activation of MAPK8/JNK1 and MAPK9/JNK2 in CD4(+) T-cells and the activation of MAPK8/JNK1 in CD8(+) T-cells (PubMed:23963642, PubMed:27084103, PubMed:9482736). Plays a crucial role in the migration of neocortical neurons in the developing brain. Controls proper cortical neuronal migration and the formation of proximal cytoplasmic dilation in the leading process (PCDLP) in migratory neocortical neurons by regulating the proper localization of activated RAC1 and F-actin assembly (PubMed:22959435).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="3">
+<text>S-ubiquitinyl-[E2 ubiquitin-conjugating enzyme]-L-cysteine + [acceptor protein]-L-lysine = [E2 ubiquitin-conjugating enzyme]-L-cysteine + N(6)-ubiquitinyl-[acceptor protein]-L-lysine.</text>
+<dbReference type="EC" id="2.3.2.27"/>
+</reaction>
+</comment>
+<comment type="pathway">
+<text>Protein modification; protein ubiquitination.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2 3 6 7 8 9 10 11 12 13">Interacts with HERP1 (By similarity). Interacts with RAC1; in a GTP-dependent manner (PubMed:22959435, PubMed:9482736). Interacts with MAP3K10/MLK2 and MAP3K11/MLK3. Interacts with MAPK8IP; this interaction leads to the PJAC complex (POSH-JIP or SH3RF1/MAPK8IP1 apoptotic complex) with a 1:1 ratio. Interacts with SIAH1. Probably part of a signaling complex that may contain SH3RF1, MAPK8IP, DLK1, MAP2K4/MKK4, MAP2K7/MKK7, MAPK8/JNK1, MAPK9/JNK2, AKT1 and AKT2 (PubMed:12514131, PubMed:14504284, PubMed:16230351, PubMed:16571722, PubMed:23963642). Found in a complex with RAC2, MAP3K7/TAK1, MAP2K7/MKK7, MAPK8IP1/JIP1, MAPK8/JNK1 and MAPK9/JNK2 (PubMed:27084103). Found in a complex with RAC1, MAP3K11/MLK3, MAP2K7/MKK7, MAPK8IP1/JIP1 and MAPK8/JNK1 (PubMed:23963642). Interacts with SH3RF2 (By similarity).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-957380">
+<id>Q69ZI1</id>
+</interactant>
+<interactant intactId="EBI-1774669">
+<id>Q9Z2F7</id>
+<label>Bnip3l</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-957380">
+<id>Q69ZI1</id>
+</interactant>
+<interactant intactId="EBI-747107">
+<id>Q8IUQ4</id>
+<label>SIAH1</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2">Cytoplasm</location>
+<location evidence="2">Perinuclear region</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="7 10">Cell projection</location>
+<location evidence="7 10">Lamellipodium</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="7">Golgi apparatus</location>
+<location evidence="7">trans-Golgi network</location>
+</subcellularLocation>
+<text evidence="3 7">Colocalizes, with AKT2 in lamellipodia. Colocalizes, with HERP1, in trans-Golgi network (By similarity).</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q69ZI1-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q69ZI1-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_033624"/>
+</isoform>
+<isoform>
+<id>Q69ZI1-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_033627 VSP_033628"/>
+</isoform>
+<isoform>
+<id>Q69ZI1-4</id>
+<name>4</name>
+<sequence type="described" ref="VSP_033625 VSP_033626"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="13">Ubiquitously expressed.</text>
+</comment>
+<comment type="developmental stage">
+<text evidence="10">Expressed in the embryonic brain. Expressed strongly in the venricular zone (VZ), subventricular zone (SVZ), and lower intermediate zone (IZ) but weakly in the upper IZ and cortical plate (CP) at 14.5 dpc. At 16.5 dpc, expression increases in the IZ and CP. At 18.5 dpc, it increases significantly in the CP but decreases in the IZ, SVZ, and VZ (at protein level).</text>
+</comment>
+<comment type="domain">
+<text evidence="3">The RING finger domain is required for ubiquitin ligase activity and autoubiquitination.</text>
+</comment>
+<comment type="PTM">
+<text evidence="3">Phosphorylated at Ser-304 by AKT1 and AKT2. When phosphorylated, it has reduced ability to bind Rac.</text>
+</comment>
+<comment type="PTM">
+<text evidence="2">Autoubiquitinated. Ubiquitinated by SH3RF2, leading to proteasome-mediated degradation.</text>
+</comment>
+<comment type="similarity">
+<text evidence="18">Belongs to the SH3RF family.</text>
+</comment>
+<comment type="sequence caution" evidence="18">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="BAD32463" version="1"/>
+</conflict>
+</comment>
+<dbReference type="EC" id="2.3.2.27" evidence="3"/>
+<dbReference type="EMBL" id="AF030131">
+<property type="protein sequence ID" value="AAC40070.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK173185">
+<property type="protein sequence ID" value="BAD32463.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC060113">
+<property type="protein sequence ID" value="AAH60113.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC060696">
+<property type="protein sequence ID" value="AAH60696.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK088003">
+<property type="protein sequence ID" value="BAC40088.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK045470">
+<property type="protein sequence ID" value="BAC32385.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK148137">
+<property type="protein sequence ID" value="BAE28367.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="PIR" id="T09071">
+<property type="entry name" value="T09071"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_067481.2">
+<property type="nucleotide sequence ID" value="NM_021506.2"/>
+</dbReference>
+<dbReference type="SMR" id="Q69ZI1"/>
+<dbReference type="BioGRID" id="208480">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="IntAct" id="Q69ZI1">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="STRING" id="10090.ENSMUSP00000034060"/>
+<dbReference type="iPTMnet" id="Q69ZI1"/>
+<dbReference type="PhosphoSitePlus" id="Q69ZI1"/>
+<dbReference type="PaxDb" id="Q69ZI1"/>
+<dbReference type="PRIDE" id="Q69ZI1"/>
+<dbReference type="GeneID" id="59009"/>
+<dbReference type="KEGG" id="mmu:59009"/>
+<dbReference type="CTD" id="57630"/>
+<dbReference type="MGI" id="MGI:1913066">
+<property type="gene designation" value="Sh3rf1"/>
+</dbReference>
+<dbReference type="eggNOG" id="KOG2177">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="InParanoid" id="Q69ZI1"/>
+<dbReference type="KO" id="K12171"/>
+<dbReference type="OrthoDB" id="291531at2759"/>
+<dbReference type="PhylomeDB" id="Q69ZI1"/>
+<dbReference type="Reactome" id="R-MMU-983168">
+<property type="pathway name" value="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+</dbReference>
+<dbReference type="UniPathway" id="UPA00143"/>
+<dbReference type="BioGRID-ORCS" id="59009">
+<property type="hits" value="0 hits in 18 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="Sh3rf1">
+<property type="organism name" value="mouse"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q69ZI1"/>
+<dbReference type="Proteomes" id="UP000000589">
+<property type="component" value="Unplaced"/>
+</dbReference>
+<dbReference type="RNAct" id="Q69ZI1">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005794">
+<property type="term" value="C:Golgi apparatus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030027">
+<property type="term" value="C:lamellipodium"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048471">
+<property type="term" value="C:perinuclear region of cytoplasm"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005078">
+<property type="term" value="F:MAP-kinase scaffold activity"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046872">
+<property type="term" value="F:metal ion binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061630">
+<property type="term" value="F:ubiquitin protein ligase activity"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006915">
+<property type="term" value="P:apoptotic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043066">
+<property type="term" value="P:negative regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043154">
+<property type="term" value="P:negative regulation of cysteine-type endopeptidase activity involved in apoptotic process"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:2001237">
+<property type="term" value="P:negative regulation of extrinsic apoptotic signaling pathway"/>
+<property type="evidence" value="ECO:0000266"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001764">
+<property type="term" value="P:neuron migration"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046330">
+<property type="term" value="P:positive regulation of JNK cascade"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051865">
+<property type="term" value="P:protein autoubiquitination"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043370">
+<property type="term" value="P:regulation of CD4-positive, alpha-beta T cell differentiation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000564">
+<property type="term" value="P:regulation of CD8-positive, alpha-beta T cell proliferation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="CDD" id="cd11930">
+<property type="entry name" value="SH3_SH3RF1_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd11785">
+<property type="entry name" value="SH3_SH3RF_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.40.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036028">
+<property type="entry name" value="SH3-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001452">
+<property type="entry name" value="SH3_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR028502">
+<property type="entry name" value="SH3RF1/SH3RF3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035816">
+<property type="entry name" value="SH3RF1/SH3RF3_SH3_4"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035795">
+<property type="entry name" value="SH3RF1_SH3_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001841">
+<property type="entry name" value="Znf_RING"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013083">
+<property type="entry name" value="Znf_RING/FYVE/PHD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017907">
+<property type="entry name" value="Znf_RING_CS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR14167:SF62">
+<property type="entry name" value="PTHR14167:SF62"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00018">
+<property type="entry name" value="SH3_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF14604">
+<property type="entry name" value="SH3_9"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00452">
+<property type="entry name" value="SH3DOMAIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00184">
+<property type="entry name" value="RING"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00326">
+<property type="entry name" value="SH3"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50044">
+<property type="entry name" value="SSF50044"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50002">
+<property type="entry name" value="SH3"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00518">
+<property type="entry name" value="ZF_RING_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50089">
+<property type="entry name" value="ZF_RING_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0966">Cell projection</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0333">Golgi apparatus</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0728">SH3 domain</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<keyword id="KW-0833">Ubl conjugation pathway</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<keyword id="KW-0863">Zinc-finger</keyword>
+<feature type="chain" description="E3 ubiquitin-protein ligase SH3RF1" id="PRO_0000334152">
+<location>
+<begin position="1"/>
+<end position="892"/>
+</location>
+</feature>
+<feature type="domain" description="SH3 1" evidence="5">
+<location>
+<begin position="134"/>
+<end position="193"/>
+</location>
+</feature>
+<feature type="domain" description="SH3 2" evidence="5">
+<location>
+<begin position="196"/>
+<end position="259"/>
+</location>
+</feature>
+<feature type="domain" description="SH3 3" evidence="5">
+<location>
+<begin position="452"/>
+<end position="513"/>
+</location>
+</feature>
+<feature type="domain" description="SH3 4" evidence="5">
+<location>
+<begin position="833"/>
+<end position="892"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="RING-type" evidence="4">
+<location>
+<begin position="12"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with RAC1" evidence="3">
+<location>
+<begin position="292"/>
+<end position="362"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with AKT2" evidence="7">
+<location>
+<begin position="447"/>
+<end position="550"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Gly">
+<location>
+<begin position="84"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Pro">
+<location>
+<begin position="397"/>
+<end position="403"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Ala-rich">
+<location>
+<begin position="406"/>
+<end position="431"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="304"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="539"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1">
+<location>
+<position position="741"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_033624" evidence="14">
+<location>
+<begin position="160"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_033625" evidence="15">
+<original>ELSGLSCSAPSQVHISTTGLIVTPPPSSPVTTGPAFT</original>
+<variation>APSQVQGRGQLPKRGLLTSGKILAASFIFALVTSSLL</variation>
+<location>
+<begin position="345"/>
+<end position="381"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_033626" evidence="15">
+<location>
+<begin position="382"/>
+<end position="892"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_033627" evidence="15">
+<original>AAGTAALAQDAFHRKTSSLDSAVPIAPPPRQACSSLGPVMN</original>
+<variation>DRWNSSPSPGCLPPQDKLPGLRSAHCSTTSPGLLLPGPSHE</variation>
+<location>
+<begin position="788"/>
+<end position="828"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_033628" evidence="15">
+<location>
+<begin position="829"/>
+<end position="892"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of binding to AKT2." evidence="7">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="470"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of binding to AKT2 and enhanced binding to MAP3K11." evidence="7">
+<original>W</original>
+<variation>A</variation>
+<location>
+<position position="489"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAC40070." ref="1" evidence="18">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="160"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; BAE28367." ref="3" evidence="18">
+<original>R</original>
+<variation>S</variation>
+<location>
+<position position="321"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; BAE28367." ref="3" evidence="18">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="342"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; BAC32385 and 4; AAH60113/AAH60696." ref="3 4" evidence="18">
+<location>
+<position position="431"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; BAE28367." ref="3" evidence="18">
+<original>L</original>
+<variation>M</variation>
+<location>
+<position position="630"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; BAC32385 and 4; AAH60113/AAH60696." ref="3 4" evidence="18">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="679"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="21183079"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q71F54"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q7Z6J0"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00175"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00192"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12514131"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14504284"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16230351"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16571722"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22959435"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23963642"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27084103"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9482736"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="16141072"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="22959435"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="27084103"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000305"/>
+<sequence length="892" mass="93447" checksum="D92071116F4D6EBE" modified="2008-05-20" version="2">MDESALLDLLECPVCLERLDASAKVLPCQHTFCKRCLLGIVGSRNELRCPECRTLVGSGVDELPSNILLVRLLDGIKQRPWKPGPGGGGGTTCTNTLRAQGSTVVNCGSKDLQSSQCGQQPRVQAWSPPVRGIPQLPCAKALYNYEGKEPGDLKFSKGDIIILRRQVDENWYHGEVSGVHGFFPTNFVQIIKPLPQPPPQCKALYDFEVKDKEADKDCLPFAKDDVLTVIRRVDENWAEGMLADKIGIFPISYVEFNSAAKQLIEWDKPPVPGVDTAECPSATAQSTSASKHPDTKKNTRKRHSFTSLTMANKSSQGSQNRHSMEISPPVLISSSNPTAAARISELSGLSCSAPSQVHISTTGLIVTPPPSSPVTTGPAFTFPSDVPYQAALGSMNPPLPPPPLLAATVLASTPSGATAAVAAAAAAAAAAGMGPRPVMGSSEQIAHLRPQTRPSVYVAIYPYTPRKEDELELRKGEMFLVFERCQDGWYKGTSMHTSKIGVFPGNYVAPVTRAVTNASQAKVSMSTAGQASRGVTMVSPSTAGGPTQKPQGNGVAGNPSVVPTAVVSAAHIQTSPQAKVLLHMSGQMTVNQARNAVRTVAAHSQERPTAAVTPIQVQNAACLGPASVGLPHHSLASQPLPPMAGPAAHGAAVSISRTNAPMACAAGASLASPNMTSAMLETEPSGRTVTILPGLPTSPESAASACGNSSAGKPDKDSKKEKKGLLKLLSGASTKRKPRVSPPASPTLDVELGAGEAPLQGAVGPELPLGGSHGRVGSCPTDGDGPVAAGTAALAQDAFHRKTSSLDSAVPIAPPPRQACSSLGPVMNEARPVVCERHRVVVSYPPQSEAELELKEGDIVFVHKKREDGWFKGTLQRNGKTGLFPGSFVENI</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

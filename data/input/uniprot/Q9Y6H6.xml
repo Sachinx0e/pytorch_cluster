@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2000-05-30" modified="2020-10-07" version="163">
+<accession>Q9Y6H6</accession>
+<name>KCNE3_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Potassium voltage-gated channel subfamily E member 3</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>MinK-related peptide 2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Minimum potassium ion channel-related peptide 2</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Potassium channel subunit beta MiRP2</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">KCNE3</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="submission" date="1998-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Abbott G.W."/>
+<person name="Sesti F."/>
+<person name="Buck M.E."/>
+<person name="Goldstein S.A.N."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2001" name="J. Biol. Chem." volume="276" first="6439" last="6444">
+<title>Structural determinants of KvLQT1 control by the KCNE family of proteins.</title>
+<authorList>
+<person name="Melman Y.F."/>
+<person name="Domenech A."/>
+<person name="de La Luna S."/>
+<person name="McDonald T.V."/>
+</authorList>
+<dbReference type="PubMed" id="11104781"/>
+<dbReference type="DOI" id="10.1074/jbc.m010713200"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Blood</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2000" name="Nature" volume="403" first="196" last="199">
+<title>A constitutively open potassium channel formed by KCNQ1 and KCNE3.</title>
+<authorList>
+<person name="Schroeder B.C."/>
+<person name="Waldegger S."/>
+<person name="Fehr S."/>
+<person name="Bleich M."/>
+<person name="Warth R."/>
+<person name="Greger R."/>
+<person name="Jentsch T.J."/>
+</authorList>
+<dbReference type="PubMed" id="10646604"/>
+<dbReference type="DOI" id="10.1038/35003200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2001" name="Cell" volume="104" first="217" last="231">
+<title>MiRP2 forms potassium channels in skeletal muscle with Kv3.4 and is associated with periodic paralysis.</title>
+<authorList>
+<person name="Abbott G.W."/>
+<person name="Butler M.H."/>
+<person name="Bendahhou S."/>
+<person name="Dalakas M.C."/>
+<person name="Ptacek L.J."/>
+<person name="Goldstein S.A.N."/>
+</authorList>
+<dbReference type="PubMed" id="11207363"/>
+<dbReference type="DOI" id="10.1016/s0092-8674(01)00207-0"/>
+</citation>
+<scope>ASSOCIATION WITH KCNC4</scope>
+<scope>VARIANT HIS-83</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2002" name="FASEB J." volume="16" first="390" last="400">
+<title>Disease-associated mutations in KCNE potassium channel subunits (MiRPs) reveal promiscuous disruption of multiple currents and conservation of mechanism.</title>
+<authorList>
+<person name="Abbott G.W."/>
+<person name="Goldstein S.A.N."/>
+</authorList>
+<dbReference type="PubMed" id="11874988"/>
+<dbReference type="DOI" id="10.1096/fj.01-0520hyp"/>
+</citation>
+<scope>MUTAGENESIS OF ASP-90</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2003" name="J. Neurosci." volume="23" first="8077" last="8091">
+<title>MinK-related peptide 2 modulates Kv2.1 and Kv3.1 potassium channels in mammalian brain.</title>
+<authorList>
+<person name="McCrossan Z.A."/>
+<person name="Lewis A."/>
+<person name="Panaghie G."/>
+<person name="Jordan P.N."/>
+<person name="Christini D.J."/>
+<person name="Lerner D.J."/>
+<person name="Abbott G.W."/>
+</authorList>
+<dbReference type="PubMed" id="12954870"/>
+<dbReference type="DOI" id="10.1523/jneurosci.23-22-08077.2003"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2010" name="J. Cell. Physiol." volume="225" first="692" last="700">
+<title>Impact of KCNE subunits on KCNQ1 (Kv7.1) channel membrane surface targeting.</title>
+<authorList>
+<person name="Roura-Ferrer M."/>
+<person name="Sole L."/>
+<person name="Oliveras A."/>
+<person name="Dahan R."/>
+<person name="Bielanska J."/>
+<person name="Villarroel A."/>
+<person name="Comes N."/>
+<person name="Felipe A."/>
+</authorList>
+<dbReference type="PubMed" id="20533308"/>
+<dbReference type="DOI" id="10.1002/jcp.22265"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH KCNQ1</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2002" name="J. Clin. Endocrinol. Metab." volume="87" first="4881" last="4884">
+<title>A mutation in the KCNE3 potassium channel gene is associated with susceptibility to thyrotoxic hypokalemic periodic paralysis.</title>
+<authorList>
+<person name="Dias Da Silva M.R."/>
+<person name="Cerutti J.M."/>
+<person name="Arnaldi L.A.T."/>
+<person name="Maciel R.M.B."/>
+</authorList>
+<dbReference type="PubMed" id="12414843"/>
+<dbReference type="DOI" id="10.1210/jc.2002-020698"/>
+</citation>
+<scope>VARIANT HIS-83</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2003" name="Neurology" volume="61" first="857" last="859">
+<title>Lack of association of the potassium channel-associated peptide MiRP2-R83H variant with periodic paralysis.</title>
+<authorList>
+<person name="Sternberg D."/>
+<person name="Tabti N."/>
+<person name="Fournier E."/>
+<person name="Hainque B."/>
+<person name="Fontaine B."/>
+</authorList>
+<dbReference type="PubMed" id="14504341"/>
+<dbReference type="DOI" id="10.1212/01.wnl.0000082392.66713.e3"/>
+</citation>
+<scope>LACK OF ASSOCIATION OF VARIANT HIS-83 WITH PERIODIC PARALISIS</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2004" name="Neurology" volume="62" first="1012" last="1015">
+<title>Periodic paralysis mutation MiRP2-R83H in controls: Interpretations and general recommendation.</title>
+<authorList>
+<person name="Jurkat-Rott K."/>
+<person name="Lehmann-Horn F."/>
+</authorList>
+<dbReference type="PubMed" id="15037716"/>
+<dbReference type="DOI" id="10.1212/01.wnl.0000119392.29624.88"/>
+</citation>
+<scope>LACK OF ASSOCIATION OF VARIANT HIS-83 WITH PERIODIC PARALISIS</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2008" name="Circ. Arrhythm. Electrophysiol." volume="1" first="209" last="218">
+<title>Functional effects of KCNE3 mutation and its role in the development of Brugada syndrome.</title>
+<authorList>
+<person name="Delpon E."/>
+<person name="Cordeiro J.M."/>
+<person name="Nunez L."/>
+<person name="Thomsen P.E."/>
+<person name="Guerchicoff A."/>
+<person name="Pollevick G.D."/>
+<person name="Wu Y."/>
+<person name="Kanters J.K."/>
+<person name="Larsen C.T."/>
+<person name="Hofman-Bang J."/>
+<person name="Burashnikov E."/>
+<person name="Christiansen M."/>
+<person name="Antzelevitch C."/>
+</authorList>
+<dbReference type="PubMed" id="19122847"/>
+<dbReference type="DOI" id="10.1161/circep.107.748103"/>
+</citation>
+<scope>VARIANT BRGDA6 HIS-99</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2009" name="Hum. Mutat." volume="30" first="557" last="563">
+<title>Novel KCNE3 mutation reduces repolarizing potassium current and associated with long QT syndrome.</title>
+<authorList>
+<person name="Ohno S."/>
+<person name="Toyoda F."/>
+<person name="Zankov D.P."/>
+<person name="Yoshida H."/>
+<person name="Makiyama T."/>
+<person name="Tsuji K."/>
+<person name="Honda T."/>
+<person name="Obayashi K."/>
+<person name="Ueyama H."/>
+<person name="Shimizu W."/>
+<person name="Miyamoto Y."/>
+<person name="Kamakura S."/>
+<person name="Matsuura H."/>
+<person name="Kita T."/>
+<person name="Horie M."/>
+</authorList>
+<dbReference type="PubMed" id="19306396"/>
+<dbReference type="DOI" id="10.1002/humu.20834"/>
+</citation>
+<scope>VARIANTS ALA-4; ARG-39 AND HIS-99</scope>
+</reference>
+<comment type="function">
+<text evidence="3 5 9">Ancillary protein that assembles as a beta subunit with a voltage-gated potassium channel complex of pore-forming alpha subunits. Modulates the gating kinetics and enhances stability of the channel complex. Assembled with KCNB1 modulates the gating characteristics of the delayed rectifier voltage-dependent potassium channel KCNB1 (PubMed:12954870). Associated with KCNC4/Kv3.4 is proposed to form the subthreshold voltage-gated potassium channel in skeletal muscle and to establish the resting membrane potential (RMP) in muscle cells. Associated with KCNQ1/KCLQT1 may form the intestinal cAMP-stimulated potassium channel involved in chloride secretion that produces a current with nearly instantaneous activation with a linear current-voltage relationship.</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 6 12">Interacts with KCNB1. Interacts with KCNC2 (By similarity). Associates with KCNC4/Kv3.4 (PubMed:11207363). Interacts with KCNQ1; produces a current with nearly instantaneous activation with a linear current-voltage relationship and alters membrane raft localization (By similarity) (PubMed:20533308).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="9">Cell membrane</location>
+<topology evidence="13">Single-pass type I membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="9">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="9">Perikaryon</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="9">Cell projection</location>
+<location evidence="9">Dendrite</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="12">Membrane raft</location>
+</subcellularLocation>
+<text evidence="9">Colocalizes with KCNB1 at high-density somatodendritic clusters on the surface of hippocampal neurons.</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="5 9">Expressed in hippocampal neurons (at protein level) (PubMed:12954870). Widely expressed with highest levels in kidney and moderate levels in small intestine.</text>
+</comment>
+<comment type="similarity">
+<text evidence="13">Belongs to the potassium channel KCNE family.</text>
+</comment>
+<comment type="caution">
+<text evidence="13">Variant His-83 has been associated with periodic paralysis (PubMed:11207363 and PubMed:12414843). The association could not be confirmed by further studies leading to the conclusion that His-83 does not play a causative role in the disease (PubMed:14504341 and PubMed:15037716).</text>
+</comment>
+<dbReference type="EMBL" id="AF076531">
+<property type="protein sequence ID" value="AAD28089.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF302494">
+<property type="protein sequence ID" value="AAG16255.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC032235">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS8232.1"/>
+<dbReference type="RefSeq" id="NP_005463.1">
+<property type="nucleotide sequence ID" value="NM_005472.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016872536.1">
+<property type="nucleotide sequence ID" value="XM_017017047.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016872537.1">
+<property type="nucleotide sequence ID" value="XM_017017048.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016872538.1">
+<property type="nucleotide sequence ID" value="XM_017017049.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016872539.1">
+<property type="nucleotide sequence ID" value="XM_017017050.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016872540.1">
+<property type="nucleotide sequence ID" value="XM_017017051.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016872541.1">
+<property type="nucleotide sequence ID" value="XM_017017052.1"/>
+</dbReference>
+<dbReference type="PDB" id="2NDJ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=1-103"/>
+</dbReference>
+<dbReference type="PDB" id="6V00">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="C/F/I/L=1-103"/>
+</dbReference>
+<dbReference type="PDB" id="6V01">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.90"/>
+<property type="chains" value="C/F/I/L=1-103"/>
+</dbReference>
+<dbReference type="PDBsum" id="2NDJ"/>
+<dbReference type="PDBsum" id="6V00"/>
+<dbReference type="PDBsum" id="6V01"/>
+<dbReference type="BMRB" id="Q9Y6H6"/>
+<dbReference type="SMR" id="Q9Y6H6"/>
+<dbReference type="BioGRID" id="115326">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="CORUM" id="Q9Y6H6"/>
+<dbReference type="IntAct" id="Q9Y6H6">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="MINT" id="Q9Y6H6"/>
+<dbReference type="STRING" id="9606.ENSP00000310557"/>
+<dbReference type="DrugBank" id="DB01069">
+<property type="generic name" value="Promethazine"/>
+</dbReference>
+<dbReference type="GlyGen" id="Q9Y6H6">
+<property type="glycosylation" value="3 sites"/>
+</dbReference>
+<dbReference type="iPTMnet" id="Q9Y6H6"/>
+<dbReference type="PhosphoSitePlus" id="Q9Y6H6"/>
+<dbReference type="BioMuta" id="KCNE3"/>
+<dbReference type="MassIVE" id="Q9Y6H6"/>
+<dbReference type="PaxDb" id="Q9Y6H6"/>
+<dbReference type="PeptideAtlas" id="Q9Y6H6"/>
+<dbReference type="PRIDE" id="Q9Y6H6"/>
+<dbReference type="ProteomicsDB" id="86686"/>
+<dbReference type="Antibodypedia" id="2753">
+<property type="antibodies" value="141 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="10008"/>
+<dbReference type="Ensembl" id="ENST00000310128">
+<property type="protein sequence ID" value="ENSP00000310557"/>
+<property type="gene ID" value="ENSG00000175538"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000525550">
+<property type="protein sequence ID" value="ENSP00000433633"/>
+<property type="gene ID" value="ENSG00000175538"/>
+</dbReference>
+<dbReference type="GeneID" id="10008"/>
+<dbReference type="KEGG" id="hsa:10008"/>
+<dbReference type="UCSC" id="uc001ovc.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="10008"/>
+<dbReference type="DisGeNET" id="10008"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000175538.10"/>
+<dbReference type="GeneCards" id="KCNE3"/>
+<dbReference type="GeneReviews" id="KCNE3"/>
+<dbReference type="HGNC" id="HGNC:6243">
+<property type="gene designation" value="KCNE3"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000175538">
+<property type="expression patterns" value="Tissue enhanced (gallbladder)"/>
+</dbReference>
+<dbReference type="MalaCards" id="KCNE3"/>
+<dbReference type="MIM" id="604433">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="613119">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q9Y6H6"/>
+<dbReference type="OpenTargets" id="ENSG00000175538"/>
+<dbReference type="Orphanet" id="130">
+<property type="disease" value="Brugada syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="681">
+<property type="disease" value="Hypokalemic periodic paralysis"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA393"/>
+<dbReference type="eggNOG" id="ENOG502S4UF">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000155001"/>
+<dbReference type="HOGENOM" id="CLU_180169_0_0_1"/>
+<dbReference type="InParanoid" id="Q9Y6H6"/>
+<dbReference type="KO" id="K04897"/>
+<dbReference type="OMA" id="TETWYKS"/>
+<dbReference type="OrthoDB" id="1608208at2759"/>
+<dbReference type="PhylomeDB" id="Q9Y6H6"/>
+<dbReference type="TreeFam" id="TF335981"/>
+<dbReference type="PathwayCommons" id="Q9Y6H6"/>
+<dbReference type="Reactome" id="R-HSA-5576890">
+<property type="pathway name" value="Phase 3 - rapid repolarisation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5576893">
+<property type="pathway name" value="Phase 2 - plateau phase"/>
+</dbReference>
+<dbReference type="BioGRID-ORCS" id="10008">
+<property type="hits" value="4 hits in 870 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="KCNE3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="KCNE3"/>
+<dbReference type="GenomeRNAi" id="10008"/>
+<dbReference type="Pharos" id="Q9Y6H6">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q9Y6H6"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 11"/>
+</dbReference>
+<dbReference type="RNAct" id="Q9Y6H6">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000175538">
+<property type="expression patterns" value="Expressed in nasal cavity epithelium and 183 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q9Y6H6">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q9Y6H6">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030425">
+<property type="term" value="C:dendrite"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045121">
+<property type="term" value="C:membrane raft"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032809">
+<property type="term" value="C:neuronal cell body membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043204">
+<property type="term" value="C:perikaryon"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031982">
+<property type="term" value="C:vesicle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008076">
+<property type="term" value="C:voltage-gated potassium channel complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044325">
+<property type="term" value="F:ion channel binding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0015459">
+<property type="term" value="F:potassium channel regulator activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005249">
+<property type="term" value="F:voltage-gated potassium channel activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0086011">
+<property type="term" value="P:membrane repolarization during action potential"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0098915">
+<property type="term" value="P:membrane repolarization during ventricular cardiac muscle cell action potential"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="GOC"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902260">
+<property type="term" value="P:negative regulation of delayed rectifier potassium channel activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1905025">
+<property type="term" value="P:negative regulation of membrane repolarization during ventricular cardiac muscle cell action potential"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903765">
+<property type="term" value="P:negative regulation of potassium ion export across plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903817">
+<property type="term" value="P:negative regulation of voltage-gated potassium channel activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901387">
+<property type="term" value="P:positive regulation of voltage-gated calcium channel activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097623">
+<property type="term" value="P:potassium ion export across plasma membrane"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0086091">
+<property type="term" value="P:regulation of heart rate by cardiac conduction"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060307">
+<property type="term" value="P:regulation of ventricular cardiac muscle cell membrane repolarization"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0086005">
+<property type="term" value="P:ventricular cardiac muscle cell action potential"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="DisProt" id="DP01608"/>
+<dbReference type="InterPro" id="IPR000369">
+<property type="entry name" value="K_chnl_KCNE"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005426">
+<property type="entry name" value="K_chnl_volt-dep_bsu_KCNE3"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR15282">
+<property type="entry name" value="PTHR15282"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR15282:SF6">
+<property type="entry name" value="PTHR15282:SF6"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02060">
+<property type="entry name" value="ISK_Channel"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01606">
+<property type="entry name" value="KCNE3CHANNEL"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00168">
+<property type="entry name" value="KCNECHANNEL"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0992">Brugada syndrome</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0966">Cell projection</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0407">Ion channel</keyword>
+<keyword id="KW-0406">Ion transport</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-0630">Potassium</keyword>
+<keyword id="KW-0631">Potassium channel</keyword>
+<keyword id="KW-0633">Potassium transport</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<keyword id="KW-0851">Voltage-gated channel</keyword>
+<feature type="chain" description="Potassium voltage-gated channel subfamily E member 3" id="PRO_0000144289">
+<location>
+<begin position="1"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="4">
+<location>
+<begin position="58"/>
+<end position="78"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="4">
+<location>
+<begin position="79"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="4">
+<location>
+<position position="5"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="4">
+<location>
+<position position="22"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="4">
+<location>
+<position position="41"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs200856070." id="VAR_058635" evidence="11">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="4"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34604640." id="VAR_058636" evidence="11">
+<original>P</original>
+<variation>R</variation>
+<location>
+<position position="39"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In some patients with periodic paralysis; unknown pathological significance; alters voltage dependence, lowers current and diminishes open probability in KCNC4/KCNE3 channel; lowers current in KCNQ1/KCNE3 channel; dbSNP:rs17215437." id="VAR_015064" evidence="6 8">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="83"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BRGDA6; also in a patient suffering from drug-induced torsades de pointes; unknown pathological significance; dbSNP:rs121908441." id="VAR_058637" evidence="10 11">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="99"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Decreases current 4-fold in KCNH2/KCNE3 channel." evidence="7">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="90"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="8"/>
+<end position="29"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="57"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="91"/>
+<end position="98"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2NDJ"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6V00"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9JJV7"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255"/>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10646604"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11207363"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11874988"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12414843"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12954870"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19122847"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19306396"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20533308"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000305"/>
+<sequence length="103" mass="11710" checksum="5235385E8D08BF10" modified="1999-11-01" version="1">METTNGTETWYESLHAVLKALNATLHSNLLCRPGPGLGPDNQTEERRASLPGRDDNSYMYILFVMFLFAVTVGSLILGYTRSRKVDKRSDPYHVYIKNRVSMI</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

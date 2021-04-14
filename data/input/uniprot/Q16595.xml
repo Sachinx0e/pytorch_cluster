@@ -1,0 +1,1961 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1999-07-15" modified="2020-10-07" version="208">
+<accession>Q16595</accession>
+<accession>A8MXJ6</accession>
+<accession>C9JJ89</accession>
+<accession>O15545</accession>
+<accession>O95656</accession>
+<accession>Q15294</accession>
+<accession>Q5VZ01</accession>
+<name>FRDA_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Frataxin, mitochondrial</fullName>
+<ecNumber>1.16.3.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>Friedreich ataxia protein</fullName>
+<shortName>Fxn</shortName>
+</alternativeName>
+<component>
+<recommendedName>
+<fullName>Frataxin intermediate form</fullName>
+<shortName>i-FXN</shortName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Frataxin(56-210)</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>m56-FXN</fullName>
+</alternativeName>
+</component>
+<component>
+<recommendedName>
+<fullName>Frataxin(78-210)</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>d-FXN</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>m78-FXN</fullName>
+</alternativeName>
+</component>
+<component>
+<recommendedName>
+<fullName>Frataxin mature form</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Frataxin(81-210)</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>m81-FXN</fullName>
+</alternativeName>
+</component>
+</protein>
+<gene>
+<name type="primary">FXN</name>
+<name type="synonym">FRDA</name>
+<name type="synonym">X25</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1996" name="Science" volume="271" first="1423" last="1427">
+<title>Friedreich's ataxia: autosomal recessive disease caused by an intronic GAA triplet repeat expansion.</title>
+<authorList>
+<person name="Campuzano V."/>
+<person name="Montermini L."/>
+<person name="Molto M.D."/>
+<person name="Pianese L."/>
+<person name="Cossee M."/>
+<person name="Cavalcanti F."/>
+<person name="Monros E."/>
+<person name="Rodius F."/>
+<person name="Duclos F."/>
+<person name="Monticelli A."/>
+<person name="Zara F."/>
+<person name="Canizares J."/>
+<person name="Koutnikova H."/>
+<person name="Bidichandani S."/>
+<person name="Gellera C."/>
+<person name="Brice A."/>
+<person name="Trouillas P."/>
+<person name="de Michele G."/>
+<person name="Filla A."/>
+<person name="de Frutos R."/>
+<person name="Palau F."/>
+<person name="Patel P.I."/>
+<person name="di Donato S."/>
+<person name="Mandel J.-L."/>
+<person name="Cocozza S."/>
+<person name="Koenig M."/>
+<person name="Pandolfo M."/>
+</authorList>
+<dbReference type="PubMed" id="8596916"/>
+<dbReference type="DOI" id="10.1126/science.271.5254.1423"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORMS 1 AND 2)</scope>
+<scope>ALTERNATIVE SPLICING</scope>
+<scope>VARIANT PHE-154</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Nature" volume="429" first="369" last="374">
+<title>DNA sequence and analysis of human chromosome 9.</title>
+<authorList>
+<person name="Humphray S.J."/>
+<person name="Oliver K."/>
+<person name="Hunt A.R."/>
+<person name="Plumb R.W."/>
+<person name="Loveland J.E."/>
+<person name="Howe K.L."/>
+<person name="Andrews T.D."/>
+<person name="Searle S."/>
+<person name="Hunt S.E."/>
+<person name="Scott C.E."/>
+<person name="Jones M.C."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ambrose K.D."/>
+<person name="Ashwell R.I.S."/>
+<person name="Babbage A.K."/>
+<person name="Babbage S."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Banerjee R."/>
+<person name="Barker D.J."/>
+<person name="Barlow K.F."/>
+<person name="Bates K."/>
+<person name="Beasley H."/>
+<person name="Beasley O."/>
+<person name="Bird C.P."/>
+<person name="Bray-Allen S."/>
+<person name="Brown A.J."/>
+<person name="Brown J.Y."/>
+<person name="Burford D."/>
+<person name="Burrill W."/>
+<person name="Burton J."/>
+<person name="Carder C."/>
+<person name="Carter N.P."/>
+<person name="Chapman J.C."/>
+<person name="Chen Y."/>
+<person name="Clarke G."/>
+<person name="Clark S.Y."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Collier R.E."/>
+<person name="Corby N."/>
+<person name="Crosier M."/>
+<person name="Cummings A.T."/>
+<person name="Davies J."/>
+<person name="Dhami P."/>
+<person name="Dunn M."/>
+<person name="Dutta I."/>
+<person name="Dyer L.W."/>
+<person name="Earthrowl M.E."/>
+<person name="Faulkner L."/>
+<person name="Fleming C.J."/>
+<person name="Frankish A."/>
+<person name="Frankland J.A."/>
+<person name="French L."/>
+<person name="Fricker D.G."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Ghori J."/>
+<person name="Gilbert J.G.R."/>
+<person name="Glison C."/>
+<person name="Grafham D.V."/>
+<person name="Gribble S."/>
+<person name="Griffiths C."/>
+<person name="Griffiths-Jones S."/>
+<person name="Grocock R."/>
+<person name="Guy J."/>
+<person name="Hall R.E."/>
+<person name="Hammond S."/>
+<person name="Harley J.L."/>
+<person name="Harrison E.S.I."/>
+<person name="Hart E.A."/>
+<person name="Heath P.D."/>
+<person name="Henderson C.D."/>
+<person name="Hopkins B.L."/>
+<person name="Howard P.J."/>
+<person name="Howden P.J."/>
+<person name="Huckle E."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Joy A.A."/>
+<person name="Kay M."/>
+<person name="Keenan S."/>
+<person name="Kershaw J.K."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Knights A."/>
+<person name="Laird G.K."/>
+<person name="Langford C."/>
+<person name="Lawlor S."/>
+<person name="Leongamornlert D.A."/>
+<person name="Leversha M."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Lovell J."/>
+<person name="Martin S."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="McLaren S."/>
+<person name="McLay K.E."/>
+<person name="McMurray A."/>
+<person name="Milne S."/>
+<person name="Nickerson T."/>
+<person name="Nisbett J."/>
+<person name="Nordsiek G."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Porter K.M."/>
+<person name="Pandian R."/>
+<person name="Pelan S."/>
+<person name="Phillimore B."/>
+<person name="Povey S."/>
+<person name="Ramsey Y."/>
+<person name="Rand V."/>
+<person name="Scharfe M."/>
+<person name="Sehra H.K."/>
+<person name="Shownkeen R."/>
+<person name="Sims S.K."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Steward C.A."/>
+<person name="Swarbreck D."/>
+<person name="Sycamore N."/>
+<person name="Tester J."/>
+<person name="Thorpe A."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Thomas D.W."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="West A.P."/>
+<person name="Whitehead S.L."/>
+<person name="Willey D.L."/>
+<person name="Williams S.A."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Young L."/>
+<person name="Ashurst J.L."/>
+<person name="Coulson A."/>
+<person name="Blocker H."/>
+<person name="Durbin R.M."/>
+<person name="Sulston J.E."/>
+<person name="Hubbard T."/>
+<person name="Jackson M.J."/>
+<person name="Bentley D.R."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+<person name="Dunham I."/>
+</authorList>
+<dbReference type="PubMed" id="15164053"/>
+<dbReference type="DOI" id="10.1038/nature02465"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)</scope>
+<source>
+<tissue>Brain</tissue>
+<tissue>Eye</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2008" name="Hum. Mol. Genet." volume="17" first="3521" last="3531">
+<title>The in vivo mitochondrial two-step maturation of human frataxin.</title>
+<authorList>
+<person name="Schmucker S."/>
+<person name="Argentini M."/>
+<person name="Carelle-Calmels N."/>
+<person name="Martelli A."/>
+<person name="Puccio H."/>
+</authorList>
+<dbReference type="PubMed" id="18725397"/>
+<dbReference type="DOI" id="10.1093/hmg/ddn244"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 81-90</scope>
+<scope>PROTEOLYTIC PROCESSING</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF 39-ARG-ARG-40; 53-ARG-ARG-54; 78-LEU-ARG-79 AND 79-ARG-LYS-80</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2007" name="Hum. Mol. Genet." volume="16" first="1534" last="1540">
+<title>In vivo maturation of human frataxin.</title>
+<authorList>
+<person name="Condo I."/>
+<person name="Ventura N."/>
+<person name="Malisan F."/>
+<person name="Rufini A."/>
+<person name="Tomassini B."/>
+<person name="Testi R."/>
+</authorList>
+<dbReference type="PubMed" id="17468497"/>
+<dbReference type="DOI" id="10.1093/hmg/ddm102"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 81-86</scope>
+<scope>PROTEOLYTIC PROCESSING</scope>
+<scope>MUTAGENESIS OF 53-ARG-ARG-54 AND 79-ARG-LYS-80</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2010" name="Hum. Mol. Genet." volume="19" first="1221" last="1229">
+<title>Molecular control of the cytosolic aconitase/IRP1 switch by extramitochondrial frataxin.</title>
+<authorList>
+<person name="Condo I."/>
+<person name="Malisan F."/>
+<person name="Guccini I."/>
+<person name="Serio D."/>
+<person name="Rufini A."/>
+<person name="Testi R."/>
+</authorList>
+<dbReference type="PubMed" id="20053667"/>
+<dbReference type="DOI" id="10.1093/hmg/ddp592"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 81-86</scope>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH ACO1</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="7">
+<citation type="submission" date="1997-06" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Kostrzewa M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 89-128</scope>
+<scope>VARIANT FRDA TYR-122</scope>
+</reference>
+<reference key="8">
+<citation type="submission" date="1997-11" db="EMBL/GenBank/DDBJ databases">
+<title>A novel splice site mutation (384+1G-A) in the Friedreich's ataxia gene.</title>
+<authorList>
+<person name="Doudney J.D."/>
+<person name="Pook M.A."/>
+<person name="Al-Mahdawi S."/>
+<person name="Carvajal J.J."/>
+<person name="Hillerman R."/>
+<person name="Chamberlain S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 89-128</scope>
+<scope>VARIANT FRDA TYR-122</scope>
+</reference>
+<reference key="9">
+<citation type="submission" date="1997-03" db="EMBL/GenBank/DDBJ databases">
+<title>Correct sequence in exon 5a of x25: human frataxin (FRDA), F175(TTC)--&gt;Y175(TAC) and W202(TGG)--&gt;S202(TCC).</title>
+<authorList>
+<person name="Laccone F."/>
+<person name="Schloesser M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 162-210</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="1997" name="Hum. Mol. Genet." volume="6" first="1771" last="1780">
+<title>Frataxin is reduced in Friedreich ataxia patients and is associated with mitochondrial membranes.</title>
+<authorList>
+<person name="Campuzano V."/>
+<person name="Montermini L."/>
+<person name="Lutz Y."/>
+<person name="Cova L."/>
+<person name="Hindelang C."/>
+<person name="Jiralerspong S."/>
+<person name="Trottier Y."/>
+<person name="Kish S.J."/>
+<person name="Faucheux B."/>
+<person name="Trouillas P."/>
+<person name="Authier F.J."/>
+<person name="Duerr A."/>
+<person name="Mandel J.-L."/>
+<person name="Vescovi A."/>
+<person name="Pandolfo M."/>
+<person name="Koenig M."/>
+</authorList>
+<dbReference type="PubMed" id="9302253"/>
+<dbReference type="DOI" id="10.1093/hmg/6.11.1771"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="1997" name="Nat. Genet." volume="16" first="345" last="351">
+<title>Studies of human, mouse and yeast homologues indicate a mitochondrial function for frataxin.</title>
+<authorList>
+<person name="Koutnikova H."/>
+<person name="Campuzano V."/>
+<person name="Foury F."/>
+<person name="Dolle P."/>
+<person name="Cazzalini O."/>
+<person name="Koenig M."/>
+</authorList>
+<dbReference type="PubMed" id="9241270"/>
+<dbReference type="DOI" id="10.1038/ng0897-345"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1999" name="Hum. Mol. Genet." volume="8" first="2255" last="2262">
+<title>Maturation of frataxin within mammalian and yeast mitochondria: one-step processing by matrix processing peptidase.</title>
+<authorList>
+<person name="Gordon D.M."/>
+<person name="Shi Q."/>
+<person name="Dancis A."/>
+<person name="Pain D."/>
+</authorList>
+<dbReference type="PubMed" id="10545606"/>
+<dbReference type="DOI" id="10.1093/hmg/8.12.2255"/>
+</citation>
+<scope>PROTEOLYTIC PROCESSING</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="1999" name="J. Biol. Chem." volume="274" first="22763" last="22769">
+<title>Yeast and human frataxin are processed to mature form in two sequential steps by the mitochondrial processing peptidase.</title>
+<authorList>
+<person name="Branda S.S."/>
+<person name="Cavadini P."/>
+<person name="Adamec J."/>
+<person name="Kalousek F."/>
+<person name="Taroni F."/>
+<person name="Isaya G."/>
+</authorList>
+<dbReference type="PubMed" id="10428860"/>
+<dbReference type="DOI" id="10.1074/jbc.274.32.22763"/>
+</citation>
+<scope>PROTEOLYTIC PROCESSING</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2000" name="J. Biol. Chem." volume="275" first="41469" last="41475">
+<title>Two-step processing of human frataxin by mitochondrial processing peptidase. Precursor and intermediate forms are cleaved at different rates.</title>
+<authorList>
+<person name="Cavadini P."/>
+<person name="Adamec J."/>
+<person name="Taroni F."/>
+<person name="Gakh O."/>
+<person name="Isaya G."/>
+</authorList>
+<dbReference type="PubMed" id="11020385"/>
+<dbReference type="DOI" id="10.1074/jbc.m006539200"/>
+</citation>
+<scope>PROTEOLYTIC PROCESSING</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2002" name="Hum. Mol. Genet." volume="11" first="217" last="227">
+<title>Assembly and iron-binding properties of human frataxin, the protein deficient in Friedreich ataxia.</title>
+<authorList>
+<person name="Cavadini P."/>
+<person name="O'Neill H.A."/>
+<person name="Benada O."/>
+<person name="Isaya G."/>
+</authorList>
+<dbReference type="PubMed" id="11823441"/>
+<dbReference type="DOI" id="10.1093/hmg/11.3.217"/>
+</citation>
+<scope>POSSIBLE FUNCTION IN IRON STORAGE</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2003" name="Biochemistry" volume="42" first="5971" last="5976">
+<title>Structure of frataxin iron cores: an X-ray absorption spectroscopic study.</title>
+<authorList>
+<person name="Nichol H."/>
+<person name="Gakh O."/>
+<person name="O'Neill H.A."/>
+<person name="Pickering I.J."/>
+<person name="Isaya G."/>
+<person name="George G.N."/>
+</authorList>
+<dbReference type="PubMed" id="12755598"/>
+<dbReference type="DOI" id="10.1021/bi027021l"/>
+</citation>
+<scope>POSSIBLE FUNCTION IN IRON STORAGE</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2003" name="J. Am. Chem. Soc." volume="125" first="6078" last="6084">
+<title>Iron-sulfur cluster biosynthesis. Characterization of frataxin as an iron donor for assembly of [2Fe-2S] clusters in ISU-type proteins.</title>
+<authorList>
+<person name="Yoon T."/>
+<person name="Cowan J.A."/>
+</authorList>
+<dbReference type="PubMed" id="12785837"/>
+<dbReference type="DOI" id="10.1021/ja027967i"/>
+</citation>
+<scope>FUNCTION IN IRON-SULFUR CLUSTER BIOSYNTHESIS</scope>
+<scope>INTERACTION WITH ISCU</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="25943" last="25946">
+<title>Frataxin-mediated iron delivery to ferrochelatase in the final step of heme biosynthesis.</title>
+<authorList>
+<person name="Yoon T."/>
+<person name="Cowan J.A."/>
+</authorList>
+<dbReference type="PubMed" id="15123683"/>
+<dbReference type="DOI" id="10.1074/jbc.c400107200"/>
+</citation>
+<scope>POSSIBLE FUNCTION IN HEME BIOSYNTHESIS</scope>
+<scope>INTERACTION WITH FECH</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2004" name="Science" volume="305" first="242" last="245">
+<title>Frataxin acts as an iron chaperone protein to modulate mitochondrial aconitase activity.</title>
+<authorList>
+<person name="Bulteau A.L."/>
+<person name="O'Neill H.A."/>
+<person name="Kennedy M.C."/>
+<person name="Ikeda-Saito M."/>
+<person name="Isaya G."/>
+<person name="Szweda L.I."/>
+</authorList>
+<dbReference type="PubMed" id="15247478"/>
+<dbReference type="DOI" id="10.1126/science.1098991"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2005" name="Biochemistry" volume="44" first="537" last="545">
+<title>Assembly of human frataxin is a mechanism for detoxifying redox-active iron.</title>
+<authorList>
+<person name="O'Neill H.A."/>
+<person name="Gakh O."/>
+<person name="Park S."/>
+<person name="Cui J."/>
+<person name="Mooney S.M."/>
+<person name="Sampson M."/>
+<person name="Ferreira G.C."/>
+<person name="Isaya G."/>
+</authorList>
+<dbReference type="PubMed" id="15641778"/>
+<dbReference type="DOI" id="10.1021/bi048459j"/>
+</citation>
+<scope>FUNCTION IN OXIDATIVE STRESS</scope>
+<scope>SUBUNIT</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2005" name="Hum. Mol. Genet." volume="14" first="2091" last="2098">
+<title>Frataxin interacts functionally with mitochondrial electron transport chain proteins.</title>
+<authorList>
+<person name="Gonzalez-Cabo P."/>
+<person name="Vazquez-Manrique R.P."/>
+<person name="Garcia-Gimeno M.A."/>
+<person name="Sanz P."/>
+<person name="Palau F."/>
+</authorList>
+<dbReference type="PubMed" id="15961414"/>
+<dbReference type="DOI" id="10.1093/hmg/ddi214"/>
+</citation>
+<scope>INTERACTION WITH SDHA AND SDHB</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2005" name="Hum. Mol. Genet." volume="14" first="3787" last="3799">
+<title>Frataxin deficiency alters heme pathway transcripts and decreases mitochondrial heme metabolites in mammalian cells.</title>
+<authorList>
+<person name="Schoenfeld R.A."/>
+<person name="Napoli E."/>
+<person name="Wong A."/>
+<person name="Zhan S."/>
+<person name="Reutenauer L."/>
+<person name="Morin D."/>
+<person name="Buckpitt A.R."/>
+<person name="Taroni F."/>
+<person name="Lonnerdal B."/>
+<person name="Ristow M."/>
+<person name="Puccio H."/>
+<person name="Cortopassi G.A."/>
+</authorList>
+<dbReference type="PubMed" id="16239244"/>
+<dbReference type="DOI" id="10.1093/hmg/ddi393"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INVOLVEMENT IN HEME BIOSYNTHESIS</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2005" name="J. Cell Sci." volume="118" first="3917" last="3924">
+<title>Extra-mitochondrial localisation of frataxin and its association with IscU1 during enterocyte-like differentiation of the human colon adenocarcinoma cell line Caco-2.</title>
+<authorList>
+<person name="Acquaviva F."/>
+<person name="De Biase I."/>
+<person name="Nezi L."/>
+<person name="Ruggiero G."/>
+<person name="Tatangelo F."/>
+<person name="Pisano C."/>
+<person name="Monticelli A."/>
+<person name="Garbi C."/>
+<person name="Acquaviva A.M."/>
+<person name="Cocozza S."/>
+</authorList>
+<dbReference type="PubMed" id="16091420"/>
+<dbReference type="DOI" id="10.1242/jcs.02516"/>
+</citation>
+<scope>INTERACTION WITH ISCU</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2005" name="J. Mol. Biol." volume="345" first="433" last="439">
+<title>Supramolecular assemblies of human frataxin are formed via subunit-subunit interactions mediated by a non-conserved amino-terminal region.</title>
+<authorList>
+<person name="O'Neill H.A."/>
+<person name="Gakh O."/>
+<person name="Isaya G."/>
+</authorList>
+<dbReference type="PubMed" id="15581888"/>
+<dbReference type="DOI" id="10.1016/j.jmb.2004.10.074"/>
+</citation>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2006" name="J. Biol. Chem." volume="281" first="16750" last="16756">
+<title>A pool of extramitochondrial frataxin that promotes cell survival.</title>
+<authorList>
+<person name="Condo I."/>
+<person name="Ventura N."/>
+<person name="Malisan F."/>
+<person name="Tomassini B."/>
+<person name="Testi R."/>
+</authorList>
+<dbReference type="PubMed" id="16608849"/>
+<dbReference type="DOI" id="10.1074/jbc.m511960200"/>
+</citation>
+<scope>FUNCTION IN CELL SURVIVAL</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2007" name="Hum. Mol. Genet." volume="16" first="929" last="941">
+<title>Mitochondrial frataxin interacts with ISD11 of the NFS1/ISCU complex and multiple mitochondrial chaperones.</title>
+<authorList>
+<person name="Shan Y."/>
+<person name="Napoli E."/>
+<person name="Cortopassi G."/>
+</authorList>
+<dbReference type="PubMed" id="17331979"/>
+<dbReference type="DOI" id="10.1093/hmg/ddm038"/>
+</citation>
+<scope>INTERACTION WITH LYRM4 AND HSPA9</scope>
+<scope>CHARACTERIZATION OF VARIANTS PHE-154 AND ARG-155</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+<dbReference type="DOI" id="10.1002/pmic.201400617"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2016" name="Mitochondrion" volume="26" first="94" last="103">
+<title>Mitochondrial Hspa9/Mortalin regulates erythroid differentiation via iron-sulfur cluster assembly.</title>
+<authorList>
+<person name="Shan Y."/>
+<person name="Cortopassi G."/>
+</authorList>
+<dbReference type="PubMed" id="26702583"/>
+<dbReference type="DOI" id="10.1016/j.mito.2015.12.005"/>
+</citation>
+<scope>INTERACTION WITH HSPA9</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2000" name="J. Biol. Chem." volume="275" first="30753" last="30756">
+<title>Crystal structure of human frataxin.</title>
+<authorList>
+<person name="Dhe-Paganon S."/>
+<person name="Shigeta R."/>
+<person name="Chi Y.-I."/>
+<person name="Ristow M."/>
+<person name="Shoelson S.E."/>
+</authorList>
+<dbReference type="PubMed" id="10900192"/>
+<dbReference type="DOI" id="10.1074/jbc.c000407200"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 88-210</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2000" name="Structure" volume="8" first="695" last="707">
+<title>Towards a structural understanding of Friedreich's ataxia: the solution structure of frataxin.</title>
+<authorList>
+<person name="Musco G."/>
+<person name="Stier G."/>
+<person name="Kolmerer B."/>
+<person name="Adinolfi S."/>
+<person name="Martin S."/>
+<person name="Frenkiel T."/>
+<person name="Gibson T."/>
+<person name="Pastore A."/>
+</authorList>
+<dbReference type="PubMed" id="10903947"/>
+<dbReference type="DOI" id="10.1016/s0969-2126(00)00158-1"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 91-210</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="1997" name="Am. J. Hum. Genet." volume="60" first="1251" last="1256">
+<title>Atypical Friedreich ataxia caused by compound heterozygosity for a novel missense mutation and the GAA triplet-repeat expansion.</title>
+<authorList>
+<person name="Bidichandani S.I."/>
+<person name="Ashizawa T."/>
+<person name="Patel P.I."/>
+</authorList>
+<dbReference type="PubMed" id="9150176"/>
+</citation>
+<scope>VARIANTS FRDA VAL-130 AND PHE-154</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="1998" name="Am. J. Med. Genet." volume="79" first="396" last="399">
+<title>Identification of a missense mutation in a Friedreich's ataxia patient: implications for diagnosis and carrier studies.</title>
+<authorList>
+<person name="Bartolo C."/>
+<person name="Mendell J.R."/>
+<person name="Prior T.W."/>
+</authorList>
+<dbReference type="PubMed" id="9779809"/>
+<dbReference type="DOI" id="10.1002/(sici)1096-8628(19981012)79:5&lt;396::aid-ajmg13&gt;3.0.co;2-m"/>
+</citation>
+<scope>VARIANT FRDA SER-106</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="1998" name="Neurogenetics" volume="1" first="253" last="257">
+<title>The correlation of clinical phenotype in Friedreich ataxia with the site of point mutations in the FRDA gene.</title>
+<authorList>
+<person name="Forrest S.M."/>
+<person name="Knight M."/>
+<person name="Delatycki M.B."/>
+<person name="Paris D."/>
+<person name="Williamson R."/>
+<person name="King J."/>
+<person name="Yeung L."/>
+<person name="Nassif N."/>
+<person name="Nicholson G.A."/>
+</authorList>
+<dbReference type="PubMed" id="10732799"/>
+<dbReference type="DOI" id="10.1007/s100480050037"/>
+</citation>
+<scope>VARIANTS FRDA VAL-130; CYS-165 AND PHE-182</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="1999" name="Ann. Neurol." volume="45" first="200" last="206">
+<title>Friedreich's ataxia: point mutations and clinical presentation of compound heterozygotes.</title>
+<authorList>
+<person name="Cossee M."/>
+<person name="Duerr A."/>
+<person name="Schmitt M."/>
+<person name="Dahl N."/>
+<person name="Trouillas P."/>
+<person name="Allinson P."/>
+<person name="Kostrzewa M."/>
+<person name="Nivelon-Chevallier A."/>
+<person name="Gustavson K.-H."/>
+<person name="Kohlschuetter A."/>
+<person name="Mueller U."/>
+<person name="Mandel J.-L."/>
+<person name="Brice A."/>
+<person name="Koenig M."/>
+<person name="Cavalcanti F."/>
+<person name="Tammaro A."/>
+<person name="de Michele G."/>
+<person name="Filla A."/>
+<person name="Cocozza S."/>
+<person name="Labuda M."/>
+<person name="Montermini L."/>
+<person name="Poirier J."/>
+<person name="Pandolfo M."/>
+</authorList>
+<dbReference type="PubMed" id="9989622"/>
+<dbReference type="DOI" id="10.1002/1531-8249(199902)45:2&lt;200::aid-ana10&gt;3.0.co;2-u"/>
+</citation>
+<scope>VARIANTS FRDA TYR-122 AND VAL-130</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="1999" name="Hum. Mutat." volume="13" first="506" last="506">
+<title>A missense mutation (W155R) in an American patient with Friedreich's ataxia.</title>
+<authorList>
+<person name="Labuda M."/>
+<person name="Poirier J."/>
+<person name="Pandolfo M."/>
+</authorList>
+</citation>
+<scope>VARIANT FRDA ARG-155</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="2000" name="Hum. Mutat." volume="16" first="95" last="95">
+<title>A novel missense mutation (L198R) in the Friedreich's ataxia gene.</title>
+<authorList>
+<person name="Al-Mahdawi S."/>
+<person name="Pook M."/>
+<person name="Chamberlain S."/>
+</authorList>
+<dbReference type="PubMed" id="10874325"/>
+<dbReference type="DOI" id="10.1002/1098-1004(200007)16:1&lt;95::aid-humu29&gt;3.0.co;2-e"/>
+</citation>
+<scope>VARIANT FRDA ARG-198</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="2009" name="PLoS ONE" volume="4" first="E6379" last="E6379">
+<title>The first cellular models based on frataxin missense mutations that reproduce spontaneously the defects associated with Friedreich ataxia.</title>
+<authorList>
+<person name="Calmels N."/>
+<person name="Schmucker S."/>
+<person name="Wattenhofer-Donze M."/>
+<person name="Martelli A."/>
+<person name="Vaucamps N."/>
+<person name="Reutenauer L."/>
+<person name="Messaddeq N."/>
+<person name="Bouton C."/>
+<person name="Koenig M."/>
+<person name="Puccio H."/>
+</authorList>
+<dbReference type="PubMed" id="19629184"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0006379"/>
+</citation>
+<scope>CHARACTERIZATION OF VARIANT FRDA PHE-154</scope>
+</reference>
+<comment type="function">
+<text evidence="12 14 16 19 20 25">Promotes the biosynthesis of heme and assembly and repair of iron-sulfur clusters by delivering Fe(2+) to proteins involved in these pathways. May play a role in the protection against iron-catalyzed oxidative stress through its ability to catalyze the oxidation of Fe(2+) to Fe(3+); the oligomeric form but not the monomeric form has in vitro ferroxidase activity. May be able to store large amounts of iron in the form of a ferrihydrite mineral by oligomerization; however, the physiological relevance is unsure as reports are conflicting and the function has only been shown using heterologous overexpression systems. Modulates the RNA-binding activity of ACO1.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="16">
+<text>4 Fe(2+) + 4 H(+) + O2 = 4 Fe(3+) + 2 H2O</text>
+<dbReference type="Rhea" id="RHEA:11148"/>
+<dbReference type="ChEBI" id="CHEBI:15377"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:15379"/>
+<dbReference type="ChEBI" id="CHEBI:29033"/>
+<dbReference type="ChEBI" id="CHEBI:29034"/>
+<dbReference type="EC" id="1.16.3.1"/>
+</reaction>
+</comment>
+<comment type="subunit">
+<text evidence="4 10 11 12 13 15 16 17 18 21 25 26">Monomer (probable predominant form). Oligomer. Monomers and polymeric aggregates of &gt;1 MDa have been isolated from mitochondria. A small fraction of heterologous overexpressed recombinant frataxin forms high-molecular weight aggregates that incorporate iron (PubMed:11823441, PubMed:12755598, PubMed:15641778, PubMed:15581888). Interacts with LYRM4 (PubMed:17331979). Interacts with ACO1 (PubMed:20053667). Interacts with ISCU isoform 1 and isoform 2 (PubMed:12785837, PubMed:16091420). Interacts with FECH; one iron-bound FXN monomer seems to interact with a FECH homodimer (PubMed:15123683). Interacts with SDHA and SDHB (PubMed:15961414). Interacts with ACO2; the interaction is dependent on citrate (By similarity). Interacts with HSPA9 (PubMed:17331979, PubMed:26702583).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-949340">
+<id>Q16595</id>
+</interactant>
+<interactant intactId="EBI-3918199">
+<id>Q9UN19</id>
+<label>DAPP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-949340">
+<id>Q16595</id>
+</interactant>
+<interactant intactId="EBI-5916454">
+<id>A6NEM1</id>
+<label>GOLGA6L9</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="15 18 20 23 25 29 30">Mitochondrion</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="18 20 25">Cytoplasm</location>
+<location evidence="18 20 25">Cytosol</location>
+</subcellularLocation>
+<text evidence="38">PubMed:18725397 reports localization exclusively in mitochondria.</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q16595-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q16595-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_001576"/>
+</isoform>
+<isoform>
+<id>Q16595-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_047282"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="22">Expressed in the heart, peripheral blood lymphocytes and dermal fibroblasts.</text>
+</comment>
+<comment type="PTM">
+<text evidence="5 6 9 22 23">Processed in two steps by mitochondrial processing peptidase (MPP). MPP first cleaves the precursor to intermediate form and subsequently converts the intermediate to yield frataxin mature form (frataxin(81-210)) which is the predominant form. The additional forms, frataxin(56-210) and frataxin(78-210), seem to be produced when the normal maturation process is impaired; their physiological relevance is unsure.</text>
+</comment>
+<comment type="disease" evidence="7 8 24 28 31 32 33 34 35">
+<disease id="DI-01630">
+<name>Friedreich ataxia</name>
+<acronym>FRDA</acronym>
+<description>Autosomal recessive, progressive degenerative disease characterized by neurodegeneration and cardiomyopathy it is the most common inherited ataxia. The disorder is usually manifest before adolescence and is generally characterized by incoordination of limb movements, dysarthria, nystagmus, diminished or absent tendon reflexes, Babinski sign, impairment of position and vibratory senses, scoliosis, pes cavus, and hammer toe. In most patients, FRDA is due to GAA triplet repeat expansions in the first intron of the frataxin gene. But in some cases the disease is due to mutations in the coding region.</description>
+<dbReference type="MIM" id="229300"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="miscellaneous">
+<text>The unusual migration profile of mature frataxin on SDS-PAGE due to its acidic N-terminus most likely contributed to conflicting reports for the N-terminus of the mature protein. Unlike prokaryotic and yeast frataxin homologs, which self-assemble at high iron concentrations, oligomerization of human frataxin is not induced by iron. The existence of a specialized mitochondrial ferritin in mammalia (FTMT) is suggesting that iron storage would be redundant function, at least in mammalian mitochondria.</text>
+</comment>
+<comment type="miscellaneous">
+<molecule>Isoform 2</molecule>
+<text evidence="37">Not highly expressed and may be artifactual.</text>
+</comment>
+<comment type="similarity">
+<text evidence="37">Belongs to the frataxin family.</text>
+</comment>
+<dbReference type="EC" id="1.16.3.1"/>
+<dbReference type="EMBL" id="U43747">
+<property type="protein sequence ID" value="AAA98510.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U43752">
+<property type="protein sequence ID" value="AAA98508.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U43748">
+<property type="protein sequence ID" value="AAA98508.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U43749">
+<property type="protein sequence ID" value="AAA98508.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U43750">
+<property type="protein sequence ID" value="AAA98508.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U43751">
+<property type="protein sequence ID" value="AAA98508.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U43753">
+<property type="protein sequence ID" value="AAA98509.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U43748">
+<property type="protein sequence ID" value="AAA98509.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U43749">
+<property type="protein sequence ID" value="AAA98509.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U43750">
+<property type="protein sequence ID" value="AAA98509.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U43751">
+<property type="protein sequence ID" value="AAA98509.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL162730">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC023633">
+<property type="protein sequence ID" value="AAH23633.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC048097">
+<property type="protein sequence ID" value="AAH48097.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Y13751">
+<property type="protein sequence ID" value="CAA74077.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF028240">
+<property type="protein sequence ID" value="AAB84047.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U93173">
+<property type="protein sequence ID" value="AAD00734.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS43834.1">
+<molecule id="Q16595-3"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS6626.1">
+<molecule id="Q16595-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000135.2">
+<molecule id="Q16595-1"/>
+<property type="nucleotide sequence ID" value="NM_000144.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001155178.1">
+<property type="nucleotide sequence ID" value="NM_001161706.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_852090.1">
+<molecule id="Q16595-3"/>
+<property type="nucleotide sequence ID" value="NM_181425.2"/>
+</dbReference>
+<dbReference type="PDB" id="1EKG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A=86-210"/>
+</dbReference>
+<dbReference type="PDB" id="1LY7">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=91-210"/>
+</dbReference>
+<dbReference type="PDB" id="3S4M">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.30"/>
+<property type="chains" value="A=82-210"/>
+</dbReference>
+<dbReference type="PDB" id="3S5D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A=82-210"/>
+</dbReference>
+<dbReference type="PDB" id="3S5E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.31"/>
+<property type="chains" value="A=82-210"/>
+</dbReference>
+<dbReference type="PDB" id="3S5F">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="A/B=82-210"/>
+</dbReference>
+<dbReference type="PDB" id="3T3J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A=82-210"/>
+</dbReference>
+<dbReference type="PDB" id="3T3K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.24"/>
+<property type="chains" value="A=82-210"/>
+</dbReference>
+<dbReference type="PDB" id="3T3L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.15"/>
+<property type="chains" value="A=82-210"/>
+</dbReference>
+<dbReference type="PDB" id="3T3T">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.38"/>
+<property type="chains" value="A/B/C/D=82-210"/>
+</dbReference>
+<dbReference type="PDB" id="3T3X">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.57"/>
+<property type="chains" value="A/B=82-210"/>
+</dbReference>
+<dbReference type="PDB" id="5KZ5">
+<property type="method" value="EM"/>
+<property type="resolution" value="14.30"/>
+<property type="chains" value="A/B/C/D/E/F/G/H/I/J/K/L=42-210"/>
+</dbReference>
+<dbReference type="PDB" id="6NZU">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="I/J=81-210"/>
+</dbReference>
+<dbReference type="PDBsum" id="1EKG"/>
+<dbReference type="PDBsum" id="1LY7"/>
+<dbReference type="PDBsum" id="3S4M"/>
+<dbReference type="PDBsum" id="3S5D"/>
+<dbReference type="PDBsum" id="3S5E"/>
+<dbReference type="PDBsum" id="3S5F"/>
+<dbReference type="PDBsum" id="3T3J"/>
+<dbReference type="PDBsum" id="3T3K"/>
+<dbReference type="PDBsum" id="3T3L"/>
+<dbReference type="PDBsum" id="3T3T"/>
+<dbReference type="PDBsum" id="3T3X"/>
+<dbReference type="PDBsum" id="5KZ5"/>
+<dbReference type="PDBsum" id="6NZU"/>
+<dbReference type="BMRB" id="Q16595"/>
+<dbReference type="SASBDB" id="Q16595"/>
+<dbReference type="SMR" id="Q16595"/>
+<dbReference type="BioGRID" id="108677">
+<property type="interactions" value="50"/>
+</dbReference>
+<dbReference type="CORUM" id="Q16595"/>
+<dbReference type="IntAct" id="Q16595">
+<property type="interactions" value="14"/>
+</dbReference>
+<dbReference type="MINT" id="Q16595"/>
+<dbReference type="STRING" id="9606.ENSP00000366482"/>
+<dbReference type="ChEMBL" id="CHEMBL2321640"/>
+<dbReference type="DrugBank" id="DB14490">
+<property type="generic name" value="Ferrous ascorbate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB14491">
+<property type="generic name" value="Ferrous fumarate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB14488">
+<property type="generic name" value="Ferrous gluconate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB14501">
+<property type="generic name" value="Ferrous glycine sulfate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB14489">
+<property type="generic name" value="Ferrous succinate"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB01592">
+<property type="generic name" value="Iron"/>
+</dbReference>
+<dbReference type="TCDB" id="9.B.21.1.1">
+<property type="family name" value="the frataxin (frataxin) family"/>
+</dbReference>
+<dbReference type="iPTMnet" id="Q16595"/>
+<dbReference type="PhosphoSitePlus" id="Q16595"/>
+<dbReference type="BioMuta" id="FXN"/>
+<dbReference type="OGP" id="Q16595"/>
+<dbReference type="EPD" id="Q16595"/>
+<dbReference type="jPOST" id="Q16595"/>
+<dbReference type="MassIVE" id="Q16595"/>
+<dbReference type="MaxQB" id="Q16595"/>
+<dbReference type="PaxDb" id="Q16595"/>
+<dbReference type="PeptideAtlas" id="Q16595"/>
+<dbReference type="PRIDE" id="Q16595"/>
+<dbReference type="ProteomicsDB" id="2327"/>
+<dbReference type="ProteomicsDB" id="60939">
+<molecule id="Q16595-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="60940">
+<molecule id="Q16595-2"/>
+</dbReference>
+<dbReference type="TopDownProteomics" id="Q16595-1">
+<molecule id="Q16595-1"/>
+</dbReference>
+<dbReference type="TopDownProteomics" id="Q16595-2">
+<molecule id="Q16595-2"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="26793">
+<property type="antibodies" value="601 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="2395"/>
+<dbReference type="Ensembl" id="ENST00000396364">
+<molecule id="Q16595-2"/>
+<property type="protein sequence ID" value="ENSP00000379650"/>
+<property type="gene ID" value="ENSG00000165060"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000396366">
+<molecule id="Q16595-3"/>
+<property type="protein sequence ID" value="ENSP00000379652"/>
+<property type="gene ID" value="ENSG00000165060"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000484259">
+<molecule id="Q16595-1"/>
+<property type="protein sequence ID" value="ENSP00000419243"/>
+<property type="gene ID" value="ENSG00000165060"/>
+</dbReference>
+<dbReference type="GeneID" id="2395"/>
+<dbReference type="KEGG" id="hsa:2395"/>
+<dbReference type="UCSC" id="uc004agz.3">
+<molecule id="Q16595-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="2395"/>
+<dbReference type="DisGeNET" id="2395"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000165060.11"/>
+<dbReference type="GeneCards" id="FXN"/>
+<dbReference type="GeneReviews" id="FXN"/>
+<dbReference type="HGNC" id="HGNC:3951">
+<property type="gene designation" value="FXN"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000165060">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MalaCards" id="FXN"/>
+<dbReference type="MIM" id="229300">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="606829">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q16595"/>
+<dbReference type="OpenTargets" id="ENSG00000165060"/>
+<dbReference type="Orphanet" id="95">
+<property type="disease" value="Friedreich ataxia"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA28369"/>
+<dbReference type="eggNOG" id="KOG3413">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00390000005811"/>
+<dbReference type="GeneTree" id="ENSGT00940000158634"/>
+<dbReference type="HOGENOM" id="CLU_080880_1_0_1"/>
+<dbReference type="InParanoid" id="Q16595"/>
+<dbReference type="KO" id="K19054"/>
+<dbReference type="OMA" id="VYAHDGV"/>
+<dbReference type="PhylomeDB" id="Q16595"/>
+<dbReference type="TreeFam" id="TF318958"/>
+<dbReference type="PathwayCommons" id="Q16595"/>
+<dbReference type="Reactome" id="R-HSA-1268020">
+<property type="pathway name" value="Mitochondrial protein import"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1362409">
+<property type="pathway name" value="Mitochondrial iron-sulfur cluster biogenesis"/>
+</dbReference>
+<dbReference type="BioGRID-ORCS" id="2395">
+<property type="hits" value="447 hits in 882 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="FXN">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="Q16595"/>
+<dbReference type="GeneWiki" id="Frataxin"/>
+<dbReference type="GenomeRNAi" id="2395"/>
+<dbReference type="Pharos" id="Q16595">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q16595"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 9"/>
+</dbReference>
+<dbReference type="RNAct" id="Q16595">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000165060">
+<property type="expression patterns" value="Expressed in right lobe of liver and 221 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q16595">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q16595">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990221">
+<property type="term" value="C:L-cysteine desulfurase complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="FlyBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005759">
+<property type="term" value="C:mitochondrial matrix"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005739">
+<property type="term" value="C:mitochondrion"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051537">
+<property type="term" value="F:2 iron, 2 sulfur cluster binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008199">
+<property type="term" value="F:ferric iron binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008198">
+<property type="term" value="F:ferrous iron binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004322">
+<property type="term" value="F:ferroxidase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034986">
+<property type="term" value="F:iron chaperone activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007628">
+<property type="term" value="P:adult walking behavior"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009060">
+<property type="term" value="P:aerobic respiration"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006879">
+<property type="term" value="P:cellular iron ion homeostasis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070301">
+<property type="term" value="P:cellular response to hydrogen peroxide"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009792">
+<property type="term" value="P:embryo development ending in birth or egg hatching"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006783">
+<property type="term" value="P:heme biosynthetic process"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006811">
+<property type="term" value="P:ion transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018283">
+<property type="term" value="P:iron incorporation into metallo-sulfur cluster"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016226">
+<property type="term" value="P:iron-sulfur cluster assembly"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="FlyBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007005">
+<property type="term" value="P:mitochondrion organization"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043066">
+<property type="term" value="P:negative regulation of apoptotic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0040015">
+<property type="term" value="P:negative regulation of multicellular organism growth"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046621">
+<property type="term" value="P:negative regulation of organ growth"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090201">
+<property type="term" value="P:negative regulation of release of cytochrome c from mitochondria"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006119">
+<property type="term" value="P:oxidative phosphorylation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904234">
+<property type="term" value="P:positive regulation of aconitate hydratase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043085">
+<property type="term" value="P:positive regulation of catalytic activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030307">
+<property type="term" value="P:positive regulation of cell growth"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008284">
+<property type="term" value="P:positive regulation of cell population proliferation"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051349">
+<property type="term" value="P:positive regulation of lyase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904231">
+<property type="term" value="P:positive regulation of succinate dehydrogenase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019230">
+<property type="term" value="P:proprioception"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016540">
+<property type="term" value="P:protein autoprocessing"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010722">
+<property type="term" value="P:regulation of ferrochelatase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010039">
+<property type="term" value="P:response to iron ion"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044281">
+<property type="term" value="P:small molecule metabolic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="DisProt" id="DP00607"/>
+<dbReference type="Gene3D" id="3.30.920.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017789">
+<property type="entry name" value="Frataxin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002908">
+<property type="entry name" value="Frataxin/CyaY"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036524">
+<property type="entry name" value="Frataxin/CyaY_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020895">
+<property type="entry name" value="Frataxin_CS"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR16821">
+<property type="entry name" value="PTHR16821"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01491">
+<property type="entry name" value="Frataxin_Cyay"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00904">
+<property type="entry name" value="FRATAXIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM01219">
+<property type="entry name" value="Frataxin_Cyay"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55387">
+<property type="entry name" value="SSF55387"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03421">
+<property type="entry name" value="FeS_CyaY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03422">
+<property type="entry name" value="mito_frataxin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS01344">
+<property type="entry name" value="FRATAXIN_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50810">
+<property type="entry name" value="FRATAXIN_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0350">Heme biosynthesis</keyword>
+<keyword id="KW-0406">Ion transport</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0409">Iron storage</keyword>
+<keyword id="KW-0410">Iron transport</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0496">Mitochondrion</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0809">Transit peptide</keyword>
+<keyword id="KW-0813">Transport</keyword>
+<keyword id="KW-0818">Triplet repeat expansion</keyword>
+<feature type="transit peptide" description="Mitochondrion">
+<location>
+<begin position="1"/>
+<end position="41"/>
+</location>
+</feature>
+<feature type="chain" description="Frataxin intermediate form" id="PRO_0000010129">
+<location>
+<begin position="42"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="chain" description="Frataxin(56-210)" id="PRO_0000010130">
+<location>
+<begin position="56"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="chain" description="Frataxin(78-210)" id="PRO_0000399388">
+<location>
+<begin position="78"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="chain" description="Frataxin mature form" id="PRO_0000289331">
+<location>
+<begin position="81"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_001576" evidence="36">
+<original>SGPKRYDWTGKNWVYSHDGVSLHELLAAELTKALKTKLDLSSLAYSGKDA</original>
+<variation>RLTWLLWLFHP</variation>
+<location>
+<begin position="161"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_047282" evidence="37">
+<original>SGPKRYDWTGKNWVYSHDGVSLHELLAAELTKALKTKLDLSSLAYSGKDA</original>
+<variation>RYVVDLSVMTGLGKTGCTPTTACPSMSCWPQSSLKP</variation>
+<location>
+<begin position="161"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FRDA; dbSNP:rs104894105." id="VAR_016065" evidence="31">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="106"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FRDA; dbSNP:rs142157346." id="VAR_002428" evidence="32 34 35">
+<original>D</original>
+<variation>Y</variation>
+<location>
+<position position="122"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FRDA; dbSNP:rs104894107." id="VAR_002429" evidence="7 28 32">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="130"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FRDA; reduces interaction with LYRM4; the interaction is rescued by nickel; a murine cellular FRDA model, deleted for endogenous frataxin and expressing human mutant frataxin cDNA shows defects in mitochondrial structure, mitochondrial iron deposits, decreased enzymatic activity of some mitochondrial and cytoplasmic iron-sulfur cluster-containing enzymes, increased RNA-binding activity of ACO1 and increased sensitivity to oxidative stress; dbSNP:rs104894106." id="VAR_002430" evidence="21 24 27 28">
+<original>I</original>
+<variation>F</variation>
+<location>
+<position position="154"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FRDA; reduces interaction with LYRM4; the interaction is rescued by nickel; dbSNP:rs138471431." id="VAR_002431" evidence="21 33">
+<original>W</original>
+<variation>R</variation>
+<location>
+<position position="155"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FRDA; mild form; dbSNP:rs138034837." id="VAR_008139" evidence="7">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="165"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FRDA; dbSNP:rs139616452." id="VAR_008140" evidence="7">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="182"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FRDA; dbSNP:rs144104124." id="VAR_016066" evidence="8">
+<original>L</original>
+<variation>R</variation>
+<location>
+<position position="198"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1052195." id="VAR_049100">
+<original>S</original>
+<variation>C</variation>
+<location>
+<position position="202"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes cleavage to yield frataxin intermediate form and allows accumulation of frataxin(56-210) and frataxin(78-210)." evidence="23">
+<original>RR</original>
+<variation>GG</variation>
+<location>
+<begin position="39"/>
+<end position="40"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No effect on processing of wild-type FXN." evidence="22 23">
+<original>RR</original>
+<variation>GG</variation>
+<location>
+<begin position="53"/>
+<end position="54"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes cleavage to yield frataxin mature form and allows accumulation of frataxin(56-210) and frataxin(78-210)." evidence="23">
+<original>LR</original>
+<variation>GG</variation>
+<location>
+<begin position="78"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes cleavage to yield frataxin mature form and allows the accumulation of frataxin(56-210)." evidence="22 23">
+<original>RK</original>
+<variation>GG</variation>
+<location>
+<begin position="79"/>
+<end position="80"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA98508/AAA98510." ref="1" evidence="37">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="175"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAA98508/AAA98510." ref="1" evidence="37">
+<original>S</original>
+<variation>W</variation>
+<location>
+<position position="202"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="92"/>
+<end position="114"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="124"/>
+<end position="128"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="131"/>
+<end position="135"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="138"/>
+<end position="140"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="142"/>
+<end position="148"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="149"/>
+<end position="152"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="153"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="159"/>
+<end position="161"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="164"/>
+<end position="168"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="170"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="176"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="182"/>
+<end position="194"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="203"/>
+<end position="205"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="206"/>
+<end position="208"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1LY7"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3T3L"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6NZU"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="D3ZYW7"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10428860"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10545606"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10732799"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10874325"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11020385"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11823441"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12755598"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12785837"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15123683"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15247478"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15581888"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15641778"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15961414"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16091420"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16239244"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16608849"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17331979"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17468497"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18725397"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19629184"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20053667"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26702583"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8596916"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9150176"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9241270"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9302253"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9779809"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9989622"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source ref="36"/>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source ref="7"/>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source ref="8"/>
+</evidence>
+<evidence key="36" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="8596916"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000305"/>
+<evidence key="38" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="18725397"/>
+</source>
+</evidence>
+<sequence length="210" mass="23135" checksum="ECC81738779308CF" modified="1999-07-15" version="2" precursor="true">MWTLGRRAVAGLLASPSPAQAQTLTRVPRPAELAPLCGRRGLRTDIDATCTPRRASSNQRGLNQIWNVKKQSVYLMNLRKSGTLGHPGSLDETTYERLAEETLDSLAEFFEDLADKPYTFEDYDVSFGSGVLTVKLGGDLGTYVINKQTPNKQIWLSSPSSGPKRYDWTGKNWVYSHDGVSLHELLAAELTKALKTKLDLSSLAYSGKDA</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

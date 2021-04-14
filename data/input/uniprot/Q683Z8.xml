@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2004-10-11" modified="2020-10-07" version="66">
+<accession>Q683Z8</accession>
+<name>Q683Z8_HUMAN</name>
+<protein>
+<submittedName>
+<fullName evidence="3">Protein kinase CHK2</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">CHK2</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="journal article" date="2004" name="Cell Cycle" volume="3" first="1267" last="1270">
+<title>Evolutionary conservation of a novel splice variant of the Cds1/CHK2 checkpoint kinase restricted to its regulatory domain.</title>
+<authorList>
+<person name="Lemaire M."/>
+<person name="Prime J."/>
+<person name="Ducommun B."/>
+<person name="Bugler B."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<dbReference type="EMBL" id="AJ783839">
+<property type="protein sequence ID" value="CAH04270.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="SMR" id="Q683Z8"/>
+<dbReference type="iPTMnet" id="Q683Z8"/>
+<dbReference type="PeptideAtlas" id="Q683Z8"/>
+<dbReference type="SIGNOR" id="Q683Z8"/>
+<dbReference type="ChiTaRS" id="CHEK2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016301">
+<property type="term" value="F:kinase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd00060">
+<property type="entry name" value="FHA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000253">
+<property type="entry name" value="FHA_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR008984">
+<property type="entry name" value="SMAD_FHA_dom_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00498">
+<property type="entry name" value="FHA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00240">
+<property type="entry name" value="FHA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF49879">
+<property type="entry name" value="SSF49879"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50006">
+<property type="entry name" value="FHA_DOMAIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at transcript level"/>
+<keyword id="KW-0418" evidence="3">Kinase</keyword>
+<keyword id="KW-0808" evidence="3">Transferase</keyword>
+<feature type="domain" description="FHA" evidence="2">
+<location>
+<begin position="113"/>
+<end position="175"/>
+</location>
+</feature>
+<feature type="region of interest" description="Disordered" evidence="1">
+<location>
+<begin position="1"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Polar" evidence="1">
+<location>
+<begin position="7"/>
+<end position="68"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="MobiDB-lite"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000259">
+<source>
+<dbReference type="PROSITE" id="PS50006"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAH04270.1"/>
+</source>
+</evidence>
+<sequence length="207" mass="23077" checksum="2B0620E288B6ED73" modified="2004-10-11" version="1">MSRESDVEAQQSHGSSACSQPHGSVTQSQGSSSQSQGISSSSTSTMPNSSQSSHSSSGTLSSLETVSTQELYSIPEDQEPEDQEPEEPTPAPWARLWALQDGFANLECVNDNYWFGRDKSCEYCFDEPLLKRTDKYRTYSKKHFRIFREVGPKNSYIAYIEDHSGNGTFVNTELVGKGKRRPLNNNSEIALSLSRNKEKILKTYSLS</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

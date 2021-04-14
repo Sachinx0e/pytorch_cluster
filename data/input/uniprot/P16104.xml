@@ -1,0 +1,1805 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1990-04-01" modified="2020-10-07" version="212">
+<accession>P16104</accession>
+<accession>Q4ZGJ7</accession>
+<accession>Q6IAS5</accession>
+<name>H2AX_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Histone H2AX</fullName>
+<shortName>H2a/x</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Histone H2A.X</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="37">H2AX</name>
+<name type="synonym" evidence="37">H2AFX</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1989" name="Nucleic Acids Res." volume="17" first="9113" last="9126">
+<title>H2A.X. a histone isoprotein with a conserved C-terminal sequence, is encoded by a novel mRNA with both DNA replication type and polyA 3' processing signals.</title>
+<authorList>
+<person name="Mannironi C."/>
+<person name="Bonner W.M."/>
+<person name="Hatch C.L."/>
+</authorList>
+<dbReference type="PubMed" id="2587254"/>
+<dbReference type="DOI" id="10.1093/nar/17.22.9113"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="2004-06" db="EMBL/GenBank/DDBJ databases">
+<title>Cloning of human full open reading frames in Gateway(TM) system entry vector (pDONR201).</title>
+<authorList>
+<person name="Ebert L."/>
+<person name="Schick M."/>
+<person name="Neubert P."/>
+<person name="Schatten R."/>
+<person name="Henze S."/>
+<person name="Korn B."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2005-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="NIEHS SNPs program"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Lung</tissue>
+<tissue>Placenta</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1998" name="J. Biol. Chem." volume="273" first="5858" last="5868">
+<title>DNA double-stranded breaks induce histone H2AX phosphorylation on serine 139.</title>
+<authorList>
+<person name="Rogakou E.P."/>
+<person name="Pilch D.R."/>
+<person name="Orr A.H."/>
+<person name="Ivanova V.S."/>
+<person name="Bonner W.M."/>
+</authorList>
+<dbReference type="PubMed" id="9488723"/>
+<dbReference type="DOI" id="10.1074/jbc.273.10.5858"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-140</scope>
+<scope>MUTAGENESIS OF GLN-141</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1999" name="J. Cell Biol." volume="146" first="905" last="916">
+<title>Megabase chromatin domains involved in DNA double-strand breaks in vivo.</title>
+<authorList>
+<person name="Rogakou E.P."/>
+<person name="Boon C."/>
+<person name="Redon C."/>
+<person name="Bonner W.M."/>
+</authorList>
+<dbReference type="PubMed" id="10477747"/>
+<dbReference type="DOI" id="10.1083/jcb.146.5.905"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION AT SER-140</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2000" name="Curr. Biol." volume="10" first="886" last="895">
+<title>A critical role for histone H2AX in recruitment of repair factors to nuclear foci after DNA damage.</title>
+<authorList>
+<person name="Paull T.T."/>
+<person name="Rogakou E.P."/>
+<person name="Yamazaki V."/>
+<person name="Kirchgessner C.U."/>
+<person name="Gellert M."/>
+<person name="Bonner W.M."/>
+</authorList>
+<dbReference type="PubMed" id="10959836"/>
+<dbReference type="DOI" id="10.1016/s0960-9822(00)00610-2"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION AT SER-140</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2000" name="J. Biol. Chem." volume="275" first="9390" last="9395">
+<title>Initiation of DNA fragmentation during apoptosis induces phosphorylation of H2AX histone at serine 139.</title>
+<authorList>
+<person name="Rogakou E.P."/>
+<person name="Nieves-Neira W."/>
+<person name="Boon C."/>
+<person name="Pommier Y."/>
+<person name="Bonner W.M."/>
+</authorList>
+<dbReference type="PubMed" id="10734083"/>
+<dbReference type="DOI" id="10.1074/jbc.275.13.9390"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-140</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2001" name="J. Biol. Chem." volume="276" first="47759" last="47762">
+<title>Histone H2AX is phosphorylated in an ATR-dependent manner in response to replicational stress.</title>
+<authorList>
+<person name="Ward I.M."/>
+<person name="Chen J."/>
+</authorList>
+<dbReference type="PubMed" id="11673449"/>
+<dbReference type="DOI" id="10.1074/jbc.c100569200"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION AT SER-140</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2002" name="Curr. Biol." volume="12" first="1846" last="1851">
+<title>NBS1 localizes to gamma-H2AX foci through interaction with the FHA/BRCT domain.</title>
+<authorList>
+<person name="Kobayashi J."/>
+<person name="Tauchi H."/>
+<person name="Sakamoto S."/>
+<person name="Nakamura A."/>
+<person name="Morishima K."/>
+<person name="Matsuura S."/>
+<person name="Kobayashi T."/>
+<person name="Tamai K."/>
+<person name="Tanimoto K."/>
+<person name="Komatsu K."/>
+</authorList>
+<dbReference type="PubMed" id="12419185"/>
+<dbReference type="DOI" id="10.1016/s0960-9822(02)01259-9"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH NBN AND BRCA1</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION AT SER-140</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="19579" last="19582">
+<title>Accumulation of checkpoint protein 53BP1 at DNA breaks involves its binding to phosphorylated histone H2AX.</title>
+<authorList>
+<person name="Ward I.M."/>
+<person name="Minn K."/>
+<person name="Jorda K.G."/>
+<person name="Chen J."/>
+</authorList>
+<dbReference type="PubMed" id="12697768"/>
+<dbReference type="DOI" id="10.1074/jbc.c300117200"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION AT SER-140</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="20303" last="20312">
+<title>Phosphorylation of histone H2AX and activation of Mre11, Rad50, and Nbs1 in response to replication-dependent DNA double-strand breaks induced by mammalian DNA topoisomerase I cleavage complexes.</title>
+<authorList>
+<person name="Furuta T."/>
+<person name="Takemura H."/>
+<person name="Liao Z.-Y."/>
+<person name="Aune G.J."/>
+<person name="Redon C."/>
+<person name="Sedelnikova O.A."/>
+<person name="Pilch D.R."/>
+<person name="Rogakou E.P."/>
+<person name="Celeste A."/>
+<person name="Chen H.T."/>
+<person name="Nussenzweig A."/>
+<person name="Aladjem M.I."/>
+<person name="Bonner W.M."/>
+<person name="Pommier Y."/>
+</authorList>
+<dbReference type="PubMed" id="12660252"/>
+<dbReference type="DOI" id="10.1074/jbc.m300198200"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION AT SER-140</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2003" name="Nature" volume="421" first="961" last="966">
+<title>MDC1 is a mediator of the mammalian DNA damage checkpoint.</title>
+<authorList>
+<person name="Stewart G.S."/>
+<person name="Wang B."/>
+<person name="Bignell C.R."/>
+<person name="Taylor A.M.R."/>
+<person name="Elledge S.J."/>
+</authorList>
+<dbReference type="PubMed" id="12607005"/>
+<dbReference type="DOI" id="10.1038/nature01446"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH MDC1 AND TP53BP1</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION AT SER-140</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2003" name="Nucleic Acids Res." volume="31" first="6819" last="6827">
+<title>DNA-PK is activated by nucleosomes and phosphorylates H2AX within the nucleosomes in an acetylation-dependent manner.</title>
+<authorList>
+<person name="Park E.-J."/>
+<person name="Chan D.W."/>
+<person name="Park J.-H."/>
+<person name="Oettinger M.A."/>
+<person name="Kwon J."/>
+</authorList>
+<dbReference type="PubMed" id="14627815"/>
+<dbReference type="DOI" id="10.1093/nar/gkg921"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-140</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2004" name="Cancer Res." volume="64" first="2390" last="2396">
+<title>ATM and DNA-PK function redundantly to phosphorylate H2AX after exposure to ionizing radiation.</title>
+<authorList>
+<person name="Stiff T."/>
+<person name="O'Driscoll M."/>
+<person name="Rief N."/>
+<person name="Iwabuchi K."/>
+<person name="Loebrich M."/>
+<person name="Jeggo P.A."/>
+</authorList>
+<dbReference type="PubMed" id="15059890"/>
+<dbReference type="DOI" id="10.1158/0008-5472.can-03-3207"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION AT SER-140</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2004" name="EMBO J." volume="23" first="2674" last="2683">
+<title>Mdc1 couples DNA double-strand break recognition by Nbs1 with its H2AX-dependent chromatin retention.</title>
+<authorList>
+<person name="Lukas C."/>
+<person name="Melander F."/>
+<person name="Stucki M."/>
+<person name="Falck J."/>
+<person name="Bekker-Jensen S."/>
+<person name="Goldberg M."/>
+<person name="Lerenthal Y."/>
+<person name="Jackson S.P."/>
+<person name="Bartek J."/>
+<person name="Lukas J."/>
+</authorList>
+<dbReference type="PubMed" id="15201865"/>
+<dbReference type="DOI" id="10.1038/sj.emboj.7600269"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH MDC1 AND NBN</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="53272" last="53281">
+<title>Doxorubicin activates ATM-dependent phosphorylation of multiple downstream targets in part through the generation of reactive oxygen species.</title>
+<authorList>
+<person name="Kurz E.U."/>
+<person name="Douglas P."/>
+<person name="Lees-Miller S.P."/>
+</authorList>
+<dbReference type="PubMed" id="15489221"/>
+<dbReference type="DOI" id="10.1074/jbc.m406879200"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-140</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="9586" last="9594">
+<title>Actinomycin D induces histone gamma-H2AX foci and complex formation of gamma-H2AX with Ku70 and nuclear DNA helicase II.</title>
+<authorList>
+<person name="Mischo H.E."/>
+<person name="Hemmerich P."/>
+<person name="Grosse F."/>
+<person name="Zhang S."/>
+</authorList>
+<dbReference type="PubMed" id="15613478"/>
+<dbReference type="DOI" id="10.1074/jbc.m411444200"/>
+</citation>
+<scope>INTERACTION WITH DHX9</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>PHOSPHORYLATION AT SER-140</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2005" name="Mol. Cell" volume="20" first="801" last="809">
+<title>gamma-H2AX dephosphorylation by protein phosphatase 2A facilitates DNA double-strand break repair.</title>
+<authorList>
+<person name="Chowdhury D."/>
+<person name="Keogh M.-C."/>
+<person name="Ishii H."/>
+<person name="Peterson C.L."/>
+<person name="Buratowski S."/>
+<person name="Lieberman J."/>
+</authorList>
+<dbReference type="PubMed" id="16310392"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2005.10.003"/>
+</citation>
+<scope>DEPHOSPHORYLATION</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2006" name="J. Cell Sci." volume="119" first="3047" last="3056">
+<title>Novel function of beta-arrestin2 in the nucleus of mature spermatozoa.</title>
+<authorList>
+<person name="Neuhaus E.M."/>
+<person name="Mashukova A."/>
+<person name="Barbour J."/>
+<person name="Wolters D."/>
+<person name="Hatt H."/>
+</authorList>
+<dbReference type="PubMed" id="16820410"/>
+<dbReference type="DOI" id="10.1242/jcs.03046"/>
+</citation>
+<scope>INTERACTION WITH ARRB2</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2007" name="Cell" volume="131" first="887" last="900">
+<title>RNF8 ubiquitylates histones at DNA double-strand breaks and promotes assembly of repair proteins.</title>
+<authorList>
+<person name="Mailand N."/>
+<person name="Bekker-Jensen S."/>
+<person name="Faustrup H."/>
+<person name="Melander F."/>
+<person name="Bartek J."/>
+<person name="Lukas C."/>
+<person name="Lukas J."/>
+</authorList>
+<dbReference type="PubMed" id="18001824"/>
+<dbReference type="DOI" id="10.1016/j.cell.2007.09.040"/>
+</citation>
+<scope>UBIQUITINATION</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2007" name="Cell" volume="131" first="901" last="914">
+<title>RNF8 transduces the DNA-damage signal via histone ubiquitylation and checkpoint protein assembly.</title>
+<authorList>
+<person name="Huen M.S.Y."/>
+<person name="Grant R."/>
+<person name="Manke I."/>
+<person name="Minn K."/>
+<person name="Yu X."/>
+<person name="Yaffe M.B."/>
+<person name="Chen J."/>
+</authorList>
+<dbReference type="PubMed" id="18001825"/>
+<dbReference type="DOI" id="10.1016/j.cell.2007.09.041"/>
+</citation>
+<scope>UBIQUITINATION</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2007" name="Science" volume="316" first="1160" last="1166">
+<title>ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage.</title>
+<authorList>
+<person name="Matsuoka S."/>
+<person name="Ballif B.A."/>
+<person name="Smogorzewska A."/>
+<person name="McDonald E.R. III"/>
+<person name="Hurov K.E."/>
+<person name="Luo J."/>
+<person name="Bakalarski C.E."/>
+<person name="Zhao Z."/>
+<person name="Solimini N."/>
+<person name="Lerenthal Y."/>
+<person name="Shiloh Y."/>
+<person name="Gygi S.P."/>
+<person name="Elledge S.J."/>
+</authorList>
+<dbReference type="PubMed" id="17525332"/>
+<dbReference type="DOI" id="10.1126/science.1140321"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-140</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Embryonic kidney</tissue>
+</source>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2009" name="Cell" volume="136" first="420" last="434">
+<title>The RIDDLE syndrome protein mediates a ubiquitin-dependent signaling cascade at sites of DNA damage.</title>
+<authorList>
+<person name="Stewart G.S."/>
+<person name="Panier S."/>
+<person name="Townsend K."/>
+<person name="Al-Hakim A.K."/>
+<person name="Kolas N.K."/>
+<person name="Miller E.S."/>
+<person name="Nakada S."/>
+<person name="Ylanko J."/>
+<person name="Olivarius S."/>
+<person name="Mendez M."/>
+<person name="Oldreive C."/>
+<person name="Wildenhain J."/>
+<person name="Tagliaferro A."/>
+<person name="Pelletier L."/>
+<person name="Taubenheim N."/>
+<person name="Durandy A."/>
+<person name="Byrd P.J."/>
+<person name="Stankovic T."/>
+<person name="Taylor A.M.R."/>
+<person name="Durocher D."/>
+</authorList>
+<dbReference type="PubMed" id="19203578"/>
+<dbReference type="DOI" id="10.1016/j.cell.2008.12.042"/>
+</citation>
+<scope>UBIQUITINATION</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2009" name="Cell" volume="136" first="435" last="446">
+<title>RNF168 binds and amplifies ubiquitin conjugates on damaged chromosomes to allow accumulation of repair proteins.</title>
+<authorList>
+<person name="Doil C."/>
+<person name="Mailand N."/>
+<person name="Bekker-Jensen S."/>
+<person name="Menard P."/>
+<person name="Larsen D.H."/>
+<person name="Pepperkok R."/>
+<person name="Ellenberg J."/>
+<person name="Panier S."/>
+<person name="Durocher D."/>
+<person name="Bartek J."/>
+<person name="Lukas J."/>
+<person name="Lukas C."/>
+</authorList>
+<dbReference type="PubMed" id="19203579"/>
+<dbReference type="DOI" id="10.1016/j.cell.2008.12.041"/>
+</citation>
+<scope>UBIQUITINATION</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2009" name="Nature" volume="457" first="57" last="62">
+<title>WSTF regulates the H2A.X DNA damage response via a novel tyrosine kinase activity.</title>
+<authorList>
+<person name="Xiao A."/>
+<person name="Li H."/>
+<person name="Shechter D."/>
+<person name="Ahn S.H."/>
+<person name="Fabrizio L.A."/>
+<person name="Erdjument-Bromage H."/>
+<person name="Ishibe-Murakami S."/>
+<person name="Wang B."/>
+<person name="Tempst P."/>
+<person name="Hofmann K."/>
+<person name="Patel D.J."/>
+<person name="Elledge S.J."/>
+<person name="Allis C.D."/>
+</authorList>
+<dbReference type="PubMed" id="19092802"/>
+<dbReference type="DOI" id="10.1038/nature07668"/>
+</citation>
+<scope>PHOSPHORYLATION AT TYR-143</scope>
+<scope>MUTAGENESIS OF TYR-143</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2009" name="Nature" volume="458" first="591" last="596">
+<title>Tyrosine dephosphorylation of H2AX modulates apoptosis and survival decisions.</title>
+<authorList>
+<person name="Cook P.J."/>
+<person name="Ju B.G."/>
+<person name="Telese F."/>
+<person name="Wang X."/>
+<person name="Glass C.K."/>
+<person name="Rosenfeld M.G."/>
+</authorList>
+<dbReference type="PubMed" id="19234442"/>
+<dbReference type="DOI" id="10.1038/nature07849"/>
+</citation>
+<scope>PHOSPHORYLATION AT TYR-143</scope>
+<scope>MUTAGENESIS OF TYR-143</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2010" name="Sci. Signal." volume="3" first="RA3" last="RA3">
+<title>Quantitative phosphoproteomics reveals widespread full phosphorylation site occupancy during mitosis.</title>
+<authorList>
+<person name="Olsen J.V."/>
+<person name="Vermeulen M."/>
+<person name="Santamaria A."/>
+<person name="Kumar C."/>
+<person name="Miller M.L."/>
+<person name="Jensen L.J."/>
+<person name="Gnad F."/>
+<person name="Cox J."/>
+<person name="Jensen T.S."/>
+<person name="Nigg E.A."/>
+<person name="Brunak S."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="20068231"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000475"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-140</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2011" name="Sci. Signal." volume="4" first="RS3" last="RS3">
+<title>System-wide temporal characterization of the proteome and phosphoproteome of human embryonic stem cell differentiation.</title>
+<authorList>
+<person name="Rigbolt K.T."/>
+<person name="Prokhorova T.A."/>
+<person name="Akimov V."/>
+<person name="Henningsen J."/>
+<person name="Johansen P.T."/>
+<person name="Kratchmarova I."/>
+<person name="Kassem M."/>
+<person name="Mann M."/>
+<person name="Olsen J.V."/>
+<person name="Blagoev B."/>
+</authorList>
+<dbReference type="PubMed" id="21406692"/>
+<dbReference type="DOI" id="10.1126/scisignal.2001570"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-140</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2012" name="Cell" volume="150" first="1182" last="1195">
+<title>RNF168 ubiquitinates K13-15 on H2A/H2AX to drive DNA Damage signaling.</title>
+<authorList>
+<person name="Mattiroli F."/>
+<person name="Vissers J.H."/>
+<person name="van Dijk W.J."/>
+<person name="Ikpa P."/>
+<person name="Citterio E."/>
+<person name="Vermeulen W."/>
+<person name="Marteijn J.A."/>
+<person name="Sixma T.K."/>
+</authorList>
+<dbReference type="PubMed" id="22980979"/>
+<dbReference type="DOI" id="10.1016/j.cell.2012.08.005"/>
+</citation>
+<scope>UBIQUITINATION AT LYS-14 AND LYS-16 BY RNF168</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2014" name="J. Virol." volume="88" first="3776" last="3788">
+<title>Epstein-Barr virus essential antigen EBNA3C attenuates H2AX expression.</title>
+<authorList>
+<person name="Jha H.C."/>
+<person name="Aj M.P."/>
+<person name="Saha A."/>
+<person name="Banerjee S."/>
+<person name="Lu J."/>
+<person name="Robertson E.S."/>
+</authorList>
+<dbReference type="PubMed" id="24429368"/>
+<dbReference type="DOI" id="10.1128/jvi.03568-13"/>
+</citation>
+<scope>INTERACTION WITH EPSTEIN-BARR VIRUS PROTEIN EBNA6 (MICROBIAL INFECTION)</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2014" name="Nat. Struct. Mol. Biol." volume="21" first="927" last="936">
+<title>Uncovering global SUMOylation signaling networks in a site-specific manner.</title>
+<authorList>
+<person name="Hendriks I.A."/>
+<person name="D'Souza R.C."/>
+<person name="Yang B."/>
+<person name="Verlaan-de Vries M."/>
+<person name="Mann M."/>
+<person name="Vertegaal A.C."/>
+</authorList>
+<dbReference type="PubMed" id="25218447"/>
+<dbReference type="DOI" id="10.1038/nsmb.2890"/>
+</citation>
+<scope>SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-135</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="2015" name="Nucleus" volume="6" first="417" last="424">
+<title>The proximity ligation assay reveals that at DNA double-strand breaks WRAP53beta associates with gammaH2AX and controls interactions between RNF8 and MDC1.</title>
+<authorList>
+<person name="Rassoolzadeh H."/>
+<person name="Coucoravas C."/>
+<person name="Farnebo M."/>
+</authorList>
+<dbReference type="PubMed" id="26734725"/>
+<dbReference type="DOI" id="10.1080/19491034.2015.1106675"/>
+</citation>
+<scope>INTERACTION WITH WRAP53</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="2017" name="Nat. Struct. Mol. Biol." volume="24" first="325" last="336">
+<title>Site-specific mapping of the human SUMO proteome reveals co-modification with phosphorylation.</title>
+<authorList>
+<person name="Hendriks I.A."/>
+<person name="Lyon D."/>
+<person name="Young C."/>
+<person name="Jensen L.J."/>
+<person name="Vertegaal A.C."/>
+<person name="Nielsen M.L."/>
+</authorList>
+<dbReference type="PubMed" id="28112733"/>
+<dbReference type="DOI" id="10.1038/nsmb.3366"/>
+</citation>
+<scope>SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-128 AND LYS-135</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="2017" name="RNA Biol." volume="14" first="804" last="813">
+<title>Phosphorylation of the Cajal body protein WRAP53beta by ATM promotes its involvement in the DNA damage response.</title>
+<authorList>
+<person name="Coucoravas C."/>
+<person name="Dhanjal S."/>
+<person name="Henriksson S."/>
+<person name="Boehm S."/>
+<person name="Farnebo M."/>
+</authorList>
+<dbReference type="PubMed" id="27715493"/>
+<dbReference type="DOI" id="10.1080/15476286.2016.1243647"/>
+</citation>
+<scope>INTERACTION WITH WRAP53</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="2012" name="J. Struct. Biol." volume="177" first="459" last="468">
+<title>Specific recognition of phosphorylated tail of H2AX by the tandem BRCT domains of MCPH1 revealed by complex structure.</title>
+<authorList>
+<person name="Shao Z."/>
+<person name="Li F."/>
+<person name="Sy S.M."/>
+<person name="Yan W."/>
+<person name="Zhang Z."/>
+<person name="Gong D."/>
+<person name="Wen B."/>
+<person name="Huen M.S."/>
+<person name="Gong Q."/>
+<person name="Wu J."/>
+<person name="Shi Y."/>
+</authorList>
+<dbReference type="PubMed" id="22154951"/>
+<dbReference type="DOI" id="10.1016/j.jsb.2011.11.022"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 134-143</scope>
+<scope>PHOSPHORYLATION AT SER-140</scope>
+</reference>
+<comment type="function">
+<text evidence="12 14 15 20">Variant histone H2A which replaces conventional H2A in a subset of nucleosomes. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability. DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling. Required for checkpoint-mediated arrest of cell cycle progression in response to low doses of ionizing radiation and for efficient repair of DNA double strand breaks (DSBs) specifically when modified by C-terminal phosphorylation.</text>
+</comment>
+<comment type="subunit">
+<text evidence="14 15 20 22 23 33 34 36">The nucleosome is a histone octamer containing two molecules each of H2A, H2B, H3 and H4 assembled in one H3-H4 heterotetramer and two H2A-H2B heterodimers. The octamer wraps approximately 147 bp of DNA (Probable). Interacts with numerous proteins required for DNA damage signaling and repair when phosphorylated on Ser-140 (PubMed:12419185, PubMed:12607005, PubMed:15201865). These include MDC1, TP53BP1, BRCA1 and the MRN complex, composed of MRE11, RAD50, and NBN (PubMed:12419185, PubMed:12607005, PubMed:15201865). Interaction with the MRN complex is mediated at least in part by NBN (PubMed:12419185). Also interacts with DHX9/NDHII when phosphorylated on Ser-140 and MCPH1 when phosphorylated at Ser-140 or Tyr-143 (PubMed:15613478). Interacts with ARRB2; the interaction is detected in the nucleus upon OR1D2 stimulation (PubMed:16820410). Interacts with WRAP53/TCAB1 (PubMed:26734725, PubMed:27715493).</text>
+</comment>
+<comment type="subunit">
+<text evidence="32">(Microbial infection) Interacts with Epstein-Barr virus protein EBNA6.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-349905">
+<id>P38398</id>
+<label>BRCA1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-4409942">
+<id>P58876</id>
+<label>H2BC5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-358900">
+<id>Q16695</id>
+<label>H3-4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>12</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-302023">
+<id>P62805</id>
+<label>H4C9</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-351935">
+<id>P02545</id>
+<label>LMNA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-286483">
+<id>P45983</id>
+<label>MAPK8</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-495644">
+<id>Q14676</id>
+<label>MDC1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>21</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-396513">
+<id>P49959</id>
+<label>MRE11</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-494844">
+<id>O60934</id>
+<label>NBN</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>14</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-7521368">
+<id>Q6ZW49-1</id>
+<label>PAXIP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-1551512">
+<id>O15297</id>
+<label>PPM1D</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-302489">
+<id>P51532</id>
+<label>SMARCA4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>9</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-706637">
+<id>Q15554</id>
+<label>TERF2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-396540">
+<id>Q12888</id>
+<label>TP53BP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-1769146">
+<id>Q99986</id>
+<label>VRK1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-5326677">
+<id>PRO_0000022031</id>
+<label>Aifm1</label>
+<dbReference type="UniProtKB" id="Q9Z0X1"/>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-15759525">
+<id>P46933-1</id>
+<label>Apbb1</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-494830">
+<id>P16104</id>
+</interactant>
+<interactant intactId="EBI-15759383">
+<id>Q6P4T3</id>
+<label>Eya3</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="14 16 17 22 32">Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="12 13 15 16 19 20 22">Chromosome</location>
+</subcellularLocation>
+</comment>
+<comment type="developmental stage">
+<text>Synthesized in G1 as well as in S-phase.</text>
+</comment>
+<comment type="domain">
+<text>The [ST]-Q motif constitutes a recognition sequence for kinases from the PI3/PI4-kinase family.</text>
+</comment>
+<comment type="PTM">
+<text evidence="10 11 12 13 14 15 16 17 18 19 21 22 26 29 30 35">Phosphorylated on Ser-140 (to form gamma-H2AX or H2AX139ph) in response to DNA double strand breaks (DSBs) generated by exogenous genotoxic agents and by stalled replication forks, and may also occur during meiotic recombination events and immunoglobulin class switching in lymphocytes. Phosphorylation can extend up to several thousand nucleosomes from the actual site of the DSB and may mark the surrounding chromatin for recruitment of proteins required for DNA damage signaling and repair. Widespread phosphorylation may also serve to amplify the damage signal or aid repair of persistent lesions. Phosphorylation of Ser-140 (H2AX139ph) in response to ionizing radiation is mediated by both ATM and PRKDC while defects in DNA replication induce Ser-140 phosphorylation (H2AX139ph) subsequent to activation of ATR and PRKDC. Dephosphorylation of Ser-140 by PP2A is required for DNA DSB repair. In meiosis, Ser-140 phosphorylation (H2AX139ph) may occur at synaptonemal complexes during leptotene as an ATM-dependent response to the formation of programmed DSBs by SPO11. Ser-140 phosphorylation (H2AX139ph) may subsequently occurs at unsynapsed regions of both autosomes and the XY bivalent during zygotene, downstream of ATR and BRCA1 activation. Ser-140 phosphorylation (H2AX139ph) may also be required for transcriptional repression of unsynapsed chromatin and meiotic sex chromosome inactivation (MSCI), whereby the X and Y chromosomes condense in pachytene to form the heterochromatic XY-body. During immunoglobulin class switch recombination in lymphocytes, Ser-140 phosphorylation (H2AX139ph) may occur at sites of DNA-recombination subsequent to activation of the activation-induced cytidine deaminase AICDA. Phosphorylation at Tyr-143 (H2AXY142ph) by BAZ1B/WSTF determines the relative recruitment of either DNA repair or pro-apoptotic factors. Phosphorylation at Tyr-143 (H2AXY142ph) favors the recruitment of APBB1/FE65 and pro-apoptosis factors such as MAPK8/JNK1, triggering apoptosis. In contrast, dephosphorylation of Tyr-143 by EYA proteins (EYA1, EYA2, EYA3 or EYA4) favors the recruitment of MDC1-containing DNA repair complexes to the tail of phosphorylated Ser-140 (H2AX139ph).</text>
+</comment>
+<comment type="PTM">
+<text evidence="8 24 25 27 28 31">Monoubiquitination of Lys-120 (H2AXK119ub) by RING1 and RNF2/RING2 complex gives a specific tag for epigenetic transcriptional repression (By similarity). Following DNA double-strand breaks (DSBs), it is ubiquitinated through 'Lys-63' linkage of ubiquitin moieties by the E2 ligase UBE2N and the E3 ligases RNF8 and RNF168, leading to the recruitment of repair proteins to sites of DNA damage. Ubiquitination at Lys-14 and Lys-16 (H2AK13Ub and H2AK15Ub, respectively) in response to DNA damage is initiated by RNF168 that mediates monoubiquitination at these 2 sites, and 'Lys-63'-linked ubiquitin are then conjugated to monoubiquitin; RNF8 is able to extend 'Lys-63'-linked ubiquitin chains in vitro. H2AK119Ub and ionizing radiation-induced 'Lys-63'-linked ubiquitination (H2AK13Ub and H2AK15Ub) are distinct events.</text>
+</comment>
+<comment type="PTM">
+<text evidence="8">Acetylation at Lys-37 increases in S and G2 phases. This modification has been proposed to play a role in DNA double-strand break repair (By similarity).</text>
+</comment>
+<comment type="similarity">
+<text evidence="36">Belongs to the histone H2A family.</text>
+</comment>
+<comment type="online information" name="NIEHS-SNPs">
+<link uri="http://egp.gs.washington.edu/data/h2afx/"/>
+</comment>
+<comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+<link uri="http://atlasgeneticsoncology.org/Genes/H2AFXID40783ch11q23.html"/>
+</comment>
+<dbReference type="EMBL" id="X14850">
+<property type="protein sequence ID" value="CAA32968.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CR457079">
+<property type="protein sequence ID" value="CAG33360.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="DQ015918">
+<property type="protein sequence ID" value="AAY22178.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC004915">
+<property type="protein sequence ID" value="AAH04915.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC011694">
+<property type="protein sequence ID" value="AAH11694.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC013416">
+<property type="protein sequence ID" value="AAH13416.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS8410.1"/>
+<dbReference type="PIR" id="S07631">
+<property type="entry name" value="S07631"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_002096.1">
+<property type="nucleotide sequence ID" value="NM_002105.2"/>
+</dbReference>
+<dbReference type="PDB" id="1YDP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="P=78-86"/>
+</dbReference>
+<dbReference type="PDB" id="2AZM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.41"/>
+<property type="chains" value="C/D=134-143"/>
+</dbReference>
+<dbReference type="PDB" id="2D31">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="C/F=78-86"/>
+</dbReference>
+<dbReference type="PDB" id="2DYP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="C=78-86"/>
+</dbReference>
+<dbReference type="PDB" id="3SHV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="C/D=134-143"/>
+</dbReference>
+<dbReference type="PDB" id="3SQD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.15"/>
+<property type="chains" value="C/D=134-143"/>
+</dbReference>
+<dbReference type="PDB" id="3SZM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.63"/>
+<property type="chains" value="I/J/K/L/M/N/O/P=134-143"/>
+</dbReference>
+<dbReference type="PDB" id="3U3Z">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="B=140-143"/>
+</dbReference>
+<dbReference type="PDB" id="6K1I">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.75"/>
+<property type="chains" value="C/G=1-143"/>
+</dbReference>
+<dbReference type="PDB" id="6K1J">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.85"/>
+<property type="chains" value="C/G=1-143"/>
+</dbReference>
+<dbReference type="PDB" id="6K1K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="C/G=1-143"/>
+</dbReference>
+<dbReference type="PDBsum" id="1YDP"/>
+<dbReference type="PDBsum" id="2AZM"/>
+<dbReference type="PDBsum" id="2D31"/>
+<dbReference type="PDBsum" id="2DYP"/>
+<dbReference type="PDBsum" id="3SHV"/>
+<dbReference type="PDBsum" id="3SQD"/>
+<dbReference type="PDBsum" id="3SZM"/>
+<dbReference type="PDBsum" id="3U3Z"/>
+<dbReference type="PDBsum" id="6K1I"/>
+<dbReference type="PDBsum" id="6K1J"/>
+<dbReference type="PDBsum" id="6K1K"/>
+<dbReference type="SMR" id="P16104"/>
+<dbReference type="BioGRID" id="109268">
+<property type="interactions" value="422"/>
+</dbReference>
+<dbReference type="CORUM" id="P16104"/>
+<dbReference type="DIP" id="DIP-33604N"/>
+<dbReference type="ELM" id="P16104"/>
+<dbReference type="IntAct" id="P16104">
+<property type="interactions" value="282"/>
+</dbReference>
+<dbReference type="MINT" id="P16104"/>
+<dbReference type="STRING" id="9606.ENSP00000434024"/>
+<dbReference type="iPTMnet" id="P16104"/>
+<dbReference type="PhosphoSitePlus" id="P16104"/>
+<dbReference type="SwissPalm" id="P16104"/>
+<dbReference type="BioMuta" id="H2AFX"/>
+<dbReference type="DMDM" id="121992"/>
+<dbReference type="EPD" id="P16104"/>
+<dbReference type="jPOST" id="P16104"/>
+<dbReference type="MassIVE" id="P16104"/>
+<dbReference type="MaxQB" id="P16104"/>
+<dbReference type="PaxDb" id="P16104"/>
+<dbReference type="PeptideAtlas" id="P16104"/>
+<dbReference type="PRIDE" id="P16104"/>
+<dbReference type="ProteomicsDB" id="53286"/>
+<dbReference type="TopDownProteomics" id="P16104"/>
+<dbReference type="Antibodypedia" id="3220">
+<property type="antibodies" value="1468 antibodies"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000375167">
+<property type="protein sequence ID" value="ENSP00000364310"/>
+<property type="gene ID" value="ENSG00000188486"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000530167">
+<property type="protein sequence ID" value="ENSP00000434024"/>
+<property type="gene ID" value="ENSG00000188486"/>
+</dbReference>
+<dbReference type="GeneID" id="3014"/>
+<dbReference type="KEGG" id="hsa:3014"/>
+<dbReference type="UCSC" id="uc001pvg.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="3014"/>
+<dbReference type="DisGeNET" id="3014"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000188486.3"/>
+<dbReference type="GeneCards" id="H2AX"/>
+<dbReference type="HGNC" id="HGNC:4739">
+<property type="gene designation" value="H2AX"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000188486">
+<property type="expression patterns" value="Tissue enriched (lymphoid)"/>
+</dbReference>
+<dbReference type="MIM" id="601772">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P16104"/>
+<dbReference type="OpenTargets" id="ENSG00000188486"/>
+<dbReference type="PharmGKB" id="PA29116"/>
+<dbReference type="eggNOG" id="KOG1756">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT01000000214481"/>
+<dbReference type="HOGENOM" id="CLU_062828_3_1_1"/>
+<dbReference type="InParanoid" id="P16104"/>
+<dbReference type="KO" id="K11251"/>
+<dbReference type="OMA" id="KANSGRD"/>
+<dbReference type="OrthoDB" id="1504122at2759"/>
+<dbReference type="PhylomeDB" id="P16104"/>
+<dbReference type="TreeFam" id="TF300137"/>
+<dbReference type="PathwayCommons" id="P16104"/>
+<dbReference type="Reactome" id="R-HSA-110328">
+<property type="pathway name" value="Recognition and association of DNA glycosylase with site containing an affected pyrimidine"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-110329">
+<property type="pathway name" value="Cleavage of the damaged pyrimidine"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-110330">
+<property type="pathway name" value="Recognition and association of DNA glycosylase with site containing an affected purine"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-110331">
+<property type="pathway name" value="Cleavage of the damaged purine"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1221632">
+<property type="pathway name" value="Meiotic synapsis"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-171306">
+<property type="pathway name" value="Packaging Of Telomere Ends"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1912408">
+<property type="pathway name" value="Pre-NOTCH Transcription and Translation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-201722">
+<property type="pathway name" value="Formation of the beta-catenin:TCF transactivating complex"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-212300">
+<property type="pathway name" value="PRC2 methylates histones and DNA"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2299718">
+<property type="pathway name" value="Condensation of Prophase Chromosomes"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2559580">
+<property type="pathway name" value="Oxidative Stress Induced Senescence"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2559582">
+<property type="pathway name" value="Senescence-Associated Secretory Phenotype (SASP)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-2559586">
+<property type="pathway name" value="DNA Damage/Telomere Stress Induced Senescence"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3214858">
+<property type="pathway name" value="RMTs methylate histone arginines"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-427359">
+<property type="pathway name" value="SIRT1 negatively regulates rRNA expression"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-427389">
+<property type="pathway name" value="ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-427413">
+<property type="pathway name" value="NoRC negatively regulates rRNA expression"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5250924">
+<property type="pathway name" value="B-WICH complex positively regulates rRNA expression"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5334118">
+<property type="pathway name" value="DNA methylation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5578749">
+<property type="pathway name" value="Transcriptional regulation by small RNAs"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5617472">
+<property type="pathway name" value="Activation of anterior HOX genes in hindbrain development during early embryogenesis"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5625886">
+<property type="pathway name" value="Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5693565">
+<property type="pathway name" value="Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5693571">
+<property type="pathway name" value="Nonhomologous End-Joining (NHEJ)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5693607">
+<property type="pathway name" value="Processing of DNA double-strand break ends"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-606279">
+<property type="pathway name" value="Deposition of new CENPA-containing nucleosomes at the centromere"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-69473">
+<property type="pathway name" value="G2/M DNA damage checkpoint"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-73728">
+<property type="pathway name" value="RNA Polymerase I Promoter Opening"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-73772">
+<property type="pathway name" value="RNA Polymerase I Promoter Escape"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8936459">
+<property type="pathway name" value="RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8939236">
+<property type="pathway name" value="RUNX1 regulates transcription of genes involved in differentiation of HSCs"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9018519">
+<property type="pathway name" value="Estrogen-dependent gene expression"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-912446">
+<property type="pathway name" value="Meiotic recombination"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9616222">
+<property type="pathway name" value="Transcriptional regulation of granulopoiesis"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9670095">
+<property type="pathway name" value="Inhibition of DNA recombination at telomere"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-977225">
+<property type="pathway name" value="Amyloid fiber formation"/>
+</dbReference>
+<dbReference type="SIGNOR" id="P16104"/>
+<dbReference type="BioGRID-ORCS" id="3014">
+<property type="hits" value="283 hits in 876 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="H2AFX">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P16104"/>
+<dbReference type="GeneWiki" id="H2AFX"/>
+<dbReference type="GenomeRNAi" id="3014"/>
+<dbReference type="Pharos" id="P16104">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P16104"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 11"/>
+</dbReference>
+<dbReference type="RNAct" id="P16104">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000188486">
+<property type="expression patterns" value="Expressed in ventricular zone and 238 other tissues"/>
+</dbReference>
+<dbReference type="Genevisible" id="P16104">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005813">
+<property type="term" value="C:centrosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000794">
+<property type="term" value="C:condensed nuclear chromosome"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0007005"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001673">
+<property type="term" value="C:male germ cell nucleus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000790">
+<property type="term" value="C:nuclear chromatin"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016607">
+<property type="term" value="C:nuclear speck"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000786">
+<property type="term" value="C:nucleosome"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005657">
+<property type="term" value="C:replication fork"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090734">
+<property type="term" value="C:site of DNA damage"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035861">
+<property type="term" value="C:site of double-strand break"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001741">
+<property type="term" value="C:XY body"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003684">
+<property type="term" value="F:damaged DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019899">
+<property type="term" value="F:enzyme binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042393">
+<property type="term" value="F:histone binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046982">
+<property type="term" value="F:protein heterodimerization activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006974">
+<property type="term" value="P:cellular response to DNA damage stimulus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071480">
+<property type="term" value="P:cellular response to gamma radiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090398">
+<property type="term" value="P:cellular senescence"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021987">
+<property type="term" value="P:cerebral cortex development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006325">
+<property type="term" value="P:chromatin organization"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006342">
+<property type="term" value="P:chromatin silencing"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000077">
+<property type="term" value="P:DNA damage checkpoint"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006302">
+<property type="term" value="P:double-strand break repair"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000724">
+<property type="term" value="P:double-strand break repair via homologous recombination"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006303">
+<property type="term" value="P:double-strand break repair via nonhomologous end joining"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051321">
+<property type="term" value="P:meiotic cell cycle"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006334">
+<property type="term" value="P:nucleosome assembly"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045739">
+<property type="term" value="P:positive regulation of DNA repair"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010212">
+<property type="term" value="P:response to ionizing radiation"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007283">
+<property type="term" value="P:spermatogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016032">
+<property type="term" value="P:viral process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd00074">
+<property type="entry name" value="H2A"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.20.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="IDEAL" id="IID00027"/>
+<dbReference type="InterPro" id="IPR009072">
+<property type="entry name" value="Histone-fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002119">
+<property type="entry name" value="Histone_H2A"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007125">
+<property type="entry name" value="Histone_H2A/H2B/H3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032454">
+<property type="entry name" value="Histone_H2A_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032458">
+<property type="entry name" value="Histone_H2A_CS"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00125">
+<property type="entry name" value="Histone"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF16211">
+<property type="entry name" value="Histone_H2A_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00620">
+<property type="entry name" value="HISTONEH2A"/>
+</dbReference>
+<dbReference type="SMART" id="SM00414">
+<property type="entry name" value="H2A"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47113">
+<property type="entry name" value="SSF47113"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00046">
+<property type="entry name" value="HISTONE_H2A"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0131">Cell cycle</keyword>
+<keyword id="KW-0158">Chromosome</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0233">DNA recombination</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0945">Host-virus interaction</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0469">Meiosis</keyword>
+<keyword id="KW-0544">Nucleosome core</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<feature type="initiator methionine" description="Removed" evidence="9">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="Histone H2AX" id="PRO_0000055242">
+<location>
+<begin position="2"/>
+<end position="143"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="[ST]-Q motif">
+<location>
+<begin position="140"/>
+<end position="141"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylserine" evidence="9">
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9">
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="9">
+<location>
+<position position="6"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="9">
+<location>
+<position position="10"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="9">
+<location>
+<position position="37"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="9">
+<location>
+<position position="122"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by ATM, ATR and PRKDC" evidence="3 4 5 10 11 12 13 14 15 16 17 18 19 21 22 30 35">
+<location>
+<position position="140"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine; by WSTF" evidence="26 29">
+<location>
+<position position="143"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="31">
+<location>
+<position position="14"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="31">
+<location>
+<position position="16"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)" evidence="9">
+<location>
+<position position="120"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)" evidence="7">
+<location>
+<position position="128"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)" evidence="6 7">
+<location>
+<position position="135"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced phosphorylation of S-140 in response to DNA damage." evidence="35">
+<original>Q</original>
+<variation>N</variation>
+<location>
+<position position="141"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Displays a reduced apoptotic response. S-140 phosphorylation is reduced." evidence="26 29">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="143"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; CAG33360." ref="2" evidence="36">
+<original>R</original>
+<variation>L</variation>
+<location>
+<position position="78"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="18"/>
+<end position="22"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="28"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="42"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="47"/>
+<end position="73"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="77"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="81"/>
+<end position="90"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="92"/>
+<end position="97"/>
+</location>
+</feature>
+<feature type="turn" evidence="2">
+<location>
+<begin position="98"/>
+<end position="100"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="101"/>
+<end position="103"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="114"/>
+<end position="116"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6K1I"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6K1K"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="17525332"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="20068231"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="21406692"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="25218447"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="28112733"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000250"/>
+<evidence key="9" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P27661"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10477747"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10734083"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10959836"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11673449"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12419185"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12607005"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12660252"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12697768"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14627815"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15059890"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15201865"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15489221"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15613478"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16820410"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18001824"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18001825"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19092802"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19203578"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19203579"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19234442"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22154951"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22980979"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24429368"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26734725"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27715493"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9488723"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000305"/>
+<evidence key="37" type="ECO:0000312">
+<source>
+<dbReference type="HGNC" id="HGNC:4739"/>
+</source>
+</evidence>
+<sequence length="143" mass="15145" checksum="D4683775C2E6C3A9" modified="2007-01-23" version="2">MSGRGKTGGKARAKAKSRSSRAGLQFPVGRVHRLLRKGHYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNKKTRIIPRHLQLAIRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKKTSATVGPKAPSGGKKATQASQEY</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

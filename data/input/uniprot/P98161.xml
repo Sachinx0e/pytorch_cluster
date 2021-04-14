@@ -1,0 +1,4537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1996-10-01" modified="2020-10-07" version="243">
+<accession>P98161</accession>
+<accession>Q15140</accession>
+<accession>Q15141</accession>
+<name>PKD1_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="60">Polycystin-1</fullName>
+<shortName>PC1</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Autosomal dominant polycystic kidney disease 1 protein</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="63">PKD1</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1995" name="Cell" volume="81" first="289" last="298">
+<title>Polycystic kidney disease: the complete structure of the PKD1 gene and its protein.</title>
+<authorList>
+<person name="Gluecksmann-Kuis M.A."/>
+<person name="Tayber O."/>
+<person name="Woolf E.A."/>
+<person name="Bougueleret L."/>
+<person name="Deng N."/>
+<person name="Alperin G.D."/>
+<person name="Iris F."/>
+<person name="Hawkins F."/>
+<person name="Munro C."/>
+<person name="Lakey N."/>
+<person name="Duyk G."/>
+<person name="Schneider M.C."/>
+<person name="Geng L."/>
+<person name="Zhang F."/>
+<person name="Zhao Z."/>
+<person name="Torosian S."/>
+<person name="Reeders S.T."/>
+<person name="Bork P."/>
+<person name="Pohlschmidt M."/>
+<person name="Loehning C."/>
+<person name="Kraus B."/>
+<person name="Nowicka U."/>
+<person name="Leung A.L.S."/>
+<person name="Frischauf A.-M."/>
+</authorList>
+<dbReference type="PubMed" id="7736581"/>
+<dbReference type="DOI" id="10.1016/0092-8674(95)90339-9"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>VARIANT THR-1092</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1995" name="Nat. Genet." volume="10" first="151" last="160">
+<title>The polycystic kidney disease 1 (PKD1) gene encodes a novel protein with multiple cell recognition domains.</title>
+<authorList>
+<person name="Hughes J."/>
+<person name="Ward C.J."/>
+<person name="Peral B."/>
+<person name="Aspinwall R."/>
+<person name="Clark K."/>
+<person name="San Millan J.L."/>
+<person name="Gamble V."/>
+<person name="Harris P.C."/>
+</authorList>
+<dbReference type="PubMed" id="7663510"/>
+<dbReference type="DOI" id="10.1038/ng0695-151"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORMS 2 AND 3)</scope>
+<scope>VARIANT GLN-739</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Nature" volume="432" first="988" last="994">
+<title>The sequence and analysis of duplication-rich human chromosome 16.</title>
+<authorList>
+<person name="Martin J."/>
+<person name="Han C."/>
+<person name="Gordon L.A."/>
+<person name="Terry A."/>
+<person name="Prabhakar S."/>
+<person name="She X."/>
+<person name="Xie G."/>
+<person name="Hellsten U."/>
+<person name="Chan Y.M."/>
+<person name="Altherr M."/>
+<person name="Couronne O."/>
+<person name="Aerts A."/>
+<person name="Bajorek E."/>
+<person name="Black S."/>
+<person name="Blumer H."/>
+<person name="Branscomb E."/>
+<person name="Brown N.C."/>
+<person name="Bruno W.J."/>
+<person name="Buckingham J.M."/>
+<person name="Callen D.F."/>
+<person name="Campbell C.S."/>
+<person name="Campbell M.L."/>
+<person name="Campbell E.W."/>
+<person name="Caoile C."/>
+<person name="Challacombe J.F."/>
+<person name="Chasteen L.A."/>
+<person name="Chertkov O."/>
+<person name="Chi H.C."/>
+<person name="Christensen M."/>
+<person name="Clark L.M."/>
+<person name="Cohn J.D."/>
+<person name="Denys M."/>
+<person name="Detter J.C."/>
+<person name="Dickson M."/>
+<person name="Dimitrijevic-Bussod M."/>
+<person name="Escobar J."/>
+<person name="Fawcett J.J."/>
+<person name="Flowers D."/>
+<person name="Fotopulos D."/>
+<person name="Glavina T."/>
+<person name="Gomez M."/>
+<person name="Gonzales E."/>
+<person name="Goodstein D."/>
+<person name="Goodwin L.A."/>
+<person name="Grady D.L."/>
+<person name="Grigoriev I."/>
+<person name="Groza M."/>
+<person name="Hammon N."/>
+<person name="Hawkins T."/>
+<person name="Haydu L."/>
+<person name="Hildebrand C.E."/>
+<person name="Huang W."/>
+<person name="Israni S."/>
+<person name="Jett J."/>
+<person name="Jewett P.B."/>
+<person name="Kadner K."/>
+<person name="Kimball H."/>
+<person name="Kobayashi A."/>
+<person name="Krawczyk M.-C."/>
+<person name="Leyba T."/>
+<person name="Longmire J.L."/>
+<person name="Lopez F."/>
+<person name="Lou Y."/>
+<person name="Lowry S."/>
+<person name="Ludeman T."/>
+<person name="Manohar C.F."/>
+<person name="Mark G.A."/>
+<person name="McMurray K.L."/>
+<person name="Meincke L.J."/>
+<person name="Morgan J."/>
+<person name="Moyzis R.K."/>
+<person name="Mundt M.O."/>
+<person name="Munk A.C."/>
+<person name="Nandkeshwar R.D."/>
+<person name="Pitluck S."/>
+<person name="Pollard M."/>
+<person name="Predki P."/>
+<person name="Parson-Quintana B."/>
+<person name="Ramirez L."/>
+<person name="Rash S."/>
+<person name="Retterer J."/>
+<person name="Ricke D.O."/>
+<person name="Robinson D.L."/>
+<person name="Rodriguez A."/>
+<person name="Salamov A."/>
+<person name="Saunders E.H."/>
+<person name="Scott D."/>
+<person name="Shough T."/>
+<person name="Stallings R.L."/>
+<person name="Stalvey M."/>
+<person name="Sutherland R.D."/>
+<person name="Tapia R."/>
+<person name="Tesmer J.G."/>
+<person name="Thayer N."/>
+<person name="Thompson L.S."/>
+<person name="Tice H."/>
+<person name="Torney D.C."/>
+<person name="Tran-Gyamfi M."/>
+<person name="Tsai M."/>
+<person name="Ulanovsky L.E."/>
+<person name="Ustaszewska A."/>
+<person name="Vo N."/>
+<person name="White P.S."/>
+<person name="Williams A.L."/>
+<person name="Wills P.L."/>
+<person name="Wu J.-R."/>
+<person name="Wu K."/>
+<person name="Yang J."/>
+<person name="DeJong P."/>
+<person name="Bruce D."/>
+<person name="Doggett N.A."/>
+<person name="Deaven L."/>
+<person name="Schmutz J."/>
+<person name="Grimwood J."/>
+<person name="Richardson P."/>
+<person name="Rokhsar D.S."/>
+<person name="Eichler E.E."/>
+<person name="Gilna P."/>
+<person name="Lucas S.M."/>
+<person name="Myers R.M."/>
+<person name="Rubin E.M."/>
+<person name="Pennacchio L.A."/>
+</authorList>
+<dbReference type="PubMed" id="15616553"/>
+<dbReference type="DOI" id="10.1038/nature03187"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1994" name="Cell" volume="77" first="881" last="894">
+<title>The polycystic kidney disease 1 gene encodes a 14 kb transcript and lies within a duplicated region on chromosome 16.</title>
+<authorList>
+<person name="Ward C.J."/>
+<person name="Peral B."/>
+<person name="Hughes J."/>
+<person name="Thomas S."/>
+<person name="Gamble V."/>
+<person name="Maccarthy A.B."/>
+<person name="Sloane-Stanley J."/>
+<person name="Buckle V.J."/>
+<person name="Kearney L."/>
+<person name="Higgs D.R."/>
+<person name="Ratcliffe P.J."/>
+<person name="Harris P.C."/>
+<person name="Roelfsema J.H."/>
+<person name="Spruit L.L."/>
+<person name="Saris J.J."/>
+<person name="Dauwerse H.G."/>
+<person name="Peters D.J.M."/>
+<person name="Breuning M.H."/>
+<person name="Nellist M."/>
+<person name="Brook-Carter P.T."/>
+<person name="Maheshwar M.M."/>
+<person name="Cordeiro I."/>
+<person name="Santos H."/>
+<person name="Cabral P."/>
+<person name="Sampson J.R."/>
+<person name="Janssen B."/>
+<person name="Hesseling-Janssen A.L.W."/>
+<person name="van den Ouweland A.M.W."/>
+<person name="Eussen B."/>
+<person name="Verhoef S."/>
+<person name="Lindhout D."/>
+<person name="Halley D.J.J."/>
+</authorList>
+<dbReference type="PubMed" id="8004675"/>
+<dbReference type="DOI" id="10.1016/0092-8674(94)90137-6"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] OF 2769-4303</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1994" name="Cell" volume="78" first="725" last="725">
+<authorList>
+<person name="Ward C.J."/>
+<person name="Peral B."/>
+<person name="Hughes J."/>
+<person name="Thomas S."/>
+<person name="Gamble V."/>
+<person name="Maccarthy A.B."/>
+<person name="Sloane-Stanley J."/>
+<person name="Buckle V.J."/>
+<person name="Kearney L."/>
+<person name="Higgs D.R."/>
+<person name="Ratcliffe P.J."/>
+<person name="Harris P.C."/>
+<person name="Roelfsema J.H."/>
+<person name="Spruit L.L."/>
+<person name="Saris J.J."/>
+<person name="Dauwerse H.G."/>
+<person name="Peters D.J.M."/>
+<person name="Breuning M.H."/>
+<person name="Nellist M."/>
+<person name="Brook-Carter P.T."/>
+<person name="Maheshwar M.M."/>
+<person name="Cordeiro I."/>
+<person name="Santos H."/>
+<person name="Cabral P."/>
+<person name="Sampson J.R."/>
+<person name="Janssen B."/>
+<person name="Hesseling-Janssen A.L.W."/>
+<person name="van den Ouweland A.M.W."/>
+<person name="Eussen B."/>
+<person name="Verhoef S."/>
+<person name="Lindhout D."/>
+<person name="Halley D.J.J."/>
+</authorList>
+<dbReference type="PubMed" id="8069919"/>
+</citation>
+<scope>ERRATUM OF PUBMED:8004675</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1999" name="Proc. Natl. Acad. Sci. U.S.A." volume="96" first="6371" last="6376">
+<title>Interaction between RGS7 and polycystin.</title>
+<authorList>
+<person name="Kim E."/>
+<person name="Arnould T."/>
+<person name="Sellin L."/>
+<person name="Benzing T."/>
+<person name="Comella N."/>
+<person name="Kocher O."/>
+<person name="Tsiokas L."/>
+<person name="Sukhatme V.P."/>
+<person name="Walz G."/>
+</authorList>
+<dbReference type="PubMed" id="10339594"/>
+<dbReference type="DOI" id="10.1073/pnas.96.11.6371"/>
+</citation>
+<scope>INTERACTION WITH RGS7</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2002" name="Proc. Natl. Acad. Sci. U.S.A." volume="99" first="16981" last="16986">
+<title>Cleavage of polycystin-1 requires the receptor for egg jelly domain and is disrupted by human autosomal-dominant polycystic kidney disease 1-associated mutations.</title>
+<authorList>
+<person name="Qian F."/>
+<person name="Boletta A."/>
+<person name="Bhunia A.K."/>
+<person name="Xu H."/>
+<person name="Liu L."/>
+<person name="Ahrabi A.K."/>
+<person name="Watnick T.J."/>
+<person name="Zhou F."/>
+<person name="Germino G.G."/>
+</authorList>
+<dbReference type="PubMed" id="12482949"/>
+<dbReference type="DOI" id="10.1073/pnas.252484899"/>
+</citation>
+<scope>FUNCTION IN RENAL TUBULOGENESIS</scope>
+<scope>AUTOCATALYTIC CLEAVAGE AT LEU-3048</scope>
+<scope>CHARACTERIZATION OF VARIANTS PKD1 LYS-2771; PRO-2921; PRO-2993 AND ARG-3016</scope>
+<scope>CHARACTERIZATION OF VARIANT GLN-2791</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2007" name="J. Biol. Chem." volume="282" first="21729" last="21737">
+<title>Characterization of cis-autoproteolysis of polycystin-1, the product of human polycystic kidney disease 1 gene.</title>
+<authorList>
+<person name="Wei W."/>
+<person name="Hackmann K."/>
+<person name="Xu H."/>
+<person name="Germino G."/>
+<person name="Qian F."/>
+</authorList>
+<dbReference type="PubMed" id="17525154"/>
+<dbReference type="DOI" id="10.1074/jbc.m703218200"/>
+</citation>
+<scope>AUTOCATALYTIC CLEAVAGE AT LEU-3048</scope>
+<scope>MUTAGENESIS OF THR-3049</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2008" name="Biochim. Biophys. Acta" volume="1782" first="1" last="9">
+<title>Protein kinase X (PRKX) can rescue the effects of polycystic kidney disease-1 gene (PKD1) deficiency.</title>
+<authorList>
+<person name="Li X."/>
+<person name="Burrow C.R."/>
+<person name="Polgar K."/>
+<person name="Hyink D.P."/>
+<person name="Gusella G.L."/>
+<person name="Wilson P.D."/>
+</authorList>
+<dbReference type="PubMed" id="17980165"/>
+<dbReference type="DOI" id="10.1016/j.bbadis.2007.09.003"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-4166</scope>
+<scope>INTERACTION WITH PRKX</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2010" name="Mol. Biol. Cell" volume="21" first="3853" last="3865">
+<title>Protein kinase D-mediated phosphorylation of polycystin-2 (TRPP2) is essential for its effects on cell growth and calcium channel activity.</title>
+<authorList>
+<person name="Streets A.J."/>
+<person name="Needham A.J."/>
+<person name="Gill S.K."/>
+<person name="Ong A.C."/>
+</authorList>
+<dbReference type="PubMed" id="20881056"/>
+<dbReference type="DOI" id="10.1091/mbc.e10-04-0377"/>
+</citation>
+<scope>INTERACTION WITH PKD2</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2010" name="Mol. Biol. Cell" volume="21" first="4338" last="4348">
+<title>Polycystin-1 surface localization is stimulated by polycystin-2 and cleavage at the G protein-coupled receptor proteolytic site.</title>
+<authorList>
+<person name="Chapin H.C."/>
+<person name="Rajendran V."/>
+<person name="Caplan M.J."/>
+</authorList>
+<dbReference type="PubMed" id="20980620"/>
+<dbReference type="DOI" id="10.1091/mbc.e10-05-0407"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2010" name="PLoS ONE" volume="5" first="E12719" last="E12719">
+<title>Nephrocystin-1 forms a complex with polycystin-1 via a polyproline motif/SH3 domain interaction and regulates the apoptotic response in mammals.</title>
+<authorList>
+<person name="Wodarczyk C."/>
+<person name="Distefano G."/>
+<person name="Rowe I."/>
+<person name="Gaetani M."/>
+<person name="Bricoli B."/>
+<person name="Muorah M."/>
+<person name="Spitaleri A."/>
+<person name="Mannella V."/>
+<person name="Ricchiuto P."/>
+<person name="Pema M."/>
+<person name="Castelli M."/>
+<person name="Casanova A.E."/>
+<person name="Mollica L."/>
+<person name="Banzi M."/>
+<person name="Boca M."/>
+<person name="Antignac C."/>
+<person name="Saunier S."/>
+<person name="Musco G."/>
+<person name="Boletta A."/>
+</authorList>
+<dbReference type="PubMed" id="20856870"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0012719"/>
+</citation>
+<scope>INTERACTION WITH NPHP1</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2014" name="Hum. Mol. Genet." volume="23" first="5441" last="5451">
+<title>Bardet-Biedl syndrome proteins 1 and 3 regulate the ciliary trafficking of polycystic kidney disease 1 protein.</title>
+<authorList>
+<person name="Su X."/>
+<person name="Driscoll K."/>
+<person name="Yao G."/>
+<person name="Raed A."/>
+<person name="Wu M."/>
+<person name="Beales P.L."/>
+<person name="Zhou J."/>
+</authorList>
+<dbReference type="PubMed" id="24939912"/>
+<dbReference type="DOI" id="10.1093/hmg/ddu267"/>
+</citation>
+<scope>INTERACTION WITH BBS1; BBS4; BBS5 AND TTC8</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2016" name="Am. J. Hum. Genet." volume="98" first="1193" last="1207">
+<title>Mutations in GANAB, encoding the glucosidase IIalpha subunit, cause autosomal-dominant polycystic kidney and liver disease.</title>
+<authorList>
+<consortium name="Genkyst Study Group, HALT Progression of Polycystic Kidney Disease Group"/>
+<consortium name="Consortium for Radiologic Imaging Studies of Polycystic Kidney Disease"/>
+<person name="Porath B."/>
+<person name="Gainullin V.G."/>
+<person name="Cornec-Le Gall E."/>
+<person name="Dillinger E.K."/>
+<person name="Heyer C.M."/>
+<person name="Hopp K."/>
+<person name="Edwards M.E."/>
+<person name="Madsen C.D."/>
+<person name="Mauritz S.R."/>
+<person name="Banks C.J."/>
+<person name="Baheti S."/>
+<person name="Reddy B."/>
+<person name="Herrero J.I."/>
+<person name="Banales J.M."/>
+<person name="Hogan M.C."/>
+<person name="Tasic V."/>
+<person name="Watnick T.J."/>
+<person name="Chapman A.B."/>
+<person name="Vigneau C."/>
+<person name="Lavainne F."/>
+<person name="Audrezet M.P."/>
+<person name="Ferec C."/>
+<person name="Le Meur Y."/>
+<person name="Torres V.E."/>
+<person name="Harris P.C."/>
+</authorList>
+<dbReference type="PubMed" id="27259053"/>
+<dbReference type="DOI" id="10.1016/j.ajhg.2016.05.004"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2016" name="Nat. Cell Biol." volume="18" first="752" last="764">
+<title>The polycystin complex mediates Wnt/Ca(2+) signalling.</title>
+<authorList>
+<person name="Kim S."/>
+<person name="Nie H."/>
+<person name="Nesin V."/>
+<person name="Tran U."/>
+<person name="Outeda P."/>
+<person name="Bai C.X."/>
+<person name="Keeling J."/>
+<person name="Maskey D."/>
+<person name="Watnick T."/>
+<person name="Wessely O."/>
+<person name="Tsiokas L."/>
+</authorList>
+<dbReference type="PubMed" id="27214281"/>
+<dbReference type="DOI" id="10.1038/ncb3363"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH DVL1; DVL2; WNT3A; WNT4; WNT5A AND WNT9B</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>CHARACTERIZATION OF VARIANT ILE-99</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1999" name="EMBO J." volume="18" first="297" last="305">
+<title>The structure of a PKD domain from polycystin-1: implications for polycystic kidney disease.</title>
+<authorList>
+<person name="Bycroft M."/>
+<person name="Bateman A."/>
+<person name="Clarke J."/>
+<person name="Hamill S.J."/>
+<person name="Sandford R."/>
+<person name="Thomas R.L."/>
+<person name="Chothia C."/>
+</authorList>
+<dbReference type="PubMed" id="9889186"/>
+<dbReference type="DOI" id="10.1093/emboj/18.2.297"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 275-354</scope>
+</reference>
+<reference key="17" evidence="2">
+<citation type="journal article" date="2018" name="Science" volume="361">
+<title>Structure of the human PKD1-PKD2 complex.</title>
+<authorList>
+<person name="Su Q."/>
+<person name="Hu F."/>
+<person name="Ge X."/>
+<person name="Lei J."/>
+<person name="Yu S."/>
+<person name="Wang T."/>
+<person name="Zhou Q."/>
+<person name="Mei C."/>
+<person name="Shi Y."/>
+</authorList>
+<dbReference type="PubMed" id="30093605"/>
+<dbReference type="DOI" id="10.1126/science.aat9819"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (3.60 ANGSTROMS) OF 3049-4169 IN COMPLEX WITH PKD2</scope>
+<scope>SUBUNIT</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TOPOLOGY</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2001" name="Trends Pharmacol. Sci." volume="22" first="543" last="546">
+<title>Polycystin channels and kidney disease.</title>
+<authorList>
+<person name="Stayner C."/>
+<person name="Zhou J."/>
+</authorList>
+<dbReference type="PubMed" id="11698076"/>
+<dbReference type="DOI" id="10.1016/s0165-6147(00)01832-0"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="1996" name="Am. J. Hum. Genet." volume="58" first="86" last="96">
+<title>Screening the 3' region of the polycystic kidney disease 1 (PKD1) gene reveals six novel mutations.</title>
+<authorList>
+<person name="Peral B."/>
+<person name="San Millan J.L."/>
+<person name="Ong A.C.M."/>
+<person name="Gamble V."/>
+<person name="Ward C.J."/>
+<person name="Strong C."/>
+<person name="Harris P.C."/>
+</authorList>
+<dbReference type="PubMed" id="8554072"/>
+</citation>
+<scope>VARIANT PKD1 3748-ARG--VAL-3752 DEL</scope>
+<scope>VARIANT ASP-3632</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="1997" name="Am. J. Hum. Genet." volume="60" first="1399" last="1410">
+<title>Identification of mutations in the duplicated region of the polycystic kidney disease 1 gene (PKD1) by a novel approach.</title>
+<authorList>
+<person name="Peral B."/>
+<person name="Gamble V."/>
+<person name="Strong C."/>
+<person name="Ong A.C.M."/>
+<person name="Sloane-Stanley J."/>
+<person name="Zerres K."/>
+<person name="Winearls C.G."/>
+<person name="Harris P.C."/>
+</authorList>
+<dbReference type="PubMed" id="9199561"/>
+<dbReference type="DOI" id="10.1086/515467"/>
+</citation>
+<scope>VARIANTS PKD1 PRO-2993; ARG-3016 AND VAL-3511</scope>
+<scope>VARIANTS MET-3510 AND PHE-4190</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="1997" name="Hum. Genet." volume="99" first="644" last="647">
+<title>New amino acid polymorphism, Ala/Val4058, in exon 45 of the polycystic kidney disease 1 gene: evolution of alleles.</title>
+<authorList>
+<person name="Constantinides R."/>
+<person name="Xenophontos S.L."/>
+<person name="Neophytou P."/>
+<person name="Nomura S."/>
+<person name="Pierides A."/>
+<person name="Constantinou-Deltas C.D."/>
+</authorList>
+<dbReference type="PubMed" id="9150733"/>
+<dbReference type="DOI" id="10.1007/s004390050421"/>
+</citation>
+<scope>VARIANT ALA-4058</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="1997" name="Hum. Mol. Genet." volume="6" first="1473" last="1481">
+<title>An unusual pattern of mutation in the duplicated portion of PKD1 is revealed by use of a novel strategy for mutation detection.</title>
+<authorList>
+<person name="Watnick T.J."/>
+<person name="Piontek K.B."/>
+<person name="Cordal T.M."/>
+<person name="Weber H."/>
+<person name="Gandolph M.A."/>
+<person name="Qian F."/>
+<person name="Lens X.M."/>
+<person name="Neumann H.P.H."/>
+<person name="Germino G.G."/>
+</authorList>
+<dbReference type="PubMed" id="9285784"/>
+<dbReference type="DOI" id="10.1093/hmg/6.9.1473"/>
+</citation>
+<scope>VARIANTS PKD1 VAL-2763; THR-2826 AND LEU-3008</scope>
+<scope>VARIANTS THR-2760; PRO-2761; THR-2764; GLN-2791 AND LEU-3066</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="1997" name="Hum. Mutat." volume="10" first="164" last="167">
+<title>Three novel mutations of the PKD1 gene in Italian families with autosomal dominant polycystic kidney disease.</title>
+<authorList>
+<person name="Turco A.E."/>
+<person name="Rossetti S."/>
+<person name="Bresin E."/>
+<person name="Englisch S."/>
+<person name="Corra S."/>
+<person name="Pignatti P.F."/>
+</authorList>
+<dbReference type="PubMed" id="9259200"/>
+<dbReference type="DOI" id="10.1002/(sici)1098-1004(1997)10:2&lt;164::aid-humu9&gt;3.0.co;2-k"/>
+</citation>
+<scope>VARIANT PKD1 THR-3678</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="1998" name="Hum. Genet." volume="102" first="216" last="220">
+<title>Novel and recurrent mutations in the PKD1 (polycystic kidney disease) gene.</title>
+<authorList>
+<person name="Daniells C."/>
+<person name="Maheshwar M.M."/>
+<person name="Lazarou L."/>
+<person name="Davies F."/>
+<person name="Coles G."/>
+<person name="Ravine D."/>
+</authorList>
+<dbReference type="PubMed" id="9521593"/>
+<dbReference type="DOI" id="10.1007/s004390050681"/>
+</citation>
+<scope>VARIANT PKD1 ASP-4032</scope>
+<scope>VARIANT VAL-4045</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="1998" name="Hum. Genet." volume="103" first="709" last="717">
+<title>Loss of heterozygosity in polycystic kidney disease with a missense mutation in the repeated region of PKD1.</title>
+<authorList>
+<person name="Koptides M."/>
+<person name="Constantinides R."/>
+<person name="Kyriakides G."/>
+<person name="Hadjigavriel M."/>
+<person name="Patsalis P.C."/>
+<person name="Pierides A."/>
+<person name="Deltas C.C."/>
+</authorList>
+<dbReference type="PubMed" id="9921908"/>
+<dbReference type="DOI" id="10.1007/s004390050896"/>
+</citation>
+<scope>VARIANT PKD1 MET-3375</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="1999" name="Am. J. Hum. Genet." volume="65" first="39" last="49">
+<title>Identification of mutations in the repeated part of the autosomal dominant polycystic kidney disease type 1 gene, PKD1, by long-range PCR.</title>
+<authorList>
+<person name="Thomas R.L."/>
+<person name="McConnell R."/>
+<person name="Whittacker J."/>
+<person name="Kirkpatrick P."/>
+<person name="Bradley J."/>
+<person name="Sandford R."/>
+</authorList>
+<dbReference type="PubMed" id="10364515"/>
+<dbReference type="DOI" id="10.1086/302460"/>
+</citation>
+<scope>VARIANTS PKD1 LEU-324 AND SER-845</scope>
+<scope>VARIANTS ARG-1399 AND LEU-1786</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="1999" name="Am. J. Hum. Genet." volume="65" first="1561" last="1571">
+<title>Mutation detection of PKD1 identifies a novel mutation common to three families with aneurysms and/or very-early-onset disease.</title>
+<authorList>
+<person name="Watnick T."/>
+<person name="Phakdeekitcharoen B."/>
+<person name="Johnson A."/>
+<person name="Gandolph M.A."/>
+<person name="Wang M."/>
+<person name="Briefel G."/>
+<person name="Klinger K.W."/>
+<person name="Kimberling W."/>
+<person name="Gabow P."/>
+<person name="Germino G.G."/>
+</authorList>
+<dbReference type="PubMed" id="10577909"/>
+<dbReference type="DOI" id="10.1086/302657"/>
+</citation>
+<scope>VARIANTS PKD1 PRO-2392 AND PHE-2423</scope>
+<scope>VARIANTS ARG-1399; GLN-2548 AND ARG-2638</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="1999" name="Hum. Genet." volume="105" first="231" last="239">
+<title>DGGE screening of PKD1 gene reveals novel mutations in a large cohort of 146 unrelated patients.</title>
+<authorList>
+<person name="Perrichot R.A."/>
+<person name="Mercier B."/>
+<person name="Simon P.M."/>
+<person name="Whebe B."/>
+<person name="Cledes J."/>
+<person name="Ferec C."/>
+</authorList>
+<dbReference type="PubMed" id="10987650"/>
+<dbReference type="DOI" id="10.1007/s004390051094"/>
+</citation>
+<scope>VARIANTS PKD1 LEU-LEU-PHE-3996 INS; GLY-4136 AND CYS-4154</scope>
+<scope>VARIANTS</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="1999" name="Hum. Genet." volume="105" first="648" last="653">
+<title>Novel mutations in the 3 region of the polycystic kidney disease 1 (PKD1) gene.</title>
+<authorList>
+<person name="Afzal A.R."/>
+<person name="Hand M."/>
+<person name="Ternes-Pereira E."/>
+<person name="Saggar-Malik A."/>
+<person name="Taylor R."/>
+<person name="Jeffery S."/>
+</authorList>
+<dbReference type="PubMed" id="10647901"/>
+<dbReference type="DOI" id="10.1007/s004399900177"/>
+</citation>
+<scope>VARIANTS PKD1 3748-ARG--VAL-3752 DEL AND LEU-4132 DEL</scope>
+<scope>VARIANT VAL-4045</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="1999" name="Kidney Int." volume="55" first="1225" last="1233">
+<title>Mutational analysis within the 3' region of the PKD1 gene.</title>
+<authorList>
+<person name="Badenas C."/>
+<person name="Torra R."/>
+<person name="San Millan J.L."/>
+<person name="Lucero L."/>
+<person name="Mila M."/>
+<person name="Estivill X."/>
+<person name="Darnell A."/>
+</authorList>
+<dbReference type="PubMed" id="10200984"/>
+<dbReference type="DOI" id="10.1046/j.1523-1755.1999.00368.x"/>
+</citation>
+<scope>VARIANTS PKD1 PRO-4225 AND TRP-4276</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2000" name="Eur. J. Hum. Genet." volume="8" first="353" last="359">
+<title>Novel mutations in the duplicated region of PKD1 gene.</title>
+<authorList>
+<person name="Perrichot R."/>
+<person name="Mercier B."/>
+<person name="Quere I."/>
+<person name="Carre A."/>
+<person name="Simon P."/>
+<person name="Whebe B."/>
+<person name="Cledes J."/>
+<person name="Ferec C."/>
+</authorList>
+<dbReference type="PubMed" id="10854095"/>
+<dbReference type="DOI" id="10.1038/sj.ejhg.5200459"/>
+</citation>
+<scope>VARIANTS PKD1 MET-2250; TRP-2329 AND CYS-2379</scope>
+<scope>VARIANTS LEU-3066; VAL-3139 AND LEU-3193</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2000" name="Genet. Test." volume="4" first="365" last="370">
+<title>Novel mutations in the duplicated region of the polycystic kidney disease 1 (PKD1) gene provides supporting evidence for gene conversion.</title>
+<authorList>
+<person name="Afzal A.R."/>
+<person name="Florencio R.N."/>
+<person name="Taylor R."/>
+<person name="Patton M.A."/>
+<person name="Saggar-Malik A."/>
+<person name="Jeffery S."/>
+</authorList>
+<dbReference type="PubMed" id="11216660"/>
+<dbReference type="DOI" id="10.1089/109065700750065108"/>
+</citation>
+<scope>VARIANTS PKD1 HIS-3247 AND MET-3382</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="2000" name="Hum. Mutat." volume="16" first="176" last="176">
+<title>Screening of the PKD1 duplicated region reveals multiple single nucleotide polymorphisms and a de novo mutation in Hellenic polycystic kidney disease families.</title>
+<authorList>
+<person name="Koptides M."/>
+<person name="Mean R."/>
+<person name="Demetriou K."/>
+<person name="Constantinides R."/>
+<person name="Pierides A."/>
+<person name="Harris P.C."/>
+<person name="Deltas C.C."/>
+</authorList>
+<dbReference type="PubMed" id="10923040"/>
+<dbReference type="DOI" id="10.1002/1098-1004(200008)16:2&lt;176::aid-humu11&gt;3.0.co;2-h"/>
+</citation>
+<scope>VARIANTS PKD1 PRO-2921 AND MET-3375</scope>
+<scope>VARIANT LEU-3066</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="2000" name="Hum. Mutat." volume="16" first="444" last="445">
+<title>Novel splicing and missense mutations in autosomal dominant polycystic kidney disease 1 (PKD1) gene: expression of mutated genes.</title>
+<authorList>
+<person name="Aguiari G."/>
+<person name="Savelli S."/>
+<person name="Garbo M."/>
+<person name="Bozza A."/>
+<person name="Augello G."/>
+<person name="Penolazzi L."/>
+<person name="De Paoli Vitali E."/>
+<person name="La Torre C."/>
+<person name="Cappelli G."/>
+<person name="Piva R."/>
+<person name="del Senno L."/>
+</authorList>
+<dbReference type="PubMed" id="11058904"/>
+<dbReference type="DOI" id="10.1002/1098-1004(200011)16:5&lt;444::aid-humu11&gt;3.0.co;2-c"/>
+</citation>
+<scope>VARIANTS PKD1 GLN-3719 AND PRO-3852</scope>
+<scope>VARIANT VAL-4045</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="2000" name="Kidney Int." volume="58" first="1400" last="1412">
+<title>Thirteen novel mutations of the replicated region of PKD1 in an Asian population.</title>
+<authorList>
+<person name="Phakdeekitcharoen B."/>
+<person name="Watnick T.J."/>
+<person name="Ahn C."/>
+<person name="Whang D.-Y."/>
+<person name="Burkhart B."/>
+<person name="Germino G.G."/>
+</authorList>
+<dbReference type="PubMed" id="11012875"/>
+<dbReference type="DOI" id="10.1046/j.1523-1755.2000.00302.x"/>
+</citation>
+<scope>VARIANTS PKD1 SER-1166; GLU-1956; CYS-2408 AND GLY-2442--2443 INS</scope>
+<scope>VARIANTS HIS-1995 AND ASN-2604</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="2000" name="Mutat. Res." volume="432" first="39" last="45">
+<title>Novel mutations of the PKD1 gene in Korean patients with autosomal dominant polycystic kidney disease.</title>
+<authorList>
+<person name="Kim U.K."/>
+<person name="Jin D.K."/>
+<person name="Ahn C."/>
+<person name="Shin J.H."/>
+<person name="Lee K.B."/>
+<person name="Kim S.H."/>
+<person name="Chae J.J."/>
+<person name="Hwang D.Y."/>
+<person name="Lee J.G."/>
+<person name="Namkoong Y."/>
+<person name="Lee C.C."/>
+</authorList>
+<dbReference type="PubMed" id="10729710"/>
+<dbReference type="DOI" id="10.1016/s1383-5726(99)00013-8"/>
+</citation>
+<scope>VARIANTS PKD1 TRP-3753 AND ASN-3815</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="2001" name="Am. J. Hum. Genet." volume="68" first="46" last="63">
+<title>Mutation analysis of the entire PKD1 gene: genetic and diagnostic implications.</title>
+<authorList>
+<person name="Rossetti S."/>
+<person name="Strmecki L."/>
+<person name="Gamble V."/>
+<person name="Burton S."/>
+<person name="Sneddon V."/>
+<person name="Peral B."/>
+<person name="Roy S."/>
+<person name="Bakkaloglu A."/>
+<person name="Komel R."/>
+<person name="Winearls C.G."/>
+<person name="Harris P.C."/>
+</authorList>
+<dbReference type="PubMed" id="11115377"/>
+<dbReference type="DOI" id="10.1086/316939"/>
+</citation>
+<scope>VARIANTS PKD1 GLN-13; PHE-75; CYS-139; 1992-PHE-THR-1993 DELINS LEU; 2220-ARG--PRO-2224 DEL; ASP-2336; ASP-2752; ILE-LEU-MET-ARG-2765 INS; MET-2768; LYS-2771; PRO-2816; SER-2858; 3012-THR--TYR-3017 DEL AND 3748-LEU--ARG-3752 DEL</scope>
+<scope>VARIANTS SER-2674; MET-2708; THR-2734; LEU-2735; CYS-2765; MET-2782; ARG-2814; GLY-2888; ILE-2905; ASP-2966 AND LEU-3066</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="2001" name="Eur. J. Hum. Genet." volume="9" first="677" last="684">
+<title>Novel PKD1 deletions and missense variants in a cohort of Hellenic polycystic kidney disease families.</title>
+<authorList>
+<person name="Bouba I."/>
+<person name="Koptides M."/>
+<person name="Mean R."/>
+<person name="Costi C.-E."/>
+<person name="Demetriou K."/>
+<person name="Georgiou I."/>
+<person name="Pierides A."/>
+<person name="Siamopoulos K."/>
+<person name="Deltas C.C."/>
+</authorList>
+<dbReference type="PubMed" id="11571556"/>
+<dbReference type="DOI" id="10.1038/sj.ejhg.5200696"/>
+</citation>
+<scope>VARIANTS PKD1 LEU-2471; LEU-2519; GLY-2579 DEL; LEU-2613 DEL; ILE-2649 AND PHE-2978 DEL</scope>
+<scope>VARIANTS MET-2582; ARG-2638; ASN-2972 AND LEU-3066</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="2001" name="J. Am. Soc. Nephrol." volume="12" first="955" last="963">
+<title>Mutation analysis of the entire replicated portion of PKD1 using genomic DNA samples.</title>
+<authorList>
+<person name="Phakdeekitcharoen B."/>
+<person name="Watnick T.J."/>
+<person name="Germino G.G."/>
+</authorList>
+<dbReference type="PubMed" id="11316854"/>
+</citation>
+<scope>VARIANTS PKD1 ARG-967; ARG-2696; GLY-2985; CYS-3039 AND ILE-3285</scope>
+<scope>VARIANTS VAL-88 AND ARG-3311</scope>
+</reference>
+<reference key="40">
+<citation type="journal article" date="2001" name="J. Hum. Genet." volume="46" first="511" last="517">
+<title>Mutations of the PKD1 gene among Japanese autosomal dominant polycystic kidney disease patients, including one heterozygous mutation identified in members of the same family.</title>
+<authorList>
+<person name="Mizoguchi M."/>
+<person name="Tamura T."/>
+<person name="Yamaki A."/>
+<person name="Higashihara E."/>
+<person name="Shimizu Y."/>
+</authorList>
+<dbReference type="PubMed" id="11558899"/>
+<dbReference type="DOI" id="10.1007/s100380170032"/>
+</citation>
+<scope>INVOLVEMENT IN PKD1</scope>
+<scope>VARIANTS MET-3008 AND MET-3510</scope>
+</reference>
+<reference key="41">
+<citation type="journal article" date="2001" name="Mutat. Res." volume="458" first="77" last="84">
+<title>Mutational analysis within the 3' region of the PKD1 gene in Japanese families.</title>
+<authorList>
+<person name="Tsuchiya K."/>
+<person name="Komeda M."/>
+<person name="Takahashi M."/>
+<person name="Yamashita N."/>
+<person name="Cigira M."/>
+<person name="Suzuki T."/>
+<person name="Suzuki K."/>
+<person name="Nihei H."/>
+<person name="Mochizuki T."/>
+</authorList>
+<dbReference type="PubMed" id="11691639"/>
+<dbReference type="DOI" id="10.1016/s0027-5107(01)00226-3"/>
+</citation>
+<scope>VARIANTS PKD1 ARG-3560; GLN-3719 AND TRP-3753</scope>
+<scope>VARIANT MET-3510</scope>
+</reference>
+<reference key="42">
+<citation type="journal article" date="2002" name="Clin. Genet." volume="62" first="169" last="174">
+<title>Three novel mutations of the PKD1 gene in Korean patients with autosomal dominant polycystic kidney disease.</title>
+<authorList>
+<person name="Eo H.-S."/>
+<person name="Lee J.G."/>
+<person name="Ahn C."/>
+<person name="Cho J.T."/>
+<person name="Hwang D.Y."/>
+<person name="Hwang Y.H."/>
+<person name="Lee E.J."/>
+<person name="Kim Y.S."/>
+<person name="Han J.S."/>
+<person name="Kim S."/>
+<person name="Lee J.S."/>
+<person name="Jeoung D.I."/>
+<person name="Lee S.E."/>
+<person name="Kim U.K."/>
+</authorList>
+<dbReference type="PubMed" id="12220456"/>
+<dbReference type="DOI" id="10.1034/j.1399-0004.2002.620211.x"/>
+</citation>
+<scope>VARIANTS PKD1 SER-3602 AND SER-4255</scope>
+</reference>
+<reference key="43">
+<citation type="journal article" date="2002" name="Hum. Mutat." volume="19" first="240" last="250">
+<title>Mutation detection in the duplicated region of the polycystic kidney disease 1 (PKD1) gene in PKD1-linked Australian families.</title>
+<authorList>
+<person name="McCluskey M."/>
+<person name="Schiavello T."/>
+<person name="Hunter M."/>
+<person name="Hantke J."/>
+<person name="Angelicheva D."/>
+<person name="Bogdanova N."/>
+<person name="Markoff A."/>
+<person name="Thomas M."/>
+<person name="Dworniczak B."/>
+<person name="Horst J."/>
+<person name="Kalaydjieva L."/>
+</authorList>
+<dbReference type="PubMed" id="11857740"/>
+<dbReference type="DOI" id="10.1002/humu.10045"/>
+</citation>
+<scope>VARIANTS PKD1 CYS-381; ASP-2185; THR-2421 DEL; ASP-2785 AND 3027-THR--ARG-3039 DEL</scope>
+<scope>VARIANTS GLN-739; THR-1092; ARG-1399; MET-1649; ARG-2638; CYS-2765 AND LEU-3066</scope>
+</reference>
+<reference key="44">
+<citation type="journal article" date="2002" name="Hum. Mutat." volume="19" first="622" last="628">
+<title>Mutation analysis in PKD1 of Japanese autosomal dominant polycystic kidney disease patients.</title>
+<authorList>
+<person name="Inoue S."/>
+<person name="Inoue K."/>
+<person name="Utsunomiya M."/>
+<person name="Nozaki J."/>
+<person name="Yamada Y."/>
+<person name="Iwasa T."/>
+<person name="Mori E."/>
+<person name="Yoshinaga T."/>
+<person name="Koizumi A."/>
+</authorList>
+<dbReference type="PubMed" id="12007219"/>
+<dbReference type="DOI" id="10.1002/humu.10080"/>
+</citation>
+<scope>VARIANTS PKD1 ILE-2083; ARG-2814 AND PRO-2816</scope>
+<scope>VARIANTS MET-87 AND MET-3510</scope>
+</reference>
+<reference key="45">
+<citation type="journal article" date="2002" name="J. Med. Genet." volume="39" first="422" last="429">
+<title>Mutation screening of the PKD1 transcript by RT-PCR.</title>
+<authorList>
+<person name="Burtey S."/>
+<person name="Lossi A.M."/>
+<person name="Bayle J."/>
+<person name="Berland Y."/>
+<person name="Fontes M."/>
+</authorList>
+<dbReference type="PubMed" id="12070253"/>
+<dbReference type="DOI" id="10.1136/jmg.39.6.422"/>
+</citation>
+<scope>VARIANT PKD1 HIS-987</scope>
+<scope>VARIANTS ARG-1399 AND VAL-4045</scope>
+</reference>
+<reference key="46">
+<citation type="journal article" date="2002" name="Kidney Int." volume="61" first="1588" last="1599">
+<title>A complete mutation screen of the ADPKD genes by DHPLC.</title>
+<authorList>
+<person name="Rossetti S."/>
+<person name="Chauveau D."/>
+<person name="Walker D."/>
+<person name="Saggar-Malik A."/>
+<person name="Winearls C.G."/>
+<person name="Torres V.E."/>
+<person name="Harris P.C."/>
+</authorList>
+<dbReference type="PubMed" id="11967008"/>
+<dbReference type="DOI" id="10.1046/j.1523-1755.2002.00326.x"/>
+</citation>
+<scope>VARIANTS PKD1 TRP-1340; LYS-1811; CYS-2092; ILE-2260 DEL; PHE-3167 AND PRO-3852</scope>
+<scope>VARIANTS LEU-61; SER-572; THR-1092; SER-1168; ARG-1399; LEU-1684; ILE-1943; ARG-2638; SER-2674; MET-2708; ARG-2814; LEU-2958; ASN-2977; MET-3057; GLN-3435; VAL-3512; VAL-4045; VAL-4059; SER-4124; ILE-4146 AND PHE-4190</scope>
+</reference>
+<reference key="47">
+<citation type="journal article" date="2002" name="Nephrol. Dial. Transplant." volume="17" first="75" last="80">
+<title>Novel mutations of PKD1 gene in Chinese patients with autosomal dominant polycystic kidney disease.</title>
+<authorList>
+<person name="Ding L."/>
+<person name="Zhang S."/>
+<person name="Qiu W."/>
+<person name="Xiao C."/>
+<person name="Wu S."/>
+<person name="Zhang G."/>
+<person name="Cheng L."/>
+<person name="Zhang S."/>
+</authorList>
+<dbReference type="PubMed" id="11773467"/>
+<dbReference type="DOI" id="10.1093/ndt/17.1.75"/>
+</citation>
+<scope>VARIANTS PKD1 ASP-3632; LEU-3649 AND THR-3678</scope>
+<scope>VARIANTS VAL-4045; VAL-4059; GLU-4102; PRO-4106 AND ILE-4146</scope>
+</reference>
+<reference key="48">
+<citation type="journal article" date="2003" name="Lancet" volume="361" first="2196" last="2201">
+<title>Association of mutation position in polycystic kidney disease 1 (PKD1) gene and development of a vascular phenotype.</title>
+<authorList>
+<person name="Rossetti S."/>
+<person name="Chauveau D."/>
+<person name="Kubly V."/>
+<person name="Slezak J.M."/>
+<person name="Saggar-Malik A.K."/>
+<person name="Pei Y."/>
+<person name="Ong A.C.M."/>
+<person name="Stewart F."/>
+<person name="Watson M.L."/>
+<person name="Bergstralh E.J."/>
+<person name="Winearls C.G."/>
+<person name="Torres V.E."/>
+<person name="Harris P.C."/>
+</authorList>
+<dbReference type="PubMed" id="12842373"/>
+<dbReference type="DOI" id="10.1016/s0140-6736(03)13773-7"/>
+</citation>
+<scope>VARIANTS PKD1 ARG-164; GLY-210; ARG-508; ASP-690; ASN-1240 DEL; PRO-1667; LYS-1811; CYS-2092; CYS-2200; ILE-2260 DEL; ARG-2370; TYR-2373; LYS-2771; LEU-2802; ASN-3188 DEL; LEU-3355; PRO-3682 AND ARG-3751</scope>
+</reference>
+<reference key="49">
+<citation type="journal article" date="2005" name="J. Mol. Med." volume="83" first="638" last="646">
+<title>Genetics and phenotypic characteristics of autosomal dominant polycystic kidney disease in Finns.</title>
+<authorList>
+<person name="Peltola P."/>
+<person name="Lumiaho A."/>
+<person name="Miettinen R."/>
+<person name="Pihlajamaeki J."/>
+<person name="Sandford R."/>
+<person name="Laakso M."/>
+</authorList>
+<dbReference type="PubMed" id="15772804"/>
+<dbReference type="DOI" id="10.1007/s00109-005-0644-6"/>
+</citation>
+<scope>VARIANTS PKD1 SER-845; MET-3138 AND PRO-3954</scope>
+<scope>VARIANTS HIS-36; ARG-2638; LEU-3066; MET-3510; VAL-3512; VAL-4045 AND VAL-4059</scope>
+</reference>
+<reference key="50">
+<citation type="journal article" date="2009" name="Hum. Mutat." volume="30" first="264" last="273">
+<title>Novel method for genomic analysis of PKD1 and PKD2 mutations in autosomal dominant polycystic kidney disease.</title>
+<authorList>
+<person name="Tan Y.-C."/>
+<person name="Blumenfeld J.D."/>
+<person name="Anghel R."/>
+<person name="Donahue S."/>
+<person name="Belenkaya R."/>
+<person name="Balina M."/>
+<person name="Parker T."/>
+<person name="Levine D."/>
+<person name="Leonard D.G.B."/>
+<person name="Rennert H."/>
+</authorList>
+<dbReference type="PubMed" id="18837007"/>
+<dbReference type="DOI" id="10.1002/humu.20842"/>
+</citation>
+<scope>VARIANTS PKD1 LEU-61; ILE-99; TYR-594; MET-1242; CYS-2200; LYS-2422; ARG-2638; LEU-3066; SER-3726 AND VAL-4155</scope>
+<scope>VARIANTS HIS-36; GLN-739; THR-1092; ARG-1399; THR-1516; THR-1871; VAL-1926; ASP-1952; MET-2708; ARG-2814; VAL-3512; VAL-4045 AND VAL-4059</scope>
+</reference>
+<reference key="51">
+<citation type="journal article" date="2011" name="Nephrol. Dial. Transplant." volume="26" first="2181" last="2188">
+<title>Novel PKD1 and PKD2 mutations in autosomal dominant polycystic kidney disease (ADPKD).</title>
+<authorList>
+<person name="Hoefele J."/>
+<person name="Mayer K."/>
+<person name="Scholz M."/>
+<person name="Klein H.G."/>
+</authorList>
+<dbReference type="PubMed" id="21115670"/>
+<dbReference type="DOI" id="10.1093/ndt/gfq720"/>
+</citation>
+<scope>VARIANTS PKD1 GLY-97; ARG-436; PRO-442; ARG-727; PRO-727; ASP-2391; TRP-2434; TYR-2546; CYS-2569; THR-2646; ARG-2889; PRO-3154; ARG-3603 AND GLN-3750</scope>
+</reference>
+<reference key="52">
+<citation type="journal article" date="2012" name="Hum. Mutat." volume="33" first="1239" last="1250">
+<title>Autosomal dominant polycystic kidney disease: Comprehensive mutation analysis of PKD1 and PKD2 in 700 unrelated patients.</title>
+<authorList>
+<person name="Audrezet M.P."/>
+<person name="Gall E.C."/>
+<person name="Chen J.M."/>
+<person name="Redon S."/>
+<person name="Quere I."/>
+<person name="Creff J."/>
+<person name="Benech C."/>
+<person name="Maestri S."/>
+<person name="Meur Y.L."/>
+<person name="Ferec C."/>
+</authorList>
+<dbReference type="PubMed" id="22508176"/>
+<dbReference type="DOI" id="10.1002/humu.22103"/>
+</citation>
+<scope>VARIANTS PKD1 CYS-325; TRP-611; ASP-698; PRO-727; GLY-1206; CYS-2379; CYS-2767; LYS-2771; ARG-2995; SER-3651; GLN-3750; TRP-3753; CYS-4150 AND TRP-4276</scope>
+</reference>
+<comment type="function">
+<text evidence="4 35 47">Component of a heteromeric calcium-permeable ion channel formed by PKD1 and PKD2 that is activated by interaction between PKD1 and a Wnt family member, such as WNT3A and WNT9B (PubMed:27214281). Both PKD1 and PKD2 are required for channel activity (PubMed:27214281). Involved in renal tubulogenesis (PubMed:12482949). Involved in fluid-flow mechanosensation by the primary cilium in renal epithelium (By similarity). Acts as a regulator of cilium length, together with PKD2 (By similarity). The dynamic control of cilium length is essential in the regulation of mechanotransductive signaling (By similarity). The cilium length response creates a negative feedback loop whereby fluid shear-mediated deflection of the primary cilium, which decreases intracellular cAMP, leads to cilium shortening and thus decreases flow-induced signaling (By similarity). May be an ion-channel regulator. Involved in adhesive protein-protein and protein-carbohydrate interactions.</text>
+</comment>
+<comment type="subunit">
+<text evidence="4 13 39 41 42 46 47 49">Interacts with PKD2; the interaction is required for ciliary localization (PubMed:20881056). Component of a heterotetrameric channel complex with PKD2; the tetramer contains one PKD1 chain and three PKD2 chains (PubMed:30093605). Interacts with PKD2L1 (By similarity). Interacts with PRKX; involved in differentiation and controlled morphogenesis of the kidney (PubMed:17980165). Interacts (via extracellular domain) with WNT3A, WNT4, WNT5A and WNT9B (PubMed:27214281). Interacts with DVL1 and DVL2 (PubMed:27214281). Interacts with NPHP1 (via SH3 domain) (PubMed:20856870). Interacts with BBS1, BBS4, BBS5 and TTC8 (PubMed:24939912). Interacts with RGS7 (PubMed:10339594).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1752013">
+<id>P98161</id>
+</interactant>
+<interactant intactId="EBI-953828">
+<id>O15259</id>
+<label>NPHP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1752013">
+<id>P98161</id>
+</interactant>
+<interactant intactId="EBI-7813714">
+<id>Q13563</id>
+<label>PKD2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1752013">
+<id>P98161</id>
+</interactant>
+<interactant intactId="EBI-9837017">
+<id>Q13563-1</id>
+<label>PKD2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1951183">
+<id>P98161-1</id>
+</interactant>
+<interactant intactId="EBI-7813714">
+<id>Q13563</id>
+<label>PKD2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-15930070">
+<id>P98161-3</id>
+</interactant>
+<interactant intactId="EBI-9837017">
+<id>Q13563-1</id>
+<label>PKD2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="13 43 47 48 49">Cell membrane</location>
+<topology evidence="43 49">Multi-pass membrane protein</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="4">Cell projection</location>
+<location evidence="4">Cilium</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="4">Endoplasmic reticulum</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="4">Golgi apparatus</location>
+</subcellularLocation>
+<text evidence="4 48">PKD1 localization to the plasma and ciliary membranes requires PKD2, is independent of PKD2 channel activity, and involves stimulation of PKD1 autoproteolytic cleavage at the GPS domain. PKD1:PKD2 interaction is required to reach the Golgi apparatus from endoplasmic reticulum and then traffic to the cilia (By similarity). Ciliary localization of PKD1 requires BBS1 and ARL6/BBS3 (By similarity). Cell surface localization requires GANAB (PubMed:27259053).</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>P98161-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>P98161-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_009677 VSP_009678"/>
+</isoform>
+<isoform>
+<id>P98161-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_009678"/>
+</isoform>
+</comment>
+<comment type="domain">
+<text>The LDL-receptor class A domain is atypical; the potential calcium-binding site is missing.</text>
+</comment>
+<comment type="PTM">
+<text evidence="35">After synthesis, undergoes cleavage between Leu-3048 and Thr-3049 in the GPS domain. Cleavage at the GPS domain occurs through a cis-autoproteolytic mechanism involving an ester-intermediate via N-O acyl rearrangement. This process takes place in the early secretory pathway, depends on initial N-glycosylation, and requires the REJ domain. There is evidence that cleavage at GPS domain is incomplete. Uncleaved and cleaved products may have different functions in vivo.</text>
+</comment>
+<comment type="disease" evidence="12 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 40 44 45 52 54 55 56 57 58">
+<disease id="DI-00925">
+<name>Polycystic kidney disease 1 with or without polycystic liver disease</name>
+<acronym>PKD1</acronym>
+<description>An autosomal dominant disorder characterized by renal cysts, liver cysts and intracranial aneurysm. Clinical variability is due to differences in the rate of loss of glomerular filtration, the age of reaching end-stage renal disease and the occurrence of hypertension, symptomatic extrarenal cysts, and subarachnoid hemorrhage from intracranial 'berry' aneurysm.</description>
+<dbReference type="MIM" id="173900"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="60">Belongs to the polycystin family.</text>
+</comment>
+<comment type="caution">
+<text evidence="61 62">Variant Cys-2379 has been originally described as a benign polymorphism (PubMed:10854095). However, it is a likely pathogenic mutation (PubMed:22508176).</text>
+</comment>
+<comment type="online information" name="Functional Glycomics Gateway - Glycan Binding">
+<link uri="http://www.functionalglycomics.org/glycomics/GBPServlet?&amp;operationType=view&amp;cbpId=cbp_hum_Ctlect_204"/>
+<text>Polycystin-1</text>
+</comment>
+<comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+<link uri="http://atlasgeneticsoncology.org/Genes/PKD1ID41725ch16p13.html"/>
+</comment>
+<dbReference type="EMBL" id="U24497">
+<property type="protein sequence ID" value="AAC50128.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L33243">
+<property type="protein sequence ID" value="AAC37576.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L43619">
+<property type="protein sequence ID" value="AAC41765.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L43601">
+<property type="protein sequence ID" value="AAC41765.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L43602">
+<property type="protein sequence ID" value="AAC41765.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L43604">
+<property type="protein sequence ID" value="AAC41765.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L43605">
+<property type="protein sequence ID" value="AAC41765.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L43610">
+<property type="protein sequence ID" value="AAC41765.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L43617">
+<property type="protein sequence ID" value="AAC41765.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L43618">
+<property type="protein sequence ID" value="AAC41765.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC093513">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC009065">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS32369.1">
+<molecule id="P98161-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS45385.1">
+<molecule id="P98161-3"/>
+</dbReference>
+<dbReference type="PIR" id="A38971">
+<property type="entry name" value="A38971"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000287.3">
+<molecule id="P98161-3"/>
+<property type="nucleotide sequence ID" value="NM_000296.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001009944.2">
+<molecule id="P98161-1"/>
+<property type="nucleotide sequence ID" value="NM_001009944.2"/>
+</dbReference>
+<dbReference type="PDB" id="1B4R">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=275-354"/>
+</dbReference>
+<dbReference type="PDB" id="6A70">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.60"/>
+<property type="chains" value="B=3049-4169"/>
+</dbReference>
+<dbReference type="PDBsum" id="1B4R"/>
+<dbReference type="PDBsum" id="6A70"/>
+<dbReference type="SMR" id="P98161"/>
+<dbReference type="BioGRID" id="111327">
+<property type="interactions" value="33"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-4001">
+<property type="entry name" value="PKD1-PKD2 Polycystin complex"/>
+</dbReference>
+<dbReference type="CORUM" id="P98161"/>
+<dbReference type="DIP" id="DIP-52317N"/>
+<dbReference type="IntAct" id="P98161">
+<property type="interactions" value="12"/>
+</dbReference>
+<dbReference type="MINT" id="P98161"/>
+<dbReference type="STRING" id="9606.ENSP00000262304"/>
+<dbReference type="BindingDB" id="P98161"/>
+<dbReference type="ChEMBL" id="CHEMBL5772"/>
+<dbReference type="MEROPS" id="P02.036"/>
+<dbReference type="TCDB" id="1.A.5.1.1">
+<property type="family name" value="the polycystin cation channel (pcc) family"/>
+</dbReference>
+<dbReference type="GlyGen" id="P98161">
+<property type="glycosylation" value="60 sites"/>
+</dbReference>
+<dbReference type="iPTMnet" id="P98161"/>
+<dbReference type="PhosphoSitePlus" id="P98161"/>
+<dbReference type="BioMuta" id="PKD1"/>
+<dbReference type="DMDM" id="292495072"/>
+<dbReference type="MassIVE" id="P98161"/>
+<dbReference type="MaxQB" id="P98161"/>
+<dbReference type="PaxDb" id="P98161"/>
+<dbReference type="PeptideAtlas" id="P98161"/>
+<dbReference type="PRIDE" id="P98161"/>
+<dbReference type="ProteomicsDB" id="57797">
+<molecule id="P98161-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="57798">
+<molecule id="P98161-2"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="57799">
+<molecule id="P98161-3"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="23502">
+<property type="antibodies" value="192 antibodies"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000262304">
+<molecule id="P98161-1"/>
+<property type="protein sequence ID" value="ENSP00000262304"/>
+<property type="gene ID" value="ENSG00000008710"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000423118">
+<molecule id="P98161-3"/>
+<property type="protein sequence ID" value="ENSP00000399501"/>
+<property type="gene ID" value="ENSG00000008710"/>
+</dbReference>
+<dbReference type="GeneID" id="5310"/>
+<dbReference type="KEGG" id="hsa:5310"/>
+<dbReference type="UCSC" id="uc002cos.1">
+<molecule id="P98161-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="5310"/>
+<dbReference type="DisGeNET" id="5310"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000008710.17"/>
+<dbReference type="GeneCards" id="PKD1"/>
+<dbReference type="GeneReviews" id="PKD1"/>
+<dbReference type="HGNC" id="HGNC:9008">
+<property type="gene designation" value="PKD1"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000008710">
+<property type="expression patterns" value="Tissue enhanced (brain)"/>
+</dbReference>
+<dbReference type="MalaCards" id="PKD1"/>
+<dbReference type="MIM" id="173900">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="601313">
+<property type="type" value="gene+phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P98161"/>
+<dbReference type="OpenTargets" id="ENSG00000008710"/>
+<dbReference type="Orphanet" id="730">
+<property type="disease" value="Autosomal dominant polycystic kidney disease"/>
+</dbReference>
+<dbReference type="Orphanet" id="88924">
+<property type="disease" value="Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA35521"/>
+<dbReference type="eggNOG" id="KOG3599">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000158702"/>
+<dbReference type="HOGENOM" id="CLU_000173_0_0_1"/>
+<dbReference type="InParanoid" id="P98161"/>
+<dbReference type="KO" id="K04985"/>
+<dbReference type="OMA" id="VACLPDN"/>
+<dbReference type="OrthoDB" id="1276906at2759"/>
+<dbReference type="PhylomeDB" id="P98161"/>
+<dbReference type="TreeFam" id="TF316484"/>
+<dbReference type="PathwayCommons" id="P98161"/>
+<dbReference type="Reactome" id="R-HSA-5620916">
+<property type="pathway name" value="VxPx cargo-targeting to cilium"/>
+</dbReference>
+<dbReference type="SignaLink" id="P98161"/>
+<dbReference type="SIGNOR" id="P98161"/>
+<dbReference type="BioGRID-ORCS" id="5310">
+<property type="hits" value="18 hits in 876 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="PKD1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P98161"/>
+<dbReference type="GeneWiki" id="PKD1"/>
+<dbReference type="GenomeRNAi" id="5310"/>
+<dbReference type="Pharos" id="P98161">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P98161"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 16"/>
+</dbReference>
+<dbReference type="RNAct" id="P98161">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000008710">
+<property type="expression patterns" value="Expressed in right hemisphere of cerebellum and 237 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="P98161">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P98161">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016323">
+<property type="term" value="C:basolateral plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034704">
+<property type="term" value="C:calcium channel complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034703">
+<property type="term" value="C:cation channel complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009986">
+<property type="term" value="C:cell surface"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060170">
+<property type="term" value="C:ciliary membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005929">
+<property type="term" value="C:cilium"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005783">
+<property type="term" value="C:endoplasmic reticulum"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070062">
+<property type="term" value="C:extracellular exosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005794">
+<property type="term" value="C:Golgi apparatus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000139">
+<property type="term" value="C:Golgi membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030660">
+<property type="term" value="C:Golgi-associated vesicle membrane"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016021">
+<property type="term" value="C:integral component of membrane"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005887">
+<property type="term" value="C:integral component of plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016328">
+<property type="term" value="C:lateral plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031514">
+<property type="term" value="C:motile cilium"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002133">
+<property type="term" value="C:polycystin complex"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005262">
+<property type="term" value="F:calcium channel activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030246">
+<property type="term" value="F:carbohydrate binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044325">
+<property type="term" value="F:ion channel binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019904">
+<property type="term" value="F:protein domain specific binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019901">
+<property type="term" value="F:protein kinase binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042813">
+<property type="term" value="F:Wnt-activated receptor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009653">
+<property type="term" value="P:anatomical structure morphogenesis"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048754">
+<property type="term" value="P:branching morphogenesis of an epithelial tube"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070588">
+<property type="term" value="P:calcium ion transmembrane transport"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007161">
+<property type="term" value="P:calcium-independent cell-matrix adhesion"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001502">
+<property type="term" value="P:cartilage condensation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051216">
+<property type="term" value="P:cartilage development"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007050">
+<property type="term" value="P:cell cycle arrest"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0198738">
+<property type="term" value="P:cell-cell signaling by wnt"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007160">
+<property type="term" value="P:cell-matrix adhesion"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042994">
+<property type="term" value="P:cytoplasmic sequestering of transcription factor"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050982">
+<property type="term" value="P:detection of mechanical stimulus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048565">
+<property type="term" value="P:digestive tract development"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001892">
+<property type="term" value="P:embryonic placenta development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030010">
+<property type="term" value="P:establishment of cell polarity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048806">
+<property type="term" value="P:genitalia development"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007507">
+<property type="term" value="P:heart development"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007156">
+<property type="term" value="P:homophilic cell adhesion via plasma membrane adhesion molecules"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001701">
+<property type="term" value="P:in utero embryonic development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001822">
+<property type="term" value="P:kidney development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001889">
+<property type="term" value="P:liver development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060428">
+<property type="term" value="P:lung epithelium development"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036303">
+<property type="term" value="P:lymph vessel morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072177">
+<property type="term" value="P:mesonephric duct development"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072164">
+<property type="term" value="P:mesonephric tubule development"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072218">
+<property type="term" value="P:metanephric ascending thin limb development"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072205">
+<property type="term" value="P:metanephric collecting duct development"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072287">
+<property type="term" value="P:metanephric distal tubule morphogenesis"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072237">
+<property type="term" value="P:metanephric proximal tubule development"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021915">
+<property type="term" value="P:neural tube development"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018105">
+<property type="term" value="P:peptidyl-serine phosphorylation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060674">
+<property type="term" value="P:placenta blood vessel development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045737">
+<property type="term" value="P:positive regulation of cyclin-dependent protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007204">
+<property type="term" value="P:positive regulation of cytosolic calcium ion concentration"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032092">
+<property type="term" value="P:positive regulation of protein binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006611">
+<property type="term" value="P:protein export from nucleus"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051290">
+<property type="term" value="P:protein heterotetramerization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007259">
+<property type="term" value="P:receptor signaling pathway via JAK-STAT"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030155">
+<property type="term" value="P:regulation of cell adhesion"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000045">
+<property type="term" value="P:regulation of G1/S transition of mitotic cell cycle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060236">
+<property type="term" value="P:regulation of mitotic spindle organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061136">
+<property type="term" value="P:regulation of proteasomal protein catabolic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034405">
+<property type="term" value="P:response to fluid shear stress"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043588">
+<property type="term" value="P:skin development"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021510">
+<property type="term" value="P:spinal cord development"/>
+<property type="evidence" value="ECO:0000270"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="CDD" id="cd01752">
+<property type="entry name" value="PLAT_polycystin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.40.10">
+<property type="match status" value="11"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.10.100.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.80.10.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001304">
+<property type="entry name" value="C-type_lectin-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016186">
+<property type="entry name" value="C-type_lectin-like/link_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016187">
+<property type="entry name" value="CTDL_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000483">
+<property type="entry name" value="Cys-rich_flank_reg_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000203">
+<property type="entry name" value="GPS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013783">
+<property type="entry name" value="Ig-like_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001611">
+<property type="entry name" value="Leu-rich_rpt"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003591">
+<property type="entry name" value="Leu-rich_rpt_typical-subtyp"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032675">
+<property type="entry name" value="LRR_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000372">
+<property type="entry name" value="LRRNT"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000434">
+<property type="entry name" value="PC1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022409">
+<property type="entry name" value="PKD/Chitinase_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002859">
+<property type="entry name" value="PKD/REJ-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013122">
+<property type="entry name" value="PKD1_2_channel"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000601">
+<property type="entry name" value="PKD_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035986">
+<property type="entry name" value="PKD_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001024">
+<property type="entry name" value="PLAT/LH2_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036392">
+<property type="entry name" value="PLAT/LH2_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR042060">
+<property type="entry name" value="PLAT_polycystin1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006228">
+<property type="entry name" value="Polycystin_cat"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014010">
+<property type="entry name" value="REJ_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002889">
+<property type="entry name" value="WSC_carb-bd"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00059">
+<property type="entry name" value="Lectin_C"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13855">
+<property type="entry name" value="LRR_8"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00801">
+<property type="entry name" value="PKD"/>
+<property type="match status" value="15"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08016">
+<property type="entry name" value="PKD_channel"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01477">
+<property type="entry name" value="PLAT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02010">
+<property type="entry name" value="REJ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01822">
+<property type="entry name" value="WSC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00500">
+<property type="entry name" value="POLYCYSTIN1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00034">
+<property type="entry name" value="CLECT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00303">
+<property type="entry name" value="GPS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00308">
+<property type="entry name" value="LH2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00369">
+<property type="entry name" value="LRR_TYP"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SMART" id="SM00082">
+<property type="entry name" value="LRRCT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00013">
+<property type="entry name" value="LRRNT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00089">
+<property type="entry name" value="PKD"/>
+<property type="match status" value="15"/>
+</dbReference>
+<dbReference type="SMART" id="SM00321">
+<property type="entry name" value="WSC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF49299">
+<property type="entry name" value="SSF49299"/>
+<property type="match status" value="13"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF49723">
+<property type="entry name" value="SSF49723"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56436">
+<property type="entry name" value="SSF56436"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00864">
+<property type="entry name" value="PCC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50041">
+<property type="entry name" value="C_TYPE_LECTIN_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50221">
+<property type="entry name" value="GPS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51450">
+<property type="entry name" value="LRR"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50093">
+<property type="entry name" value="PKD"/>
+<property type="match status" value="12"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50095">
+<property type="entry name" value="PLAT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51111">
+<property type="entry name" value="REJ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51212">
+<property type="entry name" value="WSC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0068">Autocatalytic cleavage</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0966">Cell projection</keyword>
+<keyword id="KW-1186">Ciliopathy</keyword>
+<keyword id="KW-0969">Cilium</keyword>
+<keyword id="KW-0175">Coiled coil</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0256">Endoplasmic reticulum</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0333">Golgi apparatus</keyword>
+<keyword id="KW-0430">Lectin</keyword>
+<keyword id="KW-0433">Leucine-rich repeat</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0812">Transmembrane</keyword>
+<keyword id="KW-1133">Transmembrane helix</keyword>
+<keyword id="KW-0879">Wnt signaling pathway</keyword>
+<feature type="signal peptide" evidence="5">
+<location>
+<begin position="1"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="chain" description="Polycystin-1" id="PRO_0000024298">
+<location>
+<begin position="24"/>
+<end position="4303"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="49">
+<location>
+<begin position="24"/>
+<end position="3074"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="49">
+<location>
+<begin position="3075"/>
+<end position="3095"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="49">
+<location>
+<begin position="3096"/>
+<end position="3277"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="49">
+<location>
+<begin position="3278"/>
+<end position="3298"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="49">
+<location>
+<begin position="3299"/>
+<end position="3323"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="49">
+<location>
+<begin position="3324"/>
+<end position="3344"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="49">
+<location>
+<begin position="3345"/>
+<end position="3559"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="49">
+<location>
+<begin position="3560"/>
+<end position="3580"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="49">
+<location>
+<begin position="3581"/>
+<end position="3582"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="49">
+<location>
+<begin position="3583"/>
+<end position="3603"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="49">
+<location>
+<begin position="3604"/>
+<end position="3665"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="49">
+<location>
+<begin position="3666"/>
+<end position="3686"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="49">
+<location>
+<begin position="3687"/>
+<end position="3901"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="49">
+<location>
+<begin position="3902"/>
+<end position="3922"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="49">
+<location>
+<begin position="3923"/>
+<end position="3935"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="49">
+<location>
+<begin position="3936"/>
+<end position="3956"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="49">
+<location>
+<begin position="3957"/>
+<end position="3984"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="49">
+<location>
+<begin position="3985"/>
+<end position="4005"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="49">
+<location>
+<begin position="4006"/>
+<end position="4027"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="49">
+<location>
+<begin position="4028"/>
+<end position="4048"/>
+</location>
+</feature>
+<feature type="topological domain" description="Extracellular" evidence="49">
+<location>
+<begin position="4049"/>
+<end position="4090"/>
+</location>
+</feature>
+<feature type="transmembrane region" description="Helical" evidence="49">
+<location>
+<begin position="4091"/>
+<end position="4110"/>
+</location>
+</feature>
+<feature type="topological domain" description="Cytoplasmic" evidence="49">
+<location>
+<begin position="4111"/>
+<end position="4303"/>
+</location>
+</feature>
+<feature type="domain" description="LRRNT">
+<location>
+<begin position="24"/>
+<end position="67"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 1">
+<location>
+<begin position="68"/>
+<end position="91"/>
+</location>
+</feature>
+<feature type="repeat" description="LRR 2">
+<location>
+<begin position="92"/>
+<end position="113"/>
+</location>
+</feature>
+<feature type="domain" description="LRRCT">
+<location>
+<begin position="125"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="domain" description="WSC" evidence="11">
+<location>
+<begin position="177"/>
+<end position="271"/>
+</location>
+</feature>
+<feature type="domain" description="PKD 1" evidence="8">
+<location>
+<begin position="272"/>
+<end position="359"/>
+</location>
+</feature>
+<feature type="domain" description="C-type lectin" evidence="6">
+<location>
+<begin position="415"/>
+<end position="531"/>
+</location>
+</feature>
+<feature type="domain" description="LDL-receptor class A; atypical">
+<location>
+<begin position="638"/>
+<end position="671"/>
+</location>
+</feature>
+<feature type="domain" description="PKD 2" evidence="8">
+<location>
+<begin position="743"/>
+<end position="817"/>
+</location>
+</feature>
+<feature type="domain" description="PKD 3" evidence="8">
+<location>
+<begin position="855"/>
+<end position="928"/>
+</location>
+</feature>
+<feature type="domain" description="PKD 4" evidence="8">
+<location>
+<begin position="935"/>
+<end position="1020"/>
+</location>
+</feature>
+<feature type="domain" description="PKD 5" evidence="8">
+<location>
+<begin position="1023"/>
+<end position="1129"/>
+</location>
+</feature>
+<feature type="domain" description="PKD 6" evidence="8">
+<location>
+<begin position="1127"/>
+<end position="1215"/>
+</location>
+</feature>
+<feature type="domain" description="PKD 7" evidence="8">
+<location>
+<begin position="1213"/>
+<end position="1298"/>
+</location>
+</feature>
+<feature type="domain" description="PKD 8" evidence="8">
+<location>
+<begin position="1294"/>
+<end position="1383"/>
+</location>
+</feature>
+<feature type="domain" description="PKD 9" evidence="8">
+<location>
+<begin position="1382"/>
+<end position="1469"/>
+</location>
+</feature>
+<feature type="domain" description="PKD 10" evidence="8">
+<location>
+<begin position="1468"/>
+<end position="1551"/>
+</location>
+</feature>
+<feature type="domain" description="PKD 11" evidence="8">
+<location>
+<begin position="1550"/>
+<end position="1635"/>
+</location>
+</feature>
+<feature type="domain" description="PKD 12" evidence="8">
+<location>
+<begin position="1634"/>
+<end position="1721"/>
+</location>
+</feature>
+<feature type="domain" description="PKD 13" evidence="8">
+<location>
+<begin position="1719"/>
+<end position="1805"/>
+</location>
+</feature>
+<feature type="domain" description="PKD 14" evidence="8">
+<location>
+<begin position="1807"/>
+<end position="1890"/>
+</location>
+</feature>
+<feature type="domain" description="PKD 15" evidence="8">
+<location>
+<begin position="1889"/>
+<end position="1974"/>
+</location>
+</feature>
+<feature type="domain" description="PKD 16" evidence="8">
+<location>
+<begin position="1977"/>
+<end position="2057"/>
+</location>
+</feature>
+<feature type="domain" description="PKD 17" evidence="8">
+<location>
+<begin position="2060"/>
+<end position="2148"/>
+</location>
+</feature>
+<feature type="domain" description="REJ" evidence="10">
+<location>
+<begin position="2146"/>
+<end position="2833"/>
+</location>
+</feature>
+<feature type="domain" description="GPS" evidence="7">
+<location>
+<begin position="3012"/>
+<end position="3061"/>
+</location>
+</feature>
+<feature type="domain" description="PLAT" evidence="9">
+<location>
+<begin position="3118"/>
+<end position="3233"/>
+</location>
+</feature>
+<feature type="coiled-coil region" evidence="5">
+<location>
+<begin position="4220"/>
+<end position="4251"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by autolysis" evidence="35 38">
+<location>
+<begin position="3048"/>
+<end position="3049"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PRKX; in vitro" evidence="39">
+<location>
+<position position="4166"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="50"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="89"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="116"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="121"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="187"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="621"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="632"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="746"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="810"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="841"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="854"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="890"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="921"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1004"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1010"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1034"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1072"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1113"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1178"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1194"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1240"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1269"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1336"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1348"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1382"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1450"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1455"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1474"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1518"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1541"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1554"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1563"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1647"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1661"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1733"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1791"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1834"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1867"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1880"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="1991"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="2050"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="2074"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="2125"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="2248"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="2353"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="2395"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="2412"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="2567"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="2578"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="2645"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="2718"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="2754"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="2841"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="2878"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="2925"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="2956"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="2994"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="3738"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="3790"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="5">
+<location>
+<position position="3845"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="3">
+<location>
+<begin position="436"/>
+<end position="530"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="3">
+<location>
+<begin position="508"/>
+<end position="522"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="3">
+<location>
+<begin position="640"/>
+<end position="653"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="3">
+<location>
+<begin position="647"/>
+<end position="665"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="3">
+<location>
+<begin position="660"/>
+<end position="669"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_009677" evidence="59">
+<original>GWHDAEDAGAP</original>
+<variation>A</variation>
+<location>
+<begin position="2497"/>
+<end position="2507"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2 and isoform 3." id="VSP_009678" evidence="59">
+<location>
+<position position="3390"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_011030" evidence="23">
+<original>L</original>
+<variation>Q</variation>
+<location>
+<position position="13"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs560049593." id="VAR_058759" evidence="37 40">
+<original>P</original>
+<variation>H</variation>
+<location>
+<position position="36"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; unknown pathological significance; dbSNP:rs886038369." id="VAR_058760" evidence="31 40">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="61"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_011031" evidence="23">
+<original>S</original>
+<variation>F</variation>
+<location>
+<position position="75"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_058761" evidence="32">
+<original>L</original>
+<variation>M</variation>
+<location>
+<position position="87"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs958271752." id="VAR_012452" evidence="25">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="88"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_064380" evidence="44">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="97"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; unknown pathological significance; nearly abolishes expression at the cell membrane." id="VAR_058762" evidence="40 47">
+<original>S</original>
+<variation>I</variation>
+<location>
+<position position="99"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_011032" evidence="23">
+<original>W</original>
+<variation>C</variation>
+<location>
+<position position="139"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058763" evidence="36">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="164"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058764" evidence="36">
+<original>C</original>
+<variation>G</variation>
+<location>
+<position position="210"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs199476099." id="VAR_010085" evidence="14">
+<original>R</original>
+<variation>L</variation>
+<location>
+<position position="324"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_068024" evidence="45">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="325"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058765" evidence="30">
+<original>G</original>
+<variation>C</variation>
+<location>
+<position position="381"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs1555458892." id="VAR_064381" evidence="44">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="436"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_064382" evidence="44">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="442"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs58598099." id="VAR_058766" evidence="36">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="508"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs149022148." id="VAR_058767" evidence="31">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="572"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058768" evidence="40">
+<original>F</original>
+<variation>Y</variation>
+<location>
+<position position="594"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs1555458413." id="VAR_068025" evidence="45">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="611"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058769" evidence="36">
+<original>V</original>
+<variation>D</variation>
+<location>
+<position position="690"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_068026" evidence="45">
+<original>Y</original>
+<variation>D</variation>
+<location>
+<position position="698"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs1616940." id="VAR_064383" evidence="44 45">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="727"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_064384" evidence="44">
+<original>L</original>
+<variation>R</variation>
+<location>
+<position position="727"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_058770">
+<original>P</original>
+<variation>R</variation>
+<location>
+<position position="738"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs40433." id="VAR_058771" evidence="30 40 50">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="739"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs199476100." id="VAR_010086" evidence="14 37">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="845"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2369063." id="VAR_056696">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="950"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_012453" evidence="25">
+<original>W</original>
+<variation>R</variation>
+<location>
+<position position="967"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs1266492292." id="VAR_058772" evidence="33">
+<original>Q</original>
+<variation>H</variation>
+<location>
+<position position="987"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2549677." id="VAR_056697" evidence="30 31 40 51">
+<original>M</original>
+<variation>T</variation>
+<location>
+<position position="1092"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs241573." id="VAR_056698">
+<original>L</original>
+<variation>R</variation>
+<location>
+<position position="1114"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs573566419." id="VAR_011033" evidence="21">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="1166"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs146887330." id="VAR_058773" evidence="31">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="1168"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_068027" evidence="45">
+<original>V</original>
+<variation>G</variation>
+<location>
+<position position="1206"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058774" evidence="36">
+<location>
+<position position="1240"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; unknown pathological significance; dbSNP:rs1033550407." id="VAR_058775" evidence="40">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="1242"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs143690392." id="VAR_058776" evidence="31">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="1340"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs116092985." id="VAR_010087" evidence="14 15 30 31 33 40">
+<original>W</original>
+<variation>R</variation>
+<location>
+<position position="1399"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs148164067." id="VAR_058777" evidence="40">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="1516"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs241572." id="VAR_056699">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="1557"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs761106434." id="VAR_058778" evidence="30">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="1649"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058779" evidence="36">
+<original>T</original>
+<variation>P</variation>
+<location>
+<position position="1667"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs139520275." id="VAR_058780" evidence="31">
+<original>S</original>
+<variation>L</variation>
+<location>
+<position position="1684"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs241571." id="VAR_056700">
+<original>T</original>
+<variation>K</variation>
+<location>
+<position position="1734"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Rare polymorphism; dbSNP:rs151176070." id="VAR_010088" evidence="14">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="1786"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs778028644." id="VAR_058781" evidence="31 36">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="1811"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs144137200." id="VAR_058782" evidence="40">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="1871"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs754890213." id="VAR_058783" evidence="40">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="1926"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs137978188." id="VAR_058784" evidence="31">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="1943"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_058785" evidence="40">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="1952"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_011034" evidence="21">
+<original>V</original>
+<variation>E</variation>
+<location>
+<position position="1956"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_011035" evidence="23">
+<original>FT</original>
+<variation>L</variation>
+<location>
+<begin position="1992"/>
+<end position="1993"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs752388015." id="VAR_011036" evidence="21">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="1995"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs1383930225." id="VAR_058786" evidence="32">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="2083"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058787" evidence="31 36">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="2092"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058788" evidence="30">
+<original>Y</original>
+<variation>D</variation>
+<location>
+<position position="2185"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs140869992." id="VAR_058789" evidence="36 40">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="2200"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_011037" evidence="23">
+<location>
+<begin position="2220"/>
+<end position="2224"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; unknown pathological significance; dbSNP:rs139971481." id="VAR_011038" evidence="18">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="2250"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058790" evidence="31 36">
+<location>
+<position position="2260"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; unknown pathological significance; dbSNP:rs200433577." id="VAR_011039" evidence="18">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="2329"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_011040" evidence="23">
+<original>Y</original>
+<variation>D</variation>
+<location>
+<position position="2336"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs1567187445." id="VAR_058791" evidence="36">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="2370"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058792" evidence="36">
+<original>C</original>
+<variation>Y</variation>
+<location>
+<position position="2373"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_011041" evidence="18 45">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="2379"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_064385" evidence="44">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="2391"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_012454" evidence="15">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="2392"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs538769374." id="VAR_011042" evidence="21">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="2408"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058793" evidence="30">
+<location>
+<position position="2421"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs1555453210." id="VAR_058794" evidence="40">
+<original>T</original>
+<variation>K</variation>
+<location>
+<position position="2422"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs1555453207." id="VAR_012455" evidence="15">
+<original>S</original>
+<variation>F</variation>
+<location>
+<position position="2423"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs151257298." id="VAR_064386" evidence="44">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="2434"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_011043">
+<original>G</original>
+<variation>GG</variation>
+<location>
+<position position="2443"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs1161298621." id="VAR_012456" evidence="27">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="2471"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2432404." id="VAR_056701">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="2515"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; unknown pathological significance." id="VAR_012457" evidence="27">
+<original>Q</original>
+<variation>L</variation>
+<location>
+<position position="2519"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3874655." id="VAR_056702">
+<original>S</original>
+<variation>G</variation>
+<location>
+<position position="2534"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs200037070." id="VAR_064387" evidence="44">
+<original>H</original>
+<variation>Y</variation>
+<location>
+<position position="2546"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs28369051." id="VAR_012458" evidence="15">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="2548"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs758896945." id="VAR_064388" evidence="44">
+<original>S</original>
+<variation>C</variation>
+<location>
+<position position="2569"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; unknown pathological significance." id="VAR_012459" evidence="27">
+<location>
+<position position="2579"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2432405." id="VAR_012460" evidence="27">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="2582"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs778565182." id="VAR_011044" evidence="21">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="2604"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; unknown pathological significance." id="VAR_012461" evidence="27">
+<location>
+<position position="2613"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs9936785." id="VAR_012462" evidence="15 27 30 31 37 40">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="2638"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs374500158." id="VAR_064389" evidence="44">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="2646"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; unknown pathological significance; dbSNP:rs1490043027." id="VAR_012463" evidence="27">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="2649"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs144557371." id="VAR_011045" evidence="23 31">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="2674"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs201238819." id="VAR_012464" evidence="25">
+<original>L</original>
+<variation>R</variation>
+<location>
+<position position="2696"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs147350387." id="VAR_011046" evidence="23 31 40">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="2708"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs150568356." id="VAR_011047" evidence="23">
+<original>P</original>
+<variation>T</variation>
+<location>
+<position position="2734"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs141717814." id="VAR_011048" evidence="23">
+<original>Q</original>
+<variation>L</variation>
+<location>
+<position position="2735"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1800569." id="VAR_014918">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="2746"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_011049" evidence="23">
+<original>A</original>
+<variation>D</variation>
+<location>
+<position position="2752"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Associated with PKD1; dbSNP:rs1800568." id="VAR_005533" evidence="56">
+<original>M</original>
+<variation>T</variation>
+<location>
+<position position="2760"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Associated with PKD1." id="VAR_058795" evidence="56">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="2761"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_005535" evidence="56">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="2763"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Associated with PKD1." id="VAR_005536" evidence="56">
+<original>M</original>
+<variation>T</variation>
+<location>
+<position position="2764"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs144979397." id="VAR_011051" evidence="23 30">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="2765"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_011050">
+<original>R</original>
+<variation>RILMR</variation>
+<location>
+<position position="2765"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_068028" evidence="45">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="2767"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; associated with S-2858; dbSNP:rs1456510041." id="VAR_011052" evidence="23">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="2768"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; does not undergo autoproteolytic cleavage; dbSNP:rs1057518897." id="VAR_011053" evidence="23 35 36 45">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="2771"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs151089809." id="VAR_011054" evidence="23">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="2782"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058796" evidence="30">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="2785"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a patient with polycystic kidney disease; does not affect autoproteolytic cleavage at the GPS domain; dbSNP:rs367746233." id="VAR_005537" evidence="35 56">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="2791"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs534112936." id="VAR_058797" evidence="36">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="2802"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; unknown pathological significance; dbSNP:rs149151043." id="VAR_011055" evidence="23 31 32 40">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="2814"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs1567177684." id="VAR_011056" evidence="23 32">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="2816"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_005538" evidence="56">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="2826"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; associated with M-2768; dbSNP:rs755522953." id="VAR_011057" evidence="23">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="2858"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_011058" evidence="23">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="2888"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs752447240." id="VAR_064390" evidence="44">
+<original>S</original>
+<variation>R</variation>
+<location>
+<position position="2889"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs147788838." id="VAR_011059" evidence="23">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="2905"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; does not undergo autoproteolytic cleavage." id="VAR_011060" evidence="19 35">
+<original>H</original>
+<variation>P</variation>
+<location>
+<position position="2921"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs750780241." id="VAR_058798" evidence="31">
+<original>S</original>
+<variation>L</variation>
+<location>
+<position position="2958"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs13337123." id="VAR_011061" evidence="23">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="2966"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs150189496." id="VAR_012465" evidence="27">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="2972"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_058799" evidence="31">
+<original>T</original>
+<variation>N</variation>
+<location>
+<position position="2977"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; unknown pathological significance." id="VAR_012466" evidence="27">
+<location>
+<position position="2978"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs373952574." id="VAR_012467" evidence="25">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="2985"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; does not undergo autoproteolytic cleavage; dbSNP:rs1555450487." id="VAR_010089" evidence="35 54">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="2993"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_068029" evidence="45">
+<original>L</original>
+<variation>R</variation>
+<location>
+<position position="2995"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1063401." id="VAR_056703">
+<original>Q</original>
+<variation>E</variation>
+<location>
+<position position="3005"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_005539" evidence="56">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="3008"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs117896488." id="VAR_058800" evidence="26">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="3008"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_011062" evidence="23">
+<location>
+<begin position="3012"/>
+<end position="3017"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; does not undergo autoproteolytic cleavage." id="VAR_010090" evidence="35 54">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="3016"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs17135779." id="VAR_056704">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="3023"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058801" evidence="30">
+<location>
+<begin position="3027"/>
+<end position="3039"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs200522524." id="VAR_012468" evidence="25">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="3039"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs778055216." id="VAR_058802" evidence="31">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="3057"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs9925969." id="VAR_011063" evidence="18 19 23 27 30 37 40 56">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="3066"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; unknown pathological significance; dbSNP:rs1358566538." id="VAR_058803" evidence="37">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="3138"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_011064" evidence="18">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="3139"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_064391" evidence="44">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="3154"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs139945204." id="VAR_058804" evidence="31">
+<original>I</original>
+<variation>F</variation>
+<location>
+<position position="3167"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058805" evidence="36">
+<location>
+<position position="3188"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_011065" evidence="18">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="3193"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs140791671." id="VAR_013838" evidence="24">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="3247"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs201780393." id="VAR_012469" evidence="25">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="3285"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1242837732." id="VAR_012470" evidence="25">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="3311"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs781263445." id="VAR_058806" evidence="36">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="3355"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs371283948." id="VAR_005541" evidence="19 58">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="3375"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs776463508." id="VAR_013839" evidence="24">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="3382"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs140189010." id="VAR_058807" evidence="31">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="3435"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs45478794." id="VAR_010091" evidence="26 28 32 37 54">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="3510"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; unknown pathological significance; dbSNP:rs141946034." id="VAR_010092" evidence="54">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="3511"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34197769." id="VAR_011066" evidence="31 37 40">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="3512"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs79000340." id="VAR_012471" evidence="28">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="3560"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_010093">
+<original>S</original>
+<variation>N</variation>
+<location>
+<position position="3562"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs781492044." id="VAR_058808" evidence="34">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="3602"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_064392" evidence="44">
+<original>W</original>
+<variation>R</variation>
+<location>
+<position position="3603"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs1416373452." id="VAR_005542" evidence="29 52">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="3632"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058809" evidence="29">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="3649"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_068030" evidence="45">
+<original>G</original>
+<variation>S</variation>
+<location>
+<position position="3651"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_005543" evidence="29 55">
+<original>M</original>
+<variation>T</variation>
+<location>
+<position position="3678"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058810" evidence="36">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="3682"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs1555446576." id="VAR_011067" evidence="22 28">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="3719"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; unknown pathological significance." id="VAR_058811" evidence="40">
+<original>W</original>
+<variation>S</variation>
+<location>
+<position position="3726"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_005544" evidence="16 52">
+<location>
+<begin position="3748"/>
+<end position="3752"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs1327414405." id="VAR_064393" evidence="44 45">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="3750"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058812" evidence="36">
+<original>Q</original>
+<variation>R</variation>
+<location>
+<position position="3751"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs1167476946." id="VAR_011068" evidence="17 28 45">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="3753"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_011069" evidence="17">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="3815"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_011070" evidence="22 31">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="3852"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; unknown pathological significance." id="VAR_058813" evidence="37">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="3954"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_010094">
+<original>F</original>
+<variation>FLLF</variation>
+<location>
+<position position="3996"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs142768096." id="VAR_005545" evidence="57">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="4032"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs10960." id="VAR_005546" evidence="16 22 29 31 33 37 40 57">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="4045"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_005547" evidence="53">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="4058"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs3209986." id="VAR_010095" evidence="29 31 37 40">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="4059"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1306483854." id="VAR_058814" evidence="29">
+<original>G</original>
+<variation>E</variation>
+<location>
+<position position="4102"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_058815" evidence="29">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="4106"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1309138642." id="VAR_058816" evidence="31">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="4124"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_011071" evidence="16">
+<location>
+<position position="4132"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_010096" evidence="20">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="4136"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs148478410." id="VAR_058817" evidence="29 31">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="4146"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs1282668884." id="VAR_068031" evidence="45">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="4150"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs115538130." id="VAR_010097" evidence="20">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="4154"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058818" evidence="40">
+<original>F</original>
+<variation>V</variation>
+<location>
+<position position="4155"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs547854563." id="VAR_010098" evidence="31 54">
+<original>S</original>
+<variation>F</variation>
+<location>
+<position position="4190"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_010099" evidence="12">
+<original>Q</original>
+<variation>P</variation>
+<location>
+<position position="4225"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1." id="VAR_058819" evidence="34">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="4255"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In PKD1; dbSNP:rs114251396." id="VAR_010100" evidence="12 45">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="4276"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not affect auto-cleavage." evidence="38">
+<original>T</original>
+<variation>C</variation>
+<variation>S</variation>
+<location>
+<position position="3049"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Does not undergo auto-cleavage." evidence="38">
+<original>T</original>
+<variation>G</variation>
+<variation>R</variation>
+<variation>V</variation>
+<location>
+<position position="3049"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAC50128." ref="1" evidence="60">
+<original>A</original>
+<variation>E</variation>
+<location>
+<position position="71"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAC50128." ref="1" evidence="60">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="138"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAC50128." ref="1" evidence="60">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="253"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAC50128." ref="1" evidence="60">
+<original>A</original>
+<variation>D</variation>
+<location>
+<position position="302"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC37576/AAC41765." ref="2" evidence="60">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="691"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAC50128." ref="1" evidence="60">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="763"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAC50128." ref="1" evidence="60">
+<original>AT</original>
+<variation>QR</variation>
+<location>
+<begin position="774"/>
+<end position="775"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC37576/AAC41765." ref="2" evidence="60">
+<original>L</original>
+<variation>M</variation>
+<location>
+<position position="792"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAC50128." ref="1" evidence="60">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="866"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAC50128." ref="1" evidence="60">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="884"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC37576/AAC41765." ref="2" evidence="60">
+<original>T</original>
+<variation>N</variation>
+<location>
+<position position="1056"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAC50128." ref="1" evidence="60">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="1277"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC37576/AAC41765." ref="2" evidence="60">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="1724"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC37576/AAC41765." ref="2" evidence="60">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="1976"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAC50128." ref="1" evidence="60">
+<original>QL</original>
+<variation>HV</variation>
+<location>
+<begin position="3982"/>
+<end position="3983"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; AAC50128." ref="1" evidence="60">
+<original>QL</original>
+<variation>HV</variation>
+<location>
+<begin position="4005"/>
+<end position="4006"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="276"/>
+<end position="278"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="285"/>
+<end position="296"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="301"/>
+<end position="306"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="313"/>
+<end position="317"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="320"/>
+<end position="325"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="327"/>
+<end position="338"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="343"/>
+<end position="353"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1B4R"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6A70"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250"/>
+<evidence key="4" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="O08852"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255"/>
+<evidence key="6" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00040"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00098"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00151"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00152"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00511"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00558"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10200984"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10339594"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10364515"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10577909"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10647901"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10729710"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10854095"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10923040"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10987650"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11012875"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11058904"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11115377"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11216660"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11316854"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11558899"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11571556"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11691639"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11773467"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11857740"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11967008"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12007219"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12070253"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12220456"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12482949"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12842373"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15772804"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17525154"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17980165"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18837007"/>
+</source>
+</evidence>
+<evidence key="41" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20856870"/>
+</source>
+</evidence>
+<evidence key="42" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20881056"/>
+</source>
+</evidence>
+<evidence key="43" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20980620"/>
+</source>
+</evidence>
+<evidence key="44" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21115670"/>
+</source>
+</evidence>
+<evidence key="45" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22508176"/>
+</source>
+</evidence>
+<evidence key="46" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24939912"/>
+</source>
+</evidence>
+<evidence key="47" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27214281"/>
+</source>
+</evidence>
+<evidence key="48" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27259053"/>
+</source>
+</evidence>
+<evidence key="49" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30093605"/>
+</source>
+</evidence>
+<evidence key="50" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7663510"/>
+</source>
+</evidence>
+<evidence key="51" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7736581"/>
+</source>
+</evidence>
+<evidence key="52" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8554072"/>
+</source>
+</evidence>
+<evidence key="53" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9150733"/>
+</source>
+</evidence>
+<evidence key="54" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9199561"/>
+</source>
+</evidence>
+<evidence key="55" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9259200"/>
+</source>
+</evidence>
+<evidence key="56" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9285784"/>
+</source>
+</evidence>
+<evidence key="57" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9521593"/>
+</source>
+</evidence>
+<evidence key="58" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9921908"/>
+</source>
+</evidence>
+<evidence key="59" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="7663510"/>
+</source>
+</evidence>
+<evidence key="60" type="ECO:0000305"/>
+<evidence key="61" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="10854095"/>
+</source>
+</evidence>
+<evidence key="62" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="22508176"/>
+</source>
+</evidence>
+<evidence key="63" type="ECO:0000312">
+<source>
+<dbReference type="HGNC" id="HGNC:9008"/>
+</source>
+</evidence>
+<sequence length="4303" mass="462529" checksum="AEDAC48F3F0A853C" modified="2010-03-23" version="3" precursor="true">MPPAAPARLALALGLGLWLGALAGGPGRGCGPCEPPCLCGPAPGAACRVNCSGRGLRTLGPALRIPADATALDVSHNLLRALDVGLLANLSALAELDISNNKISTLEEGIFANLFNLSEINLSGNPFECDCGLAWLPRWAEEQQVRVVQPEAATCAGPGSLAGQPLLGIPLLDSGCGEEYVACLPDNSSGTVAAVSFSAAHEGLLQPEACSAFCFSTGQGLAALSEQGWCLCGAAQPSSASFACLSLCSGPPPPPAPTCRGPTLLQHVFPASPGATLVGPHGPLASGQLAAFHIAAPLPVTATRWDFGDGSAEVDAAGPAASHRYVLPGRYHVTAVLALGAGSALLGTDVQVEAAPAALELVCPSSVQSDESLDLSIQNRGGSGLEAAYSIVALGEEPARAVHPLCPSDTEIFPGNGHCYRLVVEKAAWLQAQEQCQAWAGAALAMVDSPAVQRFLVSRVTRSLDVWIGFSTVQGVEVGPAPQGEAFSLESCQNWLPGEPHPATAEHCVRLGPTGWCNTDLCSAPHSYVCELQPGGPVQDAENLLVGAPSGDLQGPLTPLAQQDGLSAPHEPVEVMVFPGLRLSREAFLTTAEFGTQELRRPAQLRLQVYRLLSTAGTPENGSEPESRSPDNRTQLAPACMPGGRWCPGANICLPLDASCHPQACANGCTSGPGLPGAPYALWREFLFSVPAGPPAQYSVTLHGQDVLMLPGDLVGLQHDAGPGALLHCSPAPGHPGPRAPYLSANASSWLPHLPAQLEGTWACPACALRLLAATEQLTVLLGLRPNPGLRLPGRYEVRAEVGNGVSRHNLSCSFDVVSPVAGLRVIYPAPRDGRLYVPTNGSALVLQVDSGANATATARWPGGSVSARFENVCPALVATFVPGCPWETNDTLFSVVALPWLSEGEHVVDVVVENSASRANLSLRVTAEEPICGLRATPSPEARVLQGVLVRYSPVVEAGSDMVFRWTINDKQSLTFQNVVFNVIYQSAAVFKLSLTASNHVSNVTVNYNVTVERMNRMQGLQVSTVPAVLSPNATLALTAGVLVDSAVEVAFLWTFGDGEQALHQFQPPYNESFPVPDPSVAQVLVEHNVMHTYAAPGEYLLTVLASNAFENLTQQVPVSVRASLPSVAVGVSDGVLVAGRPVTFYPHPLPSPGGVLYTWDFGDGSPVLTQSQPAANHTYASRGTYHVRLEVNNTVSGAAAQADVRVFEELRGLSVDMSLAVEQGAPVVVSAAVQTGDNITWTFDMGDGTVLSGPEATVEHVYLRAQNCTVTVGAASPAGHLARSLHVLVFVLEVLRVEPAACIPTQPDARLTAYVTGNPAHYLFDWTFGDGSSNTTVRGCPTVTHNFTRSGTFPLALVLSSRVNRAHYFTSICVEPEVGNVTLQPERQFVQLGDEAWLVACAWPPFPYRYTWDFGTEEAAPTRARGPEVTFIYRDPGSYLVTVTASNNISAANDSALVEVQEPVLVTSIKVNGSLGLELQQPYLFSAVGRGRPASYLWDLGDGGWLEGPEVTHAYNSTGDFTVRVAGWNEVSRSEAWLNVTVKRRVRGLVVNASRTVVPLNGSVSFSTSLEAGSDVRYSWVLCDRCTPIPGGPTISYTFRSVGTFNIIVTAENEVGSAQDSIFVYVLQLIEGLQVVGGGRYFPTNHTVQLQAVVRDGTNVSYSWTAWRDRGPALAGSGKGFSLTVLEAGTYHVQLRATNMLGSAWADCTMDFVEPVGWLMVAASPNPAAVNTSVTLSAELAGGSGVVYTWSLEEGLSWETSEPFTTHSFPTPGLHLVTMTAGNPLGSANATVEVDVQVPVSGLSIRASEPGGSFVAAGSSVPFWGQLATGTNVSWCWAVPGGSSKRGPHVTMVFPDAGTFSIRLNASNAVSWVSATYNLTAEEPIVGLVLWASSKVVAPGQLVHFQILLAAGSAVTFRLQVGGANPEVLPGPRFSHSFPRVGDHVVSVRGKNHVSWAQAQVRIVVLEAVSGLQVPNCCEPGIATGTERNFTARVQRGSRVAYAWYFSLQKVQGDSLVILSGRDVTYTPVAAGLLEIQVRAFNALGSENRTLVLEVQDAVQYVALQSGPCFTNRSAQFEAATSPSPRRVAYHWDFGDGSPGQDTDEPRAEHSYLRPGDYRVQVNASNLVSFFVAQATVTVQVLACREPEVDVVLPLQVLMRRSQRNYLEAHVDLRDCVTYQTEYRWEVYRTASCQRPGRPARVALPGVDVSRPRLVLPRLALPVGHYCFVFVVSFGDTPLTQSIQANVTVAPERLVPIIEGGSYRVWSDTRDLVLDGSESYDPNLEDGDQTPLSFHWACVASTQREAGGCALNFGPRGSSTVTIPRERLAAGVEYTFSLTVWKAGRKEEATNQTVLIRSGRVPIVSLECVSCKAQAVYEVSRSSYVYLEGRCLNCSSGSKRGRWAARTFSNKTLVLDETTTSTGSAGMRLVLRRGVLRDGEGYTFTLTVLGRSGEEEGCASIRLSPNRPPLGGSCRLFPLGAVHALTTKVHFECTGWHDAEDAGAPLVYALLLRRCRQGHCEEFCVYKGSLSSYGAVLPPGFRPHFEVGLAVVVQDQLGAAVVALNRSLAITLPEPNGSATGLTVWLHGLTASVLPGLLRQADPQHVIEYSLALVTVLNEYERALDVAAEPKHERQHRAQIRKNITETLVSLRVHTVDDIQQIAAALAQCMGPSRELVCRSCLKQTLHKLEAMMLILQAETTAGTVTPTAIGDSILNITGDLIHLASSDVRAPQPSELGAESPSRMVASQAYNLTSALMRILMRSRVLNEEPLTLAGEEIVAQGKRSDPRSLLCYGGAPGPGCHFSIPEAFSGALANLSDVVQLIFLVDSNPFPFGYISNYTVSTKVASMAFQTQAGAQIPIERLASERAITVKVPNNSDWAARGHRSSANSANSVVVQPQASVGAVVTLDSSNPAAGLHLQLNYTLLDGHYLSEEPEPYLAVYLHSEPRPNEHNCSASRRIRPESLQGADHRPYTFFISPGSRDPAGSYHLNLSSHFRWSALQVSVGLYTSLCQYFSEEDMVWRTEGLLPLEETSPRQAVCLTRHLTAFGASLFVPPSHVRFVFPEPTADVNYIVMLTCAVCLVTYMVMAAILHKLDQLDASRGRAIPFCGQRGRFKYEILVKTGWGRGSGTTAHVGIMLYGVDSRSGHRHLDGDRAFHRNSLDIFRIATPHSLGSVWKIRVWHDNKGLSPAWFLQHVIVRDLQTARSAFFLVNDWLSVETEANGGLVEKEVLAASDAALLRFRRLLVAELQRGFFDKHIWLSIWDRPPRSRFTRIQRATCCVLLICLFLGANAVWYGAVGDSAYSTGHVSRLSPLSVDTVAVGLVSSVVVYPVYLAILFLFRMSRSKVAGSPSPTPAGQQVLDIDSCLDSSVLDSSFLTFSGLHAEQAFVGQMKSDLFLDDSKSLVCWPSGEGTLSWPDLLSDPSIVGSNLRQLARGQAGHGLGPEEDGFSLASPYSPAKSFSASDEDLIQQVLAEGVSSPAPTQDTHMETDLLSSLSSTPGEKTETLALQRLGELGPPSPGLNWEQPQAARLSRTGLVEGLRKRLLPAWCASLAHGLSLLLVAVAVAVSGWVGASFPPGVSVAWLLSSSASFLASFLGWEPLKVLLEALYFSLVAKRLHPDEDDTLVESPAVTPVSARVPRVRPPHGFALFLAKEEARKVKRLHGMLRSLLVYMLFLLVTLLASYGDASCHGHAYRLQSAIKQELHSRAFLAITRSEELWPWMAHVLLPYVHGNQSSPELGPPRLRQVRLQEALYPDPPGPRVHTCSAAGGFSTSDYDVGWESPHNGSGTWAYSAPDLLGAWSWGSCAVYDSGGYVQELGLSLEESRDRLRFLQLHNWLDNRSRAVFLELTRYSPAVGLHAAVTLRLEFPAAGRALAALSVRPFALRRLSAGLSLPLLTSVCLLLFAVHFAVAEARTWHREGRWRVLRLGAWARWLLVALTAATALVRLAQLGAADRQWTRFVRGRPRRFTSFDQVAQLSSAARGLAASLLFLLLVKAAQQLRFVRQWSVFGKTLCRALPELLGVTLGLVVLGVAYAQLAILLVSSCVDSLWSVAQALLVLCPGTGLSTLCPAESWHLSPLLCVGLWALRLWGALRLGAVILRWRYHALRGELYRPAWEPQDYEMVELFLRRLRLWMGLSKVKEFRHKVRFEGMEPLPSRSSRGSKVSPDVPPPSAGSDASHPSTSSSQLDGLSVSLGRLGTRCEPEPSRLQAVFEALLTQFDRLNQATEDVYQLEQQLHSLQGRRSSRAPAGSSRGPSPGLRPALPSRLARASRGVDLATGPSRTPLRAKNKVHPSST</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

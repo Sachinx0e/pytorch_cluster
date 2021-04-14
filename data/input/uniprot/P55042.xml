@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1996-10-01" modified="2020-08-12" version="173">
+<accession>P55042</accession>
+<accession>Q96F39</accession>
+<name>RAD_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>GTP-binding protein RAD</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>RAD1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Ras associated with diabetes</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">RRAD</name>
+<name type="synonym">RAD</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1993" name="Science" volume="262" first="1441" last="1444">
+<title>Rad: a member of the Ras family overexpressed in muscle of type II diabetic humans.</title>
+<authorList>
+<person name="Reynet C."/>
+<person name="Kahn C.R."/>
+</authorList>
+<dbReference type="PubMed" id="8248782"/>
+<dbReference type="DOI" id="10.1126/science.8248782"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Skeletal muscle</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Placenta</tissue>
+<tissue>Retina</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1997" name="J. Biol. Chem." volume="272" first="11832" last="11839">
+<title>Rad and Rad-related GTPases interact with calmodulin and calmodulin-dependent protein kinase II.</title>
+<authorList>
+<person name="Moyers J.S."/>
+<person name="Bilan P.J."/>
+<person name="Zhu J."/>
+<person name="Kahn C.R."/>
+</authorList>
+<dbReference type="PubMed" id="9115241"/>
+<dbReference type="DOI" id="10.1074/jbc.272.18.11832"/>
+</citation>
+<scope>INTERACTION WITH CALMODULIN</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2007" name="Circulation" volume="116" first="2976" last="2983">
+<title>Rad GTPase deficiency leads to cardiac hypertrophy.</title>
+<authorList>
+<person name="Chang L."/>
+<person name="Zhang J."/>
+<person name="Tseng Y.-H."/>
+<person name="Xie C.-Q."/>
+<person name="Ilany J."/>
+<person name="Bruning J.C."/>
+<person name="Sun Z."/>
+<person name="Zhu X."/>
+<person name="Cui T."/>
+<person name="Youker K.A."/>
+<person name="Yang Q."/>
+<person name="Day S.M."/>
+<person name="Kahn C.R."/>
+<person name="Chen Y.E."/>
+</authorList>
+<dbReference type="PubMed" id="18056528"/>
+<dbReference type="DOI" id="10.1161/circulationaha.107.707257"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INDUCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INTERACTION WITH CAMK2D AND CALMODULIN</scope>
+</reference>
+<comment type="function">
+<text evidence="4 6">May play an important role in cardiac antiarrhythmia via the strong suppression of voltage-gated L-type Ca(2+) currents. Regulates voltage-dependent L-type calcium channel subunit alpha-1C trafficking to the cell membrane (By similarity). Inhibits cardiac hypertrophy through the calmodulin-dependent kinase II (CaMKII) pathway. Inhibits phosphorylation and activation of CAMK2D.</text>
+</comment>
+<comment type="subunit">
+<text evidence="4">Interacts with calmodulin preferentially in the inactive, GDP-bound form. Binds CAMKII which is capable of phosphorylating RAD in vitro. Interacts with CAMK2D and CACNB2. Interaction with CACNB2 regulates the trafficking of CACNA1C to the cell membrane (By similarity).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3911502">
+<id>P55042</id>
+</interactant>
+<interactant intactId="EBI-748961">
+<id>O95273</id>
+<label>CCNDBP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Cell membrane</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text evidence="6">Most abundantly expressed in the heart. Also found in the skeletal muscle and lung. Lesser amounts in placenta and kidney. Also detected in adipose tissue. Overexpressed in muscle of type II diabetic humans.</text>
+</comment>
+<comment type="induction">
+<text evidence="6">Down-regulated in failing hearts.</text>
+</comment>
+<comment type="similarity">
+<text evidence="7">Belongs to the small GTPase superfamily. RGK family.</text>
+</comment>
+<dbReference type="EMBL" id="L24564">
+<property type="protein sequence ID" value="AAA36540.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC011645">
+<property type="protein sequence ID" value="AAH11645.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC057815">
+<property type="protein sequence ID" value="AAH57815.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS10824.1"/>
+<dbReference type="PIR" id="A49334">
+<property type="entry name" value="A49334"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001122322.1">
+<property type="nucleotide sequence ID" value="NM_001128850.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_004156.1">
+<property type="nucleotide sequence ID" value="NM_004165.2"/>
+</dbReference>
+<dbReference type="PDB" id="2DPX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="A/B=87-258"/>
+</dbReference>
+<dbReference type="PDB" id="2GJS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B=87-260"/>
+</dbReference>
+<dbReference type="PDB" id="3Q72">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.66"/>
+<property type="chains" value="A/B=90-255"/>
+</dbReference>
+<dbReference type="PDB" id="3Q7P">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.50"/>
+<property type="chains" value="A/B=90-255"/>
+</dbReference>
+<dbReference type="PDB" id="3Q7Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B=90-255"/>
+</dbReference>
+<dbReference type="PDBsum" id="2DPX"/>
+<dbReference type="PDBsum" id="2GJS"/>
+<dbReference type="PDBsum" id="3Q72"/>
+<dbReference type="PDBsum" id="3Q7P"/>
+<dbReference type="PDBsum" id="3Q7Q"/>
+<dbReference type="SMR" id="P55042"/>
+<dbReference type="BioGRID" id="112150">
+<property type="interactions" value="15"/>
+</dbReference>
+<dbReference type="IntAct" id="P55042">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000299759"/>
+<dbReference type="iPTMnet" id="P55042"/>
+<dbReference type="PhosphoSitePlus" id="P55042"/>
+<dbReference type="BioMuta" id="RRAD"/>
+<dbReference type="DMDM" id="38258885"/>
+<dbReference type="jPOST" id="P55042"/>
+<dbReference type="MassIVE" id="P55042"/>
+<dbReference type="MaxQB" id="P55042"/>
+<dbReference type="PaxDb" id="P55042"/>
+<dbReference type="PeptideAtlas" id="P55042"/>
+<dbReference type="PRIDE" id="P55042"/>
+<dbReference type="ProteomicsDB" id="56766"/>
+<dbReference type="TopDownProteomics" id="P55042"/>
+<dbReference type="Antibodypedia" id="44221">
+<property type="antibodies" value="161 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="6236"/>
+<dbReference type="Ensembl" id="ENST00000299759">
+<property type="protein sequence ID" value="ENSP00000299759"/>
+<property type="gene ID" value="ENSG00000166592"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000420652">
+<property type="protein sequence ID" value="ENSP00000388744"/>
+<property type="gene ID" value="ENSG00000166592"/>
+</dbReference>
+<dbReference type="GeneID" id="6236"/>
+<dbReference type="KEGG" id="hsa:6236"/>
+<dbReference type="UCSC" id="uc002eqn.2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="6236"/>
+<dbReference type="DisGeNET" id="6236"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000166592.11"/>
+<dbReference type="GeneCards" id="RRAD"/>
+<dbReference type="HGNC" id="HGNC:10446">
+<property type="gene designation" value="RRAD"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000166592">
+<property type="expression patterns" value="Tissue enriched (skeletal)"/>
+</dbReference>
+<dbReference type="MIM" id="179503">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P55042"/>
+<dbReference type="OpenTargets" id="ENSG00000166592"/>
+<dbReference type="PharmGKB" id="PA34860"/>
+<dbReference type="eggNOG" id="KOG0395">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000159836"/>
+<dbReference type="HOGENOM" id="CLU_041217_3_2_1"/>
+<dbReference type="InParanoid" id="P55042"/>
+<dbReference type="KO" id="K07845"/>
+<dbReference type="OMA" id="MANCKRR"/>
+<dbReference type="OrthoDB" id="679855at2759"/>
+<dbReference type="PhylomeDB" id="P55042"/>
+<dbReference type="TreeFam" id="TF314379"/>
+<dbReference type="PathwayCommons" id="P55042"/>
+<dbReference type="Reactome" id="R-HSA-9031628">
+<property type="pathway name" value="NGF-stimulated transcription"/>
+</dbReference>
+<dbReference type="SignaLink" id="P55042"/>
+<dbReference type="SIGNOR" id="P55042"/>
+<dbReference type="BioGRID-ORCS" id="6236">
+<property type="hits" value="14 hits in 882 CRISPR screens"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P55042"/>
+<dbReference type="GeneWiki" id="RRAD"/>
+<dbReference type="GenomeRNAi" id="6236"/>
+<dbReference type="Pharos" id="P55042">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P55042"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 16"/>
+</dbReference>
+<dbReference type="RNAct" id="P55042">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000166592">
+<property type="expression patterns" value="Expressed in quadriceps femoris and 185 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="P55042">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P55042">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005246">
+<property type="term" value="F:calcium channel regulator activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005516">
+<property type="term" value="F:calmodulin binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005525">
+<property type="term" value="F:GTP binding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003924">
+<property type="term" value="F:GTPase activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901842">
+<property type="term" value="P:negative regulation of high voltage-gated calcium channel activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007264">
+<property type="term" value="P:small GTPase mediated signal transduction"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027417">
+<property type="entry name" value="P-loop_NTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR028869">
+<property type="entry name" value="RAD"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017358">
+<property type="entry name" value="RGK"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005225">
+<property type="entry name" value="Small_GTP-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001806">
+<property type="entry name" value="Small_GTPase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020849">
+<property type="entry name" value="Small_GTPase_Ras-type"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR45775:SF3">
+<property type="entry name" value="PTHR45775:SF3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00071">
+<property type="entry name" value="Ras"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF038017">
+<property type="entry name" value="GTP-binding_GEM"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF52540">
+<property type="entry name" value="SSF52540"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR00231">
+<property type="entry name" value="small_GTP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51421">
+<property type="entry name" value="RAS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0112">Calmodulin-binding</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0342">GTP-binding</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0488">Methylation</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="chain" description="GTP-binding protein RAD" id="PRO_0000122478">
+<location>
+<begin position="1"/>
+<end position="308"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="4">
+<location>
+<begin position="98"/>
+<end position="105"/>
+</location>
+</feature>
+<feature type="nucleotide phosphate-binding region" description="GTP" evidence="4">
+<location>
+<begin position="203"/>
+<end position="206"/>
+</location>
+</feature>
+<feature type="region of interest" description="Calmodulin-binding">
+<location>
+<begin position="278"/>
+<end position="297"/>
+</location>
+</feature>
+<feature type="modified residue" description="Omega-N-methylarginine" evidence="5">
+<location>
+<position position="24"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="5">
+<location>
+<position position="26"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs7198458." id="VAR_049497">
+<original>Q</original>
+<variation>P</variation>
+<location>
+<position position="66"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="93"/>
+<end position="99"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="104"/>
+<end position="111"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="126"/>
+<end position="133"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="136"/>
+<end position="144"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="155"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="164"/>
+<end position="170"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="174"/>
+<end position="189"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="198"/>
+<end position="203"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="208"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="215"/>
+<end position="224"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="228"/>
+<end position="231"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="234"/>
+<end position="236"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="240"/>
+<end position="254"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2DPX"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="2GJS"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3Q72"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000250"/>
+<evidence key="5" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="O88667"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18056528"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000305"/>
+<sequence length="308" mass="33245" checksum="EF098960A371D2C4" modified="2003-11-07" version="2">MTLNGGGSGAGGSRGGGQERERRRGSTPWGPAPPLHRRSMPVDERDLQAALTPGALTAAAAGTGTQGPRLDWPEDSEDSLSSGGSDSDESVYKVLLLGAPGVGKSALARIFGGVEDGPEAEAAGHTYDRSIVVDGEEASLMVYDIWEQDGGRWLPGHCMAMGDAYVIVYSVTDKGSFEKASELRVQLRRARQTDDVPIILVGNKSDLVRSREVSVDEGRACAVVFDCKFIETSAALHHNVQALFEGVVRQIRLRRDSKEANARRQAGTRRRESLGKKAKRFLGRIVARNSRKMAFRAKSKSCHDLSVL</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2003-08-15" modified="2020-10-07" version="171">
+<accession>O14492</accession>
+<accession>A0A0A0MTI2</accession>
+<accession>A6ND74</accession>
+<name>SH2B2_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>SH2B adapter protein 2</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Adapter protein with pleckstrin homology and Src homology 2 domains</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>SH2 and PH domain-containing adapter protein APS</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">SH2B2</name>
+<name type="synonym">APS</name>
+</gene>
+<organism evidence="12">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="11">
+<citation type="journal article" date="1997" name="Oncogene" volume="15" first="7" last="15">
+<title>Cloning and characterization of APS, an adaptor molecule containing PH and SH2 domains that is tyrosine phosphorylated upon B-cell receptor stimulation.</title>
+<authorList>
+<person name="Yokouchi M."/>
+<person name="Suzuki R."/>
+<person name="Masuhara M."/>
+<person name="Komiya S."/>
+<person name="Inoue A."/>
+<person name="Yoshimura A."/>
+</authorList>
+<dbReference type="PubMed" id="9233773"/>
+<dbReference type="DOI" id="10.1038/sj.onc.1201163"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INTERACTION WITH GRB2; KIT AND SHC1</scope>
+<scope>PHOSPHORYLATION AT TYR-629</scope>
+<source>
+<tissue evidence="9">B-cell</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2003" name="Nature" volume="424" first="157" last="164">
+<title>The DNA sequence of human chromosome 7.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Graves T.A."/>
+<person name="Pepin K.H."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Maas J."/>
+<person name="Jaeger S."/>
+<person name="Walker R."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="O'Laughlin M.D."/>
+<person name="Schaller M.E."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Cordes M."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Edwards J."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Andrews S."/>
+<person name="Isak A."/>
+<person name="Vanbrunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Lamar B."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Bielicki L."/>
+<person name="Scott K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Harris A."/>
+<person name="Strong C.M."/>
+<person name="Hou S."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Leonard S."/>
+<person name="Rohlfing T."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Abbott A."/>
+<person name="Minx P."/>
+<person name="Maupin R."/>
+<person name="Strowmatt C."/>
+<person name="Latreille P."/>
+<person name="Miller N."/>
+<person name="Johnson D."/>
+<person name="Murray J."/>
+<person name="Woessner J.P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Schultz B.R."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Nelson J.O."/>
+<person name="Berkowicz N."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Bedell J.A."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Chissoe S.L."/>
+<person name="Marra M.A."/>
+<person name="Raymond C."/>
+<person name="Haugen E."/>
+<person name="Gillett W."/>
+<person name="Zhou Y."/>
+<person name="James R."/>
+<person name="Phelps K."/>
+<person name="Iadanoto S."/>
+<person name="Bubb K."/>
+<person name="Simms E."/>
+<person name="Levy R."/>
+<person name="Clendenning J."/>
+<person name="Kaul R."/>
+<person name="Kent W.J."/>
+<person name="Furey T.S."/>
+<person name="Baertsch R.A."/>
+<person name="Brent M.R."/>
+<person name="Keibler E."/>
+<person name="Flicek P."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Bailey J.A."/>
+<person name="Portnoy M.E."/>
+<person name="Torrents D."/>
+<person name="Chinwalla A.T."/>
+<person name="Gish W.R."/>
+<person name="Eddy S.R."/>
+<person name="McPherson J.D."/>
+<person name="Olson M.V."/>
+<person name="Eichler E.E."/>
+<person name="Green E.D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="12853948"/>
+<dbReference type="DOI" id="10.1038/nature01782"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4" evidence="11">
+<citation type="journal article" date="1999" name="Leukemia" volume="13" first="760" last="767">
+<title>APS, an adaptor protein containing pleckstrin homology (PH) and Src homology-2 (SH2) domains inhibits the JAK-STAT pathway in collaboration with c-Cbl.</title>
+<authorList>
+<person name="Wakioka T."/>
+<person name="Sasaki A."/>
+<person name="Mitsui K."/>
+<person name="Yokouchi M."/>
+<person name="Inoue A."/>
+<person name="Komiya S."/>
+<person name="Yoshimura A."/>
+</authorList>
+<dbReference type="PubMed" id="10374881"/>
+<dbReference type="DOI" id="10.1038/sj.leu.2401397"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>PHOSPHORYLATION</scope>
+<scope>INTERACTION WITH CBL AND EPOR</scope>
+</reference>
+<reference key="5" evidence="11">
+<citation type="journal article" date="1999" name="Oncogene" volume="18" first="759" last="767">
+<title>APS, an adaptor protein containing PH and SH2 domains, is associated with the PDGF receptor and c-Cbl and inhibits PDGF-induced mitogenesis.</title>
+<authorList>
+<person name="Yokouchi M."/>
+<person name="Wakioka T."/>
+<person name="Sakamoto H."/>
+<person name="Yasukawa H."/>
+<person name="Ohtsuka S."/>
+<person name="Sasaki A."/>
+<person name="Ohtsubo M."/>
+<person name="Valius M."/>
+<person name="Inoue A."/>
+<person name="Komiya S."/>
+<person name="Yoshimura A."/>
+</authorList>
+<dbReference type="PubMed" id="9989826"/>
+<dbReference type="DOI" id="10.1038/sj.onc.1202326"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>PHOSPHORYLATION</scope>
+<scope>INTERACTION WITH CBL AND PDGFR</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="6" evidence="11">
+<citation type="journal article" date="2002" name="Oncogene" volume="21" first="7720" last="7729">
+<title>Adaptor protein APS binds the NH2-terminal autoinhibitory domain of guanine nucleotide exchange factor Vav3 and augments its activity.</title>
+<authorList>
+<person name="Yabana N."/>
+<person name="Shibuya M."/>
+</authorList>
+<dbReference type="PubMed" id="12400014"/>
+<dbReference type="DOI" id="10.1038/sj.onc.1205927"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH VAV1 AND VAV3</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2005" name="Biochem. Biophys. Res. Commun." volume="337" first="1" last="13">
+<title>Signaling by Kit protein-tyrosine kinase--the stem cell factor receptor.</title>
+<authorList>
+<person name="Roskoski R. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="16129412"/>
+<dbReference type="DOI" id="10.1016/j.bbrc.2005.08.055"/>
+</citation>
+<scope>REVIEW ON ROLE IN KIT SIGNALING</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2004" name="Nat. Struct. Mol. Biol." volume="11" first="968" last="974">
+<title>A phenylalanine zipper mediates APS dimerization.</title>
+<authorList>
+<person name="Dhe-Paganon S."/>
+<person name="Werner E.D."/>
+<person name="Nishi M."/>
+<person name="Hansen L."/>
+<person name="Chi Y.-I."/>
+<person name="Shoelson S.E."/>
+</authorList>
+<dbReference type="PubMed" id="15378031"/>
+<dbReference type="DOI" id="10.1038/nsmb829"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 21-85</scope>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<comment type="function">
+<text evidence="6 7 8 10">Adapter protein for several members of the tyrosine kinase receptor family. Involved in multiple signaling pathways. May be involved in coupling from immunoreceptor to Ras signaling. Acts as a negative regulator of cytokine signaling in collaboration with CBL. Binds to EPOR and suppresses EPO-induced STAT5 activation, possibly through a masking effect on STAT5 docking sites in EPOR. Suppresses PDGF-induced mitogenesis. May induce cytoskeletal reorganization via interaction with VAV3.</text>
+</comment>
+<comment type="subunit">
+<text evidence="2">Homodimer. Interacts with KIT/c-KIT, SHC1, EPOR, PDGFR, VAV1 and VAV3. Interacts (via N-terminal region) with SHC1. Interacts (via the phosphorylated C-terminus) with GRB2. Interacts (via its SH2 domain) with EPOR, INSR and KIT. Interacts with GRB2 after B-cell antigen receptor stimulation. Interacts (via PH domain) with VAV3. Interacts with NTRK1, NTRK2 and NTRK3 (phosphorylated); after stimulation of the receptor by its extracellular ligand and subsequent autophosphorylation of the receptor. Binds INSR, GRB2, ASB6 and CAP. Insulin stimulation leads to dissociation of CAP. Binds CBS only when SH2B2/APS has become phosphorylated. INSR binding does not depend on the phosphorylation of SH2B2/APS (By similarity).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-7507432">
+<id>O14492</id>
+</interactant>
+<interactant intactId="EBI-518228">
+<id>P22681</id>
+<label>CBL</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-6425205">
+<id>Q9NWX5</id>
+<label>ASB6</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-11981867">
+<id>P49759-3</id>
+<label>CLK1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-745579">
+<id>P49761</id>
+<label>CLK3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-749800">
+<id>Q9UII6</id>
+<label>DUSP13</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-11986315">
+<id>Q9H5Z6-2</id>
+<label>FAM124B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-6658203">
+<id>Q86YD7</id>
+<label>FAM90A1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-9834454">
+<id>P08631-2</id>
+<label>HCK</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-465156">
+<id>Q9UBH0</id>
+<label>IL36RN</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-11742507">
+<id>Q8TAP4-4</id>
+<label>LMO3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-473834">
+<id>Q9H213</id>
+<label>MAGEH1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-348259">
+<id>Q96EZ8</id>
+<label>MCRS1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-11079894">
+<id>Q9HB20</id>
+<label>PLEKHA3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-1760079">
+<id>Q9NRW1</id>
+<label>RAB6B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-11741437">
+<id>Q08117-2</id>
+<label>TLE5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-12344941">
+<id>Q9H1K6</id>
+<label>TLNRD1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-743272">
+<id>O75604</id>
+<label>USP2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-744257">
+<id>Q96IQ9</id>
+<label>ZNF414</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-19952306">
+<id>O14492-2</id>
+</interactant>
+<interactant intactId="EBI-740727">
+<id>Q8TAU3</id>
+<label>ZNF417</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="10">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="10">Cell membrane</location>
+</subcellularLocation>
+<text>Cytoplasmic before PDGF stimulation. After PDGF stimulation, localized at the cell membrane and peripheral region.</text>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>O14492-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>O14492-2</id>
+<name>2</name>
+<sequence type="described" ref="VSP_059358"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="9 10">Expressed in spleen, prostate, testis, uterus, small intestine and skeletal muscle. Among hematopoietic cell lines, expressed exclusively in B-cells. Not expressed in most tumor cell lines.</text>
+</comment>
+<comment type="PTM">
+<text evidence="3 6 9 10">Tyrosine phosphorylated by JAK2, KIT and other kinases activated by B-cell receptor in response to stimulation with cytokines, IL3, IL5, PDGF, IGF1, IGF2, CSF2/GM-CSF and cross-linking of the B-cell receptor complex.</text>
+</comment>
+<comment type="similarity">
+<text evidence="11">Belongs to the SH2B adapter family.</text>
+</comment>
+<dbReference type="EMBL" id="AB000520">
+<property type="protein sequence ID" value="BAA22514.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC005088">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC091390">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471197">
+<property type="protein sequence ID" value="EAW50232.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS78264.1">
+<molecule id="O14492-2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_066189.3">
+<molecule id="O14492-2"/>
+<property type="nucleotide sequence ID" value="NM_020979.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_005277034.1">
+<property type="nucleotide sequence ID" value="XM_005276977.4"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_005277036.1">
+<property type="nucleotide sequence ID" value="XM_005276979.3"/>
+</dbReference>
+<dbReference type="PDB" id="1Q2H">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="A/B/C=21-85"/>
+</dbReference>
+<dbReference type="PDBsum" id="1Q2H"/>
+<dbReference type="SMR" id="O14492"/>
+<dbReference type="BioGRID" id="115850">
+<property type="interactions" value="34"/>
+</dbReference>
+<dbReference type="IntAct" id="O14492">
+<property type="interactions" value="24"/>
+</dbReference>
+<dbReference type="MINT" id="O14492"/>
+<dbReference type="STRING" id="9606.ENSP00000440273"/>
+<dbReference type="iPTMnet" id="O14492"/>
+<dbReference type="PhosphoSitePlus" id="O14492"/>
+<dbReference type="BioMuta" id="SH2B2"/>
+<dbReference type="EPD" id="O14492"/>
+<dbReference type="jPOST" id="O14492"/>
+<dbReference type="MassIVE" id="O14492"/>
+<dbReference type="MaxQB" id="O14492"/>
+<dbReference type="PeptideAtlas" id="O14492"/>
+<dbReference type="PRIDE" id="O14492"/>
+<dbReference type="ProteomicsDB" id="48035"/>
+<dbReference type="Ensembl" id="ENST00000536178">
+<molecule id="O14492-2"/>
+<property type="protein sequence ID" value="ENSP00000440273"/>
+<property type="gene ID" value="ENSG00000160999"/>
+</dbReference>
+<dbReference type="GeneID" id="10603"/>
+<dbReference type="KEGG" id="hsa:10603"/>
+<dbReference type="UCSC" id="uc033aba.2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="10603"/>
+<dbReference type="DisGeNET" id="10603"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000160999.10"/>
+<dbReference type="GeneCards" id="SH2B2"/>
+<dbReference type="HGNC" id="HGNC:17381">
+<property type="gene designation" value="SH2B2"/>
+</dbReference>
+<dbReference type="MIM" id="605300">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_O14492"/>
+<dbReference type="OpenTargets" id="ENSG00000160999"/>
+<dbReference type="PharmGKB" id="PA145148106"/>
+<dbReference type="eggNOG" id="ENOG502QT43">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00950000183191"/>
+<dbReference type="InParanoid" id="O14492"/>
+<dbReference type="KO" id="K07193"/>
+<dbReference type="OMA" id="YGRDILQ"/>
+<dbReference type="OrthoDB" id="556279at2759"/>
+<dbReference type="PhylomeDB" id="O14492"/>
+<dbReference type="PathwayCommons" id="O14492"/>
+<dbReference type="Reactome" id="R-HSA-1433559">
+<property type="pathway name" value="Regulation of KIT signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-983231">
+<property type="pathway name" value="Factors involved in megakaryocyte development and platelet production"/>
+</dbReference>
+<dbReference type="SignaLink" id="O14492"/>
+<dbReference type="SIGNOR" id="O14492"/>
+<dbReference type="BioGRID-ORCS" id="10603">
+<property type="hits" value="4 hits in 122 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="SH2B2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="O14492"/>
+<dbReference type="GeneWiki" id="SH2B2"/>
+<dbReference type="GenomeRNAi" id="10603"/>
+<dbReference type="Pharos" id="O14492">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:O14492"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Unplaced"/>
+</dbReference>
+<dbReference type="RNAct" id="O14492">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000160999">
+<property type="expression patterns" value="Expressed in caecum and 234 other tissues"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042169">
+<property type="term" value="F:SH2 domain binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035591">
+<property type="term" value="F:signaling adaptor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005068">
+<property type="term" value="F:transmembrane receptor protein tyrosine kinase adaptor activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050851">
+<property type="term" value="P:antigen receptor-mediated signaling pathway"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050853">
+<property type="term" value="P:B cell receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007596">
+<property type="term" value="P:blood coagulation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008286">
+<property type="term" value="P:insulin receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035556">
+<property type="term" value="P:intracellular signal transduction"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="CDD" id="cd10411">
+<property type="entry name" value="SH2_SH2B2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.30.29.30">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.505.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011993">
+<property type="entry name" value="PH-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001849">
+<property type="entry name" value="PH_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015012">
+<property type="entry name" value="Phe_ZIP"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036290">
+<property type="entry name" value="Phe_ZIP_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000980">
+<property type="entry name" value="SH2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036860">
+<property type="entry name" value="SH2_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030523">
+<property type="entry name" value="SH2B"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030520">
+<property type="entry name" value="SH2B2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035058">
+<property type="entry name" value="SH2B2_SH2"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10872">
+<property type="entry name" value="PTHR10872"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10872:SF4">
+<property type="entry name" value="PTHR10872:SF4"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00169">
+<property type="entry name" value="PH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08916">
+<property type="entry name" value="Phe_ZIP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00017">
+<property type="entry name" value="SH2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00401">
+<property type="entry name" value="SH2DOMAIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00233">
+<property type="entry name" value="PH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00252">
+<property type="entry name" value="SH2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF109805">
+<property type="entry name" value="SSF109805"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55550">
+<property type="entry name" value="SSF55550"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50003">
+<property type="entry name" value="PH_DOMAIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50001">
+<property type="entry name" value="SH2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0727">SH2 domain</keyword>
+<feature type="chain" description="SH2B adapter protein 2" id="PRO_0000064647">
+<location>
+<begin position="1"/>
+<end position="632"/>
+</location>
+</feature>
+<feature type="domain" description="PH" evidence="4 11">
+<location>
+<begin position="193"/>
+<end position="306"/>
+</location>
+</feature>
+<feature type="domain" description="SH2" evidence="5 11">
+<location>
+<begin position="417"/>
+<end position="515"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine" evidence="3">
+<location>
+<position position="52"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="141"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="3">
+<location>
+<position position="310"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine" evidence="9">
+<location>
+<position position="629"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_059358">
+<original>M</original>
+<variation>MDPSYCPAHGFPSQDPLWPLSSQQWSSAHYSEPAAGGCDGTEAM</variation>
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; BAA22514." ref="1" evidence="11">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="111"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="23"/>
+<end position="48"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="50"/>
+<end position="52"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="57"/>
+<end position="82"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1Q2H"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9JID9"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00145"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00191"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10374881"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12400014"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15378031"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9233773"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9989826"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000305"/>
+<evidence key="12" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="BAA22514.1"/>
+</source>
+</evidence>
+<sequence length="632" mass="67738" checksum="823DF1699D404227" modified="2008-09-23" version="2">MNGAGPGPAAAAPVPVPVPVPDWRQFCELHAQAAAVDFAHKFCRFLRDNPAYDTPDAGASFSRHFAANFLDVFGEEVRRVLVAGPTTRGAAVSAEAMEPELADTSALKAAPYGHSRSSEDVSTHAATKARVRKGFSLRNMSLCVVDGVRDMWHRRASPEPDAAAAPRTAEPRDKWTRRLRLSRTLAAKVELVDIQREGALRFMVADDAAAGSGGSAQWQKCRLLLRRAVAEERFRLEFFVPPKASRPKVSIPLSAIIEVRTTMPLEMPEKDNTFVLKVENGAEYILETIDSLQKHSWVADIQGCVDPGDSEEDTELSCTRGGCLASRVASCSCELLTDAVDLPRPPETTAVGAVVTAPHSRGRDAVRESLIHVPLETFLQTLESPGGSGSDSNNTGEQGAETDPEAEPELELSDYPWFHGTLSRVKAAQLVLAGGPRNHGLFVIRQSETRPGEYVLTFNFQGKAKHLRLSLNGHGQCHVQHLWFQSVLDMLRHFHTHPIPLESGGSADITLRSYVRAQDPPPEPGPTPPAAPASPACWSDSPGQHYFSSLAAAACPPASPSDAAGASSSSASSSSAASGPAPPRPVEGQLSARSRSNSAERLLEAVAATAAEEPPEAAPGRARAVENQYSFY</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

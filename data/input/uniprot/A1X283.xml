@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2007-12-04" modified="2020-08-12" version="113">
+<accession>A1X283</accession>
+<accession>B6F0V2</accession>
+<accession>Q9P2Q1</accession>
+<name>SPD2B_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>SH3 and PX domain-containing protein 2B</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Adapter protein HOFI</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Factor for adipocyte differentiation 49</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Tyrosine kinase substrate with four SH3 domains</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">SH3PXD2B</name>
+<name type="synonym">FAD49</name>
+<name type="synonym">KIAA1295</name>
+<name type="synonym">TKS4</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2008" name="FEBS J." volume="275" first="5576" last="5588">
+<title>A novel gene, fad49, plays a crucial role in the immediate early stage of adipocyte differentiation via involvement in mitotic clonal expansion.</title>
+<authorList>
+<person name="Hishida T."/>
+<person name="Eguchi T."/>
+<person name="Osada S."/>
+<person name="Nishizuka M."/>
+<person name="Imagawa M."/>
+</authorList>
+<dbReference type="PubMed" id="18959745"/>
+<dbReference type="DOI" id="10.1111/j.1742-4658.2008.06682.x"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="2">
+<citation type="submission" date="2005-06" db="EMBL/GenBank/DDBJ databases">
+<title>Identification and characterization of HOFI, a novel homolog of FISH.</title>
+<authorList>
+<person name="Lanyi A."/>
+<person name="Geiszt M."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Nature" volume="431" first="268" last="274">
+<title>The DNA sequence and comparative analysis of human chromosome 5.</title>
+<authorList>
+<person name="Schmutz J."/>
+<person name="Martin J."/>
+<person name="Terry A."/>
+<person name="Couronne O."/>
+<person name="Grimwood J."/>
+<person name="Lowry S."/>
+<person name="Gordon L.A."/>
+<person name="Scott D."/>
+<person name="Xie G."/>
+<person name="Huang W."/>
+<person name="Hellsten U."/>
+<person name="Tran-Gyamfi M."/>
+<person name="She X."/>
+<person name="Prabhakar S."/>
+<person name="Aerts A."/>
+<person name="Altherr M."/>
+<person name="Bajorek E."/>
+<person name="Black S."/>
+<person name="Branscomb E."/>
+<person name="Caoile C."/>
+<person name="Challacombe J.F."/>
+<person name="Chan Y.M."/>
+<person name="Denys M."/>
+<person name="Detter J.C."/>
+<person name="Escobar J."/>
+<person name="Flowers D."/>
+<person name="Fotopulos D."/>
+<person name="Glavina T."/>
+<person name="Gomez M."/>
+<person name="Gonzales E."/>
+<person name="Goodstein D."/>
+<person name="Grigoriev I."/>
+<person name="Groza M."/>
+<person name="Hammon N."/>
+<person name="Hawkins T."/>
+<person name="Haydu L."/>
+<person name="Israni S."/>
+<person name="Jett J."/>
+<person name="Kadner K."/>
+<person name="Kimball H."/>
+<person name="Kobayashi A."/>
+<person name="Lopez F."/>
+<person name="Lou Y."/>
+<person name="Martinez D."/>
+<person name="Medina C."/>
+<person name="Morgan J."/>
+<person name="Nandkeshwar R."/>
+<person name="Noonan J.P."/>
+<person name="Pitluck S."/>
+<person name="Pollard M."/>
+<person name="Predki P."/>
+<person name="Priest J."/>
+<person name="Ramirez L."/>
+<person name="Retterer J."/>
+<person name="Rodriguez A."/>
+<person name="Rogers S."/>
+<person name="Salamov A."/>
+<person name="Salazar A."/>
+<person name="Thayer N."/>
+<person name="Tice H."/>
+<person name="Tsai M."/>
+<person name="Ustaszewska A."/>
+<person name="Vo N."/>
+<person name="Wheeler J."/>
+<person name="Wu K."/>
+<person name="Yang J."/>
+<person name="Dickson M."/>
+<person name="Cheng J.-F."/>
+<person name="Eichler E.E."/>
+<person name="Olsen A."/>
+<person name="Pennacchio L.A."/>
+<person name="Rokhsar D.S."/>
+<person name="Richardson P."/>
+<person name="Lucas S.M."/>
+<person name="Myers R.M."/>
+<person name="Rubin E.M."/>
+</authorList>
+<dbReference type="PubMed" id="15372022"/>
+<dbReference type="DOI" id="10.1038/nature02919"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2000" name="DNA Res." volume="7" first="65" last="73">
+<title>Prediction of the coding sequences of unidentified human genes. XVI. The complete sequences of 150 new cDNA clones from brain which code for large proteins in vitro.</title>
+<authorList>
+<person name="Nagase T."/>
+<person name="Kikuno R."/>
+<person name="Ishikawa K."/>
+<person name="Hirosawa M."/>
+<person name="Ohara O."/>
+</authorList>
+<dbReference type="PubMed" id="10718198"/>
+<dbReference type="DOI" id="10.1093/dnares/7.1.65"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 362-911</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="16844" last="16851">
+<title>The adaptor protein fish associates with members of the ADAMs family and localizes to podosomes of Src-transformed cells.</title>
+<authorList>
+<person name="Abram C.L."/>
+<person name="Seals D.F."/>
+<person name="Pass I."/>
+<person name="Salinsky D."/>
+<person name="Maurer L."/>
+<person name="Roth T.M."/>
+<person name="Courtneidge S.A."/>
+</authorList>
+<dbReference type="PubMed" id="12615925"/>
+<dbReference type="DOI" id="10.1074/jbc.m300267200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DOMAIN PX</scope>
+<scope>INTERACTION WITH ADAM12; ADAM15 AND ADAM19</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="10762" last="10767">
+<title>A quantitative atlas of mitotic phosphorylation.</title>
+<authorList>
+<person name="Dephoure N."/>
+<person name="Zhou C."/>
+<person name="Villen J."/>
+<person name="Beausoleil S.A."/>
+<person name="Bakalarski C.E."/>
+<person name="Elledge S.J."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="18669648"/>
+<dbReference type="DOI" id="10.1073/pnas.0805139105"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-291</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2009" name="BMC Immunol." volume="10" first="53" last="53">
+<title>Identification of SH3 domain interaction partners of human FasL (CD178) by phage display screening.</title>
+<authorList>
+<person name="Voss M."/>
+<person name="Lettau M."/>
+<person name="Janssen O."/>
+</authorList>
+<dbReference type="PubMed" id="19807924"/>
+<dbReference type="DOI" id="10.1186/1471-2172-10-53"/>
+</citation>
+<scope>INTERACTION WITH FASLG</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2009" name="Sci. Signal." volume="2" first="RA54" last="RA54">
+<title>Novel p47(phox)-related organizers regulate localized NADPH oxidase 1 (Nox1) activity.</title>
+<authorList>
+<person name="Gianni D."/>
+<person name="Diaz B."/>
+<person name="Taulet N."/>
+<person name="Fowler B."/>
+<person name="Courtneidge S.A."/>
+<person name="Bokoch G.M."/>
+</authorList>
+<dbReference type="PubMed" id="19755710"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000370"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH NOXA1</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2010" name="Am. J. Hum. Genet." volume="86" first="254" last="261">
+<title>Disruption of the podosome adaptor protein TKS4 (SH3PXD2B) causes the skeletal dysplasia, eye, and cardiac abnormalities of Frank-Ter Haar Syndrome.</title>
+<authorList>
+<person name="Iqbal Z."/>
+<person name="Cejudo-Martin P."/>
+<person name="de Brouwer A."/>
+<person name="van der Zwaag B."/>
+<person name="Ruiz-Lozano P."/>
+<person name="Scimia M.C."/>
+<person name="Lindsey J.D."/>
+<person name="Weinreb R."/>
+<person name="Albrecht B."/>
+<person name="Megarbane A."/>
+<person name="Alanay Y."/>
+<person name="Ben-Neriah Z."/>
+<person name="Amenduni M."/>
+<person name="Artuso R."/>
+<person name="Veltman J.A."/>
+<person name="van Beusekom E."/>
+<person name="Oudakker A."/>
+<person name="Millan J.L."/>
+<person name="Hennekam R."/>
+<person name="Hamel B."/>
+<person name="Courtneidge S.A."/>
+<person name="van Bokhoven H."/>
+</authorList>
+<dbReference type="PubMed" id="20137777"/>
+<dbReference type="DOI" id="10.1016/j.ajhg.2010.01.009"/>
+</citation>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>VARIANT FTHS TRP-43</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2010" name="Sci. Signal." volume="3" first="RA3" last="RA3">
+<title>Quantitative phosphoproteomics reveals widespread full phosphorylation site occupancy during mitosis.</title>
+<authorList>
+<person name="Olsen J.V."/>
+<person name="Vermeulen M."/>
+<person name="Santamaria A."/>
+<person name="Kumar C."/>
+<person name="Miller M.L."/>
+<person name="Jensen L.J."/>
+<person name="Gnad F."/>
+<person name="Cox J."/>
+<person name="Jensen T.S."/>
+<person name="Nigg E.A."/>
+<person name="Brunak S."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="20068231"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000475"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-279 AND SER-291</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2011" name="Eur. J. Cell Biol." volume="90" first="164" last="171">
+<title>Direct interaction between Tks proteins and the N-terminal proline-rich region (PRR) of NoxA1 mediates Nox1-dependent ROS generation.</title>
+<authorList>
+<person name="Gianni D."/>
+<person name="Dermardirossian C."/>
+<person name="Bokoch G.M."/>
+</authorList>
+<dbReference type="PubMed" id="20609497"/>
+<dbReference type="DOI" id="10.1016/j.ejcb.2010.05.007"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH NOXA1 AND NOXO1</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2011" name="Sci. Signal." volume="4" first="RS3" last="RS3">
+<title>System-wide temporal characterization of the proteome and phosphoproteome of human embryonic stem cell differentiation.</title>
+<authorList>
+<person name="Rigbolt K.T."/>
+<person name="Prokhorova T.A."/>
+<person name="Akimov V."/>
+<person name="Henningsen J."/>
+<person name="Johansen P.T."/>
+<person name="Kratchmarova I."/>
+<person name="Kassem M."/>
+<person name="Mann M."/>
+<person name="Olsen J.V."/>
+<person name="Blagoev B."/>
+</authorList>
+<dbReference type="PubMed" id="21406692"/>
+<dbReference type="DOI" id="10.1126/scisignal.2001570"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2014" name="Mol. Cell. Proteomics" volume="13" first="372" last="387">
+<title>Immunoaffinity enrichment and mass spectrometry analysis of protein methylation.</title>
+<authorList>
+<person name="Guo A."/>
+<person name="Gu H."/>
+<person name="Zhou J."/>
+<person name="Mulhern D."/>
+<person name="Wang Y."/>
+<person name="Lee K.A."/>
+<person name="Yang V."/>
+<person name="Aguiar M."/>
+<person name="Kornhauser J."/>
+<person name="Jia X."/>
+<person name="Ren J."/>
+<person name="Beausoleil S.A."/>
+<person name="Silva J.C."/>
+<person name="Vemulapalli V."/>
+<person name="Bedford M.T."/>
+<person name="Comb M.J."/>
+</authorList>
+<dbReference type="PubMed" id="24129315"/>
+<dbReference type="DOI" id="10.1074/mcp.o113.027870"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Colon carcinoma</tissue>
+</source>
+</reference>
+<comment type="function">
+<text evidence="3 7 8 11">Adapter protein involved in invadopodia and podosome formation and extracellular matrix degradation. Binds matrix metalloproteinases (ADAMs), NADPH oxidases (NOXs) and phosphoinositides. Acts as an organizer protein that allows NOX1- or NOX3-dependent reactive oxygen species (ROS) generation and ROS localization. Plays a role in mitotic clonal expansion during the immediate early stage of adipocyte differentiation (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="3 7 8 9 11">Interacts with ADAM15 (By similarity). Interacts with NOXO1. Interacts (via SH3 domains) with NOXA1; the interaction is direct. Interacts with FASLG.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="3">Cell projection</location>
+<location evidence="3">Podosome</location>
+</subcellularLocation>
+<text evidence="3">Cytoplasmic in normal cells and localizes to podosomes in SRC-transformed cells.</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="10">Expressed in fibroblasts.</text>
+</comment>
+<comment type="domain">
+<text evidence="3">The PX domain is required for podosome localization because of its ability to bind phosphatidylinositol 3-phosphate (PtdIns(3)P) and phosphatidylinositol 3,4-bisphosphate (PtdIns(3,4)P2) and, to a lesser extent, phosphatidylinositol 4-phosphate (PtdIns(4)P), phosphatidylinositol 5-phosphate (PtdIns(5)P), and phosphatidylinositol 3,5-bisphosphate (PtdIns(3,5)P2). Binds to the third intramolecular SH3 domain (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="3">Phosphorylated in SRC-transformed cells.</text>
+</comment>
+<comment type="disease" evidence="10">
+<disease id="DI-02812">
+<name>Frank-Ter Haar syndrome</name>
+<acronym>FTHS</acronym>
+<description>A syndrome characterized by brachycephaly, wide fontanels, prominent forehead, hypertelorism, prominent eyes, macrocornea with or without glaucoma, full cheeks, small chin, bowing of the long bones and flexion deformity of the fingers.</description>
+<dbReference type="MIM" id="249420"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="12">Belongs to the SH3PXD2 family.</text>
+</comment>
+<dbReference type="EMBL" id="AB430862">
+<property type="protein sequence ID" value="BAG81977.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="DQ109556">
+<property type="protein sequence ID" value="AAZ99795.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC008671">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC011407">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC090064">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB037716">
+<property type="protein sequence ID" value="BAA92533.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS34291.1"/>
+<dbReference type="RefSeq" id="NP_001017995.1">
+<property type="nucleotide sequence ID" value="NM_001017995.2"/>
+</dbReference>
+<dbReference type="SMR" id="A1X283"/>
+<dbReference type="BioGRID" id="130149">
+<property type="interactions" value="22"/>
+</dbReference>
+<dbReference type="IntAct" id="A1X283">
+<property type="interactions" value="10"/>
+</dbReference>
+<dbReference type="MINT" id="A1X283"/>
+<dbReference type="STRING" id="9606.ENSP00000309714"/>
+<dbReference type="iPTMnet" id="A1X283"/>
+<dbReference type="PhosphoSitePlus" id="A1X283"/>
+<dbReference type="BioMuta" id="SH3PXD2B"/>
+<dbReference type="EPD" id="A1X283"/>
+<dbReference type="jPOST" id="A1X283"/>
+<dbReference type="MassIVE" id="A1X283"/>
+<dbReference type="MaxQB" id="A1X283"/>
+<dbReference type="PaxDb" id="A1X283"/>
+<dbReference type="PeptideAtlas" id="A1X283"/>
+<dbReference type="PRIDE" id="A1X283"/>
+<dbReference type="ProteomicsDB" id="156"/>
+<dbReference type="ABCD" id="A1X283">
+<property type="antibodies" value="20 sequenced antibodies"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="49665">
+<property type="antibodies" value="84 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="285590"/>
+<dbReference type="Ensembl" id="ENST00000311601">
+<property type="protein sequence ID" value="ENSP00000309714"/>
+<property type="gene ID" value="ENSG00000174705"/>
+</dbReference>
+<dbReference type="GeneID" id="285590"/>
+<dbReference type="KEGG" id="hsa:285590"/>
+<dbReference type="UCSC" id="uc003mbr.3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="285590"/>
+<dbReference type="DisGeNET" id="285590"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000174705.11"/>
+<dbReference type="GeneCards" id="SH3PXD2B"/>
+<dbReference type="HGNC" id="HGNC:29242">
+<property type="gene designation" value="SH3PXD2B"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000174705">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MalaCards" id="SH3PXD2B"/>
+<dbReference type="MIM" id="249420">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="613293">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_A1X283"/>
+<dbReference type="OpenTargets" id="ENSG00000174705"/>
+<dbReference type="Orphanet" id="137834">
+<property type="disease" value="Frank-Ter Haar syndrome"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA134864119"/>
+<dbReference type="eggNOG" id="KOG0905">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000158396"/>
+<dbReference type="HOGENOM" id="CLU_013051_1_0_1"/>
+<dbReference type="InParanoid" id="A1X283"/>
+<dbReference type="KO" id="K24032"/>
+<dbReference type="OMA" id="PMIPTKH"/>
+<dbReference type="OrthoDB" id="1183210at2759"/>
+<dbReference type="PhylomeDB" id="A1X283"/>
+<dbReference type="TreeFam" id="TF329347"/>
+<dbReference type="PathwayCommons" id="A1X283"/>
+<dbReference type="BioGRID-ORCS" id="285590">
+<property type="hits" value="7 hits in 870 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="SH3PXD2B">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="285590"/>
+<dbReference type="Pharos" id="A1X283">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:A1X283"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 5"/>
+</dbReference>
+<dbReference type="RNAct" id="A1X283">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000174705">
+<property type="expression patterns" value="Expressed in uterine cervix and 190 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="A1X283">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="A1X283">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030054">
+<property type="term" value="C:cell junction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042995">
+<property type="term" value="C:cell projection"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002102">
+<property type="term" value="C:podosome"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0080025">
+<property type="term" value="F:phosphatidylinositol-3,5-bisphosphate binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032266">
+<property type="term" value="F:phosphatidylinositol-3-phosphate binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070273">
+<property type="term" value="F:phosphatidylinositol-4-phosphate binding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010314">
+<property type="term" value="F:phosphatidylinositol-5-phosphate binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042169">
+<property type="term" value="F:SH2 domain binding"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016176">
+<property type="term" value="F:superoxide-generating NADPH oxidase activator activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060612">
+<property type="term" value="P:adipose tissue development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060348">
+<property type="term" value="P:bone development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904888">
+<property type="term" value="P:cranial skeletal system development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0022617">
+<property type="term" value="P:extracellular matrix disassembly"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001654">
+<property type="term" value="P:eye development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007507">
+<property type="term" value="P:heart development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002051">
+<property type="term" value="P:osteoblast fate commitment"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071800">
+<property type="term" value="P:podosome assembly"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904179">
+<property type="term" value="P:positive regulation of adipose tissue development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045600">
+<property type="term" value="P:positive regulation of fat cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010628">
+<property type="term" value="P:positive regulation of gene expression"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0040018">
+<property type="term" value="P:positive regulation of multicellular organism growth"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051496">
+<property type="term" value="P:positive regulation of stress fiber assembly"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072657">
+<property type="term" value="P:protein localization to membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060378">
+<property type="term" value="P:regulation of brood size"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001501">
+<property type="term" value="P:skeletal system development"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048705">
+<property type="term" value="P:skeletal system morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006801">
+<property type="term" value="P:superoxide metabolic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="CDD" id="cd06888">
+<property type="entry name" value="PX_FISH"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd12075">
+<property type="entry name" value="SH3_Tks4_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd12076">
+<property type="entry name" value="SH3_Tks4_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd12078">
+<property type="entry name" value="SH3_Tks4_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd12018">
+<property type="entry name" value="SH3_Tks4_4"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1520.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001683">
+<property type="entry name" value="Phox"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036871">
+<property type="entry name" value="PX_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036028">
+<property type="entry name" value="SH3-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001452">
+<property type="entry name" value="SH3_domain"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR037961">
+<property type="entry name" value="SH3PXD2_PX"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR030512">
+<property type="entry name" value="SH3PXD2B"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035477">
+<property type="entry name" value="SH3PXD2B_SH3_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035478">
+<property type="entry name" value="SH3PXD2B_SH3_2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035479">
+<property type="entry name" value="SH3PXD2B_SH3_3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR035480">
+<property type="entry name" value="SH3PXD2B_SH3_4"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR15706:SF19">
+<property type="entry name" value="PTHR15706:SF19"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00787">
+<property type="entry name" value="PX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00018">
+<property type="entry name" value="SH3_1"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07653">
+<property type="entry name" value="SH3_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00312">
+<property type="entry name" value="PX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00326">
+<property type="entry name" value="SH3"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50044">
+<property type="entry name" value="SSF50044"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF64268">
+<property type="entry name" value="SSF64268"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50195">
+<property type="entry name" value="PX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50002">
+<property type="entry name" value="SH3"/>
+<property type="match status" value="4"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0965">Cell junction</keyword>
+<keyword id="KW-0966">Cell projection</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0221">Differentiation</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0728">SH3 domain</keyword>
+<feature type="chain" description="SH3 and PX domain-containing protein 2B" id="PRO_0000312201">
+<location>
+<begin position="1"/>
+<end position="911"/>
+</location>
+</feature>
+<feature type="domain" description="PX" evidence="5">
+<location>
+<begin position="5"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="domain" description="SH3 1" evidence="6">
+<location>
+<begin position="152"/>
+<end position="211"/>
+</location>
+</feature>
+<feature type="domain" description="SH3 2" evidence="6">
+<location>
+<begin position="221"/>
+<end position="280"/>
+</location>
+</feature>
+<feature type="domain" description="SH3 3" evidence="6">
+<location>
+<begin position="368"/>
+<end position="427"/>
+</location>
+</feature>
+<feature type="domain" description="SH3 4" evidence="6">
+<location>
+<begin position="850"/>
+<end position="911"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Pro-rich">
+<location>
+<begin position="729"/>
+<end position="806"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine" evidence="4">
+<location>
+<position position="25"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="2">
+<location>
+<position position="279"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="1 2">
+<location>
+<position position="291"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="4">
+<location>
+<position position="499"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="4">
+<location>
+<position position="528"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="4">
+<location>
+<position position="843"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FTHS; dbSNP:rs267607046." id="VAR_063764" evidence="10">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="43"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs6880739." id="VAR_046226">
+<original>Y</original>
+<variation>F</variation>
+<location>
+<position position="101"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAZ99795." ref="2" evidence="12">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="28"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAZ99795." ref="2" evidence="12">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="72"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAZ99795." ref="2" evidence="12">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="712"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="18669648"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="20068231"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250"/>
+<evidence key="4" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="A2AAY5"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00147"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00192"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12615925"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19755710"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19807924"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20137777"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20609497"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000305"/>
+<sequence length="911" mass="101579" checksum="A5AA524F9AA21318" modified="2009-05-05" version="3">MPPRRSIVEVKVLDVQKRRVPNKHYVYIIRVTWSSGSTEAIYRRYSKFFDLQMQMLDKFPMEGGQKDPKQRIIPFLPGKILFRRSHIRDVAVKRLIPIDEYCKALIQLPPYISQCDEVLQFFETRPEDLNPPKEEHIGKKKSGGDQTSVDPMVLEQYVVVANYQKQESSEISLSVGQVVDIIEKNESGWWFVSTAEEQGWVPATCLEGQDGVQDEFSLQPEEEEKYTVIYPYTARDQDEMNLERGAVVEVIQKNLEGWWKIRYQGKEGWAPASYLKKNSGEPLPPKPGPGSPSHPGALDLDGVSRQQNAVGREKELLSSQRDGRFEGRPVPDGDAKQRSPKMRQRPPPRRDMTIPRGLNLPKPPIPPQVEEEYYTIAEFQTTIPDGISFQAGLKVEVIEKNLSGWWYIQIEDKEGWAPATFIDKYKKTSNASRPNFLAPLPHEVTQLRLGEAAALENNTGSEATGPSRPLPDAPHGVMDSGLPWSKDWKGSKDVLRKASSDMSASAGYEEISDPDMEEKPSLPPRKESIIKSEGELLERERERQRTEQLRGPTPKPPGVILPMMPAKHIPPARDSRRPEPKPDKSRLFQLKNDMGLECGHKVLAKEVKKPNLRPISKSKTDLPEEKPDATPQNPFLKSRPQVRPKPAPSPKTEPPQGEDQVDICNLRSKLRPAKSQDKSLLDGEGPQAVGGQDVAFSRSFLPGEGPGRAQDRTGKQDGLSPKEISCRAPPRPAKTTDPVSKSVPVPLQEAPQQRPVVPPRRPPPPKKTSSSSRPLPEVRGPQCEGHESRAAPTPGRALLVPPKAKPFLSNSLGGQDDTRGKGSLGPWGTGKIGENREKAAAASVPNADGLKDSLYVAVADFEGDKDTSSFQEGTVFEVREKNSSGWWFCQVLSGAPSWEGWIPSNYLRKKP</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

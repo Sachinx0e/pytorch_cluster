@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2003-09-19" modified="2020-10-07" version="181">
+<accession>Q8N2W9</accession>
+<accession>O75926</accession>
+<accession>Q96G19</accession>
+<accession>Q9UN16</accession>
+<name>PIAS4_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>E3 SUMO-protein ligase PIAS4</fullName>
+<ecNumber evidence="13 14 15 18 19 22">2.3.2.27</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>PIASy</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protein inhibitor of activated STAT protein 4</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protein inhibitor of activated STAT protein gamma</fullName>
+<shortName>PIAS-gamma</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="24">RING-type E3 ubiquitin transferase PIAS4</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">PIAS4</name>
+<name type="synonym">PIASG</name>
+</gene>
+<organism evidence="25">
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="24">
+<citation type="journal article" date="1998" name="Proc. Natl. Acad. Sci. U.S.A." volume="95" first="10626" last="10631">
+<title>Inhibition of Stat1-mediated gene activation by PIAS1.</title>
+<authorList>
+<person name="Liu B."/>
+<person name="Liao J."/>
+<person name="Rao X."/>
+<person name="Kushner S.A."/>
+<person name="Chung C.D."/>
+<person name="Chang D.D."/>
+<person name="Shuai K."/>
+</authorList>
+<dbReference type="PubMed" id="9724754"/>
+<dbReference type="DOI" id="10.1073/pnas.95.18.10626"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>B-cell</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Brain</tissue>
+<tissue>Lung</tissue>
+<tissue>Skin</tissue>
+</source>
+</reference>
+<reference key="3" evidence="24">
+<citation type="journal article" date="2001" name="Apoptosis" volume="6" first="221" last="234">
+<title>A putative protein inhibitor of activated STAT (PIASy) interacts with p53 and inhibits p53-mediated transactivation but not apoptosis.</title>
+<authorList>
+<person name="Nelson V."/>
+<person name="Davis G.E."/>
+<person name="Maxwell S.A."/>
+</authorList>
+<dbReference type="PubMed" id="11388671"/>
+<dbReference type="DOI" id="10.1023/a:1011392811628"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 10-510</scope>
+<scope>INTERACTION WITH TP53</scope>
+</reference>
+<reference key="4" evidence="24">
+<citation type="journal article" date="2001" name="Proc. Natl. Acad. Sci. U.S.A." volume="98" first="3203" last="3207">
+<title>A transcriptional corepressor of Stat1 with an essential LXXLL signature motif.</title>
+<authorList>
+<person name="Liu B."/>
+<person name="Gross M."/>
+<person name="ten Hoeve J."/>
+<person name="Shuai K."/>
+</authorList>
+<dbReference type="PubMed" id="11248056"/>
+<dbReference type="DOI" id="10.1073/pnas.051489598"/>
+</citation>
+<scope>INTERACTION WITH STAT1</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DOMAIN</scope>
+<scope>MUTAGENESIS OF 23-LEU-LEU-24</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2001" name="Oncogene" volume="20" first="3880" last="3887">
+<title>Distinct effects of PIAS proteins on androgen-mediated gene activation in prostate cancer cells.</title>
+<authorList>
+<person name="Gross M."/>
+<person name="Liu B."/>
+<person name="Tan J.-A."/>
+<person name="French F.S."/>
+<person name="Carey M."/>
+<person name="Shuai K."/>
+</authorList>
+<dbReference type="PubMed" id="11439351"/>
+<dbReference type="DOI" id="10.1038/sj.onc.1204489"/>
+</citation>
+<scope>INTERACTION WITH AR</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>MUTAGENESIS OF 23-LEU-LEU-24</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="42981" last="42986">
+<title>SUMO-1 modification of the C-terminal KVEKVD of Axin is required for JNK activation but has no effect on Wnt signaling.</title>
+<authorList>
+<person name="Rui H.L."/>
+<person name="Fan E."/>
+<person name="Zhou H.M."/>
+<person name="Xu Z."/>
+<person name="Zhang Y."/>
+<person name="Lin S.C."/>
+</authorList>
+<dbReference type="PubMed" id="12223491"/>
+<dbReference type="DOI" id="10.1074/jbc.m208099200"/>
+</citation>
+<scope>INTERACTION WITH AXIN1</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2003" name="Circ. Res." volume="92" first="1201" last="1208">
+<title>Modification of GATA-2 transcriptional activity in endothelial cells by the SUMO E3 ligase PIASy.</title>
+<authorList>
+<person name="Chun T.-H."/>
+<person name="Itoh H."/>
+<person name="Subramanian L."/>
+<person name="Iniguez-Lluhi J.A."/>
+<person name="Nakao K."/>
+</authorList>
+<dbReference type="PubMed" id="12750312"/>
+<dbReference type="DOI" id="10.1161/01.res.0000076893.70898.36"/>
+</citation>
+<scope>INTERACTION WITH GATA2</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2003" name="EMBO J." volume="22" first="2047" last="2059">
+<title>Sumoylation is involved in beta-catenin-dependent activation of Tcf-4.</title>
+<authorList>
+<person name="Yamamoto H."/>
+<person name="Ihara M."/>
+<person name="Matsuura Y."/>
+<person name="Kikuchi A."/>
+</authorList>
+<dbReference type="PubMed" id="12727872"/>
+<dbReference type="DOI" id="10.1093/emboj/cdg204"/>
+</citation>
+<scope>FUNCTION IN SUMOYLATION OF TCF4</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>PATHWAY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF LYS-35 AND LYS-128</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2003" name="Eur. J. Biochem." volume="270" first="1338" last="1348">
+<title>Transactivation properties of c-Myb are critically dependent on two SUMO-1 acceptor sites that are conjugated in a PIASy enhanced manner.</title>
+<authorList>
+<person name="Dahle O."/>
+<person name="Andersen T.O."/>
+<person name="Nordgaard O."/>
+<person name="Matre V."/>
+<person name="Del Sal G."/>
+<person name="Gabrielsen O.S."/>
+</authorList>
+<dbReference type="PubMed" id="12631292"/>
+<dbReference type="DOI" id="10.1046/j.1432-1033.2003.03504.x"/>
+</citation>
+<scope>FUNCTION IN SUMOYLATION OF MYB</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>PATHWAY</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2003" name="J. Biol. Chem." volume="278" first="9134" last="9141">
+<title>A synergy control motif within the attenuator domain of CCAAT/enhancer-binding protein alpha inhibits transcriptional synergy through its PIASy-enhanced modification by SUMO-1 or SUMO-3.</title>
+<authorList>
+<person name="Subramanian L."/>
+<person name="Benson M.D."/>
+<person name="Iniguez-Lluhi J.A."/>
+</authorList>
+<dbReference type="PubMed" id="12511558"/>
+<dbReference type="DOI" id="10.1074/jbc.m210440200"/>
+</citation>
+<scope>FUNCTION IN SUMOYLATION OF CEBPA</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>PATHWAY</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2004" name="FEBS Lett." volume="570" first="97" last="101">
+<title>PIASy represses TRIF-induced ISRE and NF-kappaB activation but not apoptosis.</title>
+<authorList>
+<person name="Zhang J."/>
+<person name="Xu L.G."/>
+<person name="Han K.J."/>
+<person name="Wei X."/>
+<person name="Shu H.B."/>
+</authorList>
+<dbReference type="PubMed" id="15251447"/>
+<dbReference type="DOI" id="10.1016/j.febslet.2004.05.081"/>
+</citation>
+<scope>INTERACTION WITH TICAM1</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2005" name="Mol. Cell. Biol." volume="25" first="3506" last="3518">
+<title>SUMO-1 modification of PIASy, an E3 ligase, is necessary for PIASy-dependent activation of Tcf-4.</title>
+<authorList>
+<person name="Ihara M."/>
+<person name="Yamamoto H."/>
+<person name="Kikuchi A."/>
+</authorList>
+<dbReference type="PubMed" id="15831457"/>
+<dbReference type="DOI" id="10.1128/mcb.25.9.3506-3518.2005"/>
+</citation>
+<scope>SUMOYLATION AT LYS-35 AND LYS-128</scope>
+<scope>FUNCTION IN SUMOYLATION OF TCF4</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>PATHWAY</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF LYS-35 AND LYS-128</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2006" name="Cell Death Differ." volume="13" first="96" last="108">
+<title>Proper SUMO-1 conjugation is essential to DJ-1 to exert its full activities.</title>
+<authorList>
+<person name="Shinbo Y."/>
+<person name="Niki T."/>
+<person name="Taira T."/>
+<person name="Ooe H."/>
+<person name="Takahashi-Niki K."/>
+<person name="Maita C."/>
+<person name="Seino C."/>
+<person name="Iguchi-Ariga S.M.M."/>
+<person name="Ariga H."/>
+</authorList>
+<dbReference type="PubMed" id="15976810"/>
+<dbReference type="DOI" id="10.1038/sj.cdd.4401704"/>
+</citation>
+<scope>FUNCTION IN SUMOYLATION OF PARK7</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>PATHWAY</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2006" name="J. Biol. Chem." volume="281" first="16664" last="16671">
+<title>Sumoylation delimits KLF8 transcriptional activity associated with the cell cycle regulation.</title>
+<authorList>
+<person name="Wei H."/>
+<person name="Wang X."/>
+<person name="Gan B."/>
+<person name="Urvalek A.M."/>
+<person name="Melkoumian Z.K."/>
+<person name="Guan J.-L."/>
+<person name="Zhao J."/>
+</authorList>
+<dbReference type="PubMed" id="16617055"/>
+<dbReference type="DOI" id="10.1074/jbc.m513135200"/>
+</citation>
+<scope>INTERACTION WITH KLF8</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2009" name="Anal. Chem." volume="81" first="4493" last="4501">
+<title>Lys-N and trypsin cover complementary parts of the phosphoproteome in a refined SCX-based approach.</title>
+<authorList>
+<person name="Gauci S."/>
+<person name="Helbig A.O."/>
+<person name="Slijper M."/>
+<person name="Krijgsveld J."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="19413330"/>
+<dbReference type="DOI" id="10.1021/ac9004309"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT ALA-2</scope>
+<scope>CLEAVAGE OF INITIATOR METHIONINE [LARGE SCALE ANALYSIS]</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2009" name="Science" volume="325" first="834" last="840">
+<title>Lysine acetylation targets protein complexes and co-regulates major cellular functions.</title>
+<authorList>
+<person name="Choudhary C."/>
+<person name="Kumar C."/>
+<person name="Gnad F."/>
+<person name="Nielsen M.L."/>
+<person name="Rehman M."/>
+<person name="Walther T.C."/>
+<person name="Olsen J.V."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="19608861"/>
+<dbReference type="DOI" id="10.1126/science.1175371"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-114</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2011" name="J. Biol. Chem." volume="286" first="43793" last="43808">
+<title>SUMOylation and SUMO-interacting motif (SIM) of metastasis tumor antigen 1 (MTA1) synergistically regulate its transcriptional repressor function.</title>
+<authorList>
+<person name="Cong L."/>
+<person name="Pakala S.B."/>
+<person name="Ohshiro K."/>
+<person name="Li D.Q."/>
+<person name="Kumar R."/>
+</authorList>
+<dbReference type="PubMed" id="21965678"/>
+<dbReference type="DOI" id="10.1074/jbc.m111.267237"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>PATHWAY</scope>
+<scope>INTERACTION WITH MTA1</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2012" name="J. Cell Biol." volume="197" first="179" last="187">
+<title>DNA damage-inducible SUMOylation of HERC2 promotes RNF8 binding via a novel SUMO-binding Zinc finger.</title>
+<authorList>
+<person name="Danielsen J.R."/>
+<person name="Povlsen L.K."/>
+<person name="Villumsen B.H."/>
+<person name="Streicher W."/>
+<person name="Nilsson J."/>
+<person name="Wikstrom M."/>
+<person name="Bekker-Jensen S."/>
+<person name="Mailand N."/>
+</authorList>
+<dbReference type="PubMed" id="22508508"/>
+<dbReference type="DOI" id="10.1083/jcb.201106152"/>
+</citation>
+<scope>FUNCTION IN SUMOYLATION OF HERC2 AND RNF168</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>PATHWAY</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2014" name="Nat. Struct. Mol. Biol." volume="21" first="927" last="936">
+<title>Uncovering global SUMOylation signaling networks in a site-specific manner.</title>
+<authorList>
+<person name="Hendriks I.A."/>
+<person name="D'Souza R.C."/>
+<person name="Yang B."/>
+<person name="Verlaan-de Vries M."/>
+<person name="Mann M."/>
+<person name="Vertegaal A.C."/>
+</authorList>
+<dbReference type="PubMed" id="25218447"/>
+<dbReference type="DOI" id="10.1038/nsmb.2890"/>
+</citation>
+<scope>SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-59</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2017" name="Nat. Commun." volume="8" first="363" last="363">
+<title>HSP70-Hrd1 axis precludes the oncorepressor potential of N-terminal misfolded Blimp-1s in lymphoma cells.</title>
+<authorList>
+<person name="Wang W.F."/>
+<person name="Yan L."/>
+<person name="Liu Z."/>
+<person name="Liu L.X."/>
+<person name="Lin J."/>
+<person name="Liu Z.Y."/>
+<person name="Chen X.P."/>
+<person name="Zhang W."/>
+<person name="Xu Z.Z."/>
+<person name="Shi T."/>
+<person name="Li J.M."/>
+<person name="Zhao Y.L."/>
+<person name="Meng G."/>
+<person name="Xia Y."/>
+<person name="Li J.Y."/>
+<person name="Zhu J."/>
+</authorList>
+<dbReference type="PubMed" id="28842558"/>
+<dbReference type="DOI" id="10.1038/s41467-017-00476-w"/>
+</citation>
+<scope>INTERACTION WITH PRDM1</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2017" name="Nat. Struct. Mol. Biol." volume="24" first="325" last="336">
+<title>Site-specific mapping of the human SUMO proteome reveals co-modification with phosphorylation.</title>
+<authorList>
+<person name="Hendriks I.A."/>
+<person name="Lyon D."/>
+<person name="Young C."/>
+<person name="Jensen L.J."/>
+<person name="Vertegaal A.C."/>
+<person name="Nielsen M.L."/>
+</authorList>
+<dbReference type="PubMed" id="28112733"/>
+<dbReference type="DOI" id="10.1038/nsmb.3366"/>
+</citation>
+<scope>SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-9; LYS-35; LYS-56; LYS-59; LYS-68; LYS-69 AND LYS-125</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<comment type="function">
+<text evidence="13 14 15 18 19 22">Functions as an E3-type small ubiquitin-like modifier (SUMO) ligase, stabilizing the interaction between UBE2I and the substrate, and as a SUMO-tethering factor. Plays a crucial role as a transcriptional coregulation in various cellular pathways, including the STAT pathway, the p53/TP53 pathway, the Wnt pathway and the steroid hormone signaling pathway. Involved in gene silencing. Mediates sumoylation of CEBPA, PARK7, HERC2, MYB, TCF4 and RNF168. In Wnt signaling, represses LEF1 and enhances TCF4 transcriptional activities through promoting their sumoylations. Enhances the sumoylation of MTA1 and may participate in its paralog-selective sumoylation.</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="13 14 15 18 19 22">
+<text>S-ubiquitinyl-[E2 ubiquitin-conjugating enzyme]-L-cysteine + [acceptor protein]-L-lysine = [E2 ubiquitin-conjugating enzyme]-L-cysteine + N(6)-ubiquitinyl-[acceptor protein]-L-lysine.</text>
+<dbReference type="EC" id="2.3.2.27"/>
+</reaction>
+</comment>
+<comment type="pathway" evidence="13 14 15 18 19 21 22">
+<text>Protein modification; protein sumoylation.</text>
+</comment>
+<comment type="subunit">
+<text evidence="5 9 10 11 12 16 17 20 21 23">Interacts with AR, AXIN1, GATA2, LEF1, TP53 and STAT1 (IFNG-induced). Binds to AT-rich DNA sequences, known as matrix or scaffold attachment regions (MARs/SARs) (By similarity). Interacts with TICAM1. Interacts with KLF8; the interaction results in SUMO ligation and repression of KLF8 transcriptional activity and of its cell cycle progression into G(1) phase. Interacts with MTA1. Interacts with PRDM1/Blimp-1 (PubMed:28842558).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-473160">
+<id>Q8N2W9</id>
+</interactant>
+<interactant intactId="EBI-372412">
+<id>P11474</id>
+<label>ESRRA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-473160">
+<id>Q8N2W9</id>
+</interactant>
+<interactant intactId="EBI-447269">
+<id>Q16665</id>
+<label>HIF1A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-473160">
+<id>Q8N2W9</id>
+</interactant>
+<interactant intactId="EBI-466029">
+<id>P42858</id>
+<label>HTT</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-473160">
+<id>Q8N2W9</id>
+</interactant>
+<interactant intactId="EBI-11741311">
+<id>Q5T752</id>
+<label>LCE1D</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-473160">
+<id>Q8N2W9</id>
+</interactant>
+<interactant intactId="EBI-355676">
+<id>P09874</id>
+<label>PARP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-473160">
+<id>Q8N2W9</id>
+</interactant>
+<interactant intactId="EBI-73886">
+<id>Q04206</id>
+<label>RELA</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-473160">
+<id>Q8N2W9</id>
+</interactant>
+<interactant intactId="EBI-473220">
+<id>P61956</id>
+<label>SUMO2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-473160">
+<id>Q8N2W9</id>
+</interactant>
+<interactant intactId="EBI-473249">
+<id>O75528</id>
+<label>TADA3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-473160">
+<id>Q8N2W9</id>
+</interactant>
+<interactant intactId="EBI-366083">
+<id>P04637</id>
+<label>TP53</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-473160">
+<id>Q8N2W9</id>
+</interactant>
+<interactant intactId="EBI-2130415">
+<id>O00635</id>
+<label>TRIM38</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-473160">
+<id>Q8N2W9</id>
+</interactant>
+<interactant intactId="EBI-11317716">
+<id>Q8NCN2</id>
+<label>ZBTB34</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="9 15 18">Nucleus</location>
+<location evidence="9 15 18">PML body</location>
+</subcellularLocation>
+<text>Colocalizes with SUMO1 and TCF7L2/TCF4 and LEF1 in a subset of PML (promyelocytic leukemia) nuclear bodies.</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="11">Highly expressed in testis and, at lower levels, in spleen, prostate, ovary, colon and peripheral blood leukocytes.</text>
+</comment>
+<comment type="domain">
+<text evidence="9">The LXXLL motif is a coregulator signature that is essential for transcriptional corepression.</text>
+</comment>
+<comment type="PTM">
+<text evidence="18">Sumoylated. Lys-35 is the main site of sumoylation. Sumoylation is required for TCF4 sumoylation and transcriptional activation. Represses LEF1 transcriptional activity. SUMO1 is the preferred conjugate.</text>
+</comment>
+<comment type="similarity">
+<text evidence="24">Belongs to the PIAS family.</text>
+</comment>
+<comment type="sequence caution" evidence="24">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAD45155" version="1"/>
+</conflict>
+</comment>
+<dbReference type="EC" id="2.3.2.27" evidence="13 14 15 18 19 22"/>
+<dbReference type="EMBL" id="AF077952">
+<property type="protein sequence ID" value="AAC36703.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC010047">
+<property type="protein sequence ID" value="AAH10047.2"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC029874">
+<property type="protein sequence ID" value="AAH29874.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC066895">
+<property type="protein sequence ID" value="AAH66895.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF164437">
+<property type="protein sequence ID" value="AAD45155.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS12118.1"/>
+<dbReference type="RefSeq" id="NP_056981.2">
+<property type="nucleotide sequence ID" value="NM_015897.3"/>
+</dbReference>
+<dbReference type="SMR" id="Q8N2W9"/>
+<dbReference type="BioGRID" id="119624">
+<property type="interactions" value="139"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-32499N"/>
+<dbReference type="ELM" id="Q8N2W9"/>
+<dbReference type="IntAct" id="Q8N2W9">
+<property type="interactions" value="66"/>
+</dbReference>
+<dbReference type="MINT" id="Q8N2W9"/>
+<dbReference type="STRING" id="9606.ENSP00000262971"/>
+<dbReference type="iPTMnet" id="Q8N2W9"/>
+<dbReference type="PhosphoSitePlus" id="Q8N2W9"/>
+<dbReference type="BioMuta" id="PIAS4"/>
+<dbReference type="DMDM" id="34922831"/>
+<dbReference type="EPD" id="Q8N2W9"/>
+<dbReference type="jPOST" id="Q8N2W9"/>
+<dbReference type="MassIVE" id="Q8N2W9"/>
+<dbReference type="MaxQB" id="Q8N2W9"/>
+<dbReference type="PaxDb" id="Q8N2W9"/>
+<dbReference type="PeptideAtlas" id="Q8N2W9"/>
+<dbReference type="PRIDE" id="Q8N2W9"/>
+<dbReference type="ProteomicsDB" id="71739"/>
+<dbReference type="Antibodypedia" id="1762">
+<property type="antibodies" value="346 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="51588"/>
+<dbReference type="Ensembl" id="ENST00000262971">
+<property type="protein sequence ID" value="ENSP00000262971"/>
+<property type="gene ID" value="ENSG00000105229"/>
+</dbReference>
+<dbReference type="GeneID" id="51588"/>
+<dbReference type="KEGG" id="hsa:51588"/>
+<dbReference type="UCSC" id="uc002lzg.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="51588"/>
+<dbReference type="DisGeNET" id="51588"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000105229.6"/>
+<dbReference type="GeneCards" id="PIAS4"/>
+<dbReference type="HGNC" id="HGNC:17002">
+<property type="gene designation" value="PIAS4"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000105229">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MIM" id="605989">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q8N2W9"/>
+<dbReference type="OpenTargets" id="ENSG00000105229"/>
+<dbReference type="PharmGKB" id="PA134945903"/>
+<dbReference type="eggNOG" id="KOG2169">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00990000203675"/>
+<dbReference type="HOGENOM" id="CLU_020768_1_1_1"/>
+<dbReference type="InParanoid" id="Q8N2W9"/>
+<dbReference type="KO" id="K16065"/>
+<dbReference type="OMA" id="IKHPELC"/>
+<dbReference type="OrthoDB" id="1205949at2759"/>
+<dbReference type="PhylomeDB" id="Q8N2W9"/>
+<dbReference type="TreeFam" id="TF323787"/>
+<dbReference type="PathwayCommons" id="Q8N2W9"/>
+<dbReference type="Reactome" id="R-HSA-196791">
+<property type="pathway name" value="Vitamin D (calciferol) metabolism"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3108214">
+<property type="pathway name" value="SUMOylation of DNA damage response and repair proteins"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3232118">
+<property type="pathway name" value="SUMOylation of transcription factors"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3232142">
+<property type="pathway name" value="SUMOylation of ubiquitinylation proteins"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3899300">
+<property type="pathway name" value="SUMOylation of transcription cofactors"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-4085377">
+<property type="pathway name" value="SUMOylation of SUMOylation proteins"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-4090294">
+<property type="pathway name" value="SUMOylation of intracellular receptors"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-4615885">
+<property type="pathway name" value="SUMOylation of DNA replication proteins"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-4755510">
+<property type="pathway name" value="SUMOylation of immune response proteins"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5693565">
+<property type="pathway name" value="Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5693571">
+<property type="pathway name" value="Nonhomologous End-Joining (NHEJ)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5693607">
+<property type="pathway name" value="Processing of DNA double-strand break ends"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-69473">
+<property type="pathway name" value="G2/M DNA damage checkpoint"/>
+</dbReference>
+<dbReference type="SignaLink" id="Q8N2W9"/>
+<dbReference type="SIGNOR" id="Q8N2W9"/>
+<dbReference type="UniPathway" id="UPA00886"/>
+<dbReference type="BioGRID-ORCS" id="51588">
+<property type="hits" value="25 hits in 897 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="PIAS4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="PIAS4"/>
+<dbReference type="GenomeRNAi" id="51588"/>
+<dbReference type="Pharos" id="Q8N2W9">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q8N2W9"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Unplaced"/>
+</dbReference>
+<dbReference type="RNAct" id="Q8N2W9">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000105229">
+<property type="expression patterns" value="Expressed in testis and 194 other tissues"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q8N2W9">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016363">
+<property type="term" value="C:nuclear matrix"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016605">
+<property type="term" value="C:PML body"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990234">
+<property type="term" value="C:transferase complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003677">
+<property type="term" value="F:DNA binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008022">
+<property type="term" value="F:protein C-terminus binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001085">
+<property type="term" value="F:RNA polymerase II transcription factor binding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061665">
+<property type="term" value="F:SUMO ligase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019789">
+<property type="term" value="F:SUMO transferase activity"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003712">
+<property type="term" value="F:transcription coregulator activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003714">
+<property type="term" value="F:transcription corepressor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031625">
+<property type="term" value="F:ubiquitin protein ligase binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006303">
+<property type="term" value="P:double-strand break repair via nonhomologous end joining"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032088">
+<property type="term" value="P:negative regulation of NF-kappaB transcription factor activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000122">
+<property type="term" value="P:negative regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045892">
+<property type="term" value="P:negative regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010804">
+<property type="term" value="P:negative regulation of tumor necrosis factor-mediated signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902231">
+<property type="term" value="P:positive regulation of intrinsic apoptotic signaling pathway in response to DNA damage"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1902174">
+<property type="term" value="P:positive regulation of keratinocyte apoptotic process"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033235">
+<property type="term" value="P:positive regulation of protein sumoylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016925">
+<property type="term" value="P:protein sumoylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006357">
+<property type="term" value="P:regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042359">
+<property type="term" value="P:vitamin D metabolic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016055">
+<property type="term" value="P:Wnt signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.720.30">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.60.120.780">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.40.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027224">
+<property type="entry name" value="PIAS4"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023321">
+<property type="entry name" value="PINIT"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR038654">
+<property type="entry name" value="PINIT_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003034">
+<property type="entry name" value="SAP_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036361">
+<property type="entry name" value="SAP_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR004181">
+<property type="entry name" value="Znf_MIZ"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR013083">
+<property type="entry name" value="Znf_RING/FYVE/PHD"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR10782:SF9">
+<property type="entry name" value="PTHR10782:SF9"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF14324">
+<property type="entry name" value="PINIT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02891">
+<property type="entry name" value="zf-MIZ"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00513">
+<property type="entry name" value="SAP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF68906">
+<property type="entry name" value="SSF68906"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51466">
+<property type="entry name" value="PINIT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50800">
+<property type="entry name" value="SAP"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51044">
+<property type="entry name" value="ZF_SP_RING"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-1017">Isopeptide bond</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0678">Repressor</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<keyword id="KW-0833">Ubl conjugation pathway</keyword>
+<keyword id="KW-0879">Wnt signaling pathway</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<keyword id="KW-0863">Zinc-finger</keyword>
+<feature type="initiator methionine" description="Removed" evidence="1">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" description="E3 SUMO-protein ligase PIAS4" id="PRO_0000218982">
+<location>
+<begin position="2"/>
+<end position="510"/>
+</location>
+</feature>
+<feature type="domain" description="SAP" evidence="6">
+<location>
+<begin position="12"/>
+<end position="46"/>
+</location>
+</feature>
+<feature type="domain" description="PINIT" evidence="8">
+<location>
+<begin position="119"/>
+<end position="279"/>
+</location>
+</feature>
+<feature type="zinc finger region" description="SP-RING-type" evidence="7">
+<location>
+<begin position="311"/>
+<end position="388"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="LXXLL motif" evidence="9">
+<location>
+<begin position="20"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Asp/Glu-rich (acidic)">
+<location>
+<begin position="464"/>
+<end position="492"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylalanine" evidence="1">
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="2">
+<location>
+<position position="114"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)" evidence="4">
+<location>
+<position position="9"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO); alternate">
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2); alternate" evidence="4">
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)" evidence="4">
+<location>
+<position position="56"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)" evidence="3 4">
+<location>
+<position position="59"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)" evidence="4">
+<location>
+<position position="68"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)" evidence="4">
+<location>
+<position position="69"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO2)" evidence="4">
+<location>
+<position position="125"/>
+</location>
+</feature>
+<feature type="cross-link" description="Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in SUMO)">
+<location>
+<position position="128"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of repression of AR- and STAT1-induced transcription; no effect on AR- and STAT1-binding." evidence="9 11">
+<original>LL</original>
+<variation>AA</variation>
+<location>
+<begin position="23"/>
+<end position="24"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Complete loss of sumoylation. No enhancement of TCF4 sumoylation. No effect on interaction with TCF4. Colocalizes with SUMO1 in nucleus but concentrated into nuclear granules." evidence="15 18">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Some loss of sumoylation." evidence="15 18">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="128"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Inhibits TCF4 sumoylation. Inhibits beta-catenin-mediated TCF7L2/TCF4 activity. No colocalization with TCF7L2/TCF4 in nuclear punctate structures; when associated with A-347.">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="342"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Inhibits TCF4 sumoylation. Inhibits beta-catenin-mediated TCF7L2/TCF4 activity. No colocalization with TCF7L2/TCF4 in nuclear punctate structures; when associated with A-342. AR- and STAT1-binding.">
+<original>C</original>
+<variation>A</variation>
+<location>
+<position position="347"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1." ref="1" evidence="24">
+<original>N</original>
+<variation>K</variation>
+<location>
+<position position="178"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1 and 3." ref="1 3" evidence="24">
+<original>SREL</original>
+<variation>FQGM</variation>
+<location>
+<begin position="179"/>
+<end position="182"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAH66895." ref="2" evidence="24">
+<original>E</original>
+<variation>G</variation>
+<location>
+<position position="482"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19413330"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19608861"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="25218447"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="28112733"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000250"/>
+<evidence key="6" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00186"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00452"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00799"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11248056"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11388671"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11439351"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12223491"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12511558"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12631292"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12727872"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12750312"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15251447"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15831457"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15976810"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16617055"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21965678"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22508508"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28842558"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000305"/>
+<evidence key="25" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="AAH29874.1"/>
+</source>
+</evidence>
+<sequence length="510" mass="56504" checksum="26AAA18246E1ACE3" modified="2002-10-01" version="1">MAAELVEAKNMVMSFRVSDLQMLLGFVGRSKSGLKHELVTRALQLVQFDCSPELFKKIKELYETRYAKKNSEPAPQPHRPLDPLTMHSTYDRAGAVPRTPLAGPNIDYPVLYGKYLNGLGRLPAKTLKPEVRLVKLPFFNMLDELLKPTELVPQNNEKLQESPCIFALTPRQVELIRNSRELQPGVKAVQVVLRICYSDTSCPQEDQYPPNIAVKVNHSYCSVPGYYPSNKPGVEPKRPCRPINLTHLMYLSSATNRITVTWGNYGKSYSVALYLVRQLTSSELLQRLKTIGVKHPELCKALVKEKLRLDPDSEIATTGVRVSLICPLVKMRLSVPCRAETCAHLQCFDAVFYLQMNEKKPTWMCPVCDKPAPYDQLIIDGLLSKILSECEDADEIEYLVDGSWCPIRAEKERSCSPQGAILVLGPSDANGLLPAPSVNGSGALGSTGGGGPVGSMENGKPGADVVDLTLDSSSSSEDEEEEEEEEEDEDEEGPRPKRRCPFQKGLVPAC</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

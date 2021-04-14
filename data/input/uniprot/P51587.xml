@@ -1,0 +1,4407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1996-10-01" modified="2020-10-07" version="225">
+<accession>P51587</accession>
+<accession>O00183</accession>
+<accession>O15008</accession>
+<accession>Q13879</accession>
+<accession>Q5TBJ7</accession>
+<name>BRCA2_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Breast cancer type 2 susceptibility protein</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Fanconi anemia group D1 protein</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">BRCA2</name>
+<name type="synonym">FACD</name>
+<name type="synonym">FANCD1</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1995" name="Nature" volume="378" first="789" last="792">
+<title>Identification of the breast cancer susceptibility gene BRCA2.</title>
+<authorList>
+<person name="Wooster R."/>
+<person name="Bignell G."/>
+<person name="Lancaster J."/>
+<person name="Swift S."/>
+<person name="Seal S."/>
+<person name="Mangion J."/>
+<person name="Collins N."/>
+<person name="Gregory S."/>
+<person name="Gumbs C."/>
+<person name="Micklem G."/>
+<person name="Barfoot R."/>
+<person name="Hamoudi R."/>
+<person name="Patel S."/>
+<person name="Rice C."/>
+<person name="Biggs P."/>
+<person name="Hashim Y."/>
+<person name="Smith A."/>
+<person name="Connor F."/>
+<person name="Arason A."/>
+<person name="Gudmundsson J."/>
+<person name="Ficenec D."/>
+<person name="Kelsell D."/>
+<person name="Ford D."/>
+<person name="Tonin P."/>
+<person name="Bishop D.T."/>
+<person name="Spurr N.K."/>
+<person name="Ponder B.A.J."/>
+<person name="Eeles R."/>
+<person name="Peto J."/>
+<person name="Devilee P."/>
+<person name="Cornelisse C."/>
+<person name="Lynch H."/>
+<person name="Narod S."/>
+<person name="Lenoir G."/>
+<person name="Egilsson V."/>
+<person name="Barkadottir R.B."/>
+<person name="Easton D.F."/>
+<person name="Bentley D.R."/>
+<person name="Futreal P.A."/>
+<person name="Ashworth A."/>
+<person name="Stratton M.R."/>
+</authorList>
+<dbReference type="PubMed" id="8524414"/>
+<dbReference type="DOI" id="10.1038/378789a0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1996" name="Nat. Genet." volume="12" first="333" last="337">
+<title>The complete BRCA2 gene and mutations in chromosome 13q-linked kindreds.</title>
+<authorList>
+<person name="Tavtigian S.V."/>
+<person name="Simard J."/>
+<person name="Rommens J."/>
+<person name="Couch F."/>
+<person name="Shattuck-Eidens D."/>
+<person name="Neuhausen S."/>
+<person name="Merajver S."/>
+<person name="Thorlacius S."/>
+<person name="Offit K."/>
+<person name="Stoppa-Lyonnet D."/>
+<person name="Belanger C."/>
+<person name="Bell R."/>
+<person name="Berry S."/>
+<person name="Bogden R."/>
+<person name="Chen Q."/>
+<person name="Davis T."/>
+<person name="Dumont M."/>
+<person name="Frye C."/>
+<person name="Hattier T."/>
+<person name="Jammulapati S."/>
+<person name="Janecki T."/>
+<person name="Jiang P."/>
+<person name="Kehrer R."/>
+<person name="Leblanc J.-F."/>
+<person name="Mitchell J.T."/>
+<person name="McArthur-Morrison J."/>
+<person name="Nguyen K."/>
+<person name="Peng Y."/>
+<person name="Samson C."/>
+<person name="Schroeder M."/>
+<person name="Snyder S.C."/>
+<person name="Steele L."/>
+<person name="Stringfellow M."/>
+<person name="Stroup C."/>
+<person name="Swedlund B."/>
+<person name="Swensen J."/>
+<person name="Teng D."/>
+<person name="Thomas A."/>
+<person name="Tran T."/>
+<person name="Tran T."/>
+<person name="Tranchant M."/>
+<person name="Weaver-Feldhaus J."/>
+<person name="Wong A.K.C."/>
+<person name="Shizuya H."/>
+<person name="Eyfjord J.E."/>
+<person name="Cannon-Albright L."/>
+<person name="Labrie F."/>
+<person name="Skolnick M.H."/>
+<person name="Weber B."/>
+<person name="Kamb A."/>
+<person name="Goldar D.E."/>
+</authorList>
+<dbReference type="PubMed" id="8589730"/>
+<dbReference type="DOI" id="10.1038/ng0396-333"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>VARIANTS HIS-372 AND PHE-599</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2003-10" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="NIEHS SNPs program"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>VARIANTS HIS-289; GLN-322; HIS-372; VAL-784; SER-929; PHE-976; ILE-987; ASP-991; ASN-1561; LYS-1880; MET-1915; PHE-2138; ARG-2162; ARG-2440; VAL-2466; THR-2490; PRO-2835; ALA-2856; PHE-2944; THR-2951; ILE-3244 AND VAL-3412</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2004" name="Nature" volume="428" first="522" last="528">
+<title>The DNA sequence and analysis of human chromosome 13.</title>
+<authorList>
+<person name="Dunham A."/>
+<person name="Matthews L.H."/>
+<person name="Burton J."/>
+<person name="Ashurst J.L."/>
+<person name="Howe K.L."/>
+<person name="Ashcroft K.J."/>
+<person name="Beare D.M."/>
+<person name="Burford D.C."/>
+<person name="Hunt S.E."/>
+<person name="Griffiths-Jones S."/>
+<person name="Jones M.C."/>
+<person name="Keenan S.J."/>
+<person name="Oliver K."/>
+<person name="Scott C.E."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ambrose K.D."/>
+<person name="Andrews D.T."/>
+<person name="Ashwell R.I.S."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Bannerjee R."/>
+<person name="Barlow K.F."/>
+<person name="Bates K."/>
+<person name="Beasley H."/>
+<person name="Bird C.P."/>
+<person name="Bray-Allen S."/>
+<person name="Brown A.J."/>
+<person name="Brown J.Y."/>
+<person name="Burrill W."/>
+<person name="Carder C."/>
+<person name="Carter N.P."/>
+<person name="Chapman J.C."/>
+<person name="Clamp M.E."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C.M."/>
+<person name="Clegg S.C."/>
+<person name="Cobley V."/>
+<person name="Collins J.E."/>
+<person name="Corby N."/>
+<person name="Coville G.J."/>
+<person name="Deloukas P."/>
+<person name="Dhami P."/>
+<person name="Dunham I."/>
+<person name="Dunn M."/>
+<person name="Earthrowl M.E."/>
+<person name="Ellington A.G."/>
+<person name="Faulkner L."/>
+<person name="Frankish A.G."/>
+<person name="Frankland J."/>
+<person name="French L."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Gilbert J.G.R."/>
+<person name="Gilson C.J."/>
+<person name="Ghori J."/>
+<person name="Grafham D.V."/>
+<person name="Gribble S.M."/>
+<person name="Griffiths C."/>
+<person name="Hall R.E."/>
+<person name="Hammond S."/>
+<person name="Harley J.L."/>
+<person name="Hart E.A."/>
+<person name="Heath P.D."/>
+<person name="Howden P.J."/>
+<person name="Huckle E.J."/>
+<person name="Hunt P.J."/>
+<person name="Hunt A.R."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Kay M."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Laird G.K."/>
+<person name="Langford C.J."/>
+<person name="Lawlor S."/>
+<person name="Leongamornlert D.A."/>
+<person name="Lloyd D.M."/>
+<person name="Lloyd C."/>
+<person name="Loveland J.E."/>
+<person name="Lovell J."/>
+<person name="Martin S."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="McLaren S.J."/>
+<person name="McMurray A."/>
+<person name="Milne S."/>
+<person name="Moore M.J.F."/>
+<person name="Nickerson T."/>
+<person name="Palmer S.A."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Pelan S."/>
+<person name="Phillimore B."/>
+<person name="Porter K.M."/>
+<person name="Rice C.M."/>
+<person name="Searle S."/>
+<person name="Sehra H.K."/>
+<person name="Shownkeen R."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Steward C.A."/>
+<person name="Sycamore N."/>
+<person name="Tester J."/>
+<person name="Thomas D.W."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Tubby B."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="West A.P."/>
+<person name="Whitehead S.L."/>
+<person name="Willey D.L."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Wright M.W."/>
+<person name="Young L."/>
+<person name="Coulson A."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Sulston J.E."/>
+<person name="Beck S."/>
+<person name="Bentley D.R."/>
+<person name="Rogers J."/>
+<person name="Ross M.T."/>
+</authorList>
+<dbReference type="PubMed" id="15057823"/>
+<dbReference type="DOI" id="10.1038/nature02379"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1997" name="Nat. Genet." volume="16" first="17" last="18">
+<title>Germline BRCA2 6174delT mutations in Ashkenazi Jewish pancreatic cancer patients.</title>
+<authorList>
+<person name="Ozcelik H."/>
+<person name="Schmocker B."/>
+<person name="Di Nicola N."/>
+<person name="Shi X.H."/>
+<person name="Langer B."/>
+<person name="Moore M."/>
+<person name="Taylor B.R."/>
+<person name="Narod S.A."/>
+<person name="Darlington G."/>
+<person name="Andrulis I.L."/>
+<person name="Gallinger S."/>
+<person name="Redston M."/>
+</authorList>
+<dbReference type="PubMed" id="9140390"/>
+<dbReference type="DOI" id="10.1038/ng0597-17"/>
+</citation>
+<scope>INVOLVEMENT IN PNCA2</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1999" name="Mol. Cell. Biol." volume="19" first="4633" last="4642">
+<title>Interaction between the product of the breast cancer susceptibility gene BRCA2 and DSS1, a protein functionally conserved from yeast to mammals.</title>
+<authorList>
+<person name="Marston N.J."/>
+<person name="Richards W.J."/>
+<person name="Hughes D."/>
+<person name="Bertwistle D."/>
+<person name="Marshall C.J."/>
+<person name="Ashworth A."/>
+</authorList>
+<dbReference type="PubMed" id="10373512"/>
+<dbReference type="DOI" id="10.1128/mcb.19.7.4633"/>
+</citation>
+<scope>INTERACTION WITH SEM1</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Hum. Mol. Genet." volume="13" first="1241" last="1248">
+<title>Direct interaction of FANCD2 with BRCA2 in DNA damage response pathways.</title>
+<authorList>
+<person name="Hussain S."/>
+<person name="Wilson J.B."/>
+<person name="Medhurst A.L."/>
+<person name="Hejna J."/>
+<person name="Witt E."/>
+<person name="Ananth S."/>
+<person name="Davies A."/>
+<person name="Masson J.-Y."/>
+<person name="Moses R."/>
+<person name="West S.C."/>
+<person name="de Winter J.P."/>
+<person name="Ashworth A."/>
+<person name="Jones N.J."/>
+<person name="Mathew C.G."/>
+</authorList>
+<dbReference type="PubMed" id="15115758"/>
+<dbReference type="DOI" id="10.1093/hmg/ddh135"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH FANCD2</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2004" name="Mol. Cell. Biol." volume="24" first="5850" last="5862">
+<title>Functional interaction of monoubiquitinated FANCD2 and BRCA2/FANCD1 in chromatin.</title>
+<authorList>
+<person name="Wang X.Z."/>
+<person name="Andreassen P.R."/>
+<person name="D'Andrea A.D."/>
+</authorList>
+<dbReference type="PubMed" id="15199141"/>
+<dbReference type="DOI" id="10.1128/mcb.24.13.5850-5862.2004"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>PHOSPHORYLATION</scope>
+<scope>INTERACTION WITH FANCD2</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2004" name="Mol. Cell. Biol." volume="24" first="7444" last="7455">
+<title>BRCA2 is ubiquitinated in vivo and interacts with USP11, a deubiquitinating enzyme that exhibits prosurvival function in the cellular response to DNA damage.</title>
+<authorList>
+<person name="Schoenfeld A.R."/>
+<person name="Apgar S."/>
+<person name="Dolios G."/>
+<person name="Wang R."/>
+<person name="Aaronson S.A."/>
+</authorList>
+<dbReference type="PubMed" id="15314155"/>
+<dbReference type="DOI" id="10.1128/mcb.24.17.7444-7455.2004"/>
+</citation>
+<scope>UBIQUITINATION</scope>
+<scope>DEUBIQUITINATION</scope>
+<scope>INTERACTION WITH USP11</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2005" name="J. Med. Genet." volume="42" first="147" last="151">
+<title>Biallelic BRCA2 mutations are associated with multiple malignancies in childhood including familial Wilms tumour.</title>
+<authorList>
+<consortium name="The famillial Wilms tumor collaboration"/>
+<person name="Reid S."/>
+<person name="Renwick A."/>
+<person name="Seal S."/>
+<person name="Baskcomb L."/>
+<person name="Barfoot R."/>
+<person name="Jayatilake H."/>
+<person name="Pritchard-Jones K."/>
+<person name="Stratton M.R."/>
+<person name="Ridolfi-Luethy A."/>
+<person name="Rahman N."/>
+</authorList>
+<dbReference type="PubMed" id="15689453"/>
+<dbReference type="DOI" id="10.1136/jmg.2004.022673"/>
+</citation>
+<scope>INVOLVEMENT IN GLM3</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="14877" last="14883">
+<title>FANCD2 functions independently of BRCA2 and RAD51 associated homologous recombination in response to DNA damage.</title>
+<authorList>
+<person name="Ohashi A."/>
+<person name="Zdzienicka M.Z."/>
+<person name="Chen J."/>
+<person name="Couch F.J."/>
+</authorList>
+<dbReference type="PubMed" id="15671039"/>
+<dbReference type="DOI" id="10.1074/jbc.m414669200"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2005" name="Nature" volume="434" first="598" last="604">
+<title>CDK-dependent phosphorylation of BRCA2 as a regulatory mechanism for recombinational repair.</title>
+<authorList>
+<person name="Esashi F."/>
+<person name="Christ N."/>
+<person name="Gannon J."/>
+<person name="Liu Y."/>
+<person name="Hunt T."/>
+<person name="Jasin M."/>
+<person name="West S.C."/>
+</authorList>
+<dbReference type="PubMed" id="15800615"/>
+<dbReference type="DOI" id="10.1038/nature03404"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-3291 BY CDK2</scope>
+<scope>INTERACTION WITH RAD51</scope>
+<scope>MUTAGENESIS OF SER-3291</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2005" name="Neoplasia" volume="7" first="348" last="355">
+<title>WDRPUH, a novel WD-repeat-containing protein, is highly expressed in human hepatocellular carcinoma and involved in cell proliferation.</title>
+<authorList>
+<person name="Silva F.P."/>
+<person name="Hamamoto R."/>
+<person name="Nakamura Y."/>
+<person name="Furukawa Y."/>
+</authorList>
+<dbReference type="PubMed" id="15967112"/>
+<dbReference type="DOI" id="10.1593/neo.04544"/>
+</citation>
+<scope>INTERACTION WITH WDR16</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2006" name="Mol. Cell" volume="22" first="719" last="729">
+<title>Control of BRCA2 cellular and clinical functions by a nuclear partner, PALB2.</title>
+<authorList>
+<person name="Xia B."/>
+<person name="Sheng Q."/>
+<person name="Nakanishi K."/>
+<person name="Ohashi A."/>
+<person name="Wu J."/>
+<person name="Christ N."/>
+<person name="Liu X."/>
+<person name="Jasin M."/>
+<person name="Couch F.J."/>
+<person name="Livingston D.M."/>
+</authorList>
+<dbReference type="PubMed" id="16793542"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2006.05.022"/>
+</citation>
+<scope>INTERACTION WITH PALB2</scope>
+<scope>CHARACTERIZATION OF VARIANTS BC ARG-25; CYS-31 AND ARG-31</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2006" name="Oncogene" volume="25" first="1186" last="1194">
+<title>DSS1 is required for the stability of BRCA2.</title>
+<authorList>
+<person name="Li J."/>
+<person name="Zou C."/>
+<person name="Bai Y."/>
+<person name="Wazer D.E."/>
+<person name="Band V."/>
+<person name="Gao Q."/>
+</authorList>
+<dbReference type="PubMed" id="16205630"/>
+<dbReference type="DOI" id="10.1038/sj.onc.1209153"/>
+</citation>
+<scope>INTERACTION WITH SEM1</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2007" name="Science" volume="316" first="1160" last="1166">
+<title>ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage.</title>
+<authorList>
+<person name="Matsuoka S."/>
+<person name="Ballif B.A."/>
+<person name="Smogorzewska A."/>
+<person name="McDonald E.R. III"/>
+<person name="Hurov K.E."/>
+<person name="Luo J."/>
+<person name="Bakalarski C.E."/>
+<person name="Zhao Z."/>
+<person name="Solimini N."/>
+<person name="Lerenthal Y."/>
+<person name="Shiloh Y."/>
+<person name="Gygi S.P."/>
+<person name="Elledge S.J."/>
+</authorList>
+<dbReference type="PubMed" id="17525332"/>
+<dbReference type="DOI" id="10.1126/science.1140321"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-755</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Embryonic kidney</tissue>
+</source>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2008" name="Oncogene" volume="27" first="3641" last="3652">
+<title>FANCG promotes formation of a newly identified protein complex containing BRCA2, FANCD2 and XRCC3.</title>
+<authorList>
+<person name="Wilson J.B."/>
+<person name="Yamamoto K."/>
+<person name="Marriott A.S."/>
+<person name="Hussain S."/>
+<person name="Sung P."/>
+<person name="Hoatlin M.E."/>
+<person name="Mathew C.G."/>
+<person name="Takata M."/>
+<person name="Thompson L.H."/>
+<person name="Kupfer G.M."/>
+<person name="Jones N.J."/>
+</authorList>
+<dbReference type="PubMed" id="18212739"/>
+<dbReference type="DOI" id="10.1038/sj.onc.1211034"/>
+</citation>
+<scope>INTERACTION WITH FANCD2; FANCG AND XRCC3</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2008" name="Oncogene" volume="27" first="3977" last="3985">
+<title>The checkpoint kinases Chk1 and Chk2 regulate the functional associations between hBRCA2 and Rad51 in response to DNA damage.</title>
+<authorList>
+<person name="Bahassi E.M."/>
+<person name="Ovesen J.L."/>
+<person name="Riesenberg A.L."/>
+<person name="Bernstein W.Z."/>
+<person name="Hasty P.E."/>
+<person name="Stambrook P.J."/>
+</authorList>
+<dbReference type="PubMed" id="18317453"/>
+<dbReference type="DOI" id="10.1038/onc.2008.17"/>
+</citation>
+<scope>FUNCTION IN RAD51-DEPENDENT DNA REPAIR</scope>
+<scope>PHOSPHORYLATION AT THR-3387 BY CHEK1 AND CHEK2</scope>
+<scope>MUTAGENESIS OF THR-3387</scope>
+<scope>INTERACTION WITH RAD51</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2009" name="Proc. Natl. Acad. Sci. U.S.A." volume="106" first="7155" last="7160">
+<title>PALB2 is an integral component of the BRCA complex required for homologous recombination repair.</title>
+<authorList>
+<person name="Sy S.M."/>
+<person name="Huen M.S."/>
+<person name="Chen J."/>
+</authorList>
+<dbReference type="PubMed" id="19369211"/>
+<dbReference type="DOI" id="10.1073/pnas.0811159106"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<scope>IDENTIFICATION IN A BRCA COMPLEX WITH BRCA1 AND PALB2</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2010" name="Nat. Struct. Mol. Biol." volume="17" first="1260" last="1262">
+<title>Human BRCA2 protein promotes RAD51 filament formation on RPA-covered single-stranded DNA.</title>
+<authorList>
+<person name="Liu J."/>
+<person name="Doty T."/>
+<person name="Gibson B."/>
+<person name="Heyer W.D."/>
+</authorList>
+<dbReference type="PubMed" id="20729859"/>
+<dbReference type="DOI" id="10.1038/nsmb.1904"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH RAD51</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2010" name="Nat. Struct. Mol. Biol." volume="17" first="1263" last="1265">
+<title>The breast cancer tumor suppressor BRCA2 promotes the specific targeting of RAD51 to single-stranded DNA.</title>
+<authorList>
+<person name="Thorslund T."/>
+<person name="McIlwraith M.J."/>
+<person name="Compton S.A."/>
+<person name="Lekomtsev S."/>
+<person name="Petronczki M."/>
+<person name="Griffith J.D."/>
+<person name="West S.C."/>
+</authorList>
+<dbReference type="PubMed" id="20729858"/>
+<dbReference type="DOI" id="10.1038/nsmb.1905"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2010" name="Nature" volume="467" first="678" last="683">
+<title>Purified human BRCA2 stimulates RAD51-mediated recombination.</title>
+<authorList>
+<person name="Jensen R.B."/>
+<person name="Carreira A."/>
+<person name="Kowalczykowski S.C."/>
+</authorList>
+<dbReference type="PubMed" id="20729832"/>
+<dbReference type="DOI" id="10.1038/nature09399"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH RAD51 AND DMC1</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2011" name="Cancer Res." volume="71" first="68" last="77">
+<title>BRCA2 and nucleophosmin coregulate centrosome amplification and form a complex with the Rho effector kinase ROCK2.</title>
+<authorList>
+<person name="Wang H.F."/>
+<person name="Takenaka K."/>
+<person name="Nakanishi A."/>
+<person name="Miki Y."/>
+</authorList>
+<dbReference type="PubMed" id="21084279"/>
+<dbReference type="DOI" id="10.1158/0008-5472.can-10-0030"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH ROCK2 AND NPM1</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2011" name="Exp. Cell Res." volume="317" first="1203" last="1213">
+<title>Homologous recombination proteins are associated with centrosomes and are required for mitotic stability.</title>
+<authorList>
+<person name="Cappelli E."/>
+<person name="Townsend S."/>
+<person name="Griffin C."/>
+<person name="Thacker J."/>
+</authorList>
+<dbReference type="PubMed" id="21276791"/>
+<dbReference type="DOI" id="10.1016/j.yexcr.2011.01.021"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+<dbReference type="DOI" id="10.1021/pr300630k"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-70; SER-445; SER-492; SER-1970; THR-2035; SER-2095 AND SER-3319</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2013" name="Nat. Struct. Mol. Biol." volume="20" first="1191" last="1198">
+<title>A cancer-associated BRCA2 mutation reveals masked nuclear export signals controlling localization.</title>
+<authorList>
+<person name="Jeyasekharan A.D."/>
+<person name="Liu Y."/>
+<person name="Hattori H."/>
+<person name="Pisupati V."/>
+<person name="Jonsdottir A.B."/>
+<person name="Rajendra E."/>
+<person name="Lee M."/>
+<person name="Sundaramoorthy E."/>
+<person name="Schlachter S."/>
+<person name="Kaminski C.F."/>
+<person name="Ofir-Rosenfeld Y."/>
+<person name="Sato K."/>
+<person name="Savill J."/>
+<person name="Ayoub N."/>
+<person name="Venkitaraman A.R."/>
+</authorList>
+<dbReference type="PubMed" id="24013206"/>
+<dbReference type="DOI" id="10.1038/nsmb.2666"/>
+</citation>
+<scope>INTERACTION WITH SEM1</scope>
+<scope>CHARACTERIZATION OF VARIANT BC HIS-2723</scope>
+<scope>MUTAGENESIS OF TRP-2725</scope>
+<scope>NUCLEAR EXPORT SIGNAL</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2014" name="Oncogene" volume="33" first="4803" last="4812">
+<title>Breast cancer-associated missense mutants of the PALB2 WD40 domain, which directly binds RAD51C, RAD51 and BRCA2, disrupt DNA repair.</title>
+<authorList>
+<person name="Park J.Y."/>
+<person name="Singh T.R."/>
+<person name="Nassar N."/>
+<person name="Zhang F."/>
+<person name="Freund M."/>
+<person name="Hanenberg H."/>
+<person name="Meetei A.R."/>
+<person name="Andreassen P.R."/>
+</authorList>
+<dbReference type="PubMed" id="24141787"/>
+<dbReference type="DOI" id="10.1038/onc.2013.421"/>
+</citation>
+<scope>INTERACTION WITH PALB2</scope>
+<scope>IDENTIFICATION IN A PALB2-CONTAINING HR COMPLEX</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2014" name="Cell Rep." volume="6" first="553" last="564">
+<title>Breast cancer proteins PALB2 and BRCA2 stimulate polymerase eta in recombination-associated DNA synthesis at blocked replication forks.</title>
+<authorList>
+<person name="Buisson R."/>
+<person name="Niraj J."/>
+<person name="Pauty J."/>
+<person name="Maity R."/>
+<person name="Zhao W."/>
+<person name="Coulombe Y."/>
+<person name="Sung P."/>
+<person name="Masson J.Y."/>
+</authorList>
+<dbReference type="PubMed" id="24485656"/>
+<dbReference type="DOI" id="10.1016/j.celrep.2014.01.009"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH POLH</scope>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2014" name="Nature" volume="511" first="362" last="365">
+<title>BRCA2 prevents R-loop accumulation and associates with TREX-2 mRNA export factor PCID2.</title>
+<authorList>
+<person name="Bhatia V."/>
+<person name="Barroso S.I."/>
+<person name="Garcia-Rubio M.L."/>
+<person name="Tumini E."/>
+<person name="Herrera-Moyano E."/>
+<person name="Aguilera A."/>
+</authorList>
+<dbReference type="PubMed" id="24896180"/>
+<dbReference type="DOI" id="10.1038/nature13374"/>
+</citation>
+<scope>FUNCTION IN R-LOOP PROCESSING</scope>
+<scope>INTERACTION WITH SEM1 AND PCID2</scope>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2017" name="Oncogene" volume="36" first="4161" last="4170">
+<title>Compromised BRCA1-PALB2 interaction is associated with breast cancer risk.</title>
+<authorList>
+<person name="Foo T.K."/>
+<person name="Tischkowitz M."/>
+<person name="Simhadri S."/>
+<person name="Boshari T."/>
+<person name="Zayed N."/>
+<person name="Burke K.A."/>
+<person name="Berman S.H."/>
+<person name="Blecua P."/>
+<person name="Riaz N."/>
+<person name="Huo Y."/>
+<person name="Ding Y.C."/>
+<person name="Neuhausen S.L."/>
+<person name="Weigelt B."/>
+<person name="Reis-Filho J.S."/>
+<person name="Foulkes W.D."/>
+<person name="Xia B."/>
+</authorList>
+<dbReference type="PubMed" id="28319063"/>
+<dbReference type="DOI" id="10.1038/onc.2017.46"/>
+</citation>
+<scope>INTERACTION WITH PALB2</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2002" name="Nature" volume="420" first="287" last="293">
+<title>Insights into DNA recombination from the structure of a RAD51-BRCA2 complex.</title>
+<authorList>
+<person name="Pellegrini L."/>
+<person name="Yu D.S."/>
+<person name="Lo T."/>
+<person name="Anand S."/>
+<person name="Lee M."/>
+<person name="Blundell T.L."/>
+<person name="Venkitaraman A.R."/>
+</authorList>
+<dbReference type="PubMed" id="12442171"/>
+<dbReference type="DOI" id="10.1038/nature01230"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.7 ANGSTROMS) OF 1519-1551 IN COMPLEX WITH RAD51</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2009" name="EMBO Rep." volume="10" first="990" last="996">
+<title>Structural basis for recruitment of BRCA2 by PALB2.</title>
+<authorList>
+<person name="Oliver A.W."/>
+<person name="Swift S."/>
+<person name="Lord C.J."/>
+<person name="Ashworth A."/>
+<person name="Pearl L.H."/>
+</authorList>
+<dbReference type="PubMed" id="19609323"/>
+<dbReference type="DOI" id="10.1038/embor.2009.126"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 21-39 IN COMPLEX WITH PALB2</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="1996" name="Cancer Res." volume="56" first="2738" last="2741">
+<title>Mutations of the BRCA2 gene in ovarian carcinomas.</title>
+<authorList>
+<person name="Takahashi H."/>
+<person name="Chiu H.-C."/>
+<person name="Bandera C.A."/>
+<person name="Behbakht K."/>
+<person name="Liu P.C."/>
+<person name="Couch F.J."/>
+<person name="Weber B.L."/>
+<person name="LiVolsi V.A."/>
+<person name="Furusato M."/>
+<person name="Rebane B.A."/>
+<person name="Cardonick A."/>
+<person name="Benjamin I."/>
+<person name="Morgan M.A."/>
+<person name="King S.A."/>
+<person name="Mikuta J.J."/>
+<person name="Rubin S.C."/>
+<person name="Boyd J."/>
+</authorList>
+<dbReference type="PubMed" id="8665505"/>
+</citation>
+<scope>VARIANT OVARIAN CANCER HIS-2787</scope>
+<scope>VARIANTS HIS-372; MET-1915 AND VAL-2466</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="1996" name="Nat. Genet." volume="13" first="123" last="125">
+<title>BRCA2 germline mutations in male breast cancer cases and breast cancer families.</title>
+<authorList>
+<person name="Couch F.J."/>
+<person name="Farid L.M."/>
+<person name="Deshano M.L."/>
+<person name="Tavtigian S.V."/>
+<person name="Calzone K."/>
+<person name="Campeau L."/>
+<person name="Peng Y."/>
+<person name="Bogden B."/>
+<person name="Chen Q."/>
+<person name="Neuhausen S."/>
+<person name="Shattuck-Eidens D."/>
+<person name="Godwin A.K."/>
+<person name="Daly M."/>
+<person name="Radford D.M."/>
+<person name="Sedlacek S."/>
+<person name="Rommens J."/>
+<person name="Simard J."/>
+<person name="Garber J."/>
+<person name="Merajver S."/>
+<person name="Weber B.L."/>
+</authorList>
+<dbReference type="PubMed" id="8673091"/>
+<dbReference type="DOI" id="10.1038/ng0596-123"/>
+</citation>
+<scope>VARIANTS HIS-372; ASP-991; SER-1147; MET-1915 AND CYS-2034</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="1996" name="Nat. Genet." volume="13" first="238" last="240">
+<title>BRCA2 mutations in primary breast and ovarian cancers.</title>
+<authorList>
+<person name="Lancaster J.M."/>
+<person name="Wooster R."/>
+<person name="Mangion J."/>
+<person name="Phelan C.M."/>
+<person name="Cochran C."/>
+<person name="Gumbs C."/>
+<person name="Seal S."/>
+<person name="Barfoot R."/>
+<person name="Collins N."/>
+<person name="Bignell G."/>
+<person name="Patel S."/>
+<person name="Hamoudi R."/>
+<person name="Larsson C."/>
+<person name="Wiseman R.W."/>
+<person name="Berchuck A."/>
+<person name="Iglehart J.D."/>
+<person name="Marks J.R."/>
+<person name="Ashworth A."/>
+<person name="Stratton M.R."/>
+<person name="Futreal P.A."/>
+</authorList>
+<dbReference type="PubMed" id="8640235"/>
+<dbReference type="DOI" id="10.1038/ng0696-238"/>
+</citation>
+<scope>VARIANT GLU-3095</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="1996" name="Nat. Genet." volume="13" first="241" last="244">
+<title>Low incidence of BRCA2 mutations in breast carcinoma and other cancers.</title>
+<authorList>
+<person name="Teng D.H.-F."/>
+<person name="Bogden R."/>
+<person name="Mitchell J."/>
+<person name="Baumgard M."/>
+<person name="Bell R."/>
+<person name="Berry S."/>
+<person name="Davis T."/>
+<person name="Ha P.C."/>
+<person name="Kehrer R."/>
+<person name="Jammulapati S."/>
+<person name="Chen Q."/>
+<person name="Offit K."/>
+<person name="Skolnick M.H."/>
+<person name="Tavtigian S.V."/>
+<person name="Jhanwar S."/>
+<person name="Swedlund B."/>
+<person name="Wong A.K.C."/>
+<person name="Kamb A."/>
+</authorList>
+<dbReference type="PubMed" id="8640236"/>
+<dbReference type="DOI" id="10.1038/ng0696-241"/>
+</citation>
+<scope>VARIANTS</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="1996" name="Nat. Genet." volume="13" first="245" last="247">
+<title>Mutation analysis in the BRCA2 gene in primary breast cancers.</title>
+<authorList>
+<person name="Miki Y."/>
+<person name="Katagiri T."/>
+<person name="Kasumi F."/>
+<person name="Yoshimoto T."/>
+<person name="Nakamura Y."/>
+</authorList>
+<dbReference type="PubMed" id="8640237"/>
+<dbReference type="DOI" id="10.1038/ng0696-245"/>
+</citation>
+<scope>VARIANT BC ASN-2415</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="1997" name="Am. J. Hum. Genet." volume="60" first="1050" last="1058">
+<title>A low proportion of BRCA2 mutations in Finnish breast cancer families.</title>
+<authorList>
+<person name="Vehmanen P."/>
+<person name="Friedman L.S."/>
+<person name="Eerola H."/>
+<person name="Sarantaus L."/>
+<person name="Pyrhoenen S."/>
+<person name="Ponder B.A.J."/>
+<person name="Muhonen T."/>
+<person name="Nevanlinna H."/>
+</authorList>
+<dbReference type="PubMed" id="9150152"/>
+</citation>
+<scope>VARIANT BC ASP-2089</scope>
+<scope>VARIANT VAL-3412</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="1998" name="Hum. Genet." volume="102" first="549" last="556">
+<title>High throughput fluorescence-based conformation-sensitive gel electrophoresis (F-CSGE) identifies six unique BRCA2 mutations and an overall low incidence of BRCA2 mutations in high-risk BRCA1-negative breast cancer families.</title>
+<authorList>
+<person name="Ganguly T."/>
+<person name="Dhulipala R."/>
+<person name="Godmilow L."/>
+<person name="Ganguly A."/>
+</authorList>
+<dbReference type="PubMed" id="9654203"/>
+<dbReference type="DOI" id="10.1007/s004390050738"/>
+</citation>
+<scope>VARIANT BC/PANCREAS CANCER TRP-554</scope>
+</reference>
+<reference key="40">
+<citation type="journal article" date="1998" name="J. Hum. Genet." volume="43" first="42" last="48">
+<title>High proportion of missense mutations of the BRCA1 and BRCA2 genes in Japanese breast cancer families.</title>
+<authorList>
+<person name="Katagiri T."/>
+<person name="Kasumi F."/>
+<person name="Yoshimoto M."/>
+<person name="Nomizu T."/>
+<person name="Asaishi K."/>
+<person name="Abe R."/>
+<person name="Tsuchiya A."/>
+<person name="Sugano M."/>
+<person name="Takai S."/>
+<person name="Yoneda M."/>
+<person name="Fukutomi T."/>
+<person name="Nanba K."/>
+<person name="Makita M."/>
+<person name="Okazaki H."/>
+<person name="Hirata K."/>
+<person name="Okazaki M."/>
+<person name="Furutsuma Y."/>
+<person name="Morishita Y."/>
+<person name="Iino Y."/>
+<person name="Karino T."/>
+<person name="Ayabe H."/>
+<person name="Hara S."/>
+<person name="Kajiwara T."/>
+<person name="Houga S."/>
+<person name="Shimizu T."/>
+<person name="Toda M."/>
+<person name="Yamazaki Y."/>
+<person name="Uchida T."/>
+<person name="Kunitomo K."/>
+<person name="Sonoo H."/>
+<person name="Kurebayashi J."/>
+<person name="Shimotsuma K."/>
+<person name="Nakamura Y."/>
+<person name="Miki Y."/>
+</authorList>
+<dbReference type="PubMed" id="9609997"/>
+<dbReference type="DOI" id="10.1007/s100380050035"/>
+</citation>
+<scope>VARIANTS BC LEU-32; ARG-53; LEU-81; ARG-201; ALA-211; SER-222 AND THR-3118</scope>
+</reference>
+<reference key="41">
+<citation type="journal article" date="1999" name="Am. J. Hum. Genet." volume="65" first="1021" last="1029">
+<title>The contribution of germline BRCA1 and BRCA2 mutations to familial ovarian cancer: no evidence for other ovarian cancer-susceptibility genes.</title>
+<authorList>
+<person name="Gayther S.A."/>
+<person name="Russell P."/>
+<person name="Harrington P."/>
+<person name="Antoniou A.C."/>
+<person name="Easton D.F."/>
+<person name="Ponder B.A.J."/>
+</authorList>
+<dbReference type="PubMed" id="10486320"/>
+<dbReference type="DOI" id="10.1086/302583"/>
+</citation>
+<scope>VARIANTS OVARIAN CANCER PRO-75; HIS-2502 AND HIS-3098</scope>
+</reference>
+<reference key="42">
+<citation type="journal article" date="1999" name="Hum. Genet." volume="104" first="201" last="204">
+<title>Molecular characterization of germline mutations in the BRCA1 and BRCA2 genes from breast cancer families in Taiwan.</title>
+<authorList>
+<person name="Li S.S.-L."/>
+<person name="Tseng H.-M."/>
+<person name="Yang T.-P."/>
+<person name="Liu C.-H."/>
+<person name="Teng S.-J."/>
+<person name="Huang H.-W."/>
+<person name="Chen L.-M."/>
+<person name="Kao H.-W."/>
+<person name="Chen J.H."/>
+<person name="Tseng J.-N."/>
+<person name="Chen A."/>
+<person name="Hou M.-F."/>
+<person name="Huang T.-J."/>
+<person name="Chang H.-T."/>
+<person name="Mok K.-T."/>
+<person name="Tsai J.-H."/>
+</authorList>
+<dbReference type="PubMed" id="10323242"/>
+<dbReference type="DOI" id="10.1007/s004390050936"/>
+</citation>
+<scope>VARIANTS HIS-289; HIS-372; ASP-991 AND VAL-3412</scope>
+</reference>
+<reference key="43">
+<citation type="journal article" date="1999" name="Hum. Mol. Genet." volume="8" first="413" last="423">
+<title>Global sequence diversity of BRCA2: analysis of 71 breast cancer families and 95 control individuals of worldwide populations.</title>
+<authorList>
+<person name="Wagner T.M.U."/>
+<person name="Hirtenlehner K."/>
+<person name="Shen P."/>
+<person name="Moeslinger R."/>
+<person name="Muhr D."/>
+<person name="Fleischmann E."/>
+<person name="Concin H."/>
+<person name="Doeller W."/>
+<person name="Haid A."/>
+<person name="Lang A.H."/>
+<person name="Mayer P."/>
+<person name="Petru E."/>
+<person name="Ropp E."/>
+<person name="Langbauer G."/>
+<person name="Kubista E."/>
+<person name="Scheiner O."/>
+<person name="Underhill P."/>
+<person name="Mountain J."/>
+<person name="Stierer M."/>
+<person name="Zielinski C."/>
+<person name="Oefner P."/>
+</authorList>
+<dbReference type="PubMed" id="9971877"/>
+<dbReference type="DOI" id="10.1093/hmg/8.3.413"/>
+</citation>
+<scope>VARIANTS BC</scope>
+<scope>VARIANTS</scope>
+</reference>
+<reference key="44">
+<citation type="journal article" date="1999" name="Int. J. Cancer" volume="82" first="325" last="328">
+<title>Germline brca2 sequence variants in patients with ocular melanoma.</title>
+<authorList>
+<person name="Sinilnikova O.M."/>
+<person name="Egan K.M."/>
+<person name="Quinn J.L."/>
+<person name="Boutrand L."/>
+<person name="Lenoir G.M."/>
+<person name="Stoppa-Lyonnet D."/>
+<person name="Desjardins L."/>
+<person name="Levy C."/>
+<person name="Goldgar D."/>
+<person name="Gragoudas E.S."/>
+</authorList>
+<dbReference type="PubMed" id="10399947"/>
+<dbReference type="DOI" id="10.1002/(sici)1097-0215(19990730)82:3&lt;325::aid-ijc3&gt;3.0.co;2-g"/>
+</citation>
+<scope>VARIANT BC ARG-326</scope>
+<scope>VARIANT ILE-2728</scope>
+</reference>
+<reference key="45">
+<citation type="journal article" date="2000" name="Nat. Genet." volume="26" first="362" last="364">
+<title>A common variant in BRCA2 is associated with both breast cancer risk and prenatal viability.</title>
+<authorList>
+<person name="Healey C.S."/>
+<person name="Dunning A.M."/>
+<person name="Teare M.D."/>
+<person name="Chase D."/>
+<person name="Parker L."/>
+<person name="Burn J."/>
+<person name="Chang-Claude J."/>
+<person name="Mannermaa A."/>
+<person name="Kataja V."/>
+<person name="Huntsman D.G."/>
+<person name="Pharoah P.D.P."/>
+<person name="Luben R.N."/>
+<person name="Easton D.F."/>
+<person name="Ponder B.A.J."/>
+</authorList>
+<dbReference type="PubMed" id="11062481"/>
+<dbReference type="DOI" id="10.1038/81691"/>
+</citation>
+<scope>VARIANT HIS-372</scope>
+</reference>
+<reference key="46">
+<citation type="journal article" date="2000" name="J. Med. Genet." volume="37" first="E17" last="E17">
+<title>BRCA2 germline mutations among early onset breast cancer patients unselected for family history of the disease.</title>
+<authorList>
+<person name="Plaschke J."/>
+<person name="Commer T."/>
+<person name="Jacobi C."/>
+<person name="Schackert H.K."/>
+<person name="Chang-Claude J."/>
+</authorList>
+<dbReference type="PubMed" id="10978364"/>
+<dbReference type="DOI" id="10.1136/jmg.37.9.e17"/>
+</citation>
+<scope>VARIANTS BC MET-729; ILE-2515 AND ILE-2728</scope>
+<scope>VARIANTS HIS-289; HIS-372; ASP-991; MET-1915 AND VAL-3412</scope>
+</reference>
+<reference key="47">
+<citation type="journal article" date="2001" name="Hum. Mutat." volume="17" first="73" last="73">
+<title>BRCA2 germline mutations in male breast cancer patients in the Polish population.</title>
+<authorList>
+<person name="Kwiatkowska E."/>
+<person name="Teresiak M."/>
+<person name="Lamperska K.M."/>
+<person name="Karczewska A."/>
+<person name="Breborowicz D."/>
+<person name="Stawicka M."/>
+<person name="Godlewski D."/>
+<person name="Krzyzosiak W.J."/>
+<person name="Mackiewicz A."/>
+</authorList>
+<dbReference type="PubMed" id="11139248"/>
+<dbReference type="DOI" id="10.1002/1098-1004(2001)17:1&lt;73::aid-humu12&gt;3.0.co;2-o"/>
+</citation>
+<scope>VARIANTS BC ASN-1179; ILE-3124 AND GLU-3196</scope>
+<scope>VARIANT TYR-1420</scope>
+</reference>
+<reference key="48">
+<citation type="journal article" date="2001" name="Hum. Mutat." volume="17" first="220" last="232">
+<title>An improved high throughput heteroduplex mutation detection system for screening BRCA2 mutations-fluorescent mutation detection (F-MD).</title>
+<authorList>
+<person name="Edwards S.M."/>
+<person name="Kote-Jarai Z."/>
+<person name="Hamoudi R."/>
+<person name="Eeles R.A."/>
+</authorList>
+<dbReference type="PubMed" id="11241844"/>
+<dbReference type="DOI" id="10.1002/humu.7"/>
+</citation>
+<scope>VARIANTS BC THR-505; TYR-1730; HIS-2135 AND CYS-2222</scope>
+<scope>VARIANT LYS-1880</scope>
+</reference>
+<reference key="49">
+<citation type="journal article" date="2001" name="Int. J. Cancer" volume="91" first="83" last="88">
+<title>Frequency of BRCA1 and BRCA2 germline mutations in Japanese breast cancer families.</title>
+<authorList>
+<person name="Ikeda N."/>
+<person name="Miyoshi Y."/>
+<person name="Yoneda K."/>
+<person name="Shiba E."/>
+<person name="Sekihara Y."/>
+<person name="Kinoshita M."/>
+<person name="Noguchi S."/>
+</authorList>
+<dbReference type="PubMed" id="11149425"/>
+<dbReference type="DOI" id="10.1002/1097-0215(20010101)91:1&lt;83::aid-ijc1013&gt;3.0.co;2-5"/>
+</citation>
+<scope>VARIANTS HIS-289 AND VAL-784</scope>
+<scope>VARIANT BC GLU-3076</scope>
+</reference>
+<reference key="50">
+<citation type="journal article" date="2002" name="Am. J. Hum. Genet." volume="71" first="625" last="631">
+<title>BRCA2 T2722R is a deleterious allele that causes exon skipping.</title>
+<authorList>
+<person name="Fackenthal J.D."/>
+<person name="Cartegni L."/>
+<person name="Krainer A.R."/>
+<person name="Olopade O.I."/>
+</authorList>
+<dbReference type="PubMed" id="12145750"/>
+<dbReference type="DOI" id="10.1086/342192"/>
+</citation>
+<scope>VARIANT BC ARG-2722</scope>
+</reference>
+<reference key="51">
+<citation type="journal article" date="2002" name="Am. J. Hum. Genet." volume="73" first="1477" last="1477">
+<authorList>
+<person name="Fackenthal J.D."/>
+<person name="Cartegni L."/>
+<person name="Krainer A.R."/>
+<person name="Olopade O.I."/>
+</authorList>
+</citation>
+<scope>ERRATUM OF PUBMED:12145750</scope>
+</reference>
+<reference key="52">
+<citation type="journal article" date="2002" name="Br. J. Cancer" volume="87" first="888" last="891">
+<title>BRCA2 gene mutations in families with aggregations of breast and stomach cancers.</title>
+<authorList>
+<person name="Jakubowska A."/>
+<person name="Nej K."/>
+<person name="Huzarski T."/>
+<person name="Scott R.J."/>
+<person name="Lubinski J."/>
+</authorList>
+<dbReference type="PubMed" id="12373604"/>
+<dbReference type="DOI" id="10.1038/sj.bjc.6600562"/>
+</citation>
+<scope>VARIANTS BC CYS-2072; CYS-2094 AND ASN-2128</scope>
+</reference>
+<reference key="53">
+<citation type="journal article" date="2002" name="Cancer Res." volume="62" first="3789" last="3793">
+<title>Evaluation of candidate genes MAP2K4, MADH4, ACVR1B, and BRCA2 in familial pancreatic cancer: deleterious BRCA2 mutations in 17%.</title>
+<authorList>
+<person name="Murphy K.M."/>
+<person name="Brune K.A."/>
+<person name="Griffin C."/>
+<person name="Sollenberger J.E."/>
+<person name="Petersen G.M."/>
+<person name="Bansal R."/>
+<person name="Hruban R.H."/>
+<person name="Kern S.E."/>
+</authorList>
+<dbReference type="PubMed" id="12097290"/>
+</citation>
+<scope>VARIANT THR-192</scope>
+</reference>
+<reference key="54">
+<citation type="journal article" date="2002" name="Clin. Cancer Res." volume="8" first="1121" last="1126">
+<title>Infrequent mutation in the BRCA2 gene in esophageal squamous cell carcinoma.</title>
+<authorList>
+<person name="Hu N."/>
+<person name="Li G."/>
+<person name="Li W.-J."/>
+<person name="Wang C."/>
+<person name="Goldstein A.M."/>
+<person name="Tang Z.-Z."/>
+<person name="Roth M.J."/>
+<person name="Dawsey S.M."/>
+<person name="Huang J."/>
+<person name="Wang Q.-H."/>
+<person name="Ding T."/>
+<person name="Giffen C."/>
+<person name="Taylor P.R."/>
+<person name="Emmert-Buck M.R."/>
+</authorList>
+<dbReference type="PubMed" id="11948123"/>
+</citation>
+<scope>VARIANTS HIS-118; SER-315; ILE-1988; CYS-2842 AND SER-3300</scope>
+</reference>
+<reference key="55">
+<citation type="journal article" date="2002" name="Genet. Test." volume="6" first="119" last="121">
+<title>Characterization of common BRCA1 and BRCA2 variants.</title>
+<authorList>
+<person name="Deffenbaugh A.M."/>
+<person name="Frank T.S."/>
+<person name="Hoffman M."/>
+<person name="Cannon-Albright L."/>
+<person name="Neuhausen S.L."/>
+</authorList>
+<dbReference type="PubMed" id="12215251"/>
+<dbReference type="DOI" id="10.1089/10906570260199375"/>
+</citation>
+<scope>VARIANTS ALA-598; TYR-1420; CYS-2034; ILE-2728 AND THR-2951</scope>
+</reference>
+<reference key="56">
+<citation type="journal article" date="2002" name="Hum. Mutat." volume="20" first="473" last="474">
+<title>BRCA1 and BRCA2 in Indian breast cancer patients.</title>
+<authorList>
+<person name="Saxena S."/>
+<person name="Szabo C.I."/>
+<person name="Chopin S."/>
+<person name="Barjhoux L."/>
+<person name="Sinilnikova O."/>
+<person name="Lenoir G."/>
+<person name="Goldgar D.E."/>
+<person name="Bhatanager D."/>
+</authorList>
+<dbReference type="PubMed" id="12442273"/>
+<dbReference type="DOI" id="10.1002/humu.9082"/>
+</citation>
+<scope>VARIANTS ASP-1593 AND SER-2706</scope>
+</reference>
+<reference key="57">
+<citation type="journal article" date="2002" name="Hum. Mutat." volume="20" first="474" last="474">
+<title>BRCA1 and BRCA2 sequence variants in Chinese breast cancer families.</title>
+<authorList>
+<person name="Zhi X."/>
+<person name="Szabo C."/>
+<person name="Chopin S."/>
+<person name="Suter N."/>
+<person name="Wang Q.-S."/>
+<person name="Ostrander E.A."/>
+<person name="Sinilnikova O.M."/>
+<person name="Lenoir G.M."/>
+<person name="Goldgar D."/>
+<person name="Shi Y.-R."/>
+</authorList>
+<dbReference type="PubMed" id="12442274"/>
+<dbReference type="DOI" id="10.1002/humu.9083"/>
+</citation>
+<scope>VARIANT BC ASN-2729</scope>
+<scope>VARIANT VAL-3412</scope>
+</reference>
+<reference key="58">
+<citation type="journal article" date="2002" name="Hum. Mutat." volume="20" first="474" last="475">
+<title>BRCA1 and BRCA2 mutation analysis of early-onset and familial breast cancer cases in Mexico.</title>
+<authorList>
+<person name="Ruiz-Flores P."/>
+<person name="Sinilnikova O.M."/>
+<person name="Badzioch M."/>
+<person name="Calderon-Garciduenas A.L."/>
+<person name="Chopin S."/>
+<person name="Fabrice O."/>
+<person name="Gonzalez-Guerrero J.F."/>
+<person name="Szabo C."/>
+<person name="Lenoir G."/>
+<person name="Goldgar D.E."/>
+<person name="Barrera-Saldana H.A."/>
+</authorList>
+<dbReference type="PubMed" id="12442275"/>
+<dbReference type="DOI" id="10.1002/humu.9084"/>
+</citation>
+<scope>VARIANTS BC CYS-42; ARG-613; LEU-2118; LEU-2293 AND ARG-2793</scope>
+<scope>VARIANT ILE-3374</scope>
+</reference>
+<reference key="59">
+<citation type="journal article" date="2002" name="Int. J. Cancer" volume="98" first="943" last="945">
+<title>Somatic mutations in the BRCA2 gene and high frequency of allelic loss of BRCA2 in sporadic male breast cancer.</title>
+<authorList>
+<person name="Kwiatkowska E."/>
+<person name="Teresiak M."/>
+<person name="Breborowicz D."/>
+<person name="Mackiewicz A."/>
+</authorList>
+<dbReference type="PubMed" id="11948477"/>
+<dbReference type="DOI" id="10.1002/ijc.10289"/>
+</citation>
+<scope>VARIANTS BC TYR-1580 AND MET-1915</scope>
+</reference>
+<reference key="60">
+<citation type="journal article" date="2002" name="Science" volume="297" first="606" last="609">
+<title>Biallelic inactivation of BRCA2 in Fanconi anemia.</title>
+<authorList>
+<person name="Howlett N.G."/>
+<person name="Taniguchi T."/>
+<person name="Olson S."/>
+<person name="Cox B."/>
+<person name="Waisfisz Q."/>
+<person name="de Die-Smulders C."/>
+<person name="Persky N."/>
+<person name="Grompe M."/>
+<person name="Joenje H."/>
+<person name="Pals G."/>
+<person name="Ikeda H."/>
+<person name="Fox E.A."/>
+<person name="D'Andrea A.D."/>
+</authorList>
+<dbReference type="PubMed" id="12065746"/>
+<dbReference type="DOI" id="10.1126/science.1073834"/>
+</citation>
+<scope>INVOLVEMENT IN FANCD1</scope>
+</reference>
+<reference key="61">
+<citation type="journal article" date="2003" name="Hum. Mutat." volume="21" first="171" last="171">
+<title>BRCA2 germline mutations in Cypriot patients with familial breast/ovarian cancer.</title>
+<authorList>
+<person name="Hadjisavvas A."/>
+<person name="Charalambous E."/>
+<person name="Adamou A."/>
+<person name="Christodoulou C.G."/>
+<person name="Kyriacou K."/>
+</authorList>
+<dbReference type="PubMed" id="12552570"/>
+<dbReference type="DOI" id="10.1002/humu.9110"/>
+</citation>
+<scope>VARIANTS HIS-289; HIS-372; GLY-462; ASP-991; SER-1279; TYR-1420; ASP-1771 AND VAL-2466</scope>
+</reference>
+<reference key="62">
+<citation type="journal article" date="2003" name="Hum. Mutat." volume="22" first="259" last="259">
+<title>Twenty-three novel BRCA1 and BRCA2 sequence alterations in breast and/or ovarian cancer families in Southern Germany.</title>
+<authorList>
+<person name="Meyer P."/>
+<person name="Voigtlaender T."/>
+<person name="Bartram C.R."/>
+<person name="Klaes R."/>
+</authorList>
+<dbReference type="PubMed" id="12938098"/>
+<dbReference type="DOI" id="10.1002/humu.9174"/>
+</citation>
+<scope>VARIANTS BC ILE-431; LYS-1036; ARG-1106 AND VAL-1524</scope>
+</reference>
+<reference key="63">
+<citation type="journal article" date="2003" name="J. Hum. Genet." volume="48" first="130" last="137">
+<title>Evaluation of the diagnostic accuracy of the stop codon (SC) assay for identifying protein-truncating mutations in the BRCA1and BRCA2genes in familial breast cancer.</title>
+<authorList>
+<person name="Sakayori M."/>
+<person name="Kawahara M."/>
+<person name="Shiraishi K."/>
+<person name="Nomizu T."/>
+<person name="Shimada A."/>
+<person name="Kudo T."/>
+<person name="Abe R."/>
+<person name="Ohuchi N."/>
+<person name="Takenoshita S."/>
+<person name="Kanamaru R."/>
+<person name="Ishioka C."/>
+</authorList>
+<dbReference type="PubMed" id="12624724"/>
+<dbReference type="DOI" id="10.1007/s100380300020"/>
+</citation>
+<scope>VARIANTS PRO-582; PHE-1522 AND VAL-2044</scope>
+</reference>
+<reference key="64">
+<citation type="journal article" date="2003" name="J. Natl. Cancer Inst." volume="95" first="214" last="221">
+<title>BRCA2 germline mutations in familial pancreatic carcinoma.</title>
+<authorList>
+<person name="Hahn S.A."/>
+<person name="Greenhalf B."/>
+<person name="Ellis I."/>
+<person name="Sina-Frey M."/>
+<person name="Rieder H."/>
+<person name="Korte B."/>
+<person name="Gerdes B."/>
+<person name="Kress R."/>
+<person name="Ziegler A."/>
+<person name="Raeburn J.A."/>
+<person name="Campra D."/>
+<person name="Gruetzmann R."/>
+<person name="Rehder H."/>
+<person name="Rothmund M."/>
+<person name="Schmiegel W."/>
+<person name="Neoptolemos J.P."/>
+<person name="Bartsch D.K."/>
+</authorList>
+<dbReference type="PubMed" id="12569143"/>
+<dbReference type="DOI" id="10.1093/jnci/95.3.214"/>
+</citation>
+<scope>VARIANT CYS-2034</scope>
+<scope>VARIANT BC GLU-3076</scope>
+</reference>
+<reference key="65">
+<citation type="journal article" date="2004" name="Blood" volume="103" first="2554" last="2559">
+<title>Association of biallelic BRCA2/FANCD1 mutations with spontaneous chromosomal instability and solid tumors of childhood.</title>
+<authorList>
+<person name="Hirsch B."/>
+<person name="Shimamura A."/>
+<person name="Moreau L."/>
+<person name="Baldinger S."/>
+<person name="Hag-alshiekh M."/>
+<person name="Bostrom B."/>
+<person name="Sencer S."/>
+<person name="D'Andrea A.D."/>
+</authorList>
+<dbReference type="PubMed" id="14670928"/>
+<dbReference type="DOI" id="10.1182/blood-2003-06-1970"/>
+</citation>
+<scope>VARIANT FANCD1 PRO-2510</scope>
+</reference>
+<reference key="66">
+<citation type="journal article" date="2004" name="Br. J. Cancer" volume="90" first="1244" last="1251">
+<title>BRCA1 and BRCA2 germline mutation spectrum and frequencies in Belgian breast/ovarian cancer families.</title>
+<authorList>
+<person name="Claes K."/>
+<person name="Poppe B."/>
+<person name="Coene I."/>
+<person name="De Paepe A."/>
+<person name="Messiaen L."/>
+</authorList>
+<dbReference type="PubMed" id="15026808"/>
+<dbReference type="DOI" id="10.1038/sj.bjc.6601656"/>
+</citation>
+<scope>VARIANTS BC SER-60; ARG-405; HIS-448; GLY-462; GLY-2275; ARG-2353; LYS-2488; HIS-2723; ASN-2950; ILE-3013 AND HIS-3098</scope>
+<scope>VARIANTS ASP-991; ALA-2856 AND VAL-3412</scope>
+</reference>
+<reference key="67">
+<citation type="journal article" date="2004" name="Cancer Genet. Cytogenet." volume="151" first="152" last="156">
+<title>Hereditary breast and ovarian cancer in Cyprus: identification of a founder BRCA2 mutation.</title>
+<authorList>
+<person name="Hadjisavvas A."/>
+<person name="Charalambous E."/>
+<person name="Adamou A."/>
+<person name="Neuhausen S.L."/>
+<person name="Christodoulou C.G."/>
+<person name="Kyriacou K."/>
+</authorList>
+<dbReference type="PubMed" id="15172753"/>
+<dbReference type="DOI" id="10.1016/j.cancergencyto.2003.09.020"/>
+</citation>
+<scope>VARIANTS BC ILE-64; GLY-462; ASN-1690; ASP-1771; MET-1887; MET-1915 AND GLU-2456</scope>
+<scope>VARIANTS HIS-289; HIS-372; ASP-991; SER-1279; TYR-1420; CYS-2108 AND VAL-2466</scope>
+</reference>
+<reference key="68">
+<citation type="journal article" date="2004" name="Eur. J. Cancer" volume="40" first="422" last="428">
+<title>One in 10 ovarian cancer patients carry germ line BRCA1 or BRCA2 mutations: results of a prospective study in Southern Sweden.</title>
+<authorList>
+<person name="Malander S."/>
+<person name="Ridderheim M."/>
+<person name="Masbaeck A."/>
+<person name="Loman N."/>
+<person name="Kristoffersson U."/>
+<person name="Olsson H."/>
+<person name="Nilbert M."/>
+<person name="Borg A."/>
+</authorList>
+<dbReference type="PubMed" id="14746861"/>
+<dbReference type="DOI" id="10.1016/j.ejca.2003.09.016"/>
+</citation>
+<scope>VARIANT OVARIAN CANCER CYS-42</scope>
+<scope>VARIANTS SER-3063 AND VAL-3412</scope>
+</reference>
+<reference key="69">
+<citation type="journal article" date="2004" name="Hum. Mutat." volume="23" first="205" last="205">
+<title>Novel germline mutations in the BRCA1 and BRCA2 genes in Indian breast and breast-ovarian cancer families.</title>
+<authorList>
+<person name="Valarmathi M.T."/>
+<person name="Sawhney M."/>
+<person name="Deo S.S.V."/>
+<person name="Shukla N.K."/>
+<person name="Das S.N."/>
+</authorList>
+<dbReference type="PubMed" id="14722926"/>
+<dbReference type="DOI" id="10.1002/humu.9213"/>
+</citation>
+<scope>VARIANTS BC ILE-1679; ALA-1804; LYS-1901 AND LEU-2096</scope>
+</reference>
+<reference key="70">
+<citation type="journal article" date="2004" name="Hum. Mutat." volume="24" first="272" last="272">
+<title>RNA analysis reveals splicing mutations and loss of expression defects in MLH1 and BRCA1.</title>
+<authorList>
+<person name="Sharp A."/>
+<person name="Pichert G."/>
+<person name="Lucassen A."/>
+<person name="Eccles D."/>
+</authorList>
+<dbReference type="PubMed" id="15300854"/>
+<dbReference type="DOI" id="10.1002/humu.9267"/>
+</citation>
+<scope>VARIANT ALA-225</scope>
+<scope>CHARACTERIZATION OF VARIANT ALA-225</scope>
+</reference>
+<reference key="71">
+<citation type="journal article" date="2004" name="Hum. Mutat." volume="24" first="350" last="350">
+<title>BRCA1 and BRCA2 germline mutations in Korean patients with sporadic breast cancer.</title>
+<authorList>
+<person name="Seo J.H."/>
+<person name="Cho D.-Y."/>
+<person name="Ahn S.-H."/>
+<person name="Yoon K.-S."/>
+<person name="Kang C.-S."/>
+<person name="Cho H.M."/>
+<person name="Lee H.S."/>
+<person name="Choe J.J."/>
+<person name="Choi C.W."/>
+<person name="Kim B.S."/>
+<person name="Shin S.W."/>
+<person name="Kim Y.H."/>
+<person name="Kim J.S."/>
+<person name="Son G.-S."/>
+<person name="Lee J.-B."/>
+<person name="Koo B.H."/>
+</authorList>
+<dbReference type="PubMed" id="15365993"/>
+<dbReference type="DOI" id="10.1002/humu.9275"/>
+</citation>
+<scope>VARIANTS BC THR-1445; VAL-1929 AND ALA-2031</scope>
+<scope>VARIANTS HIS-289; HIS-372; VAL-784; ASP-991 AND VAL-3412</scope>
+</reference>
+<reference key="72">
+<citation type="journal article" date="2005" name="J. Med. Genet." volume="42" first="E5" last="E5">
+<title>Prevalence of BRCA2 mutations in a hospital based series of unselected breast cancer cases.</title>
+<authorList>
+<person name="Kim S.-W."/>
+<person name="Lee C.S."/>
+<person name="Fey J.V."/>
+<person name="Borgen P.I."/>
+<person name="Boyd J."/>
+</authorList>
+<dbReference type="PubMed" id="15635067"/>
+<dbReference type="DOI" id="10.1136/jmg.2004.025056"/>
+</citation>
+<scope>VARIANTS LEU-1172; TYR-1420; PHE-2944; ASN-2950 AND ILE-3013</scope>
+</reference>
+<reference key="73">
+<citation type="journal article" date="2007" name="Am. J. Hum. Genet." volume="81" first="873" last="883">
+<title>A systematic genetic assessment of 1,433 sequence variants of unknown clinical significance in the BRCA1 and BRCA2 breast cancer-predisposition genes.</title>
+<authorList>
+<person name="Easton D.F."/>
+<person name="Deffenbaugh A.M."/>
+<person name="Pruss D."/>
+<person name="Frye C."/>
+<person name="Wenstrup R.J."/>
+<person name="Allen-Brady K."/>
+<person name="Tavtigian S.V."/>
+<person name="Monteiro A.N.A."/>
+<person name="Iversen E.S."/>
+<person name="Couch F.J."/>
+<person name="Goldgar D.E."/>
+</authorList>
+<dbReference type="PubMed" id="17924331"/>
+<dbReference type="DOI" id="10.1086/521032"/>
+</citation>
+<scope>VARIANTS HIS-2336; CYS-2502; CYS-2626; PHE-2627; PRO-2653; LYS-2659; VAL-2663; ARG-2722; GLY-2723; ASP-2748 AND GLU-3095</scope>
+</reference>
+<reference key="74">
+<citation type="journal article" date="2007" name="J. Med. Genet." volume="44" first="1" last="9">
+<title>Clinical and molecular features associated with biallelic mutations in FANCD1/BRCA2.</title>
+<authorList>
+<person name="Alter B.P."/>
+<person name="Rosenberg P.S."/>
+<person name="Brody L.C."/>
+</authorList>
+<dbReference type="PubMed" id="16825431"/>
+<dbReference type="DOI" id="10.1136/jmg.2006.043257"/>
+</citation>
+<scope>VARIANTS FANCD1 HIS-2336 AND CYS-2626</scope>
+</reference>
+<reference key="75">
+<citation type="journal article" date="2010" name="Hum. Mutat." volume="31" first="E1484" last="E1505">
+<title>Detection of splicing aberrations caused by BRCA1 and BRCA2 sequence variants encoding missense substitutions: implications for prediction of pathogenicity.</title>
+<authorList>
+<person name="Walker L.C."/>
+<person name="Whiley P.J."/>
+<person name="Couch F.J."/>
+<person name="Farrugia D.J."/>
+<person name="Healey S."/>
+<person name="Eccles D.M."/>
+<person name="Lin F."/>
+<person name="Butler S.A."/>
+<person name="Goff S.A."/>
+<person name="Thompson B.A."/>
+<person name="Lakhani S.R."/>
+<person name="Da Silva L.M."/>
+<person name="Tavtigian S.V."/>
+<person name="Goldgar D.E."/>
+<person name="Brown M.A."/>
+<person name="Spurdle A.B."/>
+</authorList>
+<dbReference type="PubMed" id="20513136"/>
+<dbReference type="DOI" id="10.1002/humu.21267"/>
+</citation>
+<scope>CHARACTERIZATION OF VARIANTS VAL-2663; GLY-2723 AND TRP-3052</scope>
+</reference>
+<reference key="76">
+<citation type="journal article" date="2011" name="Blood" volume="118" first="2430" last="2442">
+<title>A comprehensive functional characterization of BRCA2 variants associated with Fanconi anemia using mouse ES cell-based assay.</title>
+<authorList>
+<person name="Biswas K."/>
+<person name="Das R."/>
+<person name="Alter B.P."/>
+<person name="Kuznetsov S.G."/>
+<person name="Stauffer S."/>
+<person name="North S.L."/>
+<person name="Burkett S."/>
+<person name="Brody L.C."/>
+<person name="Meyer S."/>
+<person name="Byrd R.A."/>
+<person name="Sharan S.K."/>
+</authorList>
+<dbReference type="PubMed" id="21719596"/>
+<dbReference type="DOI" id="10.1182/blood-2010-12-324541"/>
+</citation>
+<scope>CHARACTERIZATION OF VARIANTS FANCD1 HIS-2336; PRO-2510 AND CYS-2626</scope>
+<scope>CHARACTERIZATION OF VARIANTS THR-2490 AND ASN-2729</scope>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH SEM1</scope>
+</reference>
+<reference key="77">
+<citation type="journal article" date="2013" name="Cancer Res." volume="73" first="265" last="275">
+<title>A classification model for BRCA2 DNA binding domain missense variants based on homology-directed repair activity.</title>
+<authorList>
+<person name="Guidugli L."/>
+<person name="Pankratz V.S."/>
+<person name="Singh N."/>
+<person name="Thompson J."/>
+<person name="Erding C.A."/>
+<person name="Engel C."/>
+<person name="Schmutzler R."/>
+<person name="Domchek S."/>
+<person name="Nathanson K."/>
+<person name="Radice P."/>
+<person name="Singer C."/>
+<person name="Tonin P.N."/>
+<person name="Lindor N.M."/>
+<person name="Goldgar D.E."/>
+<person name="Couch F.J."/>
+</authorList>
+<dbReference type="PubMed" id="23108138"/>
+<dbReference type="DOI" id="10.1158/0008-5472.can-12-2081"/>
+</citation>
+<scope>CHARACTERIZATION OF VARIANTS BC PHE-2627; PRO-2653; ARG-2722; GLY-2723; HIS-2723; ASN-2729; HIS-2787; PRO-2792; ARG-2793; ALA-2856; THR-2951; ILE-3013; TRP-3052; GLU-3076; GLU-3095; HIS-3098 AND ILE-3124</scope>
+<scope>CHARACTERIZATION OF VARIANTS ARG-2440; VAL-2466; CYS-2842 AND SER-3063</scope>
+<scope>CHARACTERIZATION OF VARIANT FANCD1 PRO-2510 AND CYS-2626</scope>
+</reference>
+<reference key="78">
+<citation type="journal article" date="2016" name="J. Med. Genet." volume="53" first="138" last="144">
+<title>Homozygous missense mutation in the LMAN2L gene segregates with intellectual disability in a large consanguineous Pakistani family.</title>
+<authorList>
+<person name="Rafiullah R."/>
+<person name="Aslamkhan M."/>
+<person name="Paramasivam N."/>
+<person name="Thiel C."/>
+<person name="Mustafa G."/>
+<person name="Wiemann S."/>
+<person name="Schlesner M."/>
+<person name="Wade R.C."/>
+<person name="Rappold G.A."/>
+<person name="Berkel S."/>
+</authorList>
+<dbReference type="PubMed" id="26566883"/>
+<dbReference type="DOI" id="10.1136/jmedgenet-2015-103179"/>
+</citation>
+<scope>VARIANTS LEU-606 AND TYR-1420</scope>
+</reference>
+<comment type="function">
+<text evidence="36 38 43 52 56 57 58 59 61 65 66">Involved in double-strand break repair and/or homologous recombination. Binds RAD51 and potentiates recombinational DNA repair by promoting assembly of RAD51 onto single-stranded DNA (ssDNA). Acts by targeting RAD51 to ssDNA over double-stranded DNA, enabling RAD51 to displace replication protein-A (RPA) from ssDNA and stabilizing RAD51-ssDNA filaments by blocking ATP hydrolysis. Part of a PALB2-scaffolded HR complex containing RAD51C and which is thought to play a role in DNA repair by HR. May participate in S phase checkpoint activation. Binds selectively to ssDNA, and to ssDNA in tailed duplexes and replication fork structures. May play a role in the extension step after strand invasion at replication-dependent DNA double-strand breaks; together with PALB2 is involved in both POLH localization at collapsed replication forks and DNA polymerization activity. In concert with NPM1, regulates centrosome duplication. Interacts with the TREX-2 complex (transcription and export complex 2) subunits PCID2 and SEM1, and is required to prevent R-loop-associated DNA damage and thus transcription-associated genomic instability. Silencing of BRCA2 promotes R-loop accumulation at actively transcribed genes in replicating and non-replicating cells, suggesting that BRCA2 mediates the control of R-loop associated genomic instability, independently of its known role in homologous recombination (PubMed:24896180).</text>
+</comment>
+<comment type="subunit">
+<text evidence="8 23 36 38 40 45 46 47 48 51 52 53 54 56 57 58 59 61 63 64 65 66 68">Monomer and dimer (PubMed:20729858). Interacts with RAD51; regulates RAD51 recruitment and function at sites of DNA repair (PubMed:12442171, PubMed:15800615, PubMed:18317453, PubMed:20729832, PubMed:20729859). Interacts with WDR16, USP11, DMC1, ROCK2 and NPM1 (PubMed:15314155, PubMed:15967112, PubMed:20729832, PubMed:21084279). Interacts with SEM1; the interaction masks a nuclear export signal in BRCA2 (PubMed:10373512, PubMed:16205630, PubMed:21719596, PubMed:24013206). Interacts with both nonubiquitinated and monoubiquitinated FANCD2; this complex also includes XRCC3 and phosphorylated FANCG (PubMed:15115758, PubMed:15199141, PubMed:18212739). Part of a BRCA complex containing BRCA1, BRCA2 and PALB2 (PubMed:19369211). Interacts directly with PALB2 which may serve as a scaffold for a HR complex containing PALB2, BRCA2, RAD51C, RAD51 and XRCC3 (PubMed:19369211, PubMed:24141787, PubMed:28319063, PubMed:16793542, PubMed:19609323). Interacts with BRCA1 only in the presence of PALB2 which serves as the bridging protein (PubMed:19369211). Interacts with POLH; the interaction is direct (PubMed:24485656). Interacts with the TREX-2 complex subunits PCID2 and SEM1 (PubMed:24896180, PubMed:21719596).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-79792">
+<id>P51587</id>
+</interactant>
+<interactant intactId="EBI-79792">
+<id>P51587</id>
+<label>BRCA2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-79792">
+<id>P51587</id>
+</interactant>
+<interactant intactId="EBI-930865">
+<id>Q14565</id>
+<label>DMC1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>12</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-79792">
+<id>P51587</id>
+</interactant>
+<interactant intactId="EBI-359343">
+<id>Q9BXW9</id>
+<label>FANCD2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>16</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-79792">
+<id>P51587</id>
+</interactant>
+<interactant intactId="EBI-596878">
+<id>Q9BXW9-2</id>
+<label>FANCD2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-79792">
+<id>P51587</id>
+</interactant>
+<interactant intactId="EBI-713401">
+<id>Q9P0W2</id>
+<label>HMG20B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>8</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-79792">
+<id>P51587</id>
+</interactant>
+<interactant intactId="EBI-1222653">
+<id>Q86YC2</id>
+<label>PALB2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>25</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-79792">
+<id>P51587</id>
+</interactant>
+<interactant intactId="EBI-1175604">
+<id>Q9NTI5</id>
+<label>PDS5B</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>26</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-79792">
+<id>P51587</id>
+</interactant>
+<interactant intactId="EBI-2827270">
+<id>Q9Y253</id>
+<label>POLH</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-79792">
+<id>P51587</id>
+</interactant>
+<interactant intactId="EBI-297202">
+<id>Q06609</id>
+<label>RAD51</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>45</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-79792">
+<id>P51587</id>
+</interactant>
+<interactant intactId="EBI-15557721">
+<id>Q06609-1</id>
+<label>RAD51</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>12</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-79792">
+<id>P51587</id>
+</interactant>
+<interactant intactId="EBI-79819">
+<id>P60896</id>
+<label>SEM1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>10</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-79792">
+<id>P51587</id>
+</interactant>
+<interactant intactId="EBI-366083">
+<id>P04637</id>
+<label>TP53</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="63 81">Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="60">Cytoplasm</location>
+<location evidence="60">Cytoskeleton</location>
+<location evidence="60">Microtubule organizing center</location>
+<location evidence="60">Centrosome</location>
+</subcellularLocation>
+</comment>
+<comment type="tissue specificity">
+<text>Highest levels of expression in breast and thymus, with slightly lower levels in lung, ovary and spleen.</text>
+</comment>
+<comment type="PTM">
+<text evidence="38 45 52">Phosphorylated by ATM upon irradiation-induced DNA damage. Phosphorylation by CHEK1 and CHEK2 regulates interaction with RAD51. Phosphorylation at Ser-3291 by CDK1 and CDK2 is low in S phase when recombination is active, but increases as cells progress towards mitosis; this phosphorylation prevents homologous recombination-dependent repair during S phase and G2 by inhibiting RAD51 binding.</text>
+</comment>
+<comment type="PTM">
+<text evidence="40">Ubiquitinated in the absence of DNA damage; this does not lead to proteasomal degradation. In contrast, ubiquitination in response to DNA damage leads to proteasomal degradation.</text>
+</comment>
+<comment type="disease" evidence="9 11 13 14 15 17 20 22 25 26 28 30 32 34 37 41 48 62 63 71 75 76 77 78">
+<disease id="DI-02602">
+<name>Breast cancer</name>
+<acronym>BC</acronym>
+<description>A common malignancy originating from breast epithelial tissue. Breast neoplasms can be distinguished by their histologic pattern. Invasive ductal carcinoma is by far the most common type. Breast cancer is etiologically and genetically heterogeneous. Important genetic factors have been indicated by familial occurrence and bilateral involvement. Mutations at more than one locus can be involved in different families or even in the same case.</description>
+<dbReference type="MIM" id="114480"/>
+</disease>
+<text>Disease susceptibility is associated with variations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="74">
+<disease id="DI-02847">
+<name>Pancreatic cancer 2</name>
+<acronym>PNCA2</acronym>
+<description>A malignant neoplasm of the pancreas. Tumors can arise from both the exocrine and endocrine portions of the pancreas, but 95% of them develop from the exocrine portion, including the ductal epithelium, acinar cells, connective tissue, and lymphatic tissue.</description>
+<dbReference type="MIM" id="613347"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease">
+<disease id="DI-02603">
+<name>Breast-ovarian cancer, familial, 2</name>
+<acronym>BROVCA2</acronym>
+<description>A condition associated with familial predisposition to cancer of the breast and ovaries. Characteristic features in affected families are an early age of onset of breast cancer (often before age 50), increased chance of bilateral cancers (cancer that develop in both breasts, or both ovaries, independently), frequent occurrence of breast cancer among men, increased incidence of tumors of other specific organs, such as the prostate.</description>
+<dbReference type="MIM" id="612555"/>
+</disease>
+<text>Disease susceptibility is associated with variations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="18 31 49 61 62">
+<disease id="DI-01601">
+<name>Fanconi anemia complementation group D1</name>
+<acronym>FANCD1</acronym>
+<description>A disorder affecting all bone marrow elements and resulting in anemia, leukopenia and thrombopenia. It is associated with cardiac, renal and limb malformations, dermal pigmentary changes, and a predisposition to the development of malignancies. At the cellular level it is associated with hypersensitivity to DNA-damaging agents, chromosomal instability (increased chromosome breakage) and defective DNA repair.</description>
+<dbReference type="MIM" id="605724"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="44">
+<disease id="DI-02629">
+<name>Glioma 3</name>
+<acronym>GLM3</acronym>
+<description>Gliomas are benign or malignant central nervous system neoplasms derived from glial cells. They comprise astrocytomas and glioblastoma multiforme that are derived from astrocytes, oligodendrogliomas derived from oligodendrocytes and ependymomas derived from ependymocytes.</description>
+<dbReference type="MIM" id="613029"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="online information" name="Fanconi Anemia Mutation Database">
+<link uri="http://www2.rockefeller.edu/fanconi/genes/jumpd1"/>
+</comment>
+<comment type="online information" name="NIEHS-SNPs">
+<link uri="http://egp.gs.washington.edu/data/brca2/"/>
+</comment>
+<comment type="online information" name="Wikipedia">
+<link uri="https://en.wikipedia.org/wiki/BRCA2"/>
+<text>BRCA2 entry</text>
+</comment>
+<comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+<link uri="http://atlasgeneticsoncology.org/Genes/BRCA2ID164ch13q13.html"/>
+</comment>
+<dbReference type="EMBL" id="X95152">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95153">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95154">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95155">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95156">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95157">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95158">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95159">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95160">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95161">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95162">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95163">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95164">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95165">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95166">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95167">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95168">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95169">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95170">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95171">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95172">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95173">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95174">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95175">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95176">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X95177">
+<property type="protein sequence ID" value="CAA64484.1"/>
+<property type="status" value="JOINED"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U43746">
+<property type="protein sequence ID" value="AAB07223.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY436640">
+<property type="protein sequence ID" value="AAQ97181.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL137247">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL445212">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z74739">
+<property type="protein sequence ID" value="CAA98995.2"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Z73359">
+<property type="protein sequence ID" value="CAA97728.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS9344.1"/>
+<dbReference type="PIR" id="G02334">
+<property type="entry name" value="G02334"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000050.2">
+<property type="nucleotide sequence ID" value="NM_000059.3"/>
+</dbReference>
+<dbReference type="PDB" id="1N0W">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.70"/>
+<property type="chains" value="B=1517-1551"/>
+</dbReference>
+<dbReference type="PDB" id="3EU7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="X=21-39"/>
+</dbReference>
+<dbReference type="PDB" id="6GY2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.11"/>
+<property type="chains" value="C/D=194-210"/>
+</dbReference>
+<dbReference type="PDB" id="6HQU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.97"/>
+<property type="chains" value="I/J/K/L/M/N=1226-1253, O=2054-2064"/>
+</dbReference>
+<dbReference type="PDBsum" id="1N0W"/>
+<dbReference type="PDBsum" id="3EU7"/>
+<dbReference type="PDBsum" id="6GY2"/>
+<dbReference type="PDBsum" id="6HQU"/>
+<dbReference type="SMR" id="P51587"/>
+<dbReference type="BioGRID" id="107142">
+<property type="interactions" value="201"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-955">
+<property type="entry name" value="BRCC ubiquitin ligase complex"/>
+</dbReference>
+<dbReference type="CORUM" id="P51587"/>
+<dbReference type="DIP" id="DIP-24214N"/>
+<dbReference type="ELM" id="P51587"/>
+<dbReference type="IntAct" id="P51587">
+<property type="interactions" value="56"/>
+</dbReference>
+<dbReference type="MINT" id="P51587"/>
+<dbReference type="STRING" id="9606.ENSP00000369497"/>
+<dbReference type="BindingDB" id="P51587"/>
+<dbReference type="iPTMnet" id="P51587"/>
+<dbReference type="PhosphoSitePlus" id="P51587"/>
+<dbReference type="BioMuta" id="BRCA2"/>
+<dbReference type="DMDM" id="14424438"/>
+<dbReference type="CPTAC" id="CPTAC-3279"/>
+<dbReference type="CPTAC" id="CPTAC-3280"/>
+<dbReference type="EPD" id="P51587"/>
+<dbReference type="jPOST" id="P51587"/>
+<dbReference type="MassIVE" id="P51587"/>
+<dbReference type="PaxDb" id="P51587"/>
+<dbReference type="PeptideAtlas" id="P51587"/>
+<dbReference type="PRIDE" id="P51587"/>
+<dbReference type="ProteomicsDB" id="56340"/>
+<dbReference type="Antibodypedia" id="7788">
+<property type="antibodies" value="298 antibodies"/>
+</dbReference>
+<dbReference type="CPTC" id="P51587">
+<property type="antibodies" value="1 antibody"/>
+</dbReference>
+<dbReference type="DNASU" id="675"/>
+<dbReference type="Ensembl" id="ENST00000380152">
+<property type="protein sequence ID" value="ENSP00000369497"/>
+<property type="gene ID" value="ENSG00000139618"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000544455">
+<property type="protein sequence ID" value="ENSP00000439902"/>
+<property type="gene ID" value="ENSG00000139618"/>
+</dbReference>
+<dbReference type="GeneID" id="675"/>
+<dbReference type="KEGG" id="hsa:675"/>
+<dbReference type="UCSC" id="uc001uub.2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="675"/>
+<dbReference type="DisGeNET" id="675"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000139618.14"/>
+<dbReference type="GeneCards" id="BRCA2"/>
+<dbReference type="GeneReviews" id="BRCA2"/>
+<dbReference type="HGNC" id="HGNC:1101">
+<property type="gene designation" value="BRCA2"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000139618">
+<property type="expression patterns" value="Tissue enhanced (lymphoid tissue, testis)"/>
+</dbReference>
+<dbReference type="MalaCards" id="BRCA2"/>
+<dbReference type="MIM" id="114480">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="600185">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="605724">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="612555">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="613029">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="613347">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P51587"/>
+<dbReference type="Orphanet" id="1333">
+<property type="disease" value="Familial pancreatic carcinoma"/>
+</dbReference>
+<dbReference type="Orphanet" id="1331">
+<property type="disease" value="Familial prostate cancer"/>
+</dbReference>
+<dbReference type="Orphanet" id="84">
+<property type="disease" value="Fanconi anemia"/>
+</dbReference>
+<dbReference type="Orphanet" id="145">
+<property type="disease" value="Hereditary breast and ovarian cancer syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="227535">
+<property type="disease" value="Hereditary breast cancer"/>
+</dbReference>
+<dbReference type="Orphanet" id="213524">
+<property type="disease" value="Hereditary site-specific ovarian cancer syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="319462">
+<property type="disease" value="Inherited cancer-predisposing syndrome due to biallelic BRCA2 mutations"/>
+</dbReference>
+<dbReference type="Orphanet" id="654">
+<property type="disease" value="Nephroblastoma"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA25412"/>
+<dbReference type="eggNOG" id="KOG4751">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="HOGENOM" id="CLU_000344_0_0_1"/>
+<dbReference type="InParanoid" id="P51587"/>
+<dbReference type="KO" id="K08775"/>
+<dbReference type="OrthoDB" id="257485at2759"/>
+<dbReference type="TreeFam" id="TF105041"/>
+<dbReference type="PathwayCommons" id="P51587"/>
+<dbReference type="Reactome" id="R-HSA-5685942">
+<property type="pathway name" value="HDR through Homologous Recombination (HRR)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5693554">
+<property type="pathway name" value="Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5693568">
+<property type="pathway name" value="Resolution of D-loop Structures through Holliday Junction Intermediates"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5693579">
+<property type="pathway name" value="Homologous DNA Pairing and Strand Exchange"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5693616">
+<property type="pathway name" value="Presynaptic phase of homologous DNA pairing and strand exchange"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-912446">
+<property type="pathway name" value="Meiotic recombination"/>
+</dbReference>
+<dbReference type="SignaLink" id="P51587"/>
+<dbReference type="SIGNOR" id="P51587"/>
+<dbReference type="BioGRID-ORCS" id="675">
+<property type="hits" value="302 hits in 878 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="BRCA2">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P51587"/>
+<dbReference type="GeneWiki" id="BRCA2"/>
+<dbReference type="GenomeRNAi" id="675"/>
+<dbReference type="Pharos" id="P51587">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P51587"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 13"/>
+</dbReference>
+<dbReference type="RNAct" id="P51587">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000139618">
+<property type="expression patterns" value="Expressed in secondary oocyte and 150 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="P51587">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P51587">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033593">
+<property type="term" value="C:BRCA2-MAGE-D1 complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005813">
+<property type="term" value="C:centrosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000800">
+<property type="term" value="C:lateral element"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000784">
+<property type="term" value="C:nuclear chromosome, telomeric region"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032991">
+<property type="term" value="C:protein-containing complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030141">
+<property type="term" value="C:secretory granule"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043015">
+<property type="term" value="F:gamma-tubulin binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010484">
+<property type="term" value="F:H3 histone acetyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010485">
+<property type="term" value="F:H4 histone acetyltransferase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002020">
+<property type="term" value="F:protease binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008022">
+<property type="term" value="F:protein C-terminus binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003697">
+<property type="term" value="F:single-stranded DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007420">
+<property type="term" value="P:brain development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007569">
+<property type="term" value="P:cell aging"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051298">
+<property type="term" value="P:centrosome duplication"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006978">
+<property type="term" value="P:DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006302">
+<property type="term" value="P:double-strand break repair"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000724">
+<property type="term" value="P:double-strand break repair via homologous recombination"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070200">
+<property type="term" value="P:establishment of protein localization to telomere"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008585">
+<property type="term" value="P:female gonad development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030097">
+<property type="term" value="P:hemopoiesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043966">
+<property type="term" value="P:histone H3 acetylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043967">
+<property type="term" value="P:histone H4 acetylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001833">
+<property type="term" value="P:inner cell mass cell proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042771">
+<property type="term" value="P:intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007141">
+<property type="term" value="P:male meiosis I"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990426">
+<property type="term" value="P:mitotic recombination-dependent replication fork processing"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033600">
+<property type="term" value="P:negative regulation of mammary gland epithelial cell proliferation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006289">
+<property type="term" value="P:nucleotide-excision repair"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001556">
+<property type="term" value="P:oocyte maturation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045931">
+<property type="term" value="P:positive regulation of mitotic cell cycle"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045893">
+<property type="term" value="P:positive regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032465">
+<property type="term" value="P:regulation of cytokinesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006355">
+<property type="term" value="P:regulation of transcription, DNA-templated"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048478">
+<property type="term" value="P:replication fork protection"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010332">
+<property type="term" value="P:response to gamma radiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010225">
+<property type="term" value="P:response to UV-C"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010165">
+<property type="term" value="P:response to X-ray"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007283">
+<property type="term" value="P:spermatogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000722">
+<property type="term" value="P:telomere maintenance via recombination"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="CDD" id="cd04493">
+<property type="entry name" value="BRCA2DBD_OB1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="CDD" id="cd04495">
+<property type="entry name" value="BRCA2DBD_OB3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="DisProt" id="DP01869"/>
+<dbReference type="IDEAL" id="IID00237"/>
+<dbReference type="InterPro" id="IPR015525">
+<property type="entry name" value="BRCA2"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015252">
+<property type="entry name" value="BRCA2_hlx"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036315">
+<property type="entry name" value="BRCA2_hlx_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015187">
+<property type="entry name" value="BRCA2_OB_1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015188">
+<property type="entry name" value="BRCA2_OB_3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR002093">
+<property type="entry name" value="BRCA2_repeat"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR012340">
+<property type="entry name" value="NA-bd_OB-fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR015205">
+<property type="entry name" value="Tower_dom"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11289">
+<property type="entry name" value="PTHR11289"/>
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="Pfam" id="PF09169">
+<property type="entry name" value="BRCA-2_helical"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF09103">
+<property type="entry name" value="BRCA-2_OB1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF09104">
+<property type="entry name" value="BRCA-2_OB3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00634">
+<property type="entry name" value="BRCA2"/>
+<property type="match status" value="7"/>
+</dbReference>
+<dbReference type="Pfam" id="PF09121">
+<property type="entry name" value="Tower"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF002397">
+<property type="entry name" value="BRCA2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01341">
+<property type="entry name" value="Tower"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF50249">
+<property type="entry name" value="SSF50249"/>
+<property type="match status" value="3"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF81872">
+<property type="entry name" value="SSF81872"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50138">
+<property type="entry name" value="BRCA2_REPEAT"/>
+<property type="match status" value="8"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0131">Cell cycle</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0206">Cytoskeleton</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0233">DNA recombination</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0923">Fanconi anemia</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0043">Tumor suppressor</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<feature type="chain" description="Breast cancer type 2 susceptibility protein" id="PRO_0000064984">
+<location>
+<begin position="1"/>
+<end position="3418"/>
+</location>
+</feature>
+<feature type="repeat" description="BRCA2 1">
+<location>
+<begin position="1002"/>
+<end position="1036"/>
+</location>
+</feature>
+<feature type="repeat" description="BRCA2 2">
+<location>
+<begin position="1212"/>
+<end position="1246"/>
+</location>
+</feature>
+<feature type="repeat" description="BRCA2 3">
+<location>
+<begin position="1421"/>
+<end position="1455"/>
+</location>
+</feature>
+<feature type="repeat" description="BRCA2 4">
+<location>
+<begin position="1517"/>
+<end position="1551"/>
+</location>
+</feature>
+<feature type="repeat" description="BRCA2 5">
+<location>
+<begin position="1664"/>
+<end position="1698"/>
+</location>
+</feature>
+<feature type="repeat" description="BRCA2 6">
+<location>
+<begin position="1837"/>
+<end position="1871"/>
+</location>
+</feature>
+<feature type="repeat" description="BRCA2 7">
+<location>
+<begin position="1971"/>
+<end position="2005"/>
+</location>
+</feature>
+<feature type="repeat" description="BRCA2 8">
+<location>
+<begin position="2051"/>
+<end position="2085"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with PALB2">
+<location>
+<begin position="1"/>
+<end position="40"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with NPM1" evidence="59">
+<location>
+<begin position="639"/>
+<end position="1000"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with POLH" evidence="65">
+<location>
+<begin position="1338"/>
+<end position="1781"/>
+</location>
+</feature>
+<feature type="region of interest" description="Required for stimulation of POLH DNA polymerization activity">
+<location>
+<begin position="1410"/>
+<end position="1595"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with FANCD2">
+<location>
+<begin position="2350"/>
+<end position="2545"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with SEM1" evidence="8 47">
+<location>
+<begin position="2481"/>
+<end position="2832"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Nuclear export signal; masked by interaction with SEM1" evidence="63">
+<location>
+<begin position="2682"/>
+<end position="2698"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="70"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="445"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="492"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="5">
+<location>
+<position position="755"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="1970"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="6">
+<location>
+<position position="2035"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="2095"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by CDK1 and CDK2" evidence="45">
+<location>
+<position position="3291"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="3319"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by CHEK1 and CHEK2" evidence="52">
+<location>
+<position position="3387"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; abolishes interaction with PALB2; dbSNP:rs80358961." id="VAR_028167" evidence="48">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="25"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; abolishes interaction with PALB2; dbSNP:rs80359214." id="VAR_028168" evidence="48">
+<original>W</original>
+<variation>C</variation>
+<location>
+<position position="31"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; abolishes interaction with PALB2; dbSNP:rs80359182." id="VAR_028169" evidence="48">
+<original>W</original>
+<variation>R</variation>
+<location>
+<position position="31"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs397508057 and dbSNP:rs1555280339." id="VAR_005085" evidence="76">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="32"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC and ovarian cancer; unknown pathological significance; dbSNP:rs4987046." id="VAR_020705" evidence="26 33">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="42"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs397507595." id="VAR_005086" evidence="76">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="53"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs80358463." id="VAR_020706" evidence="34">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="60"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs397507615." id="VAR_032712" evidence="37">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="64"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ovarian cancer and renal cancer; unknown pathological significance; dbSNP:rs28897701." id="VAR_005087" evidence="10">
+<original>A</original>
+<variation>P</variation>
+<location>
+<position position="75"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs80358507." id="VAR_005088" evidence="76">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="81"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs80358567." id="VAR_008766">
+<original>N</original>
+<variation>H</variation>
+<location>
+<position position="108"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In one patient with esophageal carcinoma; dbSNP:rs80358603." id="VAR_032713" evidence="16">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="118"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In one patient with pancreatic cancer; dbSNP:rs80358805." id="VAR_032714" evidence="19">
+<original>M</original>
+<variation>T</variation>
+<location>
+<position position="192"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs397507822." id="VAR_005089" evidence="76">
+<original>P</original>
+<variation>R</variation>
+<location>
+<position position="201"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC." id="VAR_005090" evidence="76">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="211"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs397507873." id="VAR_005091" evidence="76">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="222"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In one patient with BC; normal RNA expression and splicing; dbSNP:rs80358897." id="VAR_032715" evidence="39">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="225"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Common polymorphism; was originally thought to be linked to ovarian cancer; dbSNP:rs766173." id="VAR_005092" evidence="7 11 14 27 37 41 79">
+<original>N</original>
+<variation>H</variation>
+<location>
+<position position="289"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In one patient with esophageal carcinoma; dbSNP:rs79483201." id="VAR_032716" evidence="16">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="315"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11571640." id="VAR_018908" evidence="79">
+<original>K</original>
+<variation>Q</variation>
+<location>
+<position position="322"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs28897706." id="VAR_032717" evidence="9">
+<original>S</original>
+<variation>R</variation>
+<location>
+<position position="326"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs80359242." id="VAR_008767">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="327"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In lung cancer." id="VAR_005093">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="355"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Common polymorphism; may be associated with an increased risk of breast cancer; dbSNP:rs144848." id="VAR_005094" evidence="7 11 12 27 35 37 41 72 73 79">
+<original>N</original>
+<variation>H</variation>
+<location>
+<position position="372"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance." id="VAR_020707" evidence="34">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="405"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs876660828." id="VAR_020708" evidence="30">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="431"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs80358423." id="VAR_020709" evidence="34">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="448"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs56403624." id="VAR_020710" evidence="27 34 37">
+<original>E</original>
+<variation>G</variation>
+<location>
+<position position="462"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs28897708." id="VAR_032718" evidence="15">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="505"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs28897709." id="VAR_056751">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="513"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC and pancreas cancer; dbSNP:rs80358451." id="VAR_005095" evidence="77">
+<original>C</original>
+<variation>W</variation>
+<location>
+<position position="554"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs80358457." id="VAR_008768" evidence="29">
+<original>T</original>
+<variation>P</variation>
+<location>
+<position position="582"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs28897710." id="VAR_020711" evidence="21">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="598"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1046984." id="VAR_035436" evidence="69">
+<original>S</original>
+<variation>F</variation>
+<location>
+<position position="599"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs80358469." id="VAR_076440" evidence="67">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="606"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs587780646." id="VAR_020712" evidence="26">
+<original>L</original>
+<variation>R</variation>
+<location>
+<position position="613"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ovarian cancer; dbSNP:rs80358479." id="VAR_005096">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="630"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs80358487." id="VAR_008769">
+<original>D</original>
+<variation>Y</variation>
+<location>
+<position position="707"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs757577670." id="VAR_005097">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="728"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs397507620." id="VAR_032719" evidence="11">
+<original>I</original>
+<variation>M</variation>
+<location>
+<position position="729"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11571653." id="VAR_008770" evidence="14 41 79">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="784"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs80358526." id="VAR_008771">
+<original>N</original>
+<variation>I</variation>
+<location>
+<position position="886"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2227943." id="VAR_018909" evidence="79">
+<original>L</original>
+<variation>S</variation>
+<location>
+<position position="929"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs28897716." id="VAR_008772">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="935"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11571656." id="VAR_018910" evidence="79">
+<original>S</original>
+<variation>F</variation>
+<location>
+<position position="976"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs28897717." id="VAR_056752">
+<original>I</original>
+<variation>L</variation>
+<location>
+<position position="982"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2227944." id="VAR_018911" evidence="79">
+<original>N</original>
+<variation>I</variation>
+<location>
+<position position="987"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Common polymorphism; dbSNP:rs1799944." id="VAR_005098" evidence="7 11 27 34 37 41 73 79">
+<original>N</original>
+<variation>D</variation>
+<location>
+<position position="991"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance." id="VAR_020713" evidence="30">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="1036"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs1298550035." id="VAR_020714" evidence="30">
+<original>S</original>
+<variation>R</variation>
+<location>
+<position position="1106"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1799951." id="VAR_005099" evidence="73">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="1147"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs80358600." id="VAR_032720" evidence="42">
+<original>S</original>
+<variation>L</variation>
+<location>
+<position position="1172"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs397507674." id="VAR_020715" evidence="13">
+<original>S</original>
+<variation>N</variation>
+<location>
+<position position="1179"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1060502384." id="VAR_020716" evidence="27 37">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="1279"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_008773">
+<location>
+<position position="1286"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs41293485." id="VAR_008774">
+<original>C</original>
+<variation>Y</variation>
+<location>
+<position position="1290"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC." id="VAR_005100">
+<location>
+<position position="1302"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs70953664." id="VAR_008775">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="1414"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs28897727." id="VAR_008776" evidence="13 21 27 37 42 67">
+<original>D</original>
+<variation>Y</variation>
+<location>
+<position position="1420"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance." id="VAR_020717" evidence="41">
+<original>K</original>
+<variation>T</variation>
+<location>
+<position position="1445"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs80358687." id="VAR_008777">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="1513"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In one patient with BC; dbSNP:rs397507729." id="VAR_032721" evidence="29">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="1522"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs56386506." id="VAR_020718" evidence="30">
+<original>F</original>
+<variation>V</variation>
+<location>
+<position position="1524"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In bladder cancer; dbSNP:rs28897728." id="VAR_005101">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="1529"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs28897729." id="VAR_056753">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="1542"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs2219594." id="VAR_018912" evidence="79">
+<original>H</original>
+<variation>N</variation>
+<location>
+<position position="1561"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; somatic mutation; dbSNP:rs398122784." id="VAR_020719" evidence="17">
+<original>C</original>
+<variation>Y</variation>
+<location>
+<position position="1580"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs80358703." id="VAR_008778" evidence="24">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="1593"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs28897731." id="VAR_056754">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="1643"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC." id="VAR_020720" evidence="32">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="1679"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs56087561." id="VAR_032722" evidence="37">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="1690"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs397507770." id="VAR_032723" evidence="15">
+<original>N</original>
+<variation>Y</variation>
+<location>
+<position position="1730"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs80358755." id="VAR_008779" evidence="27 37">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="1771"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs370252983." id="VAR_020721" evidence="32">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="1804"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs80358765." id="VAR_008780">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="1805"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Polymorphism; was originally thought to be linked to breast cancer; dbSNP:rs11571657." id="VAR_005102" evidence="15 79">
+<original>N</original>
+<variation>K</variation>
+<location>
+<position position="1880"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs397507795." id="VAR_032724" evidence="37">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="1887"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC." id="VAR_020722" evidence="32">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="1901"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs4987048." id="VAR_008781">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="1902"/>
+</location>
+</feature>
+<feature type="sequence variant" description="May be a rare polymorphism; somatic mutation; dbSNP:rs4987117." id="VAR_005103" evidence="11 17 37 72 73 79">
+<original>T</original>
+<variation>M</variation>
+<location>
+<position position="1915"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs79538375." id="VAR_020723" evidence="41">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="1929"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs28897737." id="VAR_056755">
+<original>S</original>
+<variation>R</variation>
+<location>
+<position position="1979"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In one patient with esophageal carcinoma; somatic mutation; dbSNP:rs28897739." id="VAR_032725" evidence="16">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="1988"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance." id="VAR_020724" evidence="41">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="2031"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs1799954." id="VAR_005104" evidence="21 28 73">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="2034"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In one patient with BC; dbSNP:rs56191579." id="VAR_032726" evidence="29">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="2044"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs80358862." id="VAR_020725" evidence="22">
+<original>S</original>
+<variation>C</variation>
+<location>
+<position position="2072"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs34309943." id="VAR_008782">
+<original>H</original>
+<variation>N</variation>
+<location>
+<position position="2074"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC." id="VAR_008783" evidence="75">
+<original>E</original>
+<variation>D</variation>
+<location>
+<position position="2089"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs397507838." id="VAR_020726" evidence="22">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="2094"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC." id="VAR_020727" evidence="32">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="2096"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55794205." id="VAR_032727" evidence="37">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="2108"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55953736." id="VAR_061563">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="2116"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance." id="VAR_020728" evidence="26">
+<original>V</original>
+<variation>L</variation>
+<location>
+<position position="2118"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs397507847." id="VAR_020729" evidence="22">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="2128"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs80358876." id="VAR_032728" evidence="15">
+<original>N</original>
+<variation>H</variation>
+<location>
+<position position="2135"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11571659." id="VAR_008784" evidence="79">
+<original>V</original>
+<variation>F</variation>
+<location>
+<position position="2138"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11571660." id="VAR_018913" evidence="79">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="2162"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs397507875." id="VAR_032729" evidence="15">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="2222"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs28897742." id="VAR_056756">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="2238"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs55712212." id="VAR_005105">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="2274"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance." id="VAR_020730" evidence="34">
+<original>E</original>
+<variation>G</variation>
+<location>
+<position position="2275"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs80358912 and dbSNP:rs1381512588." id="VAR_020731" evidence="26">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="2293"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FANCD1; affects protein splicing and expression; decreases homologous recombination-mediated DNA repair; dbSNP:rs28897743." id="VAR_032730" evidence="49 50 61">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="2336"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs28897743." id="VAR_056757">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="2336"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs80358935." id="VAR_020732" evidence="34">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="2353"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC." id="VAR_005106" evidence="71">
+<original>H</original>
+<variation>N</variation>
+<location>
+<position position="2415"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC." id="VAR_005107">
+<original>Q</original>
+<variation>H</variation>
+<location>
+<position position="2421"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Polymorphism; no effect on homology-directed repair activity; dbSNP:rs4986860." id="VAR_018914" evidence="62 79">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="2440"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs4986859." id="VAR_056758">
+<original>N</original>
+<variation>D</variation>
+<location>
+<position position="2447"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs397507912." id="VAR_032731" evidence="37">
+<original>Q</original>
+<variation>E</variation>
+<location>
+<position position="2456"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Polymorphism; was originally thought to be linked to ovarian cancer; no effect on homology-directed repair activity." id="VAR_008785" evidence="27 35 37 62 72 79">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="2466"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs80358965." id="VAR_008786">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="2480"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs80358968." id="VAR_020733" evidence="34">
+<original>R</original>
+<variation>K</variation>
+<location>
+<position position="2488"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Polymorphism; no effect on homologous recombination-mediated DNA repair; no effect on interaction with SEM1; dbSNP:rs11571707." id="VAR_008787" evidence="61 79">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="2490"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs55716624." id="VAR_063911" evidence="50">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="2502"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ovarian cancer; unknown pathological significance; dbSNP:rs56070345." id="VAR_008788" evidence="10">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="2502"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FANCD1; hypersensitive to DNA damage; disrupts interaction with SEM1; decreased homology-directed repair activity; dbSNP:rs80358979." id="VAR_032732" evidence="31 61 62">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="2510"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs28897744." id="VAR_008789" evidence="11">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="2515"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FANCD1; hypersensitive to DNA damage; reduced homology-directed repair activity; no effect on interaction with SEM1; dbSNP:rs80359013." id="VAR_032733" evidence="49 50 61 62">
+<original>W</original>
+<variation>C</variation>
+<location>
+<position position="2626"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; reduced homology-directed repair activity; dbSNP:rs80359014." id="VAR_063912" evidence="50 62">
+<original>I</original>
+<variation>F</variation>
+<location>
+<position position="2627"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; reduced homology-directed repair activity; dbSNP:rs80359022." id="VAR_063913" evidence="50 62">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="2653"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs80359027." id="VAR_063914" evidence="50">
+<original>R</original>
+<variation>K</variation>
+<location>
+<position position="2659"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Could be associated with cancer susceptibility; major splicing aberration identified with this mutant; multifactorial likelihood analysis provides evidence for pathogenicity; dbSNP:rs80359031." id="VAR_063915" evidence="50 55">
+<original>E</original>
+<variation>V</variation>
+<location>
+<position position="2663"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs28897746." id="VAR_056759">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="2686"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs80359055." id="VAR_020734" evidence="24">
+<original>N</original>
+<variation>S</variation>
+<location>
+<position position="2706"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; reduced homology-directed repair activity; dbSNP:rs80359062." id="VAR_018661" evidence="20 50 62">
+<original>T</original>
+<variation>R</variation>
+<location>
+<position position="2722"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; has defective function consistent with pathogenicity; major splicing aberration identified with this mutant; reduced homology-directed repair activity; dbSNP:rs41293513." id="VAR_063916" evidence="50 55 62">
+<original>D</original>
+<variation>G</variation>
+<location>
+<position position="2723"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; disrupts interaction with SEM1 promoting interaction with XPO1 and BRCA2 cytoplasmic localization; in heterozygous state promotes RAD51 cytoplasmic localization; reduced homology-directed repair activity; dbSNP:rs41293511." id="VAR_020735" evidence="34 62 63">
+<original>D</original>
+<variation>H</variation>
+<location>
+<position position="2723"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs28897749." id="VAR_020736" evidence="9 11 21">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="2728"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; no effect on homologous recombination-mediated DNA repair; no effect on interaction with SEM1; dbSNP:rs80359065." id="VAR_020737" evidence="25 61 62">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="2729"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs80359071." id="VAR_063917" evidence="50">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="2748"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ovarian cancer and BC; somatic mutation; unknown pathological significance; small decrease of homology-directed repair activity; dbSNP:rs80359078." id="VAR_008790" evidence="62 72">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="2787"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; decreased homology-directed repair activity; dbSNP:rs28897751." id="VAR_056760" evidence="62">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="2792"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; decreased homology-directed repair activity; dbSNP:rs80359082." id="VAR_020738" evidence="26 62">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="2793"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11571746." id="VAR_018915" evidence="79">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="2835"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In one patient with esophageal carcinoma; somatic mutation; decreased homology-directed repair activity; dbSNP:rs80359104." id="VAR_032734" evidence="16 62">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="2842"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; no effect on homology-directed repair activity; dbSNP:rs11571747." id="VAR_018916" evidence="34 62 79">
+<original>E</original>
+<variation>A</variation>
+<location>
+<position position="2856"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs4987047." id="VAR_008791" evidence="42 79">
+<original>I</original>
+<variation>F</variation>
+<location>
+<position position="2944"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; dbSNP:rs28897754." id="VAR_020739" evidence="34 42">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="2950"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; no effect on homology-directed repair activity; dbSNP:rs11571769." id="VAR_008792" evidence="21 62 79">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="2951"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs59004709." id="VAR_008793">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="2969"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; no effect on homology-directed repair activity; dbSNP:rs28897755." id="VAR_020740" evidence="34 42 62">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="3013"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; has defective function consistent with pathogenicity; multifactorial likelihood analysis provides evidence for pathogenicity; reduced homology-directed repair activity; dbSNP:rs45580035." id="VAR_063918" evidence="55 62">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="3052"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a patient with ovarian cancer; unknown pathological significance; no effect on homology-directed repair activity; dbSNP:rs80359176." id="VAR_020741" evidence="33 62">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="3063"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; also found in pancreatic cancer; decreased homology-directed repair activity; dbSNP:rs80359187." id="VAR_020742" evidence="14 28 62">
+<original>G</original>
+<variation>E</variation>
+<location>
+<position position="3076"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; unknown pathological significance; reduced homology-directed repair activity; dbSNP:rs80359198." id="VAR_005108" evidence="50 62 70">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="3095"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC and ovarian cancer; unknown pathological significance; no effect on homology-directed repair activity; dbSNP:rs41293521." id="VAR_008794" evidence="10 34 62">
+<original>Y</original>
+<variation>H</variation>
+<location>
+<position position="3098"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs28897758." id="VAR_056761">
+<original>L</original>
+<variation>R</variation>
+<location>
+<position position="3101"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In melanoma; dbSNP:rs80359204." id="VAR_005109">
+<original>I</original>
+<variation>M</variation>
+<location>
+<position position="3103"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs56204128." id="VAR_005110" evidence="76">
+<original>M</original>
+<variation>T</variation>
+<location>
+<position position="3118"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; reduced homology-directed repair activity; dbSNP:rs28897759." id="VAR_020743" evidence="13 62">
+<original>N</original>
+<variation>I</variation>
+<location>
+<position position="3124"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs80359228." id="VAR_020744" evidence="13">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="3196"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs11571831." id="VAR_018917" evidence="79">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="3244"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55847618." id="VAR_008795">
+<original>K</original>
+<variation>R</variation>
+<location>
+<position position="3257"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs80359245." id="VAR_008796">
+<original>R</original>
+<variation>S</variation>
+<location>
+<position position="3276"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In one patient with esophageal carcinoma; dbSNP:rs770868371." id="VAR_032735" evidence="16">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="3300"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In BC; dbSNP:rs80358388." id="VAR_005111">
+<original>T</original>
+<variation>R</variation>
+<location>
+<position position="3357"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs56309455." id="VAR_020745" evidence="26">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="3374"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Polymorphism; was originally thought to be associated with breast cancer; dbSNP:rs1801426." id="VAR_005112" evidence="7 11 25 33 34 41 75 79">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="3412"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Disrupts interaction with SEM1." evidence="63">
+<original>W</original>
+<variation>A</variation>
+<location>
+<position position="2725"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Impaired interaction with RAD51." evidence="45">
+<original>S</original>
+<variation>E</variation>
+<location>
+<position position="3291"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Loss of phosphorylation by CHEK1 and CHEK2 (in vitro)." evidence="52">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="3387"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA64484." ref="1" evidence="80">
+<original>S</original>
+<variation>N</variation>
+<location>
+<position position="758"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA64484." ref="1" evidence="80">
+<original>GY</original>
+<variation>RI</variation>
+<location>
+<begin position="1761"/>
+<end position="1762"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAA64484." ref="1" evidence="80">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="1767"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; CAA98995." ref="4" evidence="80">
+<original>S</original>
+<variation>P</variation>
+<location>
+<position position="2536"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 4; CAA97728." ref="4" evidence="80">
+<original>L</original>
+<variation>LVS</variation>
+<location>
+<position position="3216"/>
+</location>
+</feature>
+<feature type="helix" evidence="2">
+<location>
+<begin position="31"/>
+<end position="35"/>
+</location>
+</feature>
+<feature type="strand" evidence="3">
+<location>
+<begin position="203"/>
+<end position="206"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="1228"/>
+<end position="1230"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="1231"/>
+<end position="1241"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1520"/>
+<end position="1522"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="1536"/>
+<end position="1541"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="1542"/>
+<end position="1546"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1N0W"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3EU7"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6GY2"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="6HQU"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="17525332"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10323242"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10373512"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10399947"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10486320"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10978364"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11062481"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11139248"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11149425"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11241844"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11948123"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11948477"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12065746"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12097290"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12145750"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12215251"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12373604"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12442171"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12442273"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12442274"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12442275"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12552570"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12569143"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12624724"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12938098"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14670928"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14722926"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14746861"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15026808"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15057823"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15115758"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15172753"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15199141"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15300854"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15314155"/>
+</source>
+</evidence>
+<evidence key="41" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15365993"/>
+</source>
+</evidence>
+<evidence key="42" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15635067"/>
+</source>
+</evidence>
+<evidence key="43" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15671039"/>
+</source>
+</evidence>
+<evidence key="44" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15689453"/>
+</source>
+</evidence>
+<evidence key="45" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15800615"/>
+</source>
+</evidence>
+<evidence key="46" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15967112"/>
+</source>
+</evidence>
+<evidence key="47" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16205630"/>
+</source>
+</evidence>
+<evidence key="48" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16793542"/>
+</source>
+</evidence>
+<evidence key="49" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16825431"/>
+</source>
+</evidence>
+<evidence key="50" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17924331"/>
+</source>
+</evidence>
+<evidence key="51" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18212739"/>
+</source>
+</evidence>
+<evidence key="52" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18317453"/>
+</source>
+</evidence>
+<evidence key="53" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19369211"/>
+</source>
+</evidence>
+<evidence key="54" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19609323"/>
+</source>
+</evidence>
+<evidence key="55" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20513136"/>
+</source>
+</evidence>
+<evidence key="56" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20729832"/>
+</source>
+</evidence>
+<evidence key="57" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20729858"/>
+</source>
+</evidence>
+<evidence key="58" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20729859"/>
+</source>
+</evidence>
+<evidence key="59" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21084279"/>
+</source>
+</evidence>
+<evidence key="60" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21276791"/>
+</source>
+</evidence>
+<evidence key="61" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21719596"/>
+</source>
+</evidence>
+<evidence key="62" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23108138"/>
+</source>
+</evidence>
+<evidence key="63" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24013206"/>
+</source>
+</evidence>
+<evidence key="64" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24141787"/>
+</source>
+</evidence>
+<evidence key="65" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24485656"/>
+</source>
+</evidence>
+<evidence key="66" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24896180"/>
+</source>
+</evidence>
+<evidence key="67" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26566883"/>
+</source>
+</evidence>
+<evidence key="68" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28319063"/>
+</source>
+</evidence>
+<evidence key="69" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8589730"/>
+</source>
+</evidence>
+<evidence key="70" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8640235"/>
+</source>
+</evidence>
+<evidence key="71" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8640237"/>
+</source>
+</evidence>
+<evidence key="72" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8665505"/>
+</source>
+</evidence>
+<evidence key="73" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8673091"/>
+</source>
+</evidence>
+<evidence key="74" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9140390"/>
+</source>
+</evidence>
+<evidence key="75" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9150152"/>
+</source>
+</evidence>
+<evidence key="76" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9609997"/>
+</source>
+</evidence>
+<evidence key="77" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9654203"/>
+</source>
+</evidence>
+<evidence key="78" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9971877"/>
+</source>
+</evidence>
+<evidence key="79" type="ECO:0000269">
+<source ref="3"/>
+</evidence>
+<evidence key="80" type="ECO:0000305"/>
+<evidence key="81" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="21276791"/>
+</source>
+</evidence>
+<sequence length="3418" mass="384202" checksum="6A0B3B7B332153EB" modified="2015-11-11" version="3">MPIGSKERPTFFEIFKTRCNKADLGPISLNWFEELSSEAPPYNSEPAEESEHKNNNYEPNLFKTPQRKPSYNQLASTPIIFKEQGLTLPLYQSPVKELDKFKLDLGRNVPNSRHKSLRTVKTKMDQADDVSCPLLNSCLSESPVVLQCTHVTPQRDKSVVCGSLFHTPKFVKGRQTPKHISESLGAEVDPDMSWSSSLATPPTLSSTVLIVRNEEASETVFPHDTTANVKSYFSNHDESLKKNDRFIASVTDSENTNQREAASHGFGKTSGNSFKVNSCKDHIGKSMPNVLEDEVYETVVDTSEEDSFSLCFSKCRTKNLQKVRTSKTRKKIFHEANADECEKSKNQVKEKYSFVSEVEPNDTDPLDSNVANQKPFESGSDKISKEVVPSLACEWSQLTLSGLNGAQMEKIPLLHISSCDQNISEKDLLDTENKRKKDFLTSENSLPRISSLPKSEKPLNEETVVNKRDEEQHLESHTDCILAVKQAISGTSPVASSFQGIKKSIFRIRESPKETFNASFSGHMTDPNFKKETEASESGLEIHTVCSQKEDSLCPNLIDNGSWPATTTQNSVALKNAGLISTLKKKTNKFIYAIHDETSYKGKKIPKDQKSELINCSAQFEANAFEAPLTFANADSGLLHSSVKRSCSQNDSEEPTLSLTSSFGTILRKCSRNETCSNNTVISQDLDYKEAKCNKEKLQLFITPEADSLSCLQEGQCENDPKSKKVSDIKEEVLAAACHPVQHSKVEYSDTDFQSQKSLLYDHENASTLILTPTSKDVLSNLVMISRGKESYKMSDKLKGNNYESDVELTKNIPMEKNQDVCALNENYKNVELLPPEKYMRVASPSRKVQFNQNTNLRVIQKNQEETTSISKITVNPDSEELFSDNENNFVFQVANERNNLALGNTKELHETDLTCVNEPIFKNSTMVLYGDTGDKQATQVSIKKDLVYVLAEENKNSVKQHIKMTLGQDLKSDISLNIDKIPEKNNDYMNKWAGLLGPISNHSFGGSFRTASNKEIKLSEHNIKKSKMFFKDIEEQYPTSLACVEIVNTLALDNQKKLSKPQSINTVSAHLQSSVVVSDCKNSHITPQMLFSKQDFNSNHNLTPSQKAEITELSTILEESGSQFEFTQFRKPSYILQKSTFEVPENQMTILKTTSEECRDADLHVIMNAPSIGQVDSSKQFEGTVEIKRKFAGLLKNDCNKSASGYLTDENEVGFRGFYSAHGTKLNVSTEALQKAVKLFSDIENISEETSAEVHPISLSSSKCHDSVVSMFKIENHNDKTVSEKNNKCQLILQNNIEMTTGTFVEEITENYKRNTENEDNKYTAASRNSHNLEFDGSDSSKNDTVCIHKDETDLLFTDQHNICLKLSGQFMKEGNTQIKEDLSDLTFLEVAKAQEACHGNTSNKEQLTATKTEQNIKDFETSDTFFQTASGKNISVAKESFNKIVNFFDQKPEELHNFSLNSELHSDIRKNKMDILSYEETDIVKHKILKESVPVGTGNQLVTFQGQPERDEKIKEPTLLGFHTASGKKVKIAKESLDKVKNLFDEKEQGTSEITSFSHQWAKTLKYREACKDLELACETIEITAAPKCKEMQNSLNNDKNLVSIETVVPPKLLSDNLCRQTENLKTSKSIFLKVKVHENVEKETAKSPATCYTNQSPYSVIENSALAFYTSCSRKTSVSQTSLLEAKKWLREGIFDGQPERINTADYVGNYLYENNSNSTIAENDKNHLSEKQDTYLSNSSMSNSYSYHSDEVYNDSGYLSKNKLDSGIEPVLKNVEDQKNTSFSKVISNVKDANAYPQTVNEDICVEELVTSSSPCKNKNAAIKLSISNSNNFEVGPPAFRIASGKIVCVSHETIKKVKDIFTDSFSKVIKENNENKSKICQTKIMAGCYEALDDSEDILHNSLDNDECSTHSHKVFADIQSEEILQHNQNMSGLEKVSKISPCDVSLETSDICKCSIGKLHKSVSSANTCGIFSTASGKSVQVSDASLQNARQVFSEIEDSTKQVFSKVLFKSNEHSDQLTREENTAIRTPEHLISQKGFSYNVVNSSAFSGFSTASGKQVSILESSLHKVKGVLEEFDLIRTEHSLHYSPTSRQNVSKILPRVDKRNPEHCVNSEMEKTCSKEFKLSNNLNVEGGSSENNHSIKVSPYLSQFQQDKQQLVLGTKVSLVENIHVLGKEQASPKNVKMEIGKTETFSDVPVKTNIEVCSTYSKDSENYFETEAVEIAKAFMEDDELTDSKLPSHATHSLFTCPENEEMVLSNSRIGKRRGEPLILVGEPSIKRNLLNEFDRIIENQEKSLKASKSTPDGTIKDRRLFMHHVSLEPITCVPFRTTKERQEIQNPNFTAPGQEFLSKSHLYEHLTLEKSSSNLAVSGHPFYQVSATRNEKMRHLITTGRPTKVFVPPFKTKSHFHRVEQCVRNINLEENRQKQNIDGHGSDDSKNKINDNEIHQFNKNNSNQAAAVTFTKCEEEPLDLITSLQNARDIQDMRIKKKQRQRVFPQPGSLYLAKTSTLPRISLKAAVGGQVPSACSHKQLYTYGVSKHCIKINSKNAESFQFHTEDYFGKESLWTGKGIQLADGGWLIPSNDGKAGKEEFYRALCDTPGVDPKLISRIWVYNHYRWIIWKLAAMECAFPKEFANRCLSPERVLLQLKYRYDTEIDRSRRSAIKKIMERDDTAAKTLVLCVSDIISLSANISETSSNKTSSADTQKVAIIELTDGWYAVKAQLDPPLLAVLKNGRLTVGQKIILHGAELVGSPDACTPLEAPESLMLKISANSTRPARWYTKLGFFPDPRPFPLPLSSLFSDGGNVGCVDVIIQRAYPIQWMEKTSSGLYIFRNEREEEKEAAKYVEAQQKRLEALFTKIQEEFEEHEENTTKPYLPSRALTRQQVRALQDGAELYEAVKNAADPAYLEGYFSEEQLRALNNHRQMLNDKKQAQIQLEIRKAMESAEQKEQGLSRDVTTVWKLRIVSYSKKEKDSVILSIWRPSSDLYSLLTEGKRYRIYHLATSKSKSKSERANIQLAATKKTQYQQLPVSDEILFQIYQPREPLHFSKFLDPDFQPSCSEVDLIGFVVSVVKKTGLAPFVYLSDECYNLLAIKFWIDLNEDIIKPHMLIAASNLQWRPESKSGLLTLFAGDFSVFSASPKEGHFQETFNKMKNTVENIDILCNEAENKLMHILHANDPKWSTPTKDCTSGPYTAQIIPGTGNKLLMSSPNCEIYYQSPLSLCMAKRKSVSTPVSAQMTSKSCKGEKEIDDQKNCKKRRALDFLSRLPLPPPVSPICTFVSPAAQKAFQPPRSCGTKYETPIKKKELNSPQMTPFKKFNEISLLESNSIADEELALINTQALLSGSTGEKQFISVSESTRTAPTSSEDYLRLKRRCTTSLIKEQESSQASTEECEKNKQDTITTKKYI</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2003-06-16" modified="2020-08-12" version="174">
+<accession>Q96KS0</accession>
+<accession>A8K5S0</accession>
+<accession>Q8WWY4</accession>
+<accession>Q9BV14</accession>
+<name>EGLN2_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName evidence="23">Prolyl hydroxylase EGLN2</fullName>
+<ecNumber evidence="6 8 13 15 19">1.14.11.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName evidence="23">Egl nine homolog 2</fullName>
+<ecNumber evidence="5 6 8 13">1.14.11.29</ecNumber>
+</alternativeName>
+<alternativeName>
+<fullName evidence="22">Estrogen-induced tag 6</fullName>
+<shortName evidence="22">EIT-6</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>HPH-3</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Hypoxia-inducible factor prolyl hydroxylase 1</fullName>
+<shortName>HIF-PH1</shortName>
+<shortName>HIF-prolyl hydroxylase 1</shortName>
+<shortName>HPH-1</shortName>
+</alternativeName>
+<alternativeName>
+<fullName evidence="21">Prolyl hydroxylase domain-containing protein 1</fullName>
+<shortName evidence="21">PHD1</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary" evidence="24">EGLN2</name>
+<name type="synonym" evidence="22">EIT6</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2001" name="Gene" volume="275" first="125" last="132">
+<title>Characterization and comparative analysis of the EGLN gene family.</title>
+<authorList>
+<person name="Taylor M.S."/>
+</authorList>
+<dbReference type="PubMed" id="11574160"/>
+<dbReference type="DOI" id="10.1016/s0378-1119(01)00633-3"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM P43)</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2002" name="Oncogene" volume="21" first="836" last="843">
+<title>Novel estrogen and tamoxifen induced genes identified by SAGE (Serial Analysis of Gene Expression).</title>
+<authorList>
+<person name="Seth P."/>
+<person name="Krop I."/>
+<person name="Porter D."/>
+<person name="Polyak K."/>
+</authorList>
+<dbReference type="PubMed" id="11850811"/>
+<dbReference type="DOI" id="10.1038/sj.onc.1205113"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM P43)</scope>
+<scope>INDUCTION</scope>
+<source>
+<tissue>Mammary cancer</tissue>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM P43)</scope>
+<source>
+<tissue>Fetal brain</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2007" name="BMC Genomics" volume="8" first="399" last="399">
+<title>The full-ORF clone resource of the German cDNA consortium.</title>
+<authorList>
+<person name="Bechtel S."/>
+<person name="Rosenfelder H."/>
+<person name="Duda A."/>
+<person name="Schmidt C.P."/>
+<person name="Ernst U."/>
+<person name="Wellenreuther R."/>
+<person name="Mehrle A."/>
+<person name="Schuster C."/>
+<person name="Bahr A."/>
+<person name="Bloecker H."/>
+<person name="Heubner D."/>
+<person name="Hoerlein A."/>
+<person name="Michel G."/>
+<person name="Wedler H."/>
+<person name="Koehrer K."/>
+<person name="Ottenwaelder B."/>
+<person name="Poustka A."/>
+<person name="Wiemann S."/>
+<person name="Schupp I."/>
+</authorList>
+<dbReference type="PubMed" id="17974005"/>
+<dbReference type="DOI" id="10.1186/1471-2164-8-399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM P43)</scope>
+<source>
+<tissue>Endometrium</tissue>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Nature" volume="428" first="529" last="535">
+<title>The DNA sequence and biology of human chromosome 19.</title>
+<authorList>
+<person name="Grimwood J."/>
+<person name="Gordon L.A."/>
+<person name="Olsen A.S."/>
+<person name="Terry A."/>
+<person name="Schmutz J."/>
+<person name="Lamerdin J.E."/>
+<person name="Hellsten U."/>
+<person name="Goodstein D."/>
+<person name="Couronne O."/>
+<person name="Tran-Gyamfi M."/>
+<person name="Aerts A."/>
+<person name="Altherr M."/>
+<person name="Ashworth L."/>
+<person name="Bajorek E."/>
+<person name="Black S."/>
+<person name="Branscomb E."/>
+<person name="Caenepeel S."/>
+<person name="Carrano A.V."/>
+<person name="Caoile C."/>
+<person name="Chan Y.M."/>
+<person name="Christensen M."/>
+<person name="Cleland C.A."/>
+<person name="Copeland A."/>
+<person name="Dalin E."/>
+<person name="Dehal P."/>
+<person name="Denys M."/>
+<person name="Detter J.C."/>
+<person name="Escobar J."/>
+<person name="Flowers D."/>
+<person name="Fotopulos D."/>
+<person name="Garcia C."/>
+<person name="Georgescu A.M."/>
+<person name="Glavina T."/>
+<person name="Gomez M."/>
+<person name="Gonzales E."/>
+<person name="Groza M."/>
+<person name="Hammon N."/>
+<person name="Hawkins T."/>
+<person name="Haydu L."/>
+<person name="Ho I."/>
+<person name="Huang W."/>
+<person name="Israni S."/>
+<person name="Jett J."/>
+<person name="Kadner K."/>
+<person name="Kimball H."/>
+<person name="Kobayashi A."/>
+<person name="Larionov V."/>
+<person name="Leem S.-H."/>
+<person name="Lopez F."/>
+<person name="Lou Y."/>
+<person name="Lowry S."/>
+<person name="Malfatti S."/>
+<person name="Martinez D."/>
+<person name="McCready P.M."/>
+<person name="Medina C."/>
+<person name="Morgan J."/>
+<person name="Nelson K."/>
+<person name="Nolan M."/>
+<person name="Ovcharenko I."/>
+<person name="Pitluck S."/>
+<person name="Pollard M."/>
+<person name="Popkie A.P."/>
+<person name="Predki P."/>
+<person name="Quan G."/>
+<person name="Ramirez L."/>
+<person name="Rash S."/>
+<person name="Retterer J."/>
+<person name="Rodriguez A."/>
+<person name="Rogers S."/>
+<person name="Salamov A."/>
+<person name="Salazar A."/>
+<person name="She X."/>
+<person name="Smith D."/>
+<person name="Slezak T."/>
+<person name="Solovyev V."/>
+<person name="Thayer N."/>
+<person name="Tice H."/>
+<person name="Tsai M."/>
+<person name="Ustaszewska A."/>
+<person name="Vo N."/>
+<person name="Wagner M."/>
+<person name="Wheeler J."/>
+<person name="Wu K."/>
+<person name="Xie G."/>
+<person name="Yang J."/>
+<person name="Dubchak I."/>
+<person name="Furey T.S."/>
+<person name="DeJong P."/>
+<person name="Dickson M."/>
+<person name="Gordon D."/>
+<person name="Eichler E.E."/>
+<person name="Pennacchio L.A."/>
+<person name="Richardson P."/>
+<person name="Stubbs L."/>
+<person name="Rokhsar D.S."/>
+<person name="Myers R.M."/>
+<person name="Rubin E.M."/>
+<person name="Lucas S.M."/>
+</authorList>
+<dbReference type="PubMed" id="15057824"/>
+<dbReference type="DOI" id="10.1038/nature02399"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM P43)</scope>
+<source>
+<tissue>Lung</tissue>
+<tissue>Testis</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2001" name="Cell" volume="107" first="1" last="3">
+<title>HIF-1, O(2), and the 3 PHDs: how animal cells signal hypoxia to the nucleus.</title>
+<authorList>
+<person name="Semenza G.L."/>
+</authorList>
+<dbReference type="PubMed" id="11595178"/>
+<dbReference type="DOI" id="10.1016/s0092-8674(01)00518-9"/>
+</citation>
+<scope>REVIEW</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2001" name="Cell" volume="107" first="43" last="54">
+<title>C. elegans EGL-9 and mammalian homologs define a family of dioxygenases that regulate HIF by prolyl hydroxylation.</title>
+<authorList>
+<person name="Epstein A.C.R."/>
+<person name="Gleadle J.M."/>
+<person name="McNeill L.A."/>
+<person name="Hewitson K.S."/>
+<person name="O'Rourke J."/>
+<person name="Mole D.R."/>
+<person name="Mukherji M."/>
+<person name="Metzen E."/>
+<person name="Wilson M.I."/>
+<person name="Dhanda A."/>
+<person name="Tian Y.M."/>
+<person name="Masson N."/>
+<person name="Hamilton D.L."/>
+<person name="Jaakkola P."/>
+<person name="Barstead R."/>
+<person name="Hodgkin J."/>
+<person name="Maxwell P.H."/>
+<person name="Pugh C.W."/>
+<person name="Schofield C.J."/>
+<person name="Ratcliffe P.J."/>
+</authorList>
+<dbReference type="PubMed" id="11595184"/>
+<dbReference type="DOI" id="10.1016/s0092-8674(01)00507-4"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>MUTAGENESIS OF HIS-358</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2002" name="Biochem. Biophys. Res. Commun." volume="296" first="343" last="349">
+<title>Overexpression of PH-4, a novel putative proline 4-hydroxylase, modulates activity of hypoxia-inducible transcription factors.</title>
+<authorList>
+<person name="Oehme F."/>
+<person name="Ellinghaus P."/>
+<person name="Kolkhof P."/>
+<person name="Smith T.J."/>
+<person name="Ramakrishnan S."/>
+<person name="Huetter J."/>
+<person name="Schramm M."/>
+<person name="Flamme I."/>
+</authorList>
+<dbReference type="PubMed" id="12163023"/>
+<dbReference type="DOI" id="10.1016/s0006-291x(02)00862-8"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2002" name="Bioorg. Med. Chem. Lett." volume="12" first="1547" last="1550">
+<title>The use of dioxygen by HIF prolyl hydroxylase (PHD1).</title>
+<authorList>
+<person name="McNeill L.A."/>
+<person name="Hewitson K.S."/>
+<person name="Gleadle J.M."/>
+<person name="Horsfall L.E."/>
+<person name="Oldham N.J."/>
+<person name="Maxwell P.H."/>
+<person name="Pugh C.W."/>
+<person name="Ratcliffe P.J."/>
+<person name="Schofield C.J."/>
+</authorList>
+<dbReference type="PubMed" id="12039559"/>
+<dbReference type="DOI" id="10.1016/s0960-894x(02)00219-6"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>MUTAGENESIS OF HIS-297; ASP-299; HIS-358 AND ARG-367</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="39792" last="39800">
+<title>Sequence determinants in hypoxia-inducible factor-1alpha for hydroxylation by the prolyl hydroxylases PHD1, PHD2, and PHD3.</title>
+<authorList>
+<person name="Huang J."/>
+<person name="Zhao Q."/>
+<person name="Mooney S.M."/>
+<person name="Lee F.S."/>
+</authorList>
+<dbReference type="PubMed" id="12181324"/>
+<dbReference type="DOI" id="10.1074/jbc.m206955200"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBSTRATE RECOGNITION MOTIF</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2003" name="J. Cell Sci." volume="116" first="1319" last="1326">
+<title>Intracellular localisation of human HIF-1 alpha hydroxylases: implications for oxygen sensing.</title>
+<authorList>
+<person name="Metzen E."/>
+<person name="Berchner-Pfannschmidt U."/>
+<person name="Stengel P."/>
+<person name="Marxsen J.H."/>
+<person name="Stolze I."/>
+<person name="Klinger M."/>
+<person name="Huang W.Q."/>
+<person name="Wotzlaw C."/>
+<person name="Hellwig-Burgel T."/>
+<person name="Jelkmann W."/>
+<person name="Acker H."/>
+<person name="Fandrey J."/>
+</authorList>
+<dbReference type="PubMed" id="12615973"/>
+<dbReference type="DOI" id="10.1242/jcs.00318"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INDUCTION</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="38458" last="38465">
+<title>Differential function of the prolyl hydroxylases PHD1, PHD2, and PHD3 in the regulation of hypoxia-inducible factor.</title>
+<authorList>
+<person name="Appelhoff R.J."/>
+<person name="Tian Y.M."/>
+<person name="Raval R.R."/>
+<person name="Turley H."/>
+<person name="Harris A.L."/>
+<person name="Pugh C.W."/>
+<person name="Ratcliffe P.J."/>
+<person name="Gleadle J.M."/>
+</authorList>
+<dbReference type="PubMed" id="15247232"/>
+<dbReference type="DOI" id="10.1074/jbc.m406026200"/>
+</citation>
+<scope>INDUCTION</scope>
+<scope>SUBSTRATE SPECIFICITY</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2005" name="Protein Expr. Purif." volume="42" first="295" last="304">
+<title>Cloning and characterization of the rat HIF-1 alpha prolyl-4-hydroxylase-1 gene.</title>
+<authorList>
+<person name="Cobb R.R."/>
+<person name="McClary J."/>
+<person name="Manzana W."/>
+<person name="Finster S."/>
+<person name="Larsen B."/>
+<person name="Blasko E."/>
+<person name="Pearson J."/>
+<person name="Biancalana S."/>
+<person name="Kauser K."/>
+<person name="Bringmann P."/>
+<person name="Light D.R."/>
+<person name="Schirm S."/>
+</authorList>
+<dbReference type="PubMed" id="15925519"/>
+<dbReference type="DOI" id="10.1016/j.pep.2005.03.036"/>
+</citation>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>COFACTOR</scope>
+<scope>BIOPHYSICOCHEMICAL PROPERTIES</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2006" name="Biochem. J." volume="397" first="179" last="186">
+<title>Characterization of different isoforms of the HIF prolyl hydroxylase PHD1 generated by alternative initiation.</title>
+<authorList>
+<person name="Tian Y.M."/>
+<person name="Mole D.R."/>
+<person name="Ratcliffe P.J."/>
+<person name="Gleadle J.M."/>
+</authorList>
+<dbReference type="PubMed" id="16509823"/>
+<dbReference type="DOI" id="10.1042/bj20051996"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH SIAH2</scope>
+<scope>ALTERNATIVE INITIATION</scope>
+<scope>INDUCTION</scope>
+<scope>MUTAGENESIS OF MET-1 AND MET-34</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2006" name="Proc. Natl. Acad. Sci. U.S.A." volume="103" first="18154" last="18159">
+<title>Prolyl hydroxylase-1 negatively regulates IkappaB kinase-beta, giving insight into hypoxia-induced NFkappaB activity.</title>
+<authorList>
+<person name="Cummins E.P."/>
+<person name="Berra E."/>
+<person name="Comerford K.M."/>
+<person name="Ginouves A."/>
+<person name="Fitzgerald K.T."/>
+<person name="Seeballuck F."/>
+<person name="Godson C."/>
+<person name="Nielsen J.E."/>
+<person name="Moynagh P."/>
+<person name="Pouyssegur J."/>
+<person name="Taylor C.T."/>
+</authorList>
+<dbReference type="PubMed" id="17114296"/>
+<dbReference type="DOI" id="10.1073/pnas.0602235103"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2009" name="Biochem. Biophys. Res. Commun." volume="387" first="705" last="711">
+<title>Cellular oxygen sensing: Importins and exportins are mediators of intracellular localisation of prolyl-4-hydroxylases PHD1 and PHD2.</title>
+<authorList>
+<person name="Steinhoff A."/>
+<person name="Pientka F.K."/>
+<person name="Mockel S."/>
+<person name="Kettelhake A."/>
+<person name="Hartmann E."/>
+<person name="Kohler M."/>
+<person name="Depping R."/>
+</authorList>
+<dbReference type="PubMed" id="19631610"/>
+<dbReference type="DOI" id="10.1016/j.bbrc.2009.07.090"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2009" name="Biochim. Biophys. Acta" volume="1793" first="792" last="797">
+<title>Role of the intracellular localization of HIF-prolyl hydroxylases.</title>
+<authorList>
+<person name="Yasumoto K."/>
+<person name="Kowata Y."/>
+<person name="Yoshida A."/>
+<person name="Torii S."/>
+<person name="Sogawa K."/>
+</authorList>
+<dbReference type="PubMed" id="19339211"/>
+<dbReference type="DOI" id="10.1016/j.bbamcr.2009.01.014"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>FUNCTION</scope>
+<scope>MOTIF</scope>
+<scope>MUTAGENESIS OF LYS-102; ARG-106; ARG-113; ARG-119 AND ARG-134</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2011" name="Biochem. J." volume="436" first="363" last="369">
+<title>Biochemical characterization of human HIF hydroxylases using HIF protein substrates that contain all three hydroxylation sites.</title>
+<authorList>
+<person name="Pappalardi M.B."/>
+<person name="McNulty D.E."/>
+<person name="Martin J.D."/>
+<person name="Fisher K.E."/>
+<person name="Jiang Y."/>
+<person name="Burns M.C."/>
+<person name="Zhao H."/>
+<person name="Ho T."/>
+<person name="Sweitzer S."/>
+<person name="Schwartz B."/>
+<person name="Annan R.S."/>
+<person name="Copeland R.A."/>
+<person name="Tummino P.J."/>
+<person name="Luo L."/>
+</authorList>
+<dbReference type="PubMed" id="21410436"/>
+<dbReference type="DOI" id="10.1042/bj20101201"/>
+</citation>
+<scope>SUBSTRATE SPECIFICITY</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2012" name="Nat. Cell Biol." volume="14" first="201" last="208">
+<title>The LIMD1 protein bridges an association between the prolyl hydroxylases and VHL to repress HIF-1 activity.</title>
+<authorList>
+<person name="Foxler D.E."/>
+<person name="Bridge K.S."/>
+<person name="James V."/>
+<person name="Webb T.M."/>
+<person name="Mee M."/>
+<person name="Wong S.C."/>
+<person name="Feng Y."/>
+<person name="Constantin-Teodosiu D."/>
+<person name="Petursdottir T.E."/>
+<person name="Bjornsson J."/>
+<person name="Ingvarsson S."/>
+<person name="Ratcliffe P.J."/>
+<person name="Longmore G.D."/>
+<person name="Sharp T.V."/>
+</authorList>
+<dbReference type="PubMed" id="22286099"/>
+<dbReference type="DOI" id="10.1038/ncb2424"/>
+</citation>
+<scope>INTERACTION WITH LIMD1; WTIP AND AJUBA</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2013" name="Dev. Cell" volume="26" first="381" last="392">
+<title>PHD1 links cell-cycle progression to oxygen sensing through hydroxylation of the centrosomal protein Cep192.</title>
+<authorList>
+<person name="Moser S.C."/>
+<person name="Bensaddek D."/>
+<person name="Ortmann B."/>
+<person name="Maure J.F."/>
+<person name="Mudie S."/>
+<person name="Blow J.J."/>
+<person name="Lamond A.I."/>
+<person name="Swedlow J.R."/>
+<person name="Rocha S."/>
+</authorList>
+<dbReference type="PubMed" id="23932902"/>
+<dbReference type="DOI" id="10.1016/j.devcel.2013.06.014"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+<dbReference type="DOI" id="10.1021/pr300630k"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-130</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="24" evidence="1">
+<citation type="journal article" date="2017" name="J. Med. Chem." volume="60" first="5663" last="5672">
+<title>1,2,4-Triazolo-[1,5-a]pyridine HIF Prolylhydroxylase Domain-1 (PHD-1) Inhibitors With a Novel Monodentate Binding Interaction.</title>
+<authorList>
+<person name="Ahmed S."/>
+<person name="Ayscough A."/>
+<person name="Barker G.R."/>
+<person name="Canning H.E."/>
+<person name="Davenport R."/>
+<person name="Downham R."/>
+<person name="Harrison D."/>
+<person name="Jenkins K."/>
+<person name="Kinsella N."/>
+<person name="Livermore D.G."/>
+<person name="Wright S."/>
+<person name="Ivetac A.D."/>
+<person name="Skene R."/>
+<person name="Wilkens S.J."/>
+<person name="Webster N.A."/>
+<person name="Hendrick A.G."/>
+</authorList>
+<dbReference type="PubMed" id="28594552"/>
+<dbReference type="DOI" id="10.1021/acs.jmedchem.7b00352"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.49 ANGSTROMS) OF 167-403 IN COMPLEX WITH INHIBITOR AND IRON</scope>
+<scope>COFACTOR</scope>
+</reference>
+<comment type="function">
+<text evidence="3 6 8 10 13 14 15 16 19">Prolyl hydroxylase that mediates hydroxylation of proline residues in target proteins, such as ATF4, IKBKB, CEP192 and HIF1A (PubMed:11595184, PubMed:12039559, PubMed:15925519, PubMed:16509823, PubMed:17114296, PubMed:23932902). Target proteins are preferentially recognized via a LXXLAP motif (PubMed:11595184, PubMed:12039559, PubMed:15925519). Cellular oxygen sensor that catalyzes, under normoxic conditions, the post-translational formation of 4-hydroxyproline in hypoxia-inducible factor (HIF) alpha proteins (PubMed:11595184, PubMed:12039559, PubMed:12181324, PubMed:15925519, PubMed:19339211). Hydroxylates a specific proline found in each of the oxygen-dependent degradation (ODD) domains (N-terminal, NODD, and C-terminal, CODD) of HIF1A (PubMed:11595184, PubMed:12039559, PubMed:12181324, PubMed:15925519). Also hydroxylates HIF2A (PubMed:11595184, PubMed:12039559, PubMed:15925519). Has a preference for the CODD site for both HIF1A and HIF2A (PubMed:11595184, PubMed:12039559, PubMed:15925519). Hydroxylated HIFs are then targeted for proteasomal degradation via the von Hippel-Lindau ubiquitination complex (PubMed:11595184, PubMed:12039559, PubMed:15925519). Under hypoxic conditions, the hydroxylation reaction is attenuated allowing HIFs to escape degradation resulting in their translocation to the nucleus, heterodimerization with HIF1B, and increased expression of hypoxy-inducible genes (PubMed:11595184, PubMed:12039559, PubMed:15925519). EGLN2 is involved in regulating hypoxia tolerance and apoptosis in cardiac and skeletal muscle (PubMed:11595184, PubMed:12039559, PubMed:15925519). Also regulates susceptibility to normoxic oxidative neuronal death (PubMed:11595184, PubMed:12039559, PubMed:15925519). Links oxygen sensing to cell cycle and primary cilia formation by hydroxylating the critical centrosome component CEP192 which promotes its ubiquitination and subsequent proteasomal degradation (PubMed:23932902). Hydroxylates IKBKB, mediating NF-kappa-B activation in hypoxic conditions (PubMed:17114296). Also mediates hydroxylation of ATF4, leading to decreased protein stability of ATF4 (By similarity).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="6 8 13 15 19">
+<text>2-oxoglutarate + L-prolyl-[protein] + O2 = CO2 + succinate + trans-4-hydroxy-L-prolyl-[protein]</text>
+<dbReference type="Rhea" id="RHEA:63484"/>
+<dbReference type="Rhea" id="RHEA-COMP:12408"/>
+<dbReference type="Rhea" id="RHEA-COMP:16354"/>
+<dbReference type="ChEBI" id="CHEBI:15379"/>
+<dbReference type="ChEBI" id="CHEBI:16526"/>
+<dbReference type="ChEBI" id="CHEBI:16810"/>
+<dbReference type="ChEBI" id="CHEBI:30031"/>
+<dbReference type="ChEBI" id="CHEBI:50342"/>
+<dbReference type="ChEBI" id="CHEBI:61965"/>
+</reaction>
+<physiologicalReaction direction="left-to-right" evidence="6 8 13 15 19">
+<dbReference type="Rhea" id="RHEA:63485"/>
+</physiologicalReaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="6 8 13">
+<text>2-oxoglutarate + L-prolyl-[hypoxia-inducible factor alpha subunit] + O2 = CO2 + succinate + trans-4-hydroxy-L-prolyl-[hypoxia-inducible factor alpha subunit]</text>
+<dbReference type="Rhea" id="RHEA:48400"/>
+<dbReference type="Rhea" id="RHEA-COMP:12093"/>
+<dbReference type="Rhea" id="RHEA-COMP:12094"/>
+<dbReference type="ChEBI" id="CHEBI:15379"/>
+<dbReference type="ChEBI" id="CHEBI:16526"/>
+<dbReference type="ChEBI" id="CHEBI:16810"/>
+<dbReference type="ChEBI" id="CHEBI:30031"/>
+<dbReference type="ChEBI" id="CHEBI:50342"/>
+<dbReference type="ChEBI" id="CHEBI:61965"/>
+<dbReference type="EC" id="1.14.11.29"/>
+</reaction>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="1 5 13 20">
+<name>Fe(2+)</name>
+<dbReference type="ChEBI" id="CHEBI:29033"/>
+</cofactor>
+<text evidence="1 5 13 20">Binds 1 Fe(2+) ion per subunit.</text>
+</comment>
+<comment type="cofactor">
+<cofactor evidence="13">
+<name>L-ascorbate</name>
+<dbReference type="ChEBI" id="CHEBI:38290"/>
+</cofactor>
+</comment>
+<comment type="biophysicochemical properties">
+<kinetics>
+<KM evidence="13">20 uM for HIF1A DLDLEMLAPYIPMDDDFQL peptide (at pH 7.5 and 37 degrees Celsius)</KM>
+<KM evidence="13">50 uM for L-ascorbate (at pH 7.5 and 37 degrees Celsius)</KM>
+<KM evidence="13">1.0 uM for Fe(2+) (at pH 7.5 and 37 degrees Celsius)</KM>
+</kinetics>
+</comment>
+<comment type="subunit">
+<text evidence="14 18">Interacts (preferably isoform p40) with SIAH2; the interaction targets both SIAH2 isoforms for proteasomal degradation in vitro (PubMed:16509823). Interacts with LIMD1, WTIP and AJUBA (PubMed:22286099).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-726614">
+<id>Q96KS0</id>
+</interactant>
+<interactant intactId="EBI-447269">
+<id>Q16665</id>
+<label>HIF1A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="9 11 16 17">Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative initiation"/>
+<isoform>
+<id>Q96KS0-1</id>
+<name>p43</name>
+<name>PHD1p43</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q96KS0-2</id>
+<name>p40</name>
+<name>PHD1p40</name>
+<sequence type="described" ref="VSP_038836"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="9">Expressed in adult and fetal heart, brain, liver, lung, skeletal muscle, and kidney. Also expressed in testis and placenta. Highest levels in adult brain, placenta, lung, kidney, and testis. Expressed in hormone responsive tissues, including normal and cancerous mammary, ovarian and prostate epithelium.</text>
+</comment>
+<comment type="induction">
+<text evidence="7 14">By estrogen (PubMed:11850811). Induced by proteasomal inhibitor MG132 (at protein level) (PubMed:16509823).</text>
+</comment>
+<comment type="induction">
+<molecule>Isoform p43</molecule>
+<text evidence="12">Induced by hypoxia leading to protein stability.</text>
+</comment>
+<comment type="induction">
+<molecule>Isoform p40</molecule>
+<text evidence="12">Repressed by hypoxia.</text>
+</comment>
+<comment type="domain">
+<text evidence="4">The Beta(2)beta(3) 'finger-like' loop domain is important for substrate (HIFs' CODD/NODD) selectivity.</text>
+</comment>
+<comment type="PTM">
+<text evidence="3">Ubiquitinated by SIAH1 and/or SIAH2 in response to the unfolded protein response (UPR), leading to its degradation.</text>
+</comment>
+<comment type="sequence caution" evidence="23">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="AAH01723" version="1"/>
+</conflict>
+<text>Extended N-terminus.</text>
+</comment>
+<dbReference type="EC" id="1.14.11.-" evidence="6 8 13 15 19"/>
+<dbReference type="EC" id="1.14.11.29" evidence="5 6 8 13"/>
+<dbReference type="EMBL" id="AJ310544">
+<property type="protein sequence ID" value="CAC42510.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY040565">
+<property type="protein sequence ID" value="AAK82943.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK291385">
+<property type="protein sequence ID" value="BAF84074.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL832506">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC008537">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471126">
+<property type="protein sequence ID" value="EAW57008.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC001723">
+<property type="protein sequence ID" value="AAH01723.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC036051">
+<property type="protein sequence ID" value="AAH36051.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS12567.1">
+<molecule id="Q96KS0-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_444274.1">
+<molecule id="Q96KS0-1"/>
+<property type="nucleotide sequence ID" value="NM_053046.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_542770.2">
+<molecule id="Q96KS0-1"/>
+<property type="nucleotide sequence ID" value="NM_080732.3"/>
+</dbReference>
+<dbReference type="PDB" id="5V1B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.49"/>
+<property type="chains" value="A=167-403"/>
+</dbReference>
+<dbReference type="PDBsum" id="5V1B"/>
+<dbReference type="SMR" id="Q96KS0"/>
+<dbReference type="BioGRID" id="125184">
+<property type="interactions" value="33"/>
+</dbReference>
+<dbReference type="CORUM" id="Q96KS0"/>
+<dbReference type="IntAct" id="Q96KS0">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="MINT" id="Q96KS0"/>
+<dbReference type="STRING" id="9606.ENSP00000469686"/>
+<dbReference type="BindingDB" id="Q96KS0"/>
+<dbReference type="ChEMBL" id="CHEMBL3028"/>
+<dbReference type="DrugBank" id="DB00126">
+<property type="generic name" value="Ascorbic acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04847">
+<property type="generic name" value="Roxadustat"/>
+</dbReference>
+<dbReference type="GuidetoPHARMACOLOGY" id="2832"/>
+<dbReference type="iPTMnet" id="Q96KS0"/>
+<dbReference type="PhosphoSitePlus" id="Q96KS0"/>
+<dbReference type="BioMuta" id="EGLN2"/>
+<dbReference type="DMDM" id="32129513"/>
+<dbReference type="MassIVE" id="Q96KS0"/>
+<dbReference type="MaxQB" id="Q96KS0"/>
+<dbReference type="PaxDb" id="Q96KS0"/>
+<dbReference type="PeptideAtlas" id="Q96KS0"/>
+<dbReference type="PRIDE" id="Q96KS0"/>
+<dbReference type="ProteomicsDB" id="77112">
+<molecule id="Q96KS0-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="77113">
+<molecule id="Q96KS0-2"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="66726">
+<property type="antibodies" value="424 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="112398"/>
+<dbReference type="Ensembl" id="ENST00000303961">
+<molecule id="Q96KS0-1"/>
+<property type="protein sequence ID" value="ENSP00000307080"/>
+<property type="gene ID" value="ENSG00000269858"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000406058">
+<molecule id="Q96KS0-1"/>
+<property type="protein sequence ID" value="ENSP00000385253"/>
+<property type="gene ID" value="ENSG00000269858"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000593726">
+<molecule id="Q96KS0-1"/>
+<property type="protein sequence ID" value="ENSP00000469686"/>
+<property type="gene ID" value="ENSG00000269858"/>
+</dbReference>
+<dbReference type="GeneID" id="112398"/>
+<dbReference type="KEGG" id="hsa:112398"/>
+<dbReference type="UCSC" id="uc002opg.5">
+<molecule id="Q96KS0-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="112398"/>
+<dbReference type="DisGeNET" id="112398"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000269858.5"/>
+<dbReference type="GeneCards" id="EGLN2"/>
+<dbReference type="HGNC" id="HGNC:14660">
+<property type="gene designation" value="EGLN2"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000269858">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MIM" id="606424">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q96KS0"/>
+<dbReference type="OpenTargets" id="ENSG00000269858"/>
+<dbReference type="PharmGKB" id="PA27671"/>
+<dbReference type="eggNOG" id="KOG3710">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000160655"/>
+<dbReference type="HOGENOM" id="CLU_063064_0_0_1"/>
+<dbReference type="InParanoid" id="Q96KS0"/>
+<dbReference type="KO" id="K09592"/>
+<dbReference type="OMA" id="QDGGELW"/>
+<dbReference type="PhylomeDB" id="Q96KS0"/>
+<dbReference type="TreeFam" id="TF314595"/>
+<dbReference type="BioCyc" id="MetaCyc:ENSG00000171570-MONOMER"/>
+<dbReference type="BRENDA" id="1.14.11.2">
+<property type="organism ID" value="2681"/>
+</dbReference>
+<dbReference type="BRENDA" id="1.14.11.29">
+<property type="organism ID" value="2681"/>
+</dbReference>
+<dbReference type="PathwayCommons" id="Q96KS0"/>
+<dbReference type="Reactome" id="R-HSA-1234176">
+<property type="pathway name" value="Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha"/>
+</dbReference>
+<dbReference type="SIGNOR" id="Q96KS0"/>
+<dbReference type="BioGRID-ORCS" id="112398">
+<property type="hits" value="138 hits in 874 CRISPR screens"/>
+</dbReference>
+<dbReference type="GeneWiki" id="EGLN2"/>
+<dbReference type="GenomeRNAi" id="112398"/>
+<dbReference type="Pharos" id="Q96KS0">
+<property type="development level" value="Tchem"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q96KS0"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 19"/>
+</dbReference>
+<dbReference type="RNAct" id="Q96KS0">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000269858">
+<property type="expression patterns" value="Expressed in testis and 118 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q96KS0">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q96KS0">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016706">
+<property type="term" value="F:2-oxoglutarate-dependent dioxygenase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008198">
+<property type="term" value="F:ferrous iron binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031418">
+<property type="term" value="F:L-ascorbic acid binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019826">
+<property type="term" value="F:oxygen sensor activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031545">
+<property type="term" value="F:peptidyl-proline 4-dioxygenase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031543">
+<property type="term" value="F:peptidyl-proline dioxygenase activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045454">
+<property type="term" value="P:cell redox homeostasis"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071456">
+<property type="term" value="P:cellular response to hypoxia"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030520">
+<property type="term" value="P:intracellular estrogen receptor signaling pathway"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018401">
+<property type="term" value="P:peptidyl-proline hydroxylation to 4-hydroxy-L-proline"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045732">
+<property type="term" value="P:positive regulation of protein catabolic process"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001558">
+<property type="term" value="P:regulation of cell growth"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043523">
+<property type="term" value="P:regulation of neuron apoptotic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061418">
+<property type="term" value="P:regulation of transcription from RNA polymerase II promoter in response to hypoxia"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001666">
+<property type="term" value="P:response to hypoxia"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005123">
+<property type="entry name" value="Oxoglu/Fe-dep_dioxygenase"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006620">
+<property type="entry name" value="Pro_4_hyd_alph"/>
+</dbReference>
+<dbReference type="Pfam" id="PF13640">
+<property type="entry name" value="2OG-FeII_Oxy_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00702">
+<property type="entry name" value="P4Hc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51471">
+<property type="entry name" value="FE2OG_OXY"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0024">Alternative initiation</keyword>
+<keyword id="KW-0223">Dioxygenase</keyword>
+<keyword id="KW-0408">Iron</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0560">Oxidoreductase</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<keyword id="KW-0847">Vitamin C</keyword>
+<feature type="chain" description="Prolyl hydroxylase EGLN2" id="PRO_0000206664">
+<location>
+<begin position="1"/>
+<end position="407"/>
+</location>
+</feature>
+<feature type="domain" description="Fe2OG dioxygenase" evidence="5">
+<location>
+<begin position="278"/>
+<end position="376"/>
+</location>
+</feature>
+<feature type="region of interest" description="Beta(2)beta(3) 'finger-like' loop" evidence="4">
+<location>
+<begin position="225"/>
+<end position="235"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="Bipartite nuclear localization signal" evidence="16">
+<location>
+<begin position="89"/>
+<end position="134"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron; via tele nitrogen" evidence="5 20 25">
+<location>
+<position position="297"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron" evidence="5 20 25">
+<location>
+<position position="299"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Iron; via tele nitrogen" evidence="5 20 25">
+<location>
+<position position="358"/>
+</location>
+</feature>
+<feature type="binding site" description="2-oxoglutarate" evidence="5">
+<location>
+<position position="367"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="2">
+<location>
+<position position="130"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform p40." id="VSP_038836" evidence="23">
+<location>
+<begin position="1"/>
+<end position="33"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Leads to expression of isoform p40 only." evidence="14">
+<original>M</original>
+<variation>A</variation>
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Leads to expression of isoform p43 only." evidence="14">
+<original>M</original>
+<variation>A</variation>
+<location>
+<position position="34"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Retained in the nucleus." evidence="16">
+<original>K</original>
+<variation>A</variation>
+<location>
+<position position="102"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Retained in the nucleus." evidence="16">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="106"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Retained in the nucleus." evidence="16">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="113"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Cytoplasmic and nuclear localization. Reduced transcriptional activity of HIF1A as for wild type." evidence="16">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="119"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Retained in the nucleus." evidence="16">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="134"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Eliminates hydroxylase activity." evidence="8">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="297"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Eliminates hydroxylase activity." evidence="8">
+<original>D</original>
+<variation>A</variation>
+<location>
+<position position="299"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Eliminates hydroxylase activity." evidence="6 8">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="358"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Eliminates hydroxylase activity." evidence="8">
+<original>R</original>
+<variation>A</variation>
+<location>
+<position position="367"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Eliminates hydroxylase activity on a HIF1A peptide." evidence="8">
+<original>R</original>
+<variation>K</variation>
+<location>
+<position position="367"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAK82943." ref="2" evidence="23">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="176"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="173"/>
+<end position="180"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="182"/>
+<end position="188"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="190"/>
+<end position="195"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="199"/>
+<end position="215"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="239"/>
+<end position="243"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="251"/>
+<end position="265"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="266"/>
+<end position="269"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="270"/>
+<end position="273"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="282"/>
+<end position="287"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="294"/>
+<end position="297"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="305"/>
+<end position="313"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="320"/>
+<end position="323"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="327"/>
+<end position="329"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="332"/>
+<end position="335"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="338"/>
+<end position="340"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="346"/>
+<end position="351"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="358"/>
+<end position="360"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="363"/>
+<end position="365"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="367"/>
+<end position="375"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="377"/>
+<end position="385"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="392"/>
+<end position="395"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5V1B"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q91YE2"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9GZT9"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00805"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11595184"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11850811"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12039559"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12163023"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12181324"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12615973"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15247232"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15925519"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16509823"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17114296"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19339211"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19631610"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22286099"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23932902"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="28594552"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="11595184"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="11850811"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000305"/>
+<evidence key="24" type="ECO:0000312">
+<source>
+<dbReference type="HGNC" id="HGNC:14660"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000312">
+<source>
+<dbReference type="PDB" id="5V1B"/>
+</source>
+</evidence>
+<sequence length="407" mass="43650" checksum="F172E9B0482C9CF3" modified="2001-12-01" version="1">MDSPCQPQPLSQALPQLPGSSSEPLEPEPGRARMGVESYLPCPLLPSYHCPGVPSEASAGSGTPRATATSTTASPLRDGFGGQDGGELRPLQSEGAAALVTKGCQRLAAQGARPEAPKRKWAEDGGDAPSPSKRPWARQENQEAEREGGMSCSCSSGSGEASAGLMEEALPSAPERLALDYIVPCMRYYGICVKDSFLGAALGGRVLAEVEALKRGGRLRDGQLVSQRAIPPRSIRGDQIAWVEGHEPGCRSIGALMAHVDAVIRHCAGRLGSYVINGRTKAMVACYPGNGLGYVRHVDNPHGDGRCITCIYYLNQNWDVKVHGGLLQIFPEGRPVVANIEPLFDRLLIFWSDRRNPHEVKPAYATRYAITVWYFDAKERAAAKDKYQLASGQKGVQVPVSQPPTPT</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2000-05-30" modified="2020-10-07" version="195">
+<accession>O15266</accession>
+<accession>O00412</accession>
+<accession>O00413</accession>
+<accession>O15267</accession>
+<name>SHOX_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Short stature homeobox protein</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Pseudoautosomal homeobox-containing osteogenic protein</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Short stature homeobox-containing protein</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">SHOX</name>
+<name type="synonym">PHOG</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1997" name="Nat. Genet." volume="16" first="54" last="63">
+<title>Pseudoautosomal deletions encompassing a novel homeobox gene cause growth failure in idiopathic short stature and Turner syndrome.</title>
+<authorList>
+<person name="Rao E."/>
+<person name="Weiss B."/>
+<person name="Fukami M."/>
+<person name="Rump A."/>
+<person name="Niesler B."/>
+<person name="Mertz A."/>
+<person name="Muroya K."/>
+<person name="Binder G."/>
+<person name="Kirsch S."/>
+<person name="Winkelmann M."/>
+<person name="Nordsiek G."/>
+<person name="Heinrich U."/>
+<person name="Breuning M.H."/>
+<person name="Ranke M.B."/>
+<person name="Rosenthal A."/>
+<person name="Ogata T."/>
+<person name="Rappold G.A."/>
+</authorList>
+<dbReference type="PubMed" id="9140395"/>
+<dbReference type="DOI" id="10.1038/ng0597-54"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA] (ISOFORMS SHOXA AND SHOXB)</scope>
+<scope>INVOLVEMENT IN ISS</scope>
+<source>
+<tissue>Skeletal muscle</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1997" name="Hum. Mol. Genet." volume="6" first="1341" last="1347">
+<title>PHOG, a candidate gene for involvement in the short stature of Turner syndrome.</title>
+<authorList>
+<person name="Ellison J.W."/>
+<person name="Wardak Z."/>
+<person name="Young M.F."/>
+<person name="Gehron Robey P."/>
+<person name="Laig-Webster M."/>
+<person name="Chiong W."/>
+</authorList>
+<dbReference type="PubMed" id="9259282"/>
+<dbReference type="DOI" id="10.1093/hmg/6.8.1341"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM SHOXA)</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2005" name="Nature" volume="434" first="325" last="337">
+<title>The DNA sequence of the human X chromosome.</title>
+<authorList>
+<person name="Ross M.T."/>
+<person name="Grafham D.V."/>
+<person name="Coffey A.J."/>
+<person name="Scherer S."/>
+<person name="McLay K."/>
+<person name="Muzny D."/>
+<person name="Platzer M."/>
+<person name="Howell G.R."/>
+<person name="Burrows C."/>
+<person name="Bird C.P."/>
+<person name="Frankish A."/>
+<person name="Lovell F.L."/>
+<person name="Howe K.L."/>
+<person name="Ashurst J.L."/>
+<person name="Fulton R.S."/>
+<person name="Sudbrak R."/>
+<person name="Wen G."/>
+<person name="Jones M.C."/>
+<person name="Hurles M.E."/>
+<person name="Andrews T.D."/>
+<person name="Scott C.E."/>
+<person name="Searle S."/>
+<person name="Ramser J."/>
+<person name="Whittaker A."/>
+<person name="Deadman R."/>
+<person name="Carter N.P."/>
+<person name="Hunt S.E."/>
+<person name="Chen R."/>
+<person name="Cree A."/>
+<person name="Gunaratne P."/>
+<person name="Havlak P."/>
+<person name="Hodgson A."/>
+<person name="Metzker M.L."/>
+<person name="Richards S."/>
+<person name="Scott G."/>
+<person name="Steffen D."/>
+<person name="Sodergren E."/>
+<person name="Wheeler D.A."/>
+<person name="Worley K.C."/>
+<person name="Ainscough R."/>
+<person name="Ambrose K.D."/>
+<person name="Ansari-Lari M.A."/>
+<person name="Aradhya S."/>
+<person name="Ashwell R.I."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Ballabio A."/>
+<person name="Banerjee R."/>
+<person name="Barker G.E."/>
+<person name="Barlow K.F."/>
+<person name="Barrett I.P."/>
+<person name="Bates K.N."/>
+<person name="Beare D.M."/>
+<person name="Beasley H."/>
+<person name="Beasley O."/>
+<person name="Beck A."/>
+<person name="Bethel G."/>
+<person name="Blechschmidt K."/>
+<person name="Brady N."/>
+<person name="Bray-Allen S."/>
+<person name="Bridgeman A.M."/>
+<person name="Brown A.J."/>
+<person name="Brown M.J."/>
+<person name="Bonnin D."/>
+<person name="Bruford E.A."/>
+<person name="Buhay C."/>
+<person name="Burch P."/>
+<person name="Burford D."/>
+<person name="Burgess J."/>
+<person name="Burrill W."/>
+<person name="Burton J."/>
+<person name="Bye J.M."/>
+<person name="Carder C."/>
+<person name="Carrel L."/>
+<person name="Chako J."/>
+<person name="Chapman J.C."/>
+<person name="Chavez D."/>
+<person name="Chen E."/>
+<person name="Chen G."/>
+<person name="Chen Y."/>
+<person name="Chen Z."/>
+<person name="Chinault C."/>
+<person name="Ciccodicola A."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Clerc-Blankenburg K."/>
+<person name="Clifford K."/>
+<person name="Cobley V."/>
+<person name="Cole C.G."/>
+<person name="Conquer J.S."/>
+<person name="Corby N."/>
+<person name="Connor R.E."/>
+<person name="David R."/>
+<person name="Davies J."/>
+<person name="Davis C."/>
+<person name="Davis J."/>
+<person name="Delgado O."/>
+<person name="Deshazo D."/>
+<person name="Dhami P."/>
+<person name="Ding Y."/>
+<person name="Dinh H."/>
+<person name="Dodsworth S."/>
+<person name="Draper H."/>
+<person name="Dugan-Rocha S."/>
+<person name="Dunham A."/>
+<person name="Dunn M."/>
+<person name="Durbin K.J."/>
+<person name="Dutta I."/>
+<person name="Eades T."/>
+<person name="Ellwood M."/>
+<person name="Emery-Cohen A."/>
+<person name="Errington H."/>
+<person name="Evans K.L."/>
+<person name="Faulkner L."/>
+<person name="Francis F."/>
+<person name="Frankland J."/>
+<person name="Fraser A.E."/>
+<person name="Galgoczy P."/>
+<person name="Gilbert J."/>
+<person name="Gill R."/>
+<person name="Gloeckner G."/>
+<person name="Gregory S.G."/>
+<person name="Gribble S."/>
+<person name="Griffiths C."/>
+<person name="Grocock R."/>
+<person name="Gu Y."/>
+<person name="Gwilliam R."/>
+<person name="Hamilton C."/>
+<person name="Hart E.A."/>
+<person name="Hawes A."/>
+<person name="Heath P.D."/>
+<person name="Heitmann K."/>
+<person name="Hennig S."/>
+<person name="Hernandez J."/>
+<person name="Hinzmann B."/>
+<person name="Ho S."/>
+<person name="Hoffs M."/>
+<person name="Howden P.J."/>
+<person name="Huckle E.J."/>
+<person name="Hume J."/>
+<person name="Hunt P.J."/>
+<person name="Hunt A.R."/>
+<person name="Isherwood J."/>
+<person name="Jacob L."/>
+<person name="Johnson D."/>
+<person name="Jones S."/>
+<person name="de Jong P.J."/>
+<person name="Joseph S.S."/>
+<person name="Keenan S."/>
+<person name="Kelly S."/>
+<person name="Kershaw J.K."/>
+<person name="Khan Z."/>
+<person name="Kioschis P."/>
+<person name="Klages S."/>
+<person name="Knights A.J."/>
+<person name="Kosiura A."/>
+<person name="Kovar-Smith C."/>
+<person name="Laird G.K."/>
+<person name="Langford C."/>
+<person name="Lawlor S."/>
+<person name="Leversha M."/>
+<person name="Lewis L."/>
+<person name="Liu W."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Loulseged H."/>
+<person name="Loveland J.E."/>
+<person name="Lovell J.D."/>
+<person name="Lozado R."/>
+<person name="Lu J."/>
+<person name="Lyne R."/>
+<person name="Ma J."/>
+<person name="Maheshwari M."/>
+<person name="Matthews L.H."/>
+<person name="McDowall J."/>
+<person name="McLaren S."/>
+<person name="McMurray A."/>
+<person name="Meidl P."/>
+<person name="Meitinger T."/>
+<person name="Milne S."/>
+<person name="Miner G."/>
+<person name="Mistry S.L."/>
+<person name="Morgan M."/>
+<person name="Morris S."/>
+<person name="Mueller I."/>
+<person name="Mullikin J.C."/>
+<person name="Nguyen N."/>
+<person name="Nordsiek G."/>
+<person name="Nyakatura G."/>
+<person name="O'dell C.N."/>
+<person name="Okwuonu G."/>
+<person name="Palmer S."/>
+<person name="Pandian R."/>
+<person name="Parker D."/>
+<person name="Parrish J."/>
+<person name="Pasternak S."/>
+<person name="Patel D."/>
+<person name="Pearce A.V."/>
+<person name="Pearson D.M."/>
+<person name="Pelan S.E."/>
+<person name="Perez L."/>
+<person name="Porter K.M."/>
+<person name="Ramsey Y."/>
+<person name="Reichwald K."/>
+<person name="Rhodes S."/>
+<person name="Ridler K.A."/>
+<person name="Schlessinger D."/>
+<person name="Schueler M.G."/>
+<person name="Sehra H.K."/>
+<person name="Shaw-Smith C."/>
+<person name="Shen H."/>
+<person name="Sheridan E.M."/>
+<person name="Shownkeen R."/>
+<person name="Skuce C.D."/>
+<person name="Smith M.L."/>
+<person name="Sotheran E.C."/>
+<person name="Steingruber H.E."/>
+<person name="Steward C.A."/>
+<person name="Storey R."/>
+<person name="Swann R.M."/>
+<person name="Swarbreck D."/>
+<person name="Tabor P.E."/>
+<person name="Taudien S."/>
+<person name="Taylor T."/>
+<person name="Teague B."/>
+<person name="Thomas K."/>
+<person name="Thorpe A."/>
+<person name="Timms K."/>
+<person name="Tracey A."/>
+<person name="Trevanion S."/>
+<person name="Tromans A.C."/>
+<person name="d'Urso M."/>
+<person name="Verduzco D."/>
+<person name="Villasana D."/>
+<person name="Waldron L."/>
+<person name="Wall M."/>
+<person name="Wang Q."/>
+<person name="Warren J."/>
+<person name="Warry G.L."/>
+<person name="Wei X."/>
+<person name="West A."/>
+<person name="Whitehead S.L."/>
+<person name="Whiteley M.N."/>
+<person name="Wilkinson J.E."/>
+<person name="Willey D.L."/>
+<person name="Williams G."/>
+<person name="Williams L."/>
+<person name="Williamson A."/>
+<person name="Williamson H."/>
+<person name="Wilming L."/>
+<person name="Woodmansey R.L."/>
+<person name="Wray P.W."/>
+<person name="Yen J."/>
+<person name="Zhang J."/>
+<person name="Zhou J."/>
+<person name="Zoghbi H."/>
+<person name="Zorilla S."/>
+<person name="Buck D."/>
+<person name="Reinhardt R."/>
+<person name="Poustka A."/>
+<person name="Rosenthal A."/>
+<person name="Lehrach H."/>
+<person name="Meindl A."/>
+<person name="Minx P.J."/>
+<person name="Hillier L.W."/>
+<person name="Willard H.F."/>
+<person name="Wilson R.K."/>
+<person name="Waterston R.H."/>
+<person name="Rice C.M."/>
+<person name="Vaudin M."/>
+<person name="Coulson A."/>
+<person name="Nelson D.L."/>
+<person name="Weinstock G."/>
+<person name="Sulston J.E."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Gibbs R.A."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+<person name="Bentley D.R."/>
+</authorList>
+<dbReference type="PubMed" id="15772651"/>
+<dbReference type="DOI" id="10.1038/nature03440"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2000" name="Hum. Genet." volume="107" first="145" last="149">
+<title>Mutations in short stature homeobox containing gene (SHOX) in dyschondrosteosis but not in hypochondroplasia.</title>
+<authorList>
+<person name="Grigelioniene G."/>
+<person name="Ekloef O."/>
+<person name="Ivarsson S.A."/>
+<person name="Westphal O."/>
+<person name="Neumeyer L."/>
+<person name="Kedra D."/>
+<person name="Dumanski J."/>
+<person name="Hagenaes L."/>
+</authorList>
+<dbReference type="PubMed" id="11030412"/>
+<dbReference type="DOI" id="10.1007/s004390000352"/>
+</citation>
+<scope>VARIANTS LWD VAL-132 AND LEU-153</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2001" name="Am. J. Med. Genet." volume="106" first="272" last="274">
+<title>Allelic and nonallelic heterogeneity in dyschondrosteosis (Leri-Weill syndrome).</title>
+<authorList>
+<person name="Cormier-Daire V."/>
+<person name="Huber C."/>
+<person name="Munnich A."/>
+</authorList>
+<dbReference type="PubMed" id="11891678"/>
+<dbReference type="DOI" id="10.1002/ajmg.10228"/>
+</citation>
+<scope>DISEASE</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2001" name="J. Med. Genet." volume="38" first="323" last="323">
+<title>SHOX point mutations in dyschondrosteosis.</title>
+<authorList>
+<person name="Huber C."/>
+<person name="Cusin V."/>
+<person name="Le Merrer M."/>
+<person name="Mathieu M."/>
+<person name="Sulmont V."/>
+<person name="Dagoneau N."/>
+<person name="Munnich A."/>
+<person name="Cormier-Daire V."/>
+</authorList>
+<dbReference type="PubMed" id="11403039"/>
+<dbReference type="DOI" id="10.1136/jmg.38.5.323"/>
+</citation>
+<scope>VARIANT LWD CYS-173</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2002" name="J. Clin. Endocrinol. Metab." volume="87" first="1390" last="1394">
+<title>SHOX nullizygosity and haploinsufficiency in a Japanese family: implication for the development of Turner skeletal features.</title>
+<authorList>
+<person name="Ogata T."/>
+<person name="Muroya K."/>
+<person name="Sasaki G."/>
+<person name="Nishimura G."/>
+<person name="Kitoh H."/>
+<person name="Hattori T."/>
+</authorList>
+<dbReference type="PubMed" id="11889214"/>
+<dbReference type="DOI" id="10.1210/jcem.87.3.8348"/>
+</citation>
+<scope>VARIANT LMD TRP-168</scope>
+</reference>
+<comment type="function">
+<text>Controls fundamental aspects of growth and development.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3505698">
+<id>O15266</id>
+</interactant>
+<interactant intactId="EBI-3505701">
+<id>P35711</id>
+<label>SOX5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-3505698">
+<id>O15266</id>
+</interactant>
+<interactant intactId="EBI-3505706">
+<id>P35712</id>
+<label>SOX6</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-12825957">
+<id>O15266-2</id>
+</interactant>
+<interactant intactId="EBI-7251368">
+<id>Q9BZE0</id>
+<label>GLIS2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-12825957">
+<id>O15266-2</id>
+</interactant>
+<interactant intactId="EBI-10329202">
+<id>Q9Y5R4</id>
+<label>HEMK1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-12825957">
+<id>O15266-2</id>
+</interactant>
+<interactant intactId="EBI-1055954">
+<id>P78318</id>
+<label>IGBP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-12825957">
+<id>O15266-2</id>
+</interactant>
+<interactant intactId="EBI-936601">
+<id>P52952</id>
+<label>NKX2-5</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="2 3">Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>O15266-1</id>
+<name>SHOXA</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>O15266-2</id>
+<name>SHOXB</name>
+<sequence type="described" ref="VSP_002287"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text>SHOXA is expressed in skeletal muscle, placenta, pancreas, heart and bone marrow fibroblast and SHOXB is highly expressed in bone marrow fibroblast followed by kidney and skeletal muscle. SHOXB is not expressed in brain, kidney, liver and lung. Highly expressed in osteogenic cells.</text>
+</comment>
+<comment type="induction">
+<text>By retinoic acid and phorbol-12-myristate 13-acetate (PMA).</text>
+</comment>
+<comment type="disease" evidence="4 5">
+<disease id="DI-01891">
+<name>Leri-Weill dyschondrosteosis</name>
+<acronym>LWD</acronym>
+<description>Dominantly inherited skeletal dysplasia characterized by moderate short stature predominantly because of short mesomelic limb segments. It is often associated with the Madelung deformity of the wrist, comprising bowing of the radius and dorsal dislocation of the distal ulna.</description>
+<dbReference type="MIM" id="127300"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="6">
+<disease id="DI-01876">
+<name>Langer mesomelic dysplasia</name>
+<acronym>LMD</acronym>
+<description>Autosomal recessive rare skeletal dysplasia characterized by severe short stature owing to shortening and maldevelopment of the mesomelic and rhizomelic segments of the limbs. Associated malformations are rarely reported and intellect is normal in all affected subjects reported to date.</description>
+<dbReference type="MIM" id="249700"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="7">
+<disease id="DI-01807">
+<name>Short stature, idiopathic, X-linked</name>
+<acronym>ISS</acronym>
+<description>A condition defined by a standing height more than 2 standard deviations below the mean (or below the 2.5 percentile) for sex and chronological age, compared with a well-nourished, genetically relevant population, in the absence of specific causative disorders.</description>
+<dbReference type="MIM" id="300582"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="miscellaneous">
+<text>The gene coding for this protein is located in the pseudoautosomal region 1 (PAR1) of X and Y chromosomes.</text>
+</comment>
+<comment type="similarity">
+<text evidence="9">Belongs to the paired homeobox family. Bicoid subfamily.</text>
+</comment>
+<dbReference type="EMBL" id="Y11536">
+<property type="protein sequence ID" value="CAA72299.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="Y11535">
+<property type="protein sequence ID" value="CAA72298.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U82668">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U89331">
+<property type="protein sequence ID" value="AAC18820.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BX004827">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS14106.1">
+<molecule id="O15266-2"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS14107.1">
+<molecule id="O15266-1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000442.1">
+<molecule id="O15266-1"/>
+<property type="nucleotide sequence ID" value="NM_000451.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_006874.1">
+<molecule id="O15266-2"/>
+<property type="nucleotide sequence ID" value="NM_006883.2"/>
+</dbReference>
+<dbReference type="SMR" id="O15266"/>
+<dbReference type="BioGRID" id="112369">
+<property type="interactions" value="4"/>
+</dbReference>
+<dbReference type="IntAct" id="O15266">
+<property type="interactions" value="8"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000370990"/>
+<dbReference type="iPTMnet" id="O15266"/>
+<dbReference type="PhosphoSitePlus" id="O15266"/>
+<dbReference type="BioMuta" id="SHOX"/>
+<dbReference type="jPOST" id="O15266"/>
+<dbReference type="MassIVE" id="O15266"/>
+<dbReference type="PaxDb" id="O15266"/>
+<dbReference type="PeptideAtlas" id="O15266"/>
+<dbReference type="PRIDE" id="O15266"/>
+<dbReference type="ProteomicsDB" id="48555">
+<molecule id="O15266-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="48556">
+<molecule id="O15266-2"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="23329">
+<property type="antibodies" value="118 antibodies"/>
+</dbReference>
+<dbReference type="DNASU" id="6473"/>
+<dbReference type="Ensembl" id="ENST00000334060">
+<molecule id="O15266-2"/>
+<property type="protein sequence ID" value="ENSP00000335505"/>
+<property type="gene ID" value="ENSG00000185960"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000381575">
+<molecule id="O15266-2"/>
+<property type="protein sequence ID" value="ENSP00000370987"/>
+<property type="gene ID" value="ENSG00000185960"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000381578">
+<molecule id="O15266-1"/>
+<property type="protein sequence ID" value="ENSP00000370990"/>
+<property type="gene ID" value="ENSG00000185960"/>
+</dbReference>
+<dbReference type="GeneID" id="6473"/>
+<dbReference type="KEGG" id="hsa:6473"/>
+<dbReference type="UCSC" id="uc004cph.1">
+<molecule id="O15266-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="6473"/>
+<dbReference type="DisGeNET" id="6473"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000185960.13"/>
+<dbReference type="GeneCards" id="SHOX"/>
+<dbReference type="GeneReviews" id="SHOX"/>
+<dbReference type="HGNC" id="HGNC:10853">
+<property type="gene designation" value="SHOX"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000185960">
+<property type="expression patterns" value="Tissue enhanced (brain, breast)"/>
+</dbReference>
+<dbReference type="MalaCards" id="SHOX"/>
+<dbReference type="MIM" id="127300">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="249700">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="300582">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="312865">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="400020">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_O15266"/>
+<dbReference type="OpenTargets" id="ENSG00000185960"/>
+<dbReference type="Orphanet" id="2632">
+<property type="disease" value="Langer mesomelic dysplasia"/>
+</dbReference>
+<dbReference type="Orphanet" id="240">
+<property type="disease" value="Leri-Weill dyschondrosteosis"/>
+</dbReference>
+<dbReference type="Orphanet" id="314795">
+<property type="disease" value="SHOX-related short stature"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA134978644"/>
+<dbReference type="eggNOG" id="KOG0490">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000154287"/>
+<dbReference type="HOGENOM" id="CLU_047013_5_0_1"/>
+<dbReference type="InParanoid" id="O15266"/>
+<dbReference type="KO" id="K09331"/>
+<dbReference type="OMA" id="PVHLFKE"/>
+<dbReference type="PhylomeDB" id="O15266"/>
+<dbReference type="TreeFam" id="TF350757"/>
+<dbReference type="PathwayCommons" id="O15266"/>
+<dbReference type="SIGNOR" id="O15266"/>
+<dbReference type="BioGRID-ORCS" id="6473">
+<property type="hits" value="3 hits in 467 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="SHOX">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GeneWiki" id="Short_stature_homeobox_gene"/>
+<dbReference type="GenomeRNAi" id="6473"/>
+<dbReference type="Pharos" id="O15266">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:O15266"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome X"/>
+</dbReference>
+<dbReference type="RNAct" id="O15266">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000185960">
+<property type="expression patterns" value="Expressed in calcaneal tendon and 39 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="O15266">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043231">
+<property type="term" value="C:intracellular membrane-bounded organelle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000790">
+<property type="term" value="C:nuclear chromatin"/>
+<property type="evidence" value="ECO:0000247"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001228">
+<property type="term" value="F:DNA-binding transcription activator activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000981">
+<property type="term" value="F:DNA-binding transcription factor activity, RNA polymerase II-specific"/>
+<property type="evidence" value="ECO:0000247"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043565">
+<property type="term" value="F:sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990837">
+<property type="term" value="F:sequence-specific double-stranded DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase II"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="NTNU_SB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001501">
+<property type="term" value="P:skeletal system development"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ProtInc"/>
+</dbReference>
+<dbReference type="CDD" id="cd00086">
+<property type="entry name" value="homeodomain"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009057">
+<property type="entry name" value="Homeobox-like_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR017970">
+<property type="entry name" value="Homeobox_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001356">
+<property type="entry name" value="Homeobox_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000047">
+<property type="entry name" value="HTH_motif"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003654">
+<property type="entry name" value="OAR_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00046">
+<property type="entry name" value="Homeodomain"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF03826">
+<property type="entry name" value="OAR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00031">
+<property type="entry name" value="HTHREPRESSR"/>
+</dbReference>
+<dbReference type="SMART" id="SM00389">
+<property type="entry name" value="HOX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF46689">
+<property type="entry name" value="SSF46689"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00027">
+<property type="entry name" value="HOMEOBOX_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50071">
+<property type="entry name" value="HOMEOBOX_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50803">
+<property type="entry name" value="OAR"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0010">Activator</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0217">Developmental protein</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0238">DNA-binding</keyword>
+<keyword id="KW-0242">Dwarfism</keyword>
+<keyword id="KW-0371">Homeobox</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0804">Transcription</keyword>
+<keyword id="KW-0805">Transcription regulation</keyword>
+<feature type="chain" description="Short stature homeobox protein" id="PRO_0000049291">
+<location>
+<begin position="1"/>
+<end position="292"/>
+</location>
+</feature>
+<feature type="DNA-binding region" description="Homeobox" evidence="2">
+<location>
+<begin position="117"/>
+<end position="176"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="SH3-binding" evidence="1">
+<location>
+<begin position="242"/>
+<end position="249"/>
+</location>
+</feature>
+<feature type="short sequence motif" description="OAR" evidence="3">
+<location>
+<begin position="274"/>
+<end position="287"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Gly">
+<location>
+<begin position="19"/>
+<end position="28"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Pro">
+<location>
+<begin position="242"/>
+<end position="245"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Ala">
+<location>
+<begin position="264"/>
+<end position="267"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform SHOXB." id="VSP_002287" evidence="8">
+<original>VQAQLQLEGVAHAHPHLHPHLAAHAPYLMFPPPPFGLPIASLAESASAAAVVAAAAKSNSKNSSIADLRLKARKHAEALGL</original>
+<variation>MEFCSCRPGWSIMA</variation>
+<location>
+<begin position="212"/>
+<end position="292"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In LWD; dbSNP:rs137852554." id="VAR_019414" evidence="4">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="132"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In LWD; dbSNP:rs137852555." id="VAR_019415" evidence="4">
+<original>R</original>
+<variation>L</variation>
+<location>
+<position position="153"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In LMD; dbSNP:rs137852557." id="VAR_019416" evidence="6">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="168"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In LWD; dbSNP:rs137852556." id="VAR_012346" evidence="5">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="173"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000255"/>
+<evidence key="2" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00108"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00138"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11030412"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11403039"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11889214"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9140395"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="9140395"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000305"/>
+<sequence length="292" mass="32236" checksum="0F2A61A3051CB360" modified="1998-01-01" version="1">MEELTAFVSKSFDQKSKDGNGGGGGGGGKKDSITYREVLESGLARSRELGTSDSSLQDITEGGGHCPVHLFKDHVDNDKEKLKEFGTARVAEGIYECKEKREDVKSEDEDGQTKLKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQENQMHKGVILGTANHLDACRVAPYVNMGALRMPFQQVQAQLQLEGVAHAHPHLHPHLAAHAPYLMFPPPPFGLPIASLAESASAAAVVAAAAKSNSKNSSIADLRLKARKHAEALGL</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

@@ -1,0 +1,1780 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-07-19" modified="2020-10-07" version="146">
+<accession>Q96SD1</accession>
+<accession>D3DRT6</accession>
+<accession>Q1HCL2</accession>
+<accession>Q5JSR4</accession>
+<accession>Q5JSR5</accession>
+<accession>Q5JSR7</accession>
+<accession>Q5JSR8</accession>
+<accession>Q5JSR9</accession>
+<accession>Q5JSS0</accession>
+<accession>Q5JSS7</accession>
+<accession>Q6PK14</accession>
+<accession>Q8N101</accession>
+<accession>Q8N132</accession>
+<accession>Q8TBW9</accession>
+<accession>Q9BVW9</accession>
+<accession>Q9HAM4</accession>
+<name>DCR1C_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Protein artemis</fullName>
+<ecNumber>3.1.-.-</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>DNA cross-link repair 1C protein</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Protein A-SCID</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>SNM1 homolog C</fullName>
+<shortName>hSNM1C</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>SNM1-like protein</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">DCLRE1C</name>
+<name type="synonym">ARTEMIS</name>
+<name type="synonym">ASCID</name>
+<name type="synonym">SCIDA</name>
+<name type="synonym">SNM1C</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2001" name="Cell" volume="105" first="177" last="186">
+<title>Artemis, a novel DNA double-strand break repair/V(D)J recombination protein, is mutated in human severe combined immune deficiency.</title>
+<authorList>
+<person name="Moshous D."/>
+<person name="Callebaut I."/>
+<person name="de Chasseval R."/>
+<person name="Corneo B."/>
+<person name="Cavazzana-Calvo M."/>
+<person name="le Deist F."/>
+<person name="Tezcan I."/>
+<person name="Sanal O."/>
+<person name="Bertrand Y."/>
+<person name="Philippe N."/>
+<person name="Fischer A."/>
+<person name="de Villartay J.-P."/>
+</authorList>
+<dbReference type="PubMed" id="11336668"/>
+<dbReference type="DOI" id="10.1016/s0092-8674(01)00309-9"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)</scope>
+<scope>FUNCTION</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<scope>INVOLVEMENT IN RSSCID</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2002" name="J. Immunol." volume="168" first="6323" last="6329">
+<title>A founder mutation in Artemis, an SNM1-like protein, causes SCID in Athabascan-speaking native Americans.</title>
+<authorList>
+<person name="Li L."/>
+<person name="Moshous D."/>
+<person name="Zhou Y."/>
+<person name="Wang J."/>
+<person name="Xie G."/>
+<person name="Salido E."/>
+<person name="Hu D."/>
+<person name="de Villartay J.-P."/>
+<person name="Cowan M.J."/>
+</authorList>
+<dbReference type="PubMed" id="12055248"/>
+<dbReference type="DOI" id="10.4049/jimmunol.168.12.6323"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 2 AND 3)</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INVOLVEMENT IN SCIDA</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+<title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+<authorList>
+<person name="Ota T."/>
+<person name="Suzuki Y."/>
+<person name="Nishikawa T."/>
+<person name="Otsuki T."/>
+<person name="Sugiyama T."/>
+<person name="Irie R."/>
+<person name="Wakamatsu A."/>
+<person name="Hayashi K."/>
+<person name="Sato H."/>
+<person name="Nagai K."/>
+<person name="Kimura K."/>
+<person name="Makita H."/>
+<person name="Sekine M."/>
+<person name="Obayashi M."/>
+<person name="Nishi T."/>
+<person name="Shibahara T."/>
+<person name="Tanaka T."/>
+<person name="Ishii S."/>
+<person name="Yamamoto J."/>
+<person name="Saito K."/>
+<person name="Kawai Y."/>
+<person name="Isono Y."/>
+<person name="Nakamura Y."/>
+<person name="Nagahari K."/>
+<person name="Murakami K."/>
+<person name="Yasuda T."/>
+<person name="Iwayanagi T."/>
+<person name="Wagatsuma M."/>
+<person name="Shiratori A."/>
+<person name="Sudo H."/>
+<person name="Hosoiri T."/>
+<person name="Kaku Y."/>
+<person name="Kodaira H."/>
+<person name="Kondo H."/>
+<person name="Sugawara M."/>
+<person name="Takahashi M."/>
+<person name="Kanda K."/>
+<person name="Yokoi T."/>
+<person name="Furuya T."/>
+<person name="Kikkawa E."/>
+<person name="Omura Y."/>
+<person name="Abe K."/>
+<person name="Kamihara K."/>
+<person name="Katsuta N."/>
+<person name="Sato K."/>
+<person name="Tanikawa M."/>
+<person name="Yamazaki M."/>
+<person name="Ninomiya K."/>
+<person name="Ishibashi T."/>
+<person name="Yamashita H."/>
+<person name="Murakawa K."/>
+<person name="Fujimori K."/>
+<person name="Tanai H."/>
+<person name="Kimata M."/>
+<person name="Watanabe M."/>
+<person name="Hiraoka S."/>
+<person name="Chiba Y."/>
+<person name="Ishida S."/>
+<person name="Ono Y."/>
+<person name="Takiguchi S."/>
+<person name="Watanabe S."/>
+<person name="Yosida M."/>
+<person name="Hotuta T."/>
+<person name="Kusano J."/>
+<person name="Kanehori K."/>
+<person name="Takahashi-Fujii A."/>
+<person name="Hara H."/>
+<person name="Tanase T.-O."/>
+<person name="Nomura Y."/>
+<person name="Togiya S."/>
+<person name="Komai F."/>
+<person name="Hara R."/>
+<person name="Takeuchi K."/>
+<person name="Arita M."/>
+<person name="Imose N."/>
+<person name="Musashino K."/>
+<person name="Yuuki H."/>
+<person name="Oshima A."/>
+<person name="Sasaki N."/>
+<person name="Aotsuka S."/>
+<person name="Yoshikawa Y."/>
+<person name="Matsunawa H."/>
+<person name="Ichihara T."/>
+<person name="Shiohata N."/>
+<person name="Sano S."/>
+<person name="Moriya S."/>
+<person name="Momiyama H."/>
+<person name="Satoh N."/>
+<person name="Takami S."/>
+<person name="Terashima Y."/>
+<person name="Suzuki O."/>
+<person name="Nakagawa S."/>
+<person name="Senoh A."/>
+<person name="Mizoguchi H."/>
+<person name="Goto Y."/>
+<person name="Shimizu F."/>
+<person name="Wakebe H."/>
+<person name="Hishigaki H."/>
+<person name="Watanabe T."/>
+<person name="Sugiyama A."/>
+<person name="Takemoto M."/>
+<person name="Kawakami B."/>
+<person name="Yamazaki M."/>
+<person name="Watanabe K."/>
+<person name="Kumagai A."/>
+<person name="Itakura S."/>
+<person name="Fukuzumi Y."/>
+<person name="Fujimori Y."/>
+<person name="Komiyama M."/>
+<person name="Tashiro H."/>
+<person name="Tanigami A."/>
+<person name="Fujiwara T."/>
+<person name="Ono T."/>
+<person name="Yamada K."/>
+<person name="Fujii Y."/>
+<person name="Ozaki K."/>
+<person name="Hirao M."/>
+<person name="Ohmori Y."/>
+<person name="Kawabata A."/>
+<person name="Hikiji T."/>
+<person name="Kobatake N."/>
+<person name="Inagaki H."/>
+<person name="Ikema Y."/>
+<person name="Okamoto S."/>
+<person name="Okitani R."/>
+<person name="Kawakami T."/>
+<person name="Noguchi S."/>
+<person name="Itoh T."/>
+<person name="Shigeta K."/>
+<person name="Senba T."/>
+<person name="Matsumura K."/>
+<person name="Nakajima Y."/>
+<person name="Mizuno T."/>
+<person name="Morinaga M."/>
+<person name="Sasaki M."/>
+<person name="Togashi T."/>
+<person name="Oyama M."/>
+<person name="Hata H."/>
+<person name="Watanabe M."/>
+<person name="Komatsu T."/>
+<person name="Mizushima-Sugano J."/>
+<person name="Satoh T."/>
+<person name="Shirai Y."/>
+<person name="Takahashi Y."/>
+<person name="Nakagawa K."/>
+<person name="Okumura K."/>
+<person name="Nagase T."/>
+<person name="Nomura N."/>
+<person name="Kikuchi H."/>
+<person name="Masuho Y."/>
+<person name="Yamashita R."/>
+<person name="Nakai K."/>
+<person name="Yada T."/>
+<person name="Nakamura Y."/>
+<person name="Ohara O."/>
+<person name="Isogai T."/>
+<person name="Sugano S."/>
+</authorList>
+<dbReference type="PubMed" id="14702039"/>
+<dbReference type="DOI" id="10.1038/ng1285"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 3)</scope>
+<scope>VARIANT ARG-171</scope>
+<source>
+<tissue>Embryo</tissue>
+</source>
+</reference>
+<reference key="4">
+<citation type="submission" date="2006-04" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="NIEHS SNPs program"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>VARIANTS VAL-140; ARG-153; ARG-171; ARG-243; CYS-320 AND MET-329</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Nature" volume="429" first="375" last="381">
+<title>The DNA sequence and comparative analysis of human chromosome 10.</title>
+<authorList>
+<person name="Deloukas P."/>
+<person name="Earthrowl M.E."/>
+<person name="Grafham D.V."/>
+<person name="Rubenfield M."/>
+<person name="French L."/>
+<person name="Steward C.A."/>
+<person name="Sims S.K."/>
+<person name="Jones M.C."/>
+<person name="Searle S."/>
+<person name="Scott C."/>
+<person name="Howe K."/>
+<person name="Hunt S.E."/>
+<person name="Andrews T.D."/>
+<person name="Gilbert J.G.R."/>
+<person name="Swarbreck D."/>
+<person name="Ashurst J.L."/>
+<person name="Taylor A."/>
+<person name="Battles J."/>
+<person name="Bird C.P."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ashwell R.I.S."/>
+<person name="Ambrose K.D."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Banerjee R."/>
+<person name="Bates K."/>
+<person name="Beasley H."/>
+<person name="Bray-Allen S."/>
+<person name="Brown A.J."/>
+<person name="Brown J.Y."/>
+<person name="Burford D.C."/>
+<person name="Burrill W."/>
+<person name="Burton J."/>
+<person name="Cahill P."/>
+<person name="Camire D."/>
+<person name="Carter N.P."/>
+<person name="Chapman J.C."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C.M."/>
+<person name="Clegg S."/>
+<person name="Corby N."/>
+<person name="Coulson A."/>
+<person name="Dhami P."/>
+<person name="Dutta I."/>
+<person name="Dunn M."/>
+<person name="Faulkner L."/>
+<person name="Frankish A."/>
+<person name="Frankland J.A."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Gribble S."/>
+<person name="Griffiths C."/>
+<person name="Grocock R."/>
+<person name="Gustafson E."/>
+<person name="Hammond S."/>
+<person name="Harley J.L."/>
+<person name="Hart E."/>
+<person name="Heath P.D."/>
+<person name="Ho T.P."/>
+<person name="Hopkins B."/>
+<person name="Horne J."/>
+<person name="Howden P.J."/>
+<person name="Huckle E."/>
+<person name="Hynds C."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Kana A."/>
+<person name="Kay M."/>
+<person name="Kimberley A.M."/>
+<person name="Kershaw J.K."/>
+<person name="Kokkinaki M."/>
+<person name="Laird G.K."/>
+<person name="Lawlor S."/>
+<person name="Lee H.M."/>
+<person name="Leongamornlert D.A."/>
+<person name="Laird G."/>
+<person name="Lloyd C."/>
+<person name="Lloyd D.M."/>
+<person name="Loveland J."/>
+<person name="Lovell J."/>
+<person name="McLaren S."/>
+<person name="McLay K.E."/>
+<person name="McMurray A."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="Milne S."/>
+<person name="Nickerson T."/>
+<person name="Nguyen M."/>
+<person name="Overton-Larty E."/>
+<person name="Palmer S.A."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Pelan S."/>
+<person name="Phillimore B."/>
+<person name="Porter K."/>
+<person name="Rice C.M."/>
+<person name="Rogosin A."/>
+<person name="Ross M.T."/>
+<person name="Sarafidou T."/>
+<person name="Sehra H.K."/>
+<person name="Shownkeen R."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Standring L."/>
+<person name="Sycamore N."/>
+<person name="Tester J."/>
+<person name="Thorpe A."/>
+<person name="Torcasso W."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Tsolas J."/>
+<person name="Wall M."/>
+<person name="Walsh J."/>
+<person name="Wang H."/>
+<person name="Weinstock K."/>
+<person name="West A.P."/>
+<person name="Willey D.L."/>
+<person name="Whitehead S.L."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Young L."/>
+<person name="Chen Y."/>
+<person name="Lovering R.C."/>
+<person name="Moschonas N.K."/>
+<person name="Siebert R."/>
+<person name="Fechtel K."/>
+<person name="Bentley D."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Doucette-Stamm L."/>
+<person name="Beck S."/>
+<person name="Smith D.R."/>
+<person name="Rogers J."/>
+</authorList>
+<dbReference type="PubMed" id="15164054"/>
+<dbReference type="DOI" id="10.1038/nature02462"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Mural R.J."/>
+<person name="Istrail S."/>
+<person name="Sutton G.G."/>
+<person name="Florea L."/>
+<person name="Halpern A.L."/>
+<person name="Mobarry C.M."/>
+<person name="Lippert R."/>
+<person name="Walenz B."/>
+<person name="Shatkay H."/>
+<person name="Dew I."/>
+<person name="Miller J.R."/>
+<person name="Flanigan M.J."/>
+<person name="Edwards N.J."/>
+<person name="Bolanos R."/>
+<person name="Fasulo D."/>
+<person name="Halldorsson B.V."/>
+<person name="Hannenhalli S."/>
+<person name="Turner R."/>
+<person name="Yooseph S."/>
+<person name="Lu F."/>
+<person name="Nusskern D.R."/>
+<person name="Shue B.C."/>
+<person name="Zheng X.H."/>
+<person name="Zhong F."/>
+<person name="Delcher A.L."/>
+<person name="Huson D.H."/>
+<person name="Kravitz S.A."/>
+<person name="Mouchard L."/>
+<person name="Reinert K."/>
+<person name="Remington K.A."/>
+<person name="Clark A.G."/>
+<person name="Waterman M.S."/>
+<person name="Eichler E.E."/>
+<person name="Adams M.D."/>
+<person name="Hunkapiller M.W."/>
+<person name="Myers E.W."/>
+<person name="Venter J.C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORMS 3 AND 4)</scope>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 401-692 (ISOFORMS 1/2/3)</scope>
+<scope>VARIANT ARG-243</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+<tissue>Lung carcinoma</tissue>
+<tissue>Skeletal muscle</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2002" name="Cell" volume="108" first="781" last="794">
+<title>Hairpin opening and overhang processing by an Artemis/DNA-dependent protein kinase complex in nonhomologous end joining and V(D)J recombination.</title>
+<authorList>
+<person name="Ma Y."/>
+<person name="Pannicke U."/>
+<person name="Schwarz K."/>
+<person name="Lieber M.R."/>
+</authorList>
+<dbReference type="PubMed" id="11955432"/>
+<dbReference type="DOI" id="10.1016/s0092-8674(02)00671-2"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH PRKDC</scope>
+<scope>PHOSPHORYLATION BY PRKDC</scope>
+<scope>MUTAGENESIS OF ASP-165</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2002" name="Nucleic Acids Res." volume="30" first="3592" last="3601">
+<title>Metallo-beta-lactamase fold within nucleic acids processing enzymes: the beta-CASP family.</title>
+<authorList>
+<person name="Callebaut I."/>
+<person name="Moshous D."/>
+<person name="Mornon J.-P."/>
+<person name="de Villartay J.-P."/>
+</authorList>
+<dbReference type="PubMed" id="12177301"/>
+<dbReference type="DOI" id="10.1093/nar/gkf470"/>
+</citation>
+<scope>DNA REPAIR METALLO-BETA-LACTAMASE FAMILY</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2004" name="EMBO J." volume="23" first="1987" last="1997">
+<title>Functional and biochemical dissection of the structure-specific nuclease ARTEMIS.</title>
+<authorList>
+<person name="Pannicke U."/>
+<person name="Ma Y."/>
+<person name="Hopfner K.-P."/>
+<person name="Niewolik D."/>
+<person name="Lieber M.R."/>
+<person name="Schwarz K."/>
+</authorList>
+<dbReference type="PubMed" id="15071507"/>
+<dbReference type="DOI" id="10.1038/sj.emboj.7600206"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF ASP-17; HIS-33; HIS-35; ASP-37; HIS-38; HIS-115; ASP-136; ASP-165 AND HIS-319</scope>
+<scope>PHOSPHORYLATION BY PRKDC</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2004" name="Eur. J. Immunol." volume="34" first="3146" last="3155">
+<title>Phosphorylation of Artemis following irradiation-induced DNA damage.</title>
+<authorList>
+<person name="Poinsignon C."/>
+<person name="de Chasseval R."/>
+<person name="Soubeyrand S."/>
+<person name="Moshous D."/>
+<person name="Fischer A."/>
+<person name="Hache R.J.G."/>
+<person name="de Villartay J.-P."/>
+</authorList>
+<dbReference type="PubMed" id="15468306"/>
+<dbReference type="DOI" id="10.1002/eji.200425455"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>MUTAGENESIS OF SER-516; SER-534; SER-538; SER-548; SER-553; SER-561 AND SER-562</scope>
+<scope>PHOSPHORYLATION BY ATM</scope>
+<scope>PHOSPHORYLATION AT SER-645</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2004" name="J. Exp. Med." volume="199" first="315" last="321">
+<title>The metallo-beta-lactamase/beta-CASP domain of Artemis constitutes the catalytic core for V(D)J recombination.</title>
+<authorList>
+<person name="Poinsignon C."/>
+<person name="Moshous D."/>
+<person name="Callebaut I."/>
+<person name="de Chasseval R."/>
+<person name="Villey I."/>
+<person name="de Villartay J.-P."/>
+</authorList>
+<dbReference type="PubMed" id="14744996"/>
+<dbReference type="DOI" id="10.1084/jem.20031142"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH PRKDC</scope>
+<scope>MUTAGENESIS OF ASP-17; HIS-33; HIS-35; ASP-37; HIS-38; HIS-115; ASP-136; ASP-165 AND HIS-319</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2004" name="Mol. Cell" volume="16" first="701" last="713">
+<title>A biochemically defined system for mammalian nonhomologous DNA end joining.</title>
+<authorList>
+<person name="Ma Y."/>
+<person name="Lu H."/>
+<person name="Tippin B."/>
+<person name="Goodman M.F."/>
+<person name="Shimazaki N."/>
+<person name="Koiwai O."/>
+<person name="Hsieh C.-L."/>
+<person name="Schwarz K."/>
+<person name="Lieber M.R."/>
+</authorList>
+<dbReference type="PubMed" id="15574326"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2004.11.017"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH PRKDC</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2004" name="Mol. Cell" volume="16" first="715" last="724">
+<title>A pathway of double-strand break rejoining dependent upon ATM, Artemis, and proteins locating to gamma-H2AX foci.</title>
+<authorList>
+<person name="Riballo E."/>
+<person name="Kuehne M."/>
+<person name="Rief N."/>
+<person name="Doherty A."/>
+<person name="Smith G.C.M."/>
+<person name="Recio M.-J."/>
+<person name="Reis C."/>
+<person name="Dahm K."/>
+<person name="Fricke A."/>
+<person name="Krempler A."/>
+<person name="Parker A.R."/>
+<person name="Jackson S.P."/>
+<person name="Gennery A."/>
+<person name="Jeggo P.A."/>
+<person name="Loebrich M."/>
+</authorList>
+<dbReference type="PubMed" id="15574327"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2004.10.029"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH TP53BP1</scope>
+<scope>MUTAGENESIS OF ASP-37</scope>
+<scope>PHOSPHORYLATION BY ATM</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2004" name="Mol. Cell. Biol." volume="24" first="9207" last="9220">
+<title>Artemis is a phosphorylation target of ATM and ATR and is involved in the G2/M DNA damage checkpoint response.</title>
+<authorList>
+<person name="Zhang X."/>
+<person name="Succi J."/>
+<person name="Feng Z."/>
+<person name="Prithivirajsingh S."/>
+<person name="Story M.D."/>
+<person name="Legerski R.J."/>
+</authorList>
+<dbReference type="PubMed" id="15456891"/>
+<dbReference type="DOI" id="10.1128/mcb.24.20.9207-9220.2004"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH ATM; BRCA1; THE MRN COMPLEX AND PRKDC</scope>
+<scope>PHOSPHORYLATION BY ATM; ATR AND PRKDC</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2005" name="Cancer Sci." volume="96" first="134" last="141">
+<title>Ataxia-telangiectasia-mutated dependent phosphorylation of Artemis in response to DNA damage.</title>
+<authorList>
+<person name="Chen L."/>
+<person name="Morio T."/>
+<person name="Minegishi Y."/>
+<person name="Nakada S."/>
+<person name="Nagasawa M."/>
+<person name="Komatsu K."/>
+<person name="Chessa L."/>
+<person name="Villa A."/>
+<person name="Lecis D."/>
+<person name="Delia D."/>
+<person name="Mizutani S."/>
+</authorList>
+<dbReference type="PubMed" id="15723659"/>
+<dbReference type="DOI" id="10.1111/j.1349-7006.2005.00019.x"/>
+</citation>
+<scope>INTERACTION WITH THE MRN COMPLEX</scope>
+<scope>PHOSPHORYLATION BY ATM</scope>
+<scope>PHOSPHORYLATION AT SER-645</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2005" name="DNA Repair" volume="4" first="556" last="570">
+<title>Artemis deficiency confers a DNA double-strand break repair defect and Artemis phosphorylation status is altered by DNA damage and cell cycle progression.</title>
+<authorList>
+<person name="Wang J."/>
+<person name="Pluth J.M."/>
+<person name="Cooper P.K."/>
+<person name="Cowan M.J."/>
+<person name="Chen D.J."/>
+<person name="Yannone S.M."/>
+</authorList>
+<dbReference type="PubMed" id="15811628"/>
+<dbReference type="DOI" id="10.1016/j.dnarep.2005.02.001"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>PHOSPHORYLATION BY PRKDC</scope>
+<scope>PHOSPHORYLATION IN RESPONSE TO DNA DAMAGE</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2005" name="DNA Repair" volume="4" first="845" last="851">
+<title>The Artemis:DNA-PKcs endonuclease cleaves DNA loops, flaps, and gaps.</title>
+<authorList>
+<person name="Ma Y."/>
+<person name="Schwarz K."/>
+<person name="Lieber M.R."/>
+</authorList>
+<dbReference type="PubMed" id="15936993"/>
+<dbReference type="DOI" id="10.1016/j.dnarep.2005.04.013"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH PRKDC</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2009" name="Sci. Signal." volume="2" first="RA46" last="RA46">
+<title>Quantitative phosphoproteomic analysis of T cell receptor signaling reveals system-wide modulation of protein-protein interactions.</title>
+<authorList>
+<person name="Mayya V."/>
+<person name="Lundgren D.H."/>
+<person name="Hwang S.-I."/>
+<person name="Rezaul K."/>
+<person name="Wu L."/>
+<person name="Eng J.K."/>
+<person name="Rodionov V."/>
+<person name="Han D.K."/>
+</authorList>
+<dbReference type="PubMed" id="19690332"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000007"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Leukemic T-cell</tissue>
+</source>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+<dbReference type="DOI" id="10.1021/pr300630k"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2003" name="Blood" volume="101" first="1446" last="1452">
+<title>Radiosensitive SCID patients with Artemis gene mutations show a complete B-cell differentiation arrest at the pre-B-cell receptor checkpoint in bone marrow.</title>
+<authorList>
+<person name="Noordzij J.G."/>
+<person name="Verkaik N.S."/>
+<person name="van der Burg M."/>
+<person name="van Veelen L.R."/>
+<person name="de Bruin-Versteeg S."/>
+<person name="Wiegant W."/>
+<person name="Vossen J.M.J.J."/>
+<person name="Weemaes C.M.R."/>
+<person name="de Groot R."/>
+<person name="Zdzienicka M.Z."/>
+<person name="van Gent D.C."/>
+<person name="van Dongen J.J.M."/>
+</authorList>
+<dbReference type="PubMed" id="12406895"/>
+<dbReference type="DOI" id="10.1182/blood-2002-01-0187"/>
+</citation>
+<scope>VARIANTS RSSCID VAL-118 AND GLU-135</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2003" name="Clin. Immunol." volume="108" first="159" last="166">
+<title>Expansion of clonotype-restricted HLA-identical maternal CD4+ T cells in a patient with severe combined immunodeficiency and a homozygous mutation in the Artemis gene.</title>
+<authorList>
+<person name="Kobayashi N."/>
+<person name="Agematsu K."/>
+<person name="Nagumo H."/>
+<person name="Yasui K."/>
+<person name="Katsuyama Y."/>
+<person name="Yoshizawa K."/>
+<person name="Ota M."/>
+<person name="Yachie A."/>
+<person name="Komiyama A."/>
+</authorList>
+<dbReference type="PubMed" id="12921762"/>
+<dbReference type="DOI" id="10.1016/s1521-6616(03)00095-0"/>
+</citation>
+<scope>INVOLVEMENT IN RSSCID</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2003" name="Hum. Genet." volume="112" first="348" last="352">
+<title>Novel Artemis gene mutations of radiosensitive severe combined immunodeficiency in Japanese families.</title>
+<authorList>
+<person name="Kobayashi N."/>
+<person name="Agematsu K."/>
+<person name="Sugita K."/>
+<person name="Sako M."/>
+<person name="Nonoyama S."/>
+<person name="Yachie A."/>
+<person name="Kumaki S."/>
+<person name="Tsuchiya S."/>
+<person name="Ochs H.D."/>
+<person name="Sugita K."/>
+<person name="Fukushima Y."/>
+<person name="Komiyama A."/>
+</authorList>
+<dbReference type="PubMed" id="12592555"/>
+<dbReference type="DOI" id="10.1007/s00439-002-0897-x"/>
+</citation>
+<scope>INVOLVEMENT IN RSSCID</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2003" name="J. Clin. Invest." volume="111" first="381" last="387">
+<title>Partial T and B lymphocyte immunodeficiency and predisposition to lymphoma in patients with hypomorphic mutations in Artemis.</title>
+<authorList>
+<person name="Moshous D."/>
+<person name="Pannetier C."/>
+<person name="de Chasseval R."/>
+<person name="le Deist F."/>
+<person name="Cavazzana-Calvo M."/>
+<person name="Romana S."/>
+<person name="Macintyre E."/>
+<person name="Canioni D."/>
+<person name="Brousse N."/>
+<person name="Fischer A."/>
+<person name="Casanova J.-L."/>
+<person name="de Villartay J.-P."/>
+</authorList>
+<dbReference type="PubMed" id="12569164"/>
+<dbReference type="DOI" id="10.1172/jci200316774"/>
+</citation>
+<scope>INVOLVEMENT IN RSSCID</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2005" name="Blood" volume="105" first="4179" last="4186">
+<title>Omenn syndrome due to ARTEMIS mutations.</title>
+<authorList>
+<person name="Ege M."/>
+<person name="Ma Y."/>
+<person name="Manfras B."/>
+<person name="Kalwak K."/>
+<person name="Lu H."/>
+<person name="Lieber M.R."/>
+<person name="Schwarz K."/>
+<person name="Pannicke U."/>
+</authorList>
+<dbReference type="PubMed" id="15731174"/>
+<dbReference type="DOI" id="10.1182/blood-2004-12-4861"/>
+</citation>
+<scope>VARIANT OMENN SYNDROME ASP-35</scope>
+</reference>
+<comment type="function">
+<text evidence="3 4 5 11 12 13 14 16 17 20 21">Required for V(D)J recombination, the process by which exons encoding the antigen-binding domains of immunoglobulins and T-cell receptor proteins are assembled from individual V, (D), and J gene segments. V(D)J recombination is initiated by the lymphoid specific RAG endonuclease complex, which generates site specific DNA double strand breaks (DSBs). These DSBs present two types of DNA end structures: hairpin sealed coding ends and phosphorylated blunt signal ends. These ends are independently repaired by the non homologous end joining (NHEJ) pathway to form coding and signal joints respectively. This protein exhibits single-strand specific 5'-3' exonuclease activity in isolation and acquires endonucleolytic activity on 5' and 3' hairpins and overhangs when in a complex with PRKDC. The latter activity is required specifically for the resolution of closed hairpins prior to the formation of the coding joint. May also be required for the repair of complex DSBs induced by ionizing radiation, which require substantial end-processing prior to religation by NHEJ.</text>
+</comment>
+<comment type="subunit">
+<text evidence="4 11 13 16 17 18 21">Interacts with ATM, BRCA1, PRKDC and TP53BP1. Also exhibits ATM- and phosphorylation-dependent interaction with the MRN complex, composed of MRE11, RAD50, and NBN.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-11694104">
+<id>Q96SD1</id>
+</interactant>
+<interactant intactId="EBI-847896">
+<id>P49917</id>
+<label>LIG4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>16</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-11694104">
+<id>Q96SD1</id>
+</interactant>
+<interactant intactId="EBI-352053">
+<id>P78527</id>
+<label>PRKDC</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="5 12">Nucleus</location>
+</subcellularLocation>
+</comment>
+<comment type="alternative products">
+<event type="alternative splicing"/>
+<isoform>
+<id>Q96SD1-1</id>
+<name>1</name>
+<sequence type="displayed"/>
+</isoform>
+<isoform>
+<id>Q96SD1-2</id>
+<name>2</name>
+<name>SCIDA</name>
+<sequence type="described" ref="VSP_014888"/>
+</isoform>
+<isoform>
+<id>Q96SD1-3</id>
+<name>3</name>
+<sequence type="described" ref="VSP_014889 VSP_014890"/>
+</isoform>
+<isoform>
+<id>Q96SD1-4</id>
+<name>4</name>
+<sequence type="described" ref="VSP_014891 VSP_014892"/>
+</isoform>
+</comment>
+<comment type="tissue specificity">
+<text evidence="3">Ubiquitously expressed, with highest levels in the kidney, lung, pancreas and placenta (at the mRNA level). Expression is not increased in thymus or bone marrow, sites of V(D)J recombination.</text>
+</comment>
+<comment type="PTM">
+<text evidence="4 12 13 14 17 18 20">Phosphorylation on undefined residues by PRKDC may stimulate endonucleolytic activity on 5' and 3' hairpins and overhangs. PRKDC must remain present, even after phosphorylation, for efficient hairpin opening. Also phosphorylated by ATM in response to ionizing radiation (IR) and by ATR in response to ultraviolet (UV) radiation.</text>
+</comment>
+<comment type="disease" evidence="3 6 7 8 9">
+<disease id="DI-01020">
+<name>Severe combined immunodeficiency autosomal recessive T-cell-negative/B-cell-negative/NK-cell-positive with sensitivity to ionizing radiation</name>
+<acronym>RSSCID</acronym>
+<description>A form of severe combined immunodeficiency, a genetically and clinically heterogeneous group of rare congenital disorders characterized by impairment of both humoral and cell-mediated immunity, leukopenia, and low or absent antibody levels. Patients present in infancy with recurrent, persistent infections by opportunistic organisms. The common characteristic of all types of SCID is absence of T-cell-mediated cellular immunity due to a defect in T-cell development. Individuals affected by RS-SCID show defects in the DNA repair machinery necessary for coding joint formation and the completion of V(D)J recombination. A subset of cells from such patients show increased radiosensitivity.</description>
+<dbReference type="MIM" id="602450"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="5">
+<disease id="DI-01015">
+<name>Severe combined immunodeficiency Athabaskan type</name>
+<acronym>SCIDA</acronym>
+<description>A variety of SCID with sensitivity to ionizing radiation. A founder mutation has been detected in Athabascan-speaking native Americans, being inherited as an autosomal recessive trait. Affected individuals exhibit clinical symptoms and defects in DNA repair comparable to those seen in RS-SCID.</description>
+<dbReference type="MIM" id="602450"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="19">
+<disease id="DI-02093">
+<name>Omenn syndrome</name>
+<acronym>OS</acronym>
+<description>Severe immunodeficiency characterized by the presence of activated, anergic, oligoclonal T-cells, hypereosinophilia, and high IgE levels.</description>
+<dbReference type="MIM" id="603554"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="26">Belongs to the DNA repair metallo-beta-lactamase (DRMBL) family.</text>
+</comment>
+<comment type="online information" name="DCLRE1Cbase">
+<link uri="http://structure.bmc.lu.se/idbase/DCLRE1Cbase/"/>
+<text>DCLRE1C mutation db</text>
+</comment>
+<comment type="online information" name="NIEHS-SNPs">
+<link uri="http://egp.gs.washington.edu/data/dclre1c/"/>
+</comment>
+<dbReference type="EC" id="3.1.-.-"/>
+<dbReference type="EMBL" id="AJ296101">
+<property type="protein sequence ID" value="CAC37570.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF395747">
+<property type="protein sequence ID" value="AAM53255.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF395748">
+<property type="protein sequence ID" value="AAM53256.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF395749">
+<property type="protein sequence ID" value="AAM53257.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF395750">
+<property type="protein sequence ID" value="AAM53258.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF395751">
+<property type="protein sequence ID" value="AAM53259.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AF395752">
+<property type="protein sequence ID" value="AAM53260.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AK021422">
+<property type="protein sequence ID" value="BAB13820.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="DQ504427">
+<property type="protein sequence ID" value="ABF47101.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC069544">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL360083">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471072">
+<property type="protein sequence ID" value="EAW86248.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471072">
+<property type="protein sequence ID" value="EAW86250.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH471072">
+<property type="protein sequence ID" value="EAW86251.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC000863">
+<property type="protein sequence ID" value="AAH00863.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC009185">
+<property type="protein sequence ID" value="AAH09185.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC022254">
+<property type="protein sequence ID" value="AAH22254.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS31149.1">
+<molecule id="Q96SD1-1"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS31150.1">
+<molecule id="Q96SD1-2"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS7105.1">
+<molecule id="Q96SD1-3"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001029027.1">
+<molecule id="Q96SD1-1"/>
+<property type="nucleotide sequence ID" value="NM_001033855.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001029029.1">
+<molecule id="Q96SD1-2"/>
+<property type="nucleotide sequence ID" value="NM_001033857.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001029030.1">
+<molecule id="Q96SD1-2"/>
+<property type="nucleotide sequence ID" value="NM_001033858.2"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001276005.1">
+<molecule id="Q96SD1-3"/>
+<property type="nucleotide sequence ID" value="NM_001289076.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001276006.1">
+<molecule id="Q96SD1-2"/>
+<property type="nucleotide sequence ID" value="NM_001289077.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001276007.1">
+<molecule id="Q96SD1-3"/>
+<property type="nucleotide sequence ID" value="NM_001289078.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001276008.1">
+<molecule id="Q96SD1-2"/>
+<property type="nucleotide sequence ID" value="NM_001289079.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_071932.2">
+<molecule id="Q96SD1-3"/>
+<property type="nucleotide sequence ID" value="NM_022487.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_006717554.1">
+<molecule id="Q96SD1-3"/>
+<property type="nucleotide sequence ID" value="XM_006717491.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011517918.1">
+<molecule id="Q96SD1-3"/>
+<property type="nucleotide sequence ID" value="XM_011519616.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011517919.1">
+<molecule id="Q96SD1-3"/>
+<property type="nucleotide sequence ID" value="XM_011519617.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_011517921.1">
+<molecule id="Q96SD1-2"/>
+<property type="nucleotide sequence ID" value="XM_011519619.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016872046.1">
+<molecule id="Q96SD1-3"/>
+<property type="nucleotide sequence ID" value="XM_017016557.1"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_016872047.1">
+<molecule id="Q96SD1-2"/>
+<property type="nucleotide sequence ID" value="XM_017016558.1"/>
+</dbReference>
+<dbReference type="PDB" id="3W1B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.40"/>
+<property type="chains" value="B=485-495"/>
+</dbReference>
+<dbReference type="PDB" id="3W1G">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.55"/>
+<property type="chains" value="B=485-495"/>
+</dbReference>
+<dbReference type="PDB" id="4HTP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.25"/>
+<property type="chains" value="C/E=485-495"/>
+</dbReference>
+<dbReference type="PDB" id="6TT5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.50"/>
+<property type="chains" value="AAA=1-361"/>
+</dbReference>
+<dbReference type="PDB" id="6WNL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.37"/>
+<property type="chains" value="A/B=2-368"/>
+</dbReference>
+<dbReference type="PDB" id="6WO0">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.97"/>
+<property type="chains" value="A=2-368"/>
+</dbReference>
+<dbReference type="PDBsum" id="3W1B"/>
+<dbReference type="PDBsum" id="3W1G"/>
+<dbReference type="PDBsum" id="4HTP"/>
+<dbReference type="PDBsum" id="6TT5"/>
+<dbReference type="PDBsum" id="6WNL"/>
+<dbReference type="PDBsum" id="6WO0"/>
+<dbReference type="SMR" id="Q96SD1"/>
+<dbReference type="BioGRID" id="122170">
+<property type="interactions" value="36"/>
+</dbReference>
+<dbReference type="CORUM" id="Q96SD1"/>
+<dbReference type="IntAct" id="Q96SD1">
+<property type="interactions" value="21"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000367527"/>
+<dbReference type="BindingDB" id="Q96SD1"/>
+<dbReference type="iPTMnet" id="Q96SD1"/>
+<dbReference type="PhosphoSitePlus" id="Q96SD1"/>
+<dbReference type="BioMuta" id="DCLRE1C"/>
+<dbReference type="DMDM" id="71153325"/>
+<dbReference type="EPD" id="Q96SD1"/>
+<dbReference type="jPOST" id="Q96SD1"/>
+<dbReference type="MassIVE" id="Q96SD1"/>
+<dbReference type="MaxQB" id="Q96SD1"/>
+<dbReference type="PaxDb" id="Q96SD1"/>
+<dbReference type="PeptideAtlas" id="Q96SD1"/>
+<dbReference type="PRIDE" id="Q96SD1"/>
+<dbReference type="ProteomicsDB" id="78103">
+<molecule id="Q96SD1-1"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="78104">
+<molecule id="Q96SD1-2"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="78105">
+<molecule id="Q96SD1-3"/>
+</dbReference>
+<dbReference type="ProteomicsDB" id="78106">
+<molecule id="Q96SD1-4"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="24989">
+<property type="antibodies" value="339 antibodies"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000357717">
+<molecule id="Q96SD1-3"/>
+<property type="protein sequence ID" value="ENSP00000350349"/>
+<property type="gene ID" value="ENSG00000152457"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000378246">
+<molecule id="Q96SD1-3"/>
+<property type="protein sequence ID" value="ENSP00000367492"/>
+<property type="gene ID" value="ENSG00000152457"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000378249">
+<molecule id="Q96SD1-3"/>
+<property type="protein sequence ID" value="ENSP00000367496"/>
+<property type="gene ID" value="ENSG00000152457"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000378254">
+<molecule id="Q96SD1-2"/>
+<property type="protein sequence ID" value="ENSP00000367502"/>
+<property type="gene ID" value="ENSG00000152457"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000378255">
+<molecule id="Q96SD1-2"/>
+<property type="protein sequence ID" value="ENSP00000367503"/>
+<property type="gene ID" value="ENSG00000152457"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000378258">
+<molecule id="Q96SD1-2"/>
+<property type="protein sequence ID" value="ENSP00000367506"/>
+<property type="gene ID" value="ENSG00000152457"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000378278">
+<molecule id="Q96SD1-1"/>
+<property type="protein sequence ID" value="ENSP00000367527"/>
+<property type="gene ID" value="ENSG00000152457"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000378289">
+<molecule id="Q96SD1-4"/>
+<property type="protein sequence ID" value="ENSP00000367538"/>
+<property type="gene ID" value="ENSG00000152457"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000396817">
+<molecule id="Q96SD1-2"/>
+<property type="protein sequence ID" value="ENSP00000380030"/>
+<property type="gene ID" value="ENSG00000152457"/>
+</dbReference>
+<dbReference type="GeneID" id="64421"/>
+<dbReference type="KEGG" id="hsa:64421"/>
+<dbReference type="UCSC" id="uc001inl.5">
+<molecule id="Q96SD1-1"/>
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="64421"/>
+<dbReference type="DisGeNET" id="64421"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000152457.17"/>
+<dbReference type="GeneCards" id="DCLRE1C"/>
+<dbReference type="HGNC" id="HGNC:17642">
+<property type="gene designation" value="DCLRE1C"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000152457">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MalaCards" id="DCLRE1C"/>
+<dbReference type="MIM" id="602450">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="603554">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="605988">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q96SD1"/>
+<dbReference type="OpenTargets" id="ENSG00000152457"/>
+<dbReference type="Orphanet" id="39041">
+<property type="disease" value="Omenn syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="275">
+<property type="disease" value="Severe combined immunodeficiency due to DCLRE1C deficiency"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA27176"/>
+<dbReference type="eggNOG" id="KOG1361">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00940000157779"/>
+<dbReference type="HOGENOM" id="CLU_005260_1_1_1"/>
+<dbReference type="InParanoid" id="Q96SD1"/>
+<dbReference type="KO" id="K10887"/>
+<dbReference type="OMA" id="CYSTHAS"/>
+<dbReference type="OrthoDB" id="1441774at2759"/>
+<dbReference type="PhylomeDB" id="Q96SD1"/>
+<dbReference type="TreeFam" id="TF329572"/>
+<dbReference type="PathwayCommons" id="Q96SD1"/>
+<dbReference type="Reactome" id="R-HSA-5693571">
+<property type="pathway name" value="Nonhomologous End-Joining (NHEJ)"/>
+</dbReference>
+<dbReference type="SIGNOR" id="Q96SD1"/>
+<dbReference type="BioGRID-ORCS" id="64421">
+<property type="hits" value="3 hits in 876 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="DCLRE1C">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="GenomeRNAi" id="64421"/>
+<dbReference type="Pharos" id="Q96SD1">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:Q96SD1"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 10"/>
+</dbReference>
+<dbReference type="RNAct" id="Q96SD1">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000152457">
+<property type="expression patterns" value="Expressed in buccal mucosa cell and 246 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="Q96SD1">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="Q96SD1">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005794">
+<property type="term" value="C:Golgi apparatus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070419">
+<property type="term" value="C:nonhomologous end joining complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000784">
+<property type="term" value="C:nuclear chromosome, telomeric region"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="HPA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035312">
+<property type="term" value="F:5'-3' exodeoxyribonuclease activity"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008409">
+<property type="term" value="F:5'-3' exonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003684">
+<property type="term" value="F:damaged DNA binding"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004519">
+<property type="term" value="F:endonuclease activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000014">
+<property type="term" value="F:single-stranded DNA endodeoxyribonuclease activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002250">
+<property type="term" value="P:adaptive immune response"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030183">
+<property type="term" value="P:B cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006303">
+<property type="term" value="P:double-strand break repair via nonhomologous end joining"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0036297">
+<property type="term" value="P:interstrand cross-link repair"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031848">
+<property type="term" value="P:protection from non-homologous end joining at telomere"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010212">
+<property type="term" value="P:response to ionizing radiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033151">
+<property type="term" value="P:V(D)J recombination"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="DisProt" id="DP01162"/>
+<dbReference type="Gene3D" id="3.60.15.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011084">
+<property type="entry name" value="DRMBL"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036866">
+<property type="entry name" value="RibonucZ/Hydroxyglut_hydro"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07522">
+<property type="entry name" value="DRMBL"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56281">
+<property type="entry name" value="SSF56281"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-1064">Adaptive immunity</keyword>
+<keyword id="KW-0025">Alternative splicing</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0227">DNA damage</keyword>
+<keyword id="KW-0233">DNA recombination</keyword>
+<keyword id="KW-0234">DNA repair</keyword>
+<keyword id="KW-0255">Endonuclease</keyword>
+<keyword id="KW-0269">Exonuclease</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0391">Immunity</keyword>
+<keyword id="KW-0460">Magnesium</keyword>
+<keyword id="KW-0540">Nuclease</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0705">SCID</keyword>
+<feature type="chain" description="Protein artemis" id="PRO_0000209122">
+<location>
+<begin position="1"/>
+<end position="692"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="2">
+<location>
+<position position="380"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="2">
+<location>
+<position position="385"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by ATM" evidence="14 18">
+<location>
+<position position="645"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 2." id="VSP_014888" evidence="23">
+<location>
+<begin position="1"/>
+<end position="120"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_014889" evidence="23 24 25">
+<location>
+<begin position="1"/>
+<end position="115"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 3." id="VSP_014890" evidence="23 24 25">
+<original>CPGSVM</original>
+<variation>MKHQER</variation>
+<location>
+<begin position="116"/>
+<end position="121"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_014891" evidence="25">
+<original>EEEDDYLFDDPLPIPLRHKVPYPETFHPEVFSMTAVSEKQPEKLRQTPG</original>
+<variation>GSHSVTQARMRWCHHDSLYPLTPGIKRSSCLSLLTSWITGAYRHAQLMI</variation>
+<location>
+<begin position="386"/>
+<end position="434"/>
+</location>
+</feature>
+<feature type="splice variant" description="In isoform 4." id="VSP_014892" evidence="25">
+<location>
+<begin position="435"/>
+<end position="692"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In Omenn syndrome; dbSNP:rs121908159." id="VAR_023077" evidence="19">
+<original>H</original>
+<variation>D</variation>
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In RSSCID." id="VAR_023078" evidence="6">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="118"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In RSSCID." id="VAR_023079" evidence="6">
+<original>G</original>
+<variation>E</variation>
+<location>
+<position position="135"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs41297016." id="VAR_060689" evidence="22">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="140"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs41297018." id="VAR_060690" evidence="22">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="153"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs35441642." id="VAR_048892" evidence="10 22">
+<original>P</original>
+<variation>R</variation>
+<location>
+<position position="171"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs12768894." id="VAR_048893" evidence="15 22">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="243"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs41298896." id="VAR_048894" evidence="22">
+<original>S</original>
+<variation>C</variation>
+<location>
+<position position="320"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs41299658." id="VAR_060691" evidence="22">
+<original>L</original>
+<variation>M</variation>
+<location>
+<position position="329"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes PRKDC-dependent endonuclease activity and V(D)J recombination." evidence="11 12">
+<original>D</original>
+<variation>N</variation>
+<variation>A</variation>
+<location>
+<position position="17"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes PRKDC-dependent endonuclease activity and V(D)J recombination." evidence="11 12">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="33"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes PRKDC-dependent endonuclease activity and V(D)J recombination." evidence="11 12">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes PRKDC-dependent endonuclease activity and V(D)J recombination." evidence="11 12 17">
+<original>D</original>
+<variation>N</variation>
+<variation>A</variation>
+<location>
+<position position="37"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces PRKDC-dependent endonuclease activity, although V(D)J recombination is largely normal." evidence="11 12">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="38"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes PRKDC-dependent endonuclease activity and V(D)J recombination." evidence="11 12">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="115"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes PRKDC-dependent endonuclease activity and V(D)J recombination." evidence="11 12">
+<original>D</original>
+<variation>N</variation>
+<variation>A</variation>
+<location>
+<position position="136"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes PRKDC-dependent endonuclease activity and V(D)J recombination." evidence="4 11 12">
+<original>D</original>
+<variation>N</variation>
+<variation>A</variation>
+<location>
+<position position="165"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes PRKDC-dependent endonuclease activity and V(D)J recombination." evidence="11 12">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="319"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced IR induced phosphorylation; when associated with A-534; A-538; A-548; A-553; A-561 and A-562." evidence="14">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="516"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced IR induced phosphorylation; when associated with A-516; A-538; A-548; A-553; A-561 and A-562." evidence="14">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="534"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced IR induced phosphorylation; when associated with A-516; A-534; A-548; A-553; A-561 and A-562." evidence="14">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="538"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced IR induced phosphorylation; when associated with A-516; A-534; A-538; A-553; A-561 and A-562." evidence="14">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="548"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced IR induced phosphorylation; when associated with A-516; A-534; A-538; A-548; A-561 and A-562." evidence="14">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="553"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced IR induced phosphorylation; when associated with A-516; A-534; A-538; A-548; A-553 and A-562." evidence="14">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="561"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduced IR induced phosphorylation; when associated with A-516; A-534; A-538; A-548; A-553 and A-561." evidence="14">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="562"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 1; CAC37570 and 2; AAM53255/AAM53256/AAM53257/AAM53258/AAM53259/AAM53260." ref="1 2" evidence="26">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="560"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="489"/>
+<end position="491"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4HTP"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q8K4J0"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11336668"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11955432"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12055248"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12406895"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12569164"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12592555"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12921762"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14744996"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15071507"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15456891"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15468306"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15574326"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15574327"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15723659"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15731174"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15811628"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15936993"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source ref="4"/>
+</evidence>
+<evidence key="23" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="12055248"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="14702039"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="15489334"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000305"/>
+<sequence length="692" mass="78436" checksum="24B857F5B473637B" modified="2005-07-19" version="2">MSSFEGQMAEYPTISIDRFDRENLRARAYFLSHCHKDHMKGLRAPTLKRRLECSLKVYLYCSPVTKELLLTSPKYRFWKKRIISIEIETPTQISLVDEASGEKEEIVVTLLPAGHCPGSVMFLFQGNNGTVLYTGDFRLAQGEAARMELLHSGGRVKDIQSVYLDTTFCDPRFYQIPSREECLSGVLELVRSWITRSPYHVVWLNCKAAYGYEYLFTNLSEELGVQVHVNKLDMFRNMPEILHHLTTDRNTQIHACRHPKAEEYFQWSKLPCGITSRNRIPLHIISIKPSTMWFGERSRKTNVIVRTGESSYRACFSFHSSYSEIKDFLSYLCPVNAYPNVIPVGTTMDKVVEILKPLCRSSQSTEPKYKPLGKLKRARTVHRDSEEEDDYLFDDPLPIPLRHKVPYPETFHPEVFSMTAVSEKQPEKLRQTPGCCRAECMQSSRFTNFVDCEESNSESEEEVGIPASLQGDLGSVLHLQKADGDVPQWEVFFKRNDEITDESLENFPSSTVAGGSQSPKLFSDSDGESTHISSQNSSQSTHITEQGSQGWDSQSDTVLLSSQERNSGDITSLDKADYRPTIKENIPASLMEQNVICPKDTYSDLKSRDKDVTIVPSTGEPTTLSSETHIPEEKSLLNLSTNADSQSSSDFEVPSTPEAELPKREHLQYLYEKLATGESIAVKKRKCSLLDT</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2000-12-01" modified="2020-10-07" version="132">
+<accession>Q9YGY0</accession>
+<name>AXIN1_XENLA</name>
+<protein>
+<recommendedName>
+<fullName>Axin-1</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Axis inhibition protein 1</fullName>
+<shortName>xAxin</shortName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">axin1</name>
+<name type="synonym">axin</name>
+<name type="synonym">axn</name>
+</gene>
+<organism>
+<name type="scientific">Xenopus laevis</name>
+<name type="common">African clawed frog</name>
+<dbReference type="NCBI Taxonomy" id="8355"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Amphibia</taxon>
+<taxon>Batrachia</taxon>
+<taxon>Anura</taxon>
+<taxon>Pipoidea</taxon>
+<taxon>Pipidae</taxon>
+<taxon>Xenopodinae</taxon>
+<taxon>Xenopus</taxon>
+<taxon>Xenopus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1999" name="Mech. Dev." volume="80" first="147" last="151">
+<title>Xenopus axin interacts with glycogen synthase kinase-3 beta and is expressed in the anterior midbrain.</title>
+<authorList>
+<person name="Hedgepeth C.M."/>
+<person name="Deardorff M.A."/>
+<person name="Klein P.S."/>
+</authorList>
+<dbReference type="PubMed" id="10072781"/>
+<dbReference type="DOI" id="10.1016/s0925-4773(98)00203-2"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<scope>DEVELOPMENTAL STAGE</scope>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2003" name="Genes Dev." volume="17" first="2753" last="2764">
+<title>Crystal structure of a beta-catenin/axin complex suggests a mechanism for the beta-catenin destruction complex.</title>
+<authorList>
+<person name="Xing Y."/>
+<person name="Clements W.K."/>
+<person name="Kimelman D."/>
+<person name="Xu W."/>
+</authorList>
+<dbReference type="PubMed" id="14600025"/>
+<dbReference type="DOI" id="10.1101/gad.1142603"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 435-504 IN COMPLEX WITH HUMAN BETA-CATENIN</scope>
+</reference>
+<comment type="function">
+<text evidence="3">Component of the beta-catenin destruction complex required for regulating ctnnb1 levels through phosphorylation and ubiquitination, and modulating Wnt-signaling. Controls dorsoventral patterning via two opposing effects; down-regulates ctnnb1 to inhibit the Wnt signaling pathway and ventralize embryos, but also dorsalizes embryos by activating a Wnt-independent JNK signaling pathway.</text>
+</comment>
+<comment type="subunit">
+<text evidence="4 5">Homodimer (By similarity). Interacts with hwa; leading to promote the tankyrase-mediated degradation of axin1 (By similarity).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1037449">
+<id>Q9YGY0</id>
+</interactant>
+<interactant intactId="EBI-8069633">
+<id>P70039</id>
+<label>apc</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1037449">
+<id>Q9YGY0</id>
+</interactant>
+<interactant intactId="EBI-11786127">
+<id>A0A0H5BJW1</id>
+<label>WDR26</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-1037449">
+<id>Q9YGY0</id>
+</interactant>
+<interactant intactId="EBI-491549">
+<id>P35222</id>
+<label>CTNNB1</label>
+</interactant>
+<organismsDiffer>true</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="3">Nucleus</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="4">Membrane</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="4">Cell membrane</location>
+</subcellularLocation>
+</comment>
+<comment type="developmental stage">
+<text evidence="8">Weakly and ubiquitously expressed throughout early development, and highly expressed in the anterior mesencephalon adjacent to the forebrain-midbrain boundary.</text>
+</comment>
+<comment type="PTM">
+<text evidence="3">ADP-ribosylated by tankyrase tnks and tnks2. Poly-ADP-ribosylated protein is recognized by rnf146, followed by ubiquitination at 'Lys-48' and subsequent activation of the Wnt signaling pathway.</text>
+</comment>
+<comment type="PTM">
+<text evidence="3">Ubiquitinated by rnf146 when poly-ADP-ribosylated, leading to its degradation and subsequent activation of the Wnt signaling pathway.</text>
+</comment>
+<dbReference type="EMBL" id="AF097313">
+<property type="protein sequence ID" value="AAC71036.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_001081874.1">
+<property type="nucleotide sequence ID" value="NM_001088405.1"/>
+</dbReference>
+<dbReference type="PDB" id="1QZ7">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="B=435-504"/>
+</dbReference>
+<dbReference type="PDBsum" id="1QZ7"/>
+<dbReference type="SMR" id="Q9YGY0"/>
+<dbReference type="BioGRID" id="99432">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="DIP" id="DIP-36387N"/>
+<dbReference type="ELM" id="Q9YGY0"/>
+<dbReference type="IntAct" id="Q9YGY0">
+<property type="interactions" value="3"/>
+</dbReference>
+<dbReference type="MINT" id="Q9YGY0"/>
+<dbReference type="GeneID" id="398097"/>
+<dbReference type="KEGG" id="xla:398097"/>
+<dbReference type="CTD" id="398097"/>
+<dbReference type="Xenbase" id="XB-GENE-17339457">
+<property type="gene designation" value="axin1.L"/>
+</dbReference>
+<dbReference type="KO" id="K02157"/>
+<dbReference type="OrthoDB" id="1481971at2759"/>
+<dbReference type="EvolutionaryTrace" id="Q9YGY0"/>
+<dbReference type="PRO" id="PR:Q9YGY0"/>
+<dbReference type="GO" id="GO:0030877">
+<property type="term" value="C:beta-catenin destruction complex"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008013">
+<property type="term" value="F:beta-catenin binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042803">
+<property type="term" value="F:protein homodimerization activity"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007275">
+<property type="term" value="P:multicellular organism development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090090">
+<property type="term" value="P:negative regulation of canonical Wnt signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000054">
+<property type="term" value="P:negative regulation of Wnt signaling pathway involved in dorsal/ventral axis specification"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046330">
+<property type="term" value="P:positive regulation of JNK cascade"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016055">
+<property type="term" value="P:Wnt signaling pathway"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="CDD" id="cd11582">
+<property type="entry name" value="Axin_TNKS_binding"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="DisProt" id="DP00954"/>
+<dbReference type="Gene3D" id="1.10.196.10">
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.10.20.380">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="IDEAL" id="IID50017"/>
+<dbReference type="InterPro" id="IPR043581">
+<property type="entry name" value="Axin-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029797">
+<property type="entry name" value="AXIN1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014936">
+<property type="entry name" value="Axin_b-cat-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR032101">
+<property type="entry name" value="Axin_TNKS-bd"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001158">
+<property type="entry name" value="DIX"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR038207">
+<property type="entry name" value="DIX_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016137">
+<property type="entry name" value="RGS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036305">
+<property type="entry name" value="RGS_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024066">
+<property type="entry name" value="RGS_subdom1/3"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR029071">
+<property type="entry name" value="Ubiquitin-like_domsf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR46102">
+<property type="entry name" value="PTHR46102"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR46102:SF3">
+<property type="entry name" value="PTHR46102:SF3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF16646">
+<property type="entry name" value="AXIN1_TNKS_BD"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08833">
+<property type="entry name" value="Axin_b-cat_bind"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00778">
+<property type="entry name" value="DIX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00615">
+<property type="entry name" value="RGS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01301">
+<property type="entry name" value="RGSPROTEIN"/>
+</dbReference>
+<dbReference type="SMART" id="SM00021">
+<property type="entry name" value="DAX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00315">
+<property type="entry name" value="RGS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48097">
+<property type="entry name" value="SSF48097"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF54236">
+<property type="entry name" value="SSF54236"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50841">
+<property type="entry name" value="DIX"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50132">
+<property type="entry name" value="RGS"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0013">ADP-ribosylation</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0217">Developmental protein</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0832">Ubl conjugation</keyword>
+<keyword id="KW-0879">Wnt signaling pathway</keyword>
+<feature type="chain" description="Axin-1" id="PRO_0000220892">
+<location>
+<begin position="1"/>
+<end position="842"/>
+</location>
+</feature>
+<feature type="domain" description="RGS" evidence="7">
+<location>
+<begin position="88"/>
+<end position="211"/>
+</location>
+</feature>
+<feature type="domain" description="DIX" evidence="6">
+<location>
+<begin position="760"/>
+<end position="842"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with GSK3B" evidence="2">
+<location>
+<begin position="348"/>
+<end position="433"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with beta-catenin">
+<location>
+<begin position="434"/>
+<end position="508"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="471"/>
+<end position="480"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="1QZ7"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000250"/>
+<evidence key="3" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="O15169"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="O35625"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P57094"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00069"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00171"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10072781"/>
+</source>
+</evidence>
+<sequence length="842" mass="94460" checksum="BDA152734C97191E" modified="1999-05-01" version="1">MSVKGKGFPLDLGGSFTEDAPRPPVPGEEGELITTDQRPFSHTYYSLKNDGIKNETSTATPRRPDLDLGYEPEGSASPTPPYLKWAESLHSLLDDQDGIHLFRTFLQQENCADLLDFWFACSGFRKLEPNDSKVEKRLKLAKAIYKKYVLDSNGIVSRQIKPATKSFIKDCVLRQQIDPAMFDQAQMEIQSMMEDNTYPVFLKSDIYLEYTTIGGESPKNYSDQSSGSGTGKGPSGYLPTLNEDEEWRCDQGGEHERERECIPSSLFSQKLALDSSSHCAGSNRRLSDGREFRPGTWREPVNPYYVNTGYAGAPVTSANDSEQQSMSSDADTMSLTDSSVDGIPPYRLRKHYRREMQESANANGRGPLPHIPRTYHMPKDIHVDPEKFAAELISRLEGVLRDREAEQKLEERLKRVRAEEEGDDGDVSSGPSVISHKLPSGPPMHHFNSRYSETGCVGMQIRDAHEENPESILDEHVQRVMKTPGCQSPGTGRHSPKSRSPDGHLSKTLPGSLGTMQTGHGKHSSKSTAKVDSGNLHHHKHVYHHVHHHGGVKPKEQIDGESTQRVQTNFPWNVESHNYATKSRNYAESMGMAPNPMDSLAYSGKVSMLSKRNAKKADLGKSESASHEMPVVPEDSERHQKILQWIMEGEKEIIRHKKSNHSSSSAKKQPPTELARPLSIERPGAVHPWVSAQLRNVVQPSHPFIQDPTMPPNPAPNPLTQLVSKPGARLEEEEKKAAKMPQKQRLKPQKKNVSAPSQPCDNIVVAYYFCGEPIPYRTMVKGRVVTLGQFKELLTKKGNYRYYFKKVSDEFDCGVVFEEVREDDMILPIYEEKIIGQVEKID</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

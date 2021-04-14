@@ -1,0 +1,5152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1995-11-01" modified="2020-10-07" version="218">
+<accession>P42345</accession>
+<accession>Q4LE76</accession>
+<accession>Q5TER1</accession>
+<accession>Q6LE87</accession>
+<accession>Q96QG3</accession>
+<accession>Q9Y4I3</accession>
+<name>MTOR_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Serine/threonine-protein kinase mTOR</fullName>
+<ecNumber evidence="31 32 34 41 55 56 57">2.7.11.1</ecNumber>
+</recommendedName>
+<alternativeName>
+<fullName>FK506-binding protein 12-rapamycin complex-associated protein 1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>FKBP12-rapamycin complex-associated protein</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Mammalian target of rapamycin</fullName>
+<shortName>mTOR</shortName>
+</alternativeName>
+<alternativeName>
+<fullName>Mechanistic target of rapamycin</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Rapamycin and FKBP12 target 1</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Rapamycin target protein 1</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">MTOR</name>
+<name type="synonym">FRAP</name>
+<name type="synonym">FRAP1</name>
+<name type="synonym">FRAP2</name>
+<name type="synonym">RAFT1</name>
+<name type="synonym">RAPT1</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1994" name="Nature" volume="369" first="756" last="758">
+<title>A mammalian protein targeted by G1-arresting rapamycin-receptor complex.</title>
+<authorList>
+<person name="Brown E.J."/>
+<person name="Albers M.W."/>
+<person name="Shin T.B."/>
+<person name="Ichikawa K."/>
+<person name="Keith C.T."/>
+<person name="Lane W.S."/>
+<person name="Schreiber S.L."/>
+</authorList>
+<dbReference type="PubMed" id="8008069"/>
+<dbReference type="DOI" id="10.1038/369756a0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Brain</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1998" name="Genomics" volume="50" first="187" last="198">
+<title>Molecular cloning and expression analysis of five novel genes in chromosome 1p36.</title>
+<authorList>
+<person name="Onyango P."/>
+<person name="Lubyova B."/>
+<person name="Gardellin P."/>
+<person name="Kurzbauer R."/>
+<person name="Weith A."/>
+</authorList>
+<dbReference type="PubMed" id="9653645"/>
+<dbReference type="DOI" id="10.1006/geno.1997.5186"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2005-03" db="EMBL/GenBank/DDBJ databases">
+<title>Preparation of a set of expression-ready clones of mammalian long cDNAs encoding large proteins by the ORF trap cloning method.</title>
+<authorList>
+<person name="Nakajima D."/>
+<person name="Saito K."/>
+<person name="Yamakawa H."/>
+<person name="Kikuno R.F."/>
+<person name="Nakayama M."/>
+<person name="Ohara R."/>
+<person name="Okazaki N."/>
+<person name="Koga H."/>
+<person name="Nagase T."/>
+<person name="Ohara O."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2006" name="Nature" volume="441" first="315" last="321">
+<title>The DNA sequence and biological annotation of human chromosome 1.</title>
+<authorList>
+<person name="Gregory S.G."/>
+<person name="Barlow K.F."/>
+<person name="McLay K.E."/>
+<person name="Kaul R."/>
+<person name="Swarbreck D."/>
+<person name="Dunham A."/>
+<person name="Scott C.E."/>
+<person name="Howe K.L."/>
+<person name="Woodfine K."/>
+<person name="Spencer C.C.A."/>
+<person name="Jones M.C."/>
+<person name="Gillson C."/>
+<person name="Searle S."/>
+<person name="Zhou Y."/>
+<person name="Kokocinski F."/>
+<person name="McDonald L."/>
+<person name="Evans R."/>
+<person name="Phillips K."/>
+<person name="Atkinson A."/>
+<person name="Cooper R."/>
+<person name="Jones C."/>
+<person name="Hall R.E."/>
+<person name="Andrews T.D."/>
+<person name="Lloyd C."/>
+<person name="Ainscough R."/>
+<person name="Almeida J.P."/>
+<person name="Ambrose K.D."/>
+<person name="Anderson F."/>
+<person name="Andrew R.W."/>
+<person name="Ashwell R.I.S."/>
+<person name="Aubin K."/>
+<person name="Babbage A.K."/>
+<person name="Bagguley C.L."/>
+<person name="Bailey J."/>
+<person name="Beasley H."/>
+<person name="Bethel G."/>
+<person name="Bird C.P."/>
+<person name="Bray-Allen S."/>
+<person name="Brown J.Y."/>
+<person name="Brown A.J."/>
+<person name="Buckley D."/>
+<person name="Burton J."/>
+<person name="Bye J."/>
+<person name="Carder C."/>
+<person name="Chapman J.C."/>
+<person name="Clark S.Y."/>
+<person name="Clarke G."/>
+<person name="Clee C."/>
+<person name="Cobley V."/>
+<person name="Collier R.E."/>
+<person name="Corby N."/>
+<person name="Coville G.J."/>
+<person name="Davies J."/>
+<person name="Deadman R."/>
+<person name="Dunn M."/>
+<person name="Earthrowl M."/>
+<person name="Ellington A.G."/>
+<person name="Errington H."/>
+<person name="Frankish A."/>
+<person name="Frankland J."/>
+<person name="French L."/>
+<person name="Garner P."/>
+<person name="Garnett J."/>
+<person name="Gay L."/>
+<person name="Ghori M.R.J."/>
+<person name="Gibson R."/>
+<person name="Gilby L.M."/>
+<person name="Gillett W."/>
+<person name="Glithero R.J."/>
+<person name="Grafham D.V."/>
+<person name="Griffiths C."/>
+<person name="Griffiths-Jones S."/>
+<person name="Grocock R."/>
+<person name="Hammond S."/>
+<person name="Harrison E.S.I."/>
+<person name="Hart E."/>
+<person name="Haugen E."/>
+<person name="Heath P.D."/>
+<person name="Holmes S."/>
+<person name="Holt K."/>
+<person name="Howden P.J."/>
+<person name="Hunt A.R."/>
+<person name="Hunt S.E."/>
+<person name="Hunter G."/>
+<person name="Isherwood J."/>
+<person name="James R."/>
+<person name="Johnson C."/>
+<person name="Johnson D."/>
+<person name="Joy A."/>
+<person name="Kay M."/>
+<person name="Kershaw J.K."/>
+<person name="Kibukawa M."/>
+<person name="Kimberley A.M."/>
+<person name="King A."/>
+<person name="Knights A.J."/>
+<person name="Lad H."/>
+<person name="Laird G."/>
+<person name="Lawlor S."/>
+<person name="Leongamornlert D.A."/>
+<person name="Lloyd D.M."/>
+<person name="Loveland J."/>
+<person name="Lovell J."/>
+<person name="Lush M.J."/>
+<person name="Lyne R."/>
+<person name="Martin S."/>
+<person name="Mashreghi-Mohammadi M."/>
+<person name="Matthews L."/>
+<person name="Matthews N.S.W."/>
+<person name="McLaren S."/>
+<person name="Milne S."/>
+<person name="Mistry S."/>
+<person name="Moore M.J.F."/>
+<person name="Nickerson T."/>
+<person name="O'Dell C.N."/>
+<person name="Oliver K."/>
+<person name="Palmeiri A."/>
+<person name="Palmer S.A."/>
+<person name="Parker A."/>
+<person name="Patel D."/>
+<person name="Pearce A.V."/>
+<person name="Peck A.I."/>
+<person name="Pelan S."/>
+<person name="Phelps K."/>
+<person name="Phillimore B.J."/>
+<person name="Plumb R."/>
+<person name="Rajan J."/>
+<person name="Raymond C."/>
+<person name="Rouse G."/>
+<person name="Saenphimmachak C."/>
+<person name="Sehra H.K."/>
+<person name="Sheridan E."/>
+<person name="Shownkeen R."/>
+<person name="Sims S."/>
+<person name="Skuce C.D."/>
+<person name="Smith M."/>
+<person name="Steward C."/>
+<person name="Subramanian S."/>
+<person name="Sycamore N."/>
+<person name="Tracey A."/>
+<person name="Tromans A."/>
+<person name="Van Helmond Z."/>
+<person name="Wall M."/>
+<person name="Wallis J.M."/>
+<person name="White S."/>
+<person name="Whitehead S.L."/>
+<person name="Wilkinson J.E."/>
+<person name="Willey D.L."/>
+<person name="Williams H."/>
+<person name="Wilming L."/>
+<person name="Wray P.W."/>
+<person name="Wu Z."/>
+<person name="Coulson A."/>
+<person name="Vaudin M."/>
+<person name="Sulston J.E."/>
+<person name="Durbin R.M."/>
+<person name="Hubbard T."/>
+<person name="Wooster R."/>
+<person name="Dunham I."/>
+<person name="Carter N.P."/>
+<person name="McVean G."/>
+<person name="Ross M.T."/>
+<person name="Harrow J."/>
+<person name="Olson M.V."/>
+<person name="Beck S."/>
+<person name="Rogers J."/>
+<person name="Bentley D.R."/>
+</authorList>
+<dbReference type="PubMed" id="16710414"/>
+<dbReference type="DOI" id="10.1038/nature04727"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+<title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+<authorList>
+<consortium name="The MGC Project Team"/>
+</authorList>
+<dbReference type="PubMed" id="15489334"/>
+<dbReference type="DOI" id="10.1101/gr.2596504"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+<source>
+<tissue>Cerebellum</tissue>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2001" name="Genes Immun." volume="2" first="119" last="127">
+<title>The human gene for mannan-binding lectin-associated serine protease-2 (MASP-2), the effector component of the lectin route of complement activation, is part of a tightly linked gene cluster on chromosome 1p36.2-3.</title>
+<authorList>
+<person name="Stover C."/>
+<person name="Endo Y."/>
+<person name="Takahashi M."/>
+<person name="Lynch N."/>
+<person name="Constantinescu C."/>
+<person name="Vorup-Jensen T."/>
+<person name="Thiel S."/>
+<person name="Friedl H."/>
+<person name="Hankeln T."/>
+<person name="Hall R."/>
+<person name="Gregory S."/>
+<person name="Fujita T."/>
+<person name="Schwaeble W."/>
+</authorList>
+<dbReference type="PubMed" id="11426320"/>
+<dbReference type="DOI" id="10.1038/sj.gene.6363745"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1362-2549</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1994" name="Proc. Natl. Acad. Sci. U.S.A." volume="91" first="12574" last="12578">
+<title>RAPT1, a mammalian homolog of yeast Tor, interacts with the FKBP12/rapamycin complex.</title>
+<authorList>
+<person name="Chiu M.I."/>
+<person name="Katz H."/>
+<person name="Berlin V."/>
+</authorList>
+<dbReference type="PubMed" id="7809080"/>
+<dbReference type="DOI" id="10.1073/pnas.91.26.12574"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 1987-2146</scope>
+<scope>TISSUE SPECIFICITY</scope>
+<source>
+<tissue>B-cell</tissue>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1997" name="Biochem. Biophys. Res. Commun." volume="241" first="704" last="709">
+<title>Expression, enzyme activity, and subcellular localization of mammalian target of rapamycin in insulin-responsive cells.</title>
+<authorList>
+<person name="Withers D.J."/>
+<person name="Ouwens D.M."/>
+<person name="Nave B.T."/>
+<person name="van der Zon G.C.M."/>
+<person name="Alarcon C.M."/>
+<person name="Cardenas M.E."/>
+<person name="Heitman J."/>
+<person name="Maassen J.A."/>
+<person name="Shepherd P.R."/>
+</authorList>
+<dbReference type="PubMed" id="9434772"/>
+<dbReference type="DOI" id="10.1006/bbrc.1997.7878"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>AUTOPHOSPHORYLATION</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2002" name="Biochim. Biophys. Acta" volume="1542" first="41" last="56">
+<title>Characterization of ubiquilin 1, an mTOR-interacting protein.</title>
+<authorList>
+<person name="Wu S."/>
+<person name="Mikhailov A."/>
+<person name="Kallo-Hosein H."/>
+<person name="Hara K."/>
+<person name="Yonezawa K."/>
+<person name="Avruch J."/>
+</authorList>
+<dbReference type="PubMed" id="11853878"/>
+<dbReference type="DOI" id="10.1016/s0167-4889(01)00164-1"/>
+</citation>
+<scope>INTERACTION WITH UBQLN1</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2002" name="Cell" volume="110" first="163" last="175">
+<title>mTOR interacts with raptor to form a nutrient-sensitive complex that signals to the growth machinery.</title>
+<authorList>
+<person name="Kim D.-H."/>
+<person name="Sarbassov D.D."/>
+<person name="Ali S.M."/>
+<person name="King J.E."/>
+<person name="Latek R.R."/>
+<person name="Erdjument-Bromage H."/>
+<person name="Tempst P."/>
+<person name="Sabatini D.M."/>
+</authorList>
+<dbReference type="PubMed" id="12150925"/>
+<dbReference type="DOI" id="10.1016/s0092-8674(02)00808-5"/>
+</citation>
+<scope>FUNCTION IN NUTRIENT-DEPENDENT CELL GROWTH</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>FUNCTION IN PHOSPHORYLATION OF RPS6KB1</scope>
+<scope>INTERACTION WITH RPTOR</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2002" name="Cell" volume="110" first="177" last="189">
+<title>Raptor, a binding partner of target of rapamycin (TOR), mediates TOR action.</title>
+<authorList>
+<person name="Hara K."/>
+<person name="Maruki Y."/>
+<person name="Long X."/>
+<person name="Yoshino K."/>
+<person name="Oshiro N."/>
+<person name="Hidayat S."/>
+<person name="Tokunaga C."/>
+<person name="Avruch J."/>
+<person name="Yonezawa K."/>
+</authorList>
+<dbReference type="PubMed" id="12150926"/>
+<dbReference type="DOI" id="10.1016/s0092-8674(02)00833-4"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH RPTOR</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2002" name="EMBO Rep." volume="3" first="988" last="994">
+<title>The FKBP12-rapamycin-associated protein (FRAP) is a CLIP-170 kinase.</title>
+<authorList>
+<person name="Choi J.H."/>
+<person name="Bertram P.G."/>
+<person name="Drenan R."/>
+<person name="Carvalho J."/>
+<person name="Zhou H.H."/>
+<person name="Zheng X.F."/>
+</authorList>
+<dbReference type="PubMed" id="12231510"/>
+<dbReference type="DOI" id="10.1093/embo-reports/kvf197"/>
+</citation>
+<scope>INTERACTION WITH CLIP1</scope>
+<scope>FUNCTION IN PHOSPHORYLATION OF CLIP1</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="31423" last="31429">
+<title>Regulation of ribosomal S6 kinase 2 by mammalian target of rapamycin.</title>
+<authorList>
+<person name="Park I.H."/>
+<person name="Bachmann R."/>
+<person name="Shirazi H."/>
+<person name="Chen J."/>
+</authorList>
+<dbReference type="PubMed" id="12087098"/>
+<dbReference type="DOI" id="10.1074/jbc.m204080200"/>
+</citation>
+<scope>FUNCTION IN PHOSPHORYLATION OF RPS6KB2</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="2002" name="Mol. Cell" volume="10" first="457" last="468">
+<title>Two TOR complexes, only one of which is rapamycin sensitive, have distinct roles in cell growth control.</title>
+<authorList>
+<person name="Loewith R."/>
+<person name="Jacinto E."/>
+<person name="Wullschleger S."/>
+<person name="Lorberg A."/>
+<person name="Crespo J.L."/>
+<person name="Bonenfant D."/>
+<person name="Oppliger W."/>
+<person name="Jenoe P."/>
+<person name="Hall M.N."/>
+</authorList>
+<dbReference type="PubMed" id="12408816"/>
+<dbReference type="DOI" id="10.1016/s1097-2765(02)00636-6"/>
+</citation>
+<scope>INTERACTION WITH MLST8 AND RPTOR</scope>
+<scope>IDENTIFICATION IN THE MTORC1 COMPLEX</scope>
+<scope>TISSUE SPECIFICITY</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2002" name="Proc. Natl. Acad. Sci. U.S.A." volume="99" first="4319" last="4324">
+<title>FKBP12-rapamycin-associated protein associates with mitochondria and senses osmotic stress via mitochondrial dysfunction.</title>
+<authorList>
+<person name="Desai B.N."/>
+<person name="Myers B.R."/>
+<person name="Schreiber S.L."/>
+</authorList>
+<dbReference type="PubMed" id="11930000"/>
+<dbReference type="DOI" id="10.1073/pnas.261702698"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2003" name="Cell" volume="115" first="577" last="590">
+<title>TSC2 mediates cellular energy response to control cell growth and survival.</title>
+<authorList>
+<person name="Inoki K."/>
+<person name="Zhu T."/>
+<person name="Guan K.L."/>
+</authorList>
+<dbReference type="PubMed" id="14651849"/>
+<dbReference type="DOI" id="10.1016/s0092-8674(03)00929-2"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<scope>FUNCTION IN RESPONSE TO LOW CELLULAR ENERGY</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2003" name="Mol. Cell" volume="11" first="895" last="904">
+<title>GbetaL, a positive regulator of the rapamycin-sensitive pathway required for the nutrient-sensitive interaction between raptor and mTOR.</title>
+<authorList>
+<person name="Kim D.-H."/>
+<person name="Sarbassov D.D."/>
+<person name="Ali S.M."/>
+<person name="Latek R.R."/>
+<person name="Guntur K.V.P."/>
+<person name="Erdjument-Bromage H."/>
+<person name="Tempst P."/>
+<person name="Sabatini D.M."/>
+</authorList>
+<dbReference type="PubMed" id="12718876"/>
+<dbReference type="DOI" id="10.1016/s1097-2765(03)00114-x"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INTERACTION WITH MLST8</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2004" name="Curr. Biol." volume="14" first="1296" last="1302">
+<title>Rictor, a novel binding partner of mTOR, defines a rapamycin-insensitive and raptor-independent pathway that regulates the cytoskeleton.</title>
+<authorList>
+<person name="Sarbassov D.D."/>
+<person name="Ali S.M."/>
+<person name="Kim D.-H."/>
+<person name="Guertin D.A."/>
+<person name="Latek R.R."/>
+<person name="Erdjument-Bromage H."/>
+<person name="Tempst P."/>
+<person name="Sabatini D.M."/>
+</authorList>
+<dbReference type="PubMed" id="15268862"/>
+<dbReference type="DOI" id="10.1016/j.cub.2004.06.054"/>
+</citation>
+<scope>FUNCTION IN PHOSPHORYLATION OF PRKCA</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>FUNCTION IN REGULATION OF THE ACTIN CYTOSKELETON</scope>
+<scope>IDENTIFICATION IN THE MTORC2 COMPLEX</scope>
+<scope>INTERACTION WITH RICTOR</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2004" name="Genes Dev." volume="18" first="2893" last="2904">
+<title>Regulation of mTOR function in response to hypoxia by REDD1 and the TSC1/TSC2 tumor suppressor complex.</title>
+<authorList>
+<person name="Brugarolas J."/>
+<person name="Lei K."/>
+<person name="Hurley R.L."/>
+<person name="Manning B.D."/>
+<person name="Reiling J.H."/>
+<person name="Hafen E."/>
+<person name="Witters L.A."/>
+<person name="Ellisen L.W."/>
+<person name="Kaelin W.G. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="15545625"/>
+<dbReference type="DOI" id="10.1101/gad.1256804"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+<scope>FUNCTION IN RESPONSE TO HYPOXIA</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2004" name="J. Biol. Chem." volume="279" first="772" last="778">
+<title>FKBP12-rapamycin-associated protein or mammalian target of rapamycin (FRAP/mTOR) localization in the endoplasmic reticulum and the Golgi apparatus.</title>
+<authorList>
+<person name="Drenan R.M."/>
+<person name="Liu X."/>
+<person name="Bertram P.G."/>
+<person name="Zheng X.F.S."/>
+</authorList>
+<dbReference type="PubMed" id="14578359"/>
+<dbReference type="DOI" id="10.1074/jbc.m305912200"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2004" name="Nat. Cell Biol." volume="6" first="1122" last="1128">
+<title>Mammalian TOR complex 2 controls the actin cytoskeleton and is rapamycin insensitive.</title>
+<authorList>
+<person name="Jacinto E."/>
+<person name="Loewith R."/>
+<person name="Schmidt A."/>
+<person name="Lin S."/>
+<person name="Ruegg M.A."/>
+<person name="Hall A."/>
+<person name="Hall M.N."/>
+</authorList>
+<dbReference type="PubMed" id="15467718"/>
+<dbReference type="DOI" id="10.1038/ncb1183"/>
+</citation>
+<scope>FUNCTION IN REGULATION OF THE ACTIN CYTOSKELETON</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>FUNCTION IN PHOSPHORYLATION OF PXN</scope>
+<scope>IDENTIFICATION IN THE MTORC2 COMPLEX</scope>
+<scope>INTERACTION WITH RICTOR</scope>
+<scope>AUTOPHOSPHORYLATION</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2005" name="J. Biol. Chem." volume="280" first="26089" last="26093">
+<title>Identification of S6 kinase 1 as a novel mammalian target of rapamycin (mTOR)-phosphorylating kinase.</title>
+<authorList>
+<person name="Holz M.K."/>
+<person name="Blenis J."/>
+</authorList>
+<dbReference type="PubMed" id="15905173"/>
+<dbReference type="DOI" id="10.1074/jbc.m504045200"/>
+</citation>
+<scope>PHOSPHORYLATION AT THR-2446 AND SER-2448</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2005" name="Science" volume="307" first="1098" last="1101">
+<title>Phosphorylation and regulation of Akt/PKB by the rictor-mTOR complex.</title>
+<authorList>
+<person name="Sarbassov D.D."/>
+<person name="Guertin D.A."/>
+<person name="Ali S.M."/>
+<person name="Sabatini D.M."/>
+</authorList>
+<dbReference type="PubMed" id="15718470"/>
+<dbReference type="DOI" id="10.1126/science.1106148"/>
+</citation>
+<scope>FUNCTION IN PHOSPHORYLATION OF AKT1</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2007" name="J. Biol. Chem." volume="282" first="25604" last="25612">
+<title>PRR5, a novel component of mTOR complex 2, regulates platelet-derived growth factor receptor beta expression and signaling.</title>
+<authorList>
+<person name="Woo S.-Y."/>
+<person name="Kim D.-H."/>
+<person name="Jun C.-B."/>
+<person name="Kim Y.-M."/>
+<person name="Haar E.V."/>
+<person name="Lee S.-I."/>
+<person name="Hegg J.W."/>
+<person name="Bandhakavi S."/>
+<person name="Griffin T.J."/>
+<person name="Kim D.-H."/>
+</authorList>
+<dbReference type="PubMed" id="17599906"/>
+<dbReference type="DOI" id="10.1074/jbc.m704343200"/>
+</citation>
+<scope>IDENTIFICATION IN THE MTORC2 COMPLEX</scope>
+<scope>INTERACTION WITH PRR5</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2007" name="Mol. Cell" volume="25" first="903" last="915">
+<title>PRAS40 is an insulin-regulated inhibitor of the mTORC1 protein kinase.</title>
+<authorList>
+<person name="Sancak Y."/>
+<person name="Thoreen C.C."/>
+<person name="Peterson T.R."/>
+<person name="Lindquist R.A."/>
+<person name="Kang S.A."/>
+<person name="Spooner E."/>
+<person name="Carr S.A."/>
+<person name="Sabatini D.M."/>
+</authorList>
+<dbReference type="PubMed" id="17386266"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2007.03.003"/>
+</citation>
+<scope>INTERACTION WITH AKT1S1</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2008" name="Biochem. J." volume="416" first="375" last="385">
+<title>mTOR complex 2 (mTORC2) controls hydrophobic motif phosphorylation and activation of serum- and glucocorticoid-induced protein kinase 1 (SGK1).</title>
+<authorList>
+<person name="Garcia-Martinez J.M."/>
+<person name="Alessi D.R."/>
+</authorList>
+<dbReference type="PubMed" id="18925875"/>
+<dbReference type="DOI" id="10.1042/bj20081668"/>
+</citation>
+<scope>IDENTIFICATION IN THE MTORC1 AND MTORC2 COMPLEXES</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>FUNCTION IN PHOSPHORYLATION OF RPS6KB1 AND SGK1</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2008" name="Cell Metab." volume="8" first="224" last="236">
+<title>SREBP activity is regulated by mTORC1 and contributes to Akt-dependent cell growth.</title>
+<authorList>
+<person name="Porstmann T."/>
+<person name="Santos C.R."/>
+<person name="Griffiths B."/>
+<person name="Cully M."/>
+<person name="Wu M."/>
+<person name="Leevers S."/>
+<person name="Griffiths J.R."/>
+<person name="Chung Y.L."/>
+<person name="Schulze A."/>
+</authorList>
+<dbReference type="PubMed" id="18762023"/>
+<dbReference type="DOI" id="10.1016/j.cmet.2008.07.007"/>
+</citation>
+<scope>FUNCTION IN LIPID SYNTHESIS AND CELL GROWTH</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2008" name="Mol. Cell" volume="31" first="438" last="448">
+<title>Kinase-selective enrichment enables quantitative phosphoproteomics of the kinome across the cell cycle.</title>
+<authorList>
+<person name="Daub H."/>
+<person name="Olsen J.V."/>
+<person name="Bairlein M."/>
+<person name="Gnad F."/>
+<person name="Oppermann F.S."/>
+<person name="Korner R."/>
+<person name="Greff Z."/>
+<person name="Keri G."/>
+<person name="Stemmann O."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="18691976"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2008.07.007"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-567</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="29">
+<citation type="journal article" date="2008" name="Proc. Natl. Acad. Sci. U.S.A." volume="105" first="10762" last="10767">
+<title>A quantitative atlas of mitotic phosphorylation.</title>
+<authorList>
+<person name="Dephoure N."/>
+<person name="Zhou C."/>
+<person name="Villen J."/>
+<person name="Beausoleil S.A."/>
+<person name="Bakalarski C.E."/>
+<person name="Elledge S.J."/>
+<person name="Gygi S.P."/>
+</authorList>
+<dbReference type="PubMed" id="18669648"/>
+<dbReference type="DOI" id="10.1073/pnas.0805139105"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-2478 AND SER-2481</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="30">
+<citation type="journal article" date="2008" name="Science" volume="320" first="1496" last="1501">
+<title>The Rag GTPases bind raptor and mediate amino acid signaling to mTORC1.</title>
+<authorList>
+<person name="Sancak Y."/>
+<person name="Peterson T.R."/>
+<person name="Shaul Y.D."/>
+<person name="Lindquist R.A."/>
+<person name="Thoreen C.C."/>
+<person name="Bar-Peled L."/>
+<person name="Sabatini D.M."/>
+</authorList>
+<dbReference type="PubMed" id="18497260"/>
+<dbReference type="DOI" id="10.1126/science.1157535"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>ACTIVITY REGULATION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="31">
+<citation type="journal article" date="2009" name="Cell" volume="137" first="873" last="886">
+<title>DEPTOR is an mTOR inhibitor frequently overexpressed in multiple myeloma cells and required for their survival.</title>
+<authorList>
+<person name="Peterson T.R."/>
+<person name="Laplante M."/>
+<person name="Thoreen C.C."/>
+<person name="Sancak Y."/>
+<person name="Kang S.A."/>
+<person name="Kuehl W.M."/>
+<person name="Gray N.S."/>
+<person name="Sabatini D.M."/>
+</authorList>
+<dbReference type="PubMed" id="19446321"/>
+<dbReference type="DOI" id="10.1016/j.cell.2009.03.046"/>
+</citation>
+<scope>INTERACTION WITH DEPTOR</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="32">
+<citation type="journal article" date="2009" name="Mol. Cell. Biol." volume="29" first="4308" last="4324">
+<title>Site-specific mTOR phosphorylation promotes mTORC1-mediated signaling and cell growth.</title>
+<authorList>
+<person name="Acosta-Jaquez H.A."/>
+<person name="Keller J.A."/>
+<person name="Foster K.G."/>
+<person name="Ekim B."/>
+<person name="Soliman G.A."/>
+<person name="Feener E.P."/>
+<person name="Ballif B.A."/>
+<person name="Fingar D.C."/>
+</authorList>
+<dbReference type="PubMed" id="19487463"/>
+<dbReference type="DOI" id="10.1128/mcb.01665-08"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-1261</scope>
+</reference>
+<reference key="33">
+<citation type="journal article" date="2009" name="Mol. Cell. Proteomics" volume="8" first="1751" last="1764">
+<title>Large-scale proteomics analysis of the human kinome.</title>
+<authorList>
+<person name="Oppermann F.S."/>
+<person name="Gnad F."/>
+<person name="Olsen J.V."/>
+<person name="Hornberger R."/>
+<person name="Greff Z."/>
+<person name="Keri G."/>
+<person name="Mann M."/>
+<person name="Daub H."/>
+</authorList>
+<dbReference type="PubMed" id="19369195"/>
+<dbReference type="DOI" id="10.1074/mcp.m800588-mcp200"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-567</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="34">
+<citation type="journal article" date="2009" name="Science" volume="325" first="834" last="840">
+<title>Lysine acetylation targets protein complexes and co-regulates major cellular functions.</title>
+<authorList>
+<person name="Choudhary C."/>
+<person name="Kumar C."/>
+<person name="Gnad F."/>
+<person name="Nielsen M.L."/>
+<person name="Rehman M."/>
+<person name="Walther T.C."/>
+<person name="Olsen J.V."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="19608861"/>
+<dbReference type="DOI" id="10.1126/science.1175371"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT LYS-1218</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="35">
+<citation type="journal article" date="2010" name="Amino Acids" volume="38" first="223" last="228">
+<title>mTOR phosphorylated at S2448 binds to raptor and rictor.</title>
+<authorList>
+<person name="Rosner M."/>
+<person name="Siegel N."/>
+<person name="Valli A."/>
+<person name="Fuchs C."/>
+<person name="Hengstschlager M."/>
+</authorList>
+<dbReference type="PubMed" id="19145465"/>
+<dbReference type="DOI" id="10.1007/s00726-008-0230-7"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-2448</scope>
+</reference>
+<reference key="36">
+<citation type="journal article" date="2010" name="Cell" volume="141" first="290" last="303">
+<title>Ragulator-Rag complex targets mTORC1 to the lysosomal surface and is necessary for its activation by amino acids.</title>
+<authorList>
+<person name="Sancak Y."/>
+<person name="Bar-Peled L."/>
+<person name="Zoncu R."/>
+<person name="Markhard A.L."/>
+<person name="Nada S."/>
+<person name="Sabatini D.M."/>
+</authorList>
+<dbReference type="PubMed" id="20381137"/>
+<dbReference type="DOI" id="10.1016/j.cell.2010.02.024"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="37">
+<citation type="journal article" date="2010" name="Curr. Biol." volume="20" first="1093" last="1098">
+<title>DAP1, a novel substrate of mTOR, negatively regulates autophagy.</title>
+<authorList>
+<person name="Koren I."/>
+<person name="Reem E."/>
+<person name="Kimchi A."/>
+</authorList>
+<dbReference type="PubMed" id="20537536"/>
+<dbReference type="DOI" id="10.1016/j.cub.2010.04.041"/>
+</citation>
+<scope>FUNCTION IN PHOSPHORYLATION OF DAP</scope>
+<scope>FUNCTION IN AUTOPHAGY</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="38">
+<citation type="journal article" date="2010" name="Genes Dev." volume="24" first="1939" last="1950">
+<title>A genetic screen identifies the Triple T complex required for DNA damage signaling and ATM and ATR stability.</title>
+<authorList>
+<person name="Hurov K.E."/>
+<person name="Cotta-Ramusino C."/>
+<person name="Elledge S.J."/>
+</authorList>
+<dbReference type="PubMed" id="20810650"/>
+<dbReference type="DOI" id="10.1101/gad.1934210"/>
+</citation>
+<scope>INTERACTION WITH TTI1</scope>
+</reference>
+<reference key="39">
+<citation type="journal article" date="2010" name="Genes Dev." volume="24" first="2019" last="2030">
+<title>Tel2 structure and function in the Hsp90-dependent maturation of mTOR and ATR complexes.</title>
+<authorList>
+<person name="Takai H."/>
+<person name="Xie Y."/>
+<person name="de Lange T."/>
+<person name="Pavletich N.P."/>
+</authorList>
+<dbReference type="PubMed" id="20801936"/>
+<dbReference type="DOI" id="10.1101/gad.1956410"/>
+</citation>
+<scope>INTERACTION WITH TELO2</scope>
+</reference>
+<reference key="40">
+<citation type="journal article" date="2010" name="J. Biol. Chem." volume="285" first="20109" last="20116">
+<title>Tti1 and Tel2 are critical factors in mammalian target of rapamycin complex assembly.</title>
+<authorList>
+<person name="Kaizuka T."/>
+<person name="Hara T."/>
+<person name="Oshiro N."/>
+<person name="Kikkawa U."/>
+<person name="Yonezawa K."/>
+<person name="Takehana K."/>
+<person name="Iemura S."/>
+<person name="Natsume T."/>
+<person name="Mizushima N."/>
+</authorList>
+<dbReference type="PubMed" id="20427287"/>
+<dbReference type="DOI" id="10.1074/jbc.m110.121699"/>
+</citation>
+<scope>INTERACTION WITH TELO2 AND TTI1</scope>
+</reference>
+<reference key="41">
+<citation type="journal article" date="2010" name="Mol. Cell. Biol." volume="30" first="3749" last="3757">
+<title>mTORC1 directly phosphorylates and regulates human MAF1.</title>
+<authorList>
+<person name="Michels A.A."/>
+<person name="Robitaille A.M."/>
+<person name="Buczynski-Ruchonnet D."/>
+<person name="Hodroj W."/>
+<person name="Reina J.H."/>
+<person name="Hall M.N."/>
+<person name="Hernandez N."/>
+</authorList>
+<dbReference type="PubMed" id="20516213"/>
+<dbReference type="DOI" id="10.1128/mcb.00319-10"/>
+</citation>
+<scope>FUNCTION IN REGULATION OF RNA POLYMERASE III TRANSCRIPTION</scope>
+<scope>FUNCTION IN PHOSPHORYLATION OF MAF1</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="42">
+<citation type="journal article" date="2010" name="Sci. Signal." volume="3" first="RA3" last="RA3">
+<title>Quantitative phosphoproteomics reveals widespread full phosphorylation site occupancy during mitosis.</title>
+<authorList>
+<person name="Olsen J.V."/>
+<person name="Vermeulen M."/>
+<person name="Santamaria A."/>
+<person name="Kumar C."/>
+<person name="Miller M.L."/>
+<person name="Jensen L.J."/>
+<person name="Gnad F."/>
+<person name="Cox J."/>
+<person name="Jensen T.S."/>
+<person name="Nigg E.A."/>
+<person name="Brunak S."/>
+<person name="Mann M."/>
+</authorList>
+<dbReference type="PubMed" id="20068231"/>
+<dbReference type="DOI" id="10.1126/scisignal.2000475"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-567 AND THR-1162</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+</source>
+</reference>
+<reference key="43">
+<citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+<title>Initial characterization of the human central proteome.</title>
+<authorList>
+<person name="Burkard T.R."/>
+<person name="Planyavsky M."/>
+<person name="Kaupe I."/>
+<person name="Breitwieser F.P."/>
+<person name="Buerckstuemmer T."/>
+<person name="Bennett K.L."/>
+<person name="Superti-Furga G."/>
+<person name="Colinge J."/>
+</authorList>
+<dbReference type="PubMed" id="21269460"/>
+<dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="44">
+<citation type="journal article" date="2011" name="Mol. Cell. Biol." volume="31" first="2787" last="2801">
+<title>mTOR kinase domain phosphorylation promotes mTORC1 signaling, cell growth, and cell cycle progression.</title>
+<authorList>
+<person name="Ekim B."/>
+<person name="Magnuson B."/>
+<person name="Acosta-Jaquez H.A."/>
+<person name="Keller J.A."/>
+<person name="Feener E.P."/>
+<person name="Fingar D.C."/>
+</authorList>
+<dbReference type="PubMed" id="21576368"/>
+<dbReference type="DOI" id="10.1128/mcb.05437-11"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-2159; THR-2164 AND SER-2481</scope>
+<scope>MUTAGENESIS OF SER-2159 AND THR-2164</scope>
+</reference>
+<reference key="45">
+<citation type="journal article" date="2011" name="Sci. Signal." volume="4" first="RS3" last="RS3">
+<title>System-wide temporal characterization of the proteome and phosphoproteome of human embryonic stem cell differentiation.</title>
+<authorList>
+<person name="Rigbolt K.T."/>
+<person name="Prokhorova T.A."/>
+<person name="Akimov V."/>
+<person name="Henningsen J."/>
+<person name="Johansen P.T."/>
+<person name="Kratchmarova I."/>
+<person name="Kassem M."/>
+<person name="Mann M."/>
+<person name="Olsen J.V."/>
+<person name="Blagoev B."/>
+</authorList>
+<dbReference type="PubMed" id="21406692"/>
+<dbReference type="DOI" id="10.1126/scisignal.2001570"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="46">
+<citation type="journal article" date="2011" name="Science" volume="332" first="1317" last="1322">
+<title>The mTOR-regulated phosphoproteome reveals a mechanism of mTORC1-mediated inhibition of growth factor signaling.</title>
+<authorList>
+<person name="Hsu P.P."/>
+<person name="Kang S.A."/>
+<person name="Rameseder J."/>
+<person name="Zhang Y."/>
+<person name="Ottina K.A."/>
+<person name="Lim D."/>
+<person name="Peterson T.R."/>
+<person name="Choi Y."/>
+<person name="Gray N.S."/>
+<person name="Yaffe M.B."/>
+<person name="Marto J.A."/>
+<person name="Sabatini D.M."/>
+</authorList>
+<dbReference type="PubMed" id="21659604"/>
+<dbReference type="DOI" id="10.1126/science.1199498"/>
+</citation>
+<scope>FUNCTION IN PHOSPHORYLATION OF GRB10</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+<scope>FUNCTION IN INSR-DEPENDENT SIGNALING</scope>
+</reference>
+<reference key="47">
+<citation type="journal article" date="2012" name="Autophagy" volume="8" first="903" last="914">
+<title>MTORC1 functions as a transcriptional regulator of autophagy by preventing nuclear transport of TFEB.</title>
+<authorList>
+<person name="Martina J.A."/>
+<person name="Chen Y."/>
+<person name="Gucek M."/>
+<person name="Puertollano R."/>
+</authorList>
+<dbReference type="PubMed" id="22576015"/>
+<dbReference type="DOI" id="10.4161/auto.19653"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="48">
+<citation type="journal article" date="2012" name="EMBO J." volume="31" first="1095" last="1108">
+<title>A lysosome-to-nucleus signalling mechanism senses and regulates the lysosome via mTOR and TFEB.</title>
+<authorList>
+<person name="Settembre C."/>
+<person name="Zoncu R."/>
+<person name="Medina D.L."/>
+<person name="Vetrini F."/>
+<person name="Erdin S."/>
+<person name="Erdin S."/>
+<person name="Huynh T."/>
+<person name="Ferron M."/>
+<person name="Karsenty G."/>
+<person name="Vellard M.C."/>
+<person name="Facchinetti V."/>
+<person name="Sabatini D.M."/>
+<person name="Ballabio A."/>
+</authorList>
+<dbReference type="PubMed" id="22343943"/>
+<dbReference type="DOI" id="10.1038/emboj.2012.32"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="49">
+<citation type="journal article" date="2012" name="Sci. Signal." volume="5" first="RA42" last="RA42">
+<title>The transcription factor TFEB links mTORC1 signaling to transcriptional control of lysosome homeostasis.</title>
+<authorList>
+<person name="Roczniak-Ferguson A."/>
+<person name="Petit C.S."/>
+<person name="Froehlich F."/>
+<person name="Qian S."/>
+<person name="Ky J."/>
+<person name="Angarola B."/>
+<person name="Walther T.C."/>
+<person name="Ferguson S.M."/>
+</authorList>
+<dbReference type="PubMed" id="22692423"/>
+<dbReference type="DOI" id="10.1126/scisignal.2002790"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>CATALYTIC ACTIVITY</scope>
+</reference>
+<reference key="50">
+<citation type="journal article" date="2012" name="EMBO Mol. Med." volume="4" first="1043" last="1056">
+<title>5-HT(6) receptor recruitment of mTOR as a mechanism for perturbed cognition in schizophrenia.</title>
+<authorList>
+<person name="Meffre J."/>
+<person name="Chaumont-Dubel S."/>
+<person name="Mannoury la Cour C."/>
+<person name="Loiseau F."/>
+<person name="Watson D.J."/>
+<person name="Dekeyne A."/>
+<person name="Seveno M."/>
+<person name="Rivet J.M."/>
+<person name="Gaven F."/>
+<person name="Deleris P."/>
+<person name="Herve D."/>
+<person name="Fone K.C."/>
+<person name="Bockaert J."/>
+<person name="Millan M.J."/>
+<person name="Marin P."/>
+</authorList>
+<dbReference type="PubMed" id="23027611"/>
+<dbReference type="DOI" id="10.1002/emmm.201201410"/>
+</citation>
+<scope>INTERACTION WITH HTR6</scope>
+</reference>
+<reference key="51">
+<citation type="journal article" date="2012" name="Proc. Natl. Acad. Sci. U.S.A." volume="109" first="12449" last="12454">
+<title>N-terminal acetylome analyses and functional insights of the N-terminal acetyltransferase NatB.</title>
+<authorList>
+<person name="Van Damme P."/>
+<person name="Lasa M."/>
+<person name="Polevoda B."/>
+<person name="Gazquez C."/>
+<person name="Elosegui-Artola A."/>
+<person name="Kim D.S."/>
+<person name="De Juan-Pardo E."/>
+<person name="Demeyer K."/>
+<person name="Hole K."/>
+<person name="Larrea E."/>
+<person name="Timmerman E."/>
+<person name="Prieto J."/>
+<person name="Arnesen T."/>
+<person name="Sherman F."/>
+<person name="Gevaert K."/>
+<person name="Aldabe R."/>
+</authorList>
+<dbReference type="PubMed" id="22814378"/>
+<dbReference type="DOI" id="10.1073/pnas.1210303109"/>
+</citation>
+<scope>ACETYLATION [LARGE SCALE ANALYSIS] AT MET-1</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="52">
+<citation type="journal article" date="2013" name="J. Cancer Biol. Res." volume="1">
+<title>The potential role of BRCA1-associated ATM activator-1 (BRAT1) in regulation of mTOR.</title>
+<authorList>
+<person name="So E.Y."/>
+<person name="Ouchi T."/>
+</authorList>
+<dbReference type="PubMed" id="25657994"/>
+</citation>
+<scope>INTERACTION WITH BRAT1</scope>
+</reference>
+<reference key="53">
+<citation type="journal article" date="2013" name="J. Cell Biol." volume="203" first="595" last="604">
+<title>Phosphorylation of the TOR ATP binding domain by AGC kinase constitutes a novel mode of TOR inhibition.</title>
+<authorList>
+<person name="Halova L."/>
+<person name="Du W."/>
+<person name="Kirkham S."/>
+<person name="Smith D.L."/>
+<person name="Petersen J."/>
+</authorList>
+<dbReference type="PubMed" id="24247430"/>
+<dbReference type="DOI" id="10.1083/jcb.201305103"/>
+</citation>
+<scope>PHOSPHORYLATION AT THR-2173</scope>
+<scope>MUTAGENESIS OF THR-2173</scope>
+</reference>
+<reference key="54">
+<citation type="journal article" date="2013" name="J. Proteome Res." volume="12" first="260" last="271">
+<title>Toward a comprehensive characterization of a human cancer cell phosphoproteome.</title>
+<authorList>
+<person name="Zhou H."/>
+<person name="Di Palma S."/>
+<person name="Preisinger C."/>
+<person name="Peng M."/>
+<person name="Polat A.N."/>
+<person name="Heck A.J."/>
+<person name="Mohammed S."/>
+</authorList>
+<dbReference type="PubMed" id="23186163"/>
+<dbReference type="DOI" id="10.1021/pr300630k"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-1261</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Cervix carcinoma</tissue>
+<tissue>Erythroleukemia</tissue>
+</source>
+</reference>
+<reference key="55">
+<citation type="journal article" date="2013" name="PLoS ONE" volume="8" first="E65586" last="E65586">
+<title>Interaction between NBS1 and the mTOR/Rictor/SIN1 complex through specific domains.</title>
+<authorList>
+<person name="Wang J.Q."/>
+<person name="Chen J.H."/>
+<person name="Chen Y.C."/>
+<person name="Chen M.Y."/>
+<person name="Hsieh C.Y."/>
+<person name="Teng S.C."/>
+<person name="Wu K.J."/>
+</authorList>
+<dbReference type="PubMed" id="23762398"/>
+<dbReference type="DOI" id="10.1371/journal.pone.0065586"/>
+</citation>
+<scope>INTERACTION WITH NBN</scope>
+</reference>
+<reference key="56">
+<citation type="journal article" date="2013" name="Science" volume="339" first="1320" last="1323">
+<title>Quantitative phosphoproteomics reveal mTORC1 activates de novo pyrimidine synthesis.</title>
+<authorList>
+<person name="Robitaille A.M."/>
+<person name="Christen S."/>
+<person name="Shimobayashi M."/>
+<person name="Cornu M."/>
+<person name="Fava L.L."/>
+<person name="Moes S."/>
+<person name="Prescianotto-Baschong C."/>
+<person name="Sauer U."/>
+<person name="Jenoe P."/>
+<person name="Hall M.N."/>
+</authorList>
+<dbReference type="PubMed" id="23429704"/>
+<dbReference type="DOI" id="10.1126/science.1228771"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>PHOSPHORYLATION OF RPS6KB1</scope>
+<scope>REGULATION OF PYRIMIDINE SYNTHESIS</scope>
+</reference>
+<reference key="57">
+<citation type="journal article" date="2013" name="Science" volume="339" first="1323" last="1328">
+<title>Stimulation of de novo pyrimidine synthesis by growth signaling through mTOR and S6K1.</title>
+<authorList>
+<person name="Ben-Sahra I."/>
+<person name="Howell J.J."/>
+<person name="Asara J.M."/>
+<person name="Manning B.D."/>
+</authorList>
+<dbReference type="PubMed" id="23429703"/>
+<dbReference type="DOI" id="10.1126/science.1228792"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>PHOSPHORYLATION OF RPS6KB1</scope>
+<scope>REGULATION OF PYRIMIDINE SYNTHESIS</scope>
+</reference>
+<reference key="58">
+<citation type="journal article" date="2014" name="J. Proteomics" volume="96" first="253" last="262">
+<title>An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.</title>
+<authorList>
+<person name="Bian Y."/>
+<person name="Song C."/>
+<person name="Cheng K."/>
+<person name="Dong M."/>
+<person name="Wang F."/>
+<person name="Huang J."/>
+<person name="Sun D."/>
+<person name="Wang L."/>
+<person name="Ye M."/>
+<person name="Zou H."/>
+</authorList>
+<dbReference type="PubMed" id="24275569"/>
+<dbReference type="DOI" id="10.1016/j.jprot.2013.11.014"/>
+</citation>
+<scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-2448</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+<source>
+<tissue>Liver</tissue>
+</source>
+</reference>
+<reference key="59">
+<citation type="journal article" date="2015" name="Am. J. Med. Genet. A" volume="167" first="1659" last="1667">
+<title>A germline MTOR mutation in Aboriginal Australian siblings with intellectual disability, dysmorphism, macrocephaly, and small thoraces.</title>
+<authorList>
+<person name="Baynam G."/>
+<person name="Overkov A."/>
+<person name="Davis M."/>
+<person name="Mina K."/>
+<person name="Schofield L."/>
+<person name="Allcock R."/>
+<person name="Laing N."/>
+<person name="Cook M."/>
+<person name="Dawkins H."/>
+<person name="Goldblatt J."/>
+</authorList>
+<dbReference type="PubMed" id="25851998"/>
+<dbReference type="DOI" id="10.1002/ajmg.a.37070"/>
+</citation>
+<scope>INVOLVEMENT IN SKS</scope>
+<scope>VARIANT SKS LYS-1799</scope>
+<scope>CHARACTERIZATION OF VARIANT SKS LYS-1799</scope>
+</reference>
+<reference key="60">
+<citation type="journal article" date="2015" name="Ann. Neurol." volume="78" first="375" last="386">
+<title>Somatic mutations in the MTOR gene cause focal cortical dysplasia type IIb.</title>
+<authorList>
+<person name="Nakashima M."/>
+<person name="Saitsu H."/>
+<person name="Takei N."/>
+<person name="Tohyama J."/>
+<person name="Kato M."/>
+<person name="Kitaura H."/>
+<person name="Shiina M."/>
+<person name="Shirozu H."/>
+<person name="Masuda H."/>
+<person name="Watanabe K."/>
+<person name="Ohba C."/>
+<person name="Tsurusaki Y."/>
+<person name="Miyake N."/>
+<person name="Zheng Y."/>
+<person name="Sato T."/>
+<person name="Takebayashi H."/>
+<person name="Ogata K."/>
+<person name="Kameyama S."/>
+<person name="Kakita A."/>
+<person name="Matsumoto N."/>
+</authorList>
+<dbReference type="PubMed" id="26018084"/>
+<dbReference type="DOI" id="10.1002/ana.24444"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INVOLVEMENT IN FCORD2</scope>
+<scope>VARIANTS FCORD2 ASP-1459; PRO-1460; PHE-2215 AND TYR-2215</scope>
+<scope>CHARACTERIZATION OF VARIANTS FCORD2 ASP-1459; PRO-1460; PHE-2215 AND TYR-2215</scope>
+</reference>
+<reference key="61">
+<citation type="journal article" date="2015" name="BMC Med. Genet." volume="16" first="102" last="102">
+<title>Germline activating MTOR mutation arising through gonadal mosaicism in two brothers with megalencephaly and neurodevelopmental abnormalities.</title>
+<authorList>
+<person name="Mroske C."/>
+<person name="Rasmussen K."/>
+<person name="Shinde D.N."/>
+<person name="Huether R."/>
+<person name="Powis Z."/>
+<person name="Lu H.M."/>
+<person name="Baxter R.M."/>
+<person name="McPherson E."/>
+<person name="Tang S."/>
+</authorList>
+<dbReference type="PubMed" id="26542245"/>
+<dbReference type="DOI" id="10.1186/s12881-015-0240-8"/>
+</citation>
+<scope>INVOLVEMENT IN SKS</scope>
+<scope>VARIANT SKS LYS-1799</scope>
+<scope>CHARACTERIZATION OF VARIANT SKS LYS-1799</scope>
+</reference>
+<reference key="62">
+<citation type="journal article" date="2015" name="Nat. Med." volume="21" first="395" last="400">
+<title>Brain somatic mutations in MTOR cause focal cortical dysplasia type II leading to intractable epilepsy.</title>
+<authorList>
+<person name="Lim J.S."/>
+<person name="Kim W.I."/>
+<person name="Kang H.C."/>
+<person name="Kim S.H."/>
+<person name="Park A.H."/>
+<person name="Park E.K."/>
+<person name="Cho Y.W."/>
+<person name="Kim S."/>
+<person name="Kim H.M."/>
+<person name="Kim J.A."/>
+<person name="Kim J."/>
+<person name="Rhee H."/>
+<person name="Kang S.G."/>
+<person name="Kim H.D."/>
+<person name="Kim D."/>
+<person name="Kim D.S."/>
+<person name="Lee J.H."/>
+</authorList>
+<dbReference type="PubMed" id="25799227"/>
+<dbReference type="DOI" id="10.1038/nm.3824"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>INVOLVEMENT IN FCORD2</scope>
+<scope>VARIANTS FCORD2 HIS-624; ASP-1450; ARG-1483; HIS-1709; LYS-1977; CYS-2193; PHE-2215; GLN-2427 AND PRO-2427</scope>
+<scope>CHARACTERIZATION OF VARIANTS FCORD2 ARG-1483; GLN-2427 AND PRO-2427</scope>
+</reference>
+<reference key="63">
+<citation type="journal article" date="2015" name="Nature" volume="519" first="477" last="481">
+<title>SLC38A9 is a component of the lysosomal amino acid sensing machinery that controls mTORC1.</title>
+<authorList>
+<person name="Rebsamen M."/>
+<person name="Pochini L."/>
+<person name="Stasyk T."/>
+<person name="de Araujo M.E."/>
+<person name="Galluccio M."/>
+<person name="Kandasamy R.K."/>
+<person name="Snijder B."/>
+<person name="Fauster A."/>
+<person name="Rudashevskaya E.L."/>
+<person name="Bruckner M."/>
+<person name="Scorzoni S."/>
+<person name="Filipek P.A."/>
+<person name="Huber K.V."/>
+<person name="Bigenzahn J.W."/>
+<person name="Heinz L.X."/>
+<person name="Kraft C."/>
+<person name="Bennett K.L."/>
+<person name="Indiveri C."/>
+<person name="Huber L.A."/>
+<person name="Superti-Furga G."/>
+</authorList>
+<dbReference type="PubMed" id="25561175"/>
+<dbReference type="DOI" id="10.1038/nature14107"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="64">
+<citation type="journal article" date="2015" name="Neurology" volume="84" first="2029" last="2032">
+<title>Hemispheric cortical dysplasia secondary to a mosaic somatic mutation in MTOR.</title>
+<authorList>
+<person name="Leventer R.J."/>
+<person name="Scerri T."/>
+<person name="Marsh A.P."/>
+<person name="Pope K."/>
+<person name="Gillies G."/>
+<person name="Maixner W."/>
+<person name="MacGregor D."/>
+<person name="Harvey A.S."/>
+<person name="Delatycki M.B."/>
+<person name="Amor D.J."/>
+<person name="Crino P."/>
+<person name="Bahlo M."/>
+<person name="Lockhart P.J."/>
+</authorList>
+<dbReference type="PubMed" id="25878179"/>
+<dbReference type="DOI" id="10.1212/wnl.0000000000001594"/>
+</citation>
+<scope>INVOLVEMENT IN FCORD2</scope>
+<scope>VARIANT FCORD2 GLY-1456</scope>
+</reference>
+<reference key="65">
+<citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+<title>N-terminome analysis of the human mitochondrial proteome.</title>
+<authorList>
+<person name="Vaca Jacome A.S."/>
+<person name="Rabilloud T."/>
+<person name="Schaeffer-Reiss C."/>
+<person name="Rompais M."/>
+<person name="Ayoub D."/>
+<person name="Lane L."/>
+<person name="Bairoch A."/>
+<person name="Van Dorsselaer A."/>
+<person name="Carapito C."/>
+</authorList>
+<dbReference type="PubMed" id="25944712"/>
+<dbReference type="DOI" id="10.1002/pmic.201400617"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+</reference>
+<reference key="66">
+<citation type="journal article" date="2015" name="Science" volume="347" first="188" last="194">
+<title>Metabolism. Lysosomal amino acid transporter SLC38A9 signals arginine sufficiency to mTORC1.</title>
+<authorList>
+<person name="Wang S."/>
+<person name="Tsun Z.Y."/>
+<person name="Wolfson R.L."/>
+<person name="Shen K."/>
+<person name="Wyant G.A."/>
+<person name="Plovanich M.E."/>
+<person name="Yuan E.D."/>
+<person name="Jones T.D."/>
+<person name="Chantranupong L."/>
+<person name="Comb W."/>
+<person name="Wang T."/>
+<person name="Bar-Peled L."/>
+<person name="Zoncu R."/>
+<person name="Straub C."/>
+<person name="Kim C."/>
+<person name="Park J."/>
+<person name="Sabatini B.L."/>
+<person name="Sabatini D.M."/>
+</authorList>
+<dbReference type="PubMed" id="25567906"/>
+<dbReference type="DOI" id="10.1126/science.1257132"/>
+</citation>
+<scope>ACTIVITY REGULATION</scope>
+</reference>
+<reference key="67">
+<citation type="journal article" date="2016" name="Dev. Cell" volume="36" first="139" last="151">
+<title>WAC regulates mTOR activity by acting as an adaptor for the TTT and Pontin/Reptin complexes.</title>
+<authorList>
+<person name="David-Morrison G."/>
+<person name="Xu Z."/>
+<person name="Rui Y.N."/>
+<person name="Charng W.L."/>
+<person name="Jaiswal M."/>
+<person name="Yamamoto S."/>
+<person name="Xiong B."/>
+<person name="Zhang K."/>
+<person name="Sandoval H."/>
+<person name="Duraine L."/>
+<person name="Zuo Z."/>
+<person name="Zhang S."/>
+<person name="Bellen H.J."/>
+</authorList>
+<dbReference type="PubMed" id="26812014"/>
+<dbReference type="DOI" id="10.1016/j.devcel.2015.12.019"/>
+</citation>
+<scope>INTERACTION WITH WAC</scope>
+</reference>
+<reference key="68">
+<citation type="journal article" date="2016" name="Dev. Cell" volume="38" first="536" last="547">
+<title>PIKfyve Regulates Vacuole Maturation and Nutrient Recovery following Engulfment.</title>
+<authorList>
+<person name="Krishna S."/>
+<person name="Palm W."/>
+<person name="Lee Y."/>
+<person name="Yang W."/>
+<person name="Bandyopadhyay U."/>
+<person name="Xu H."/>
+<person name="Florey O."/>
+<person name="Thompson C.B."/>
+<person name="Overholtzer M."/>
+</authorList>
+<dbReference type="PubMed" id="27623384"/>
+<dbReference type="DOI" id="10.1016/j.devcel.2016.08.001"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+</reference>
+<reference key="69">
+<citation type="journal article" date="2016" name="Neurol. Genet." volume="2" first="E118" last="E118">
+<title>Germline and somatic mutations in the MTOR gene in focal cortical dysplasia and epilepsy.</title>
+<authorList>
+<person name="Moeller R.S."/>
+<person name="Weckhuysen S."/>
+<person name="Chipaux M."/>
+<person name="Marsan E."/>
+<person name="Taly V."/>
+<person name="Bebin E.M."/>
+<person name="Hiatt S.M."/>
+<person name="Prokop J.W."/>
+<person name="Bowling K.M."/>
+<person name="Mei D."/>
+<person name="Conti V."/>
+<person name="de la Grange P."/>
+<person name="Ferrand-Sorbets S."/>
+<person name="Dorfmueller G."/>
+<person name="Lambrecq V."/>
+<person name="Larsen L.H."/>
+<person name="Leguern E."/>
+<person name="Guerrini R."/>
+<person name="Rubboli G."/>
+<person name="Cooper G.M."/>
+<person name="Baulac S."/>
+</authorList>
+<dbReference type="PubMed" id="27830187"/>
+<dbReference type="DOI" id="10.1212/nxg.0000000000000118"/>
+</citation>
+<scope>INVOLVEMENT IN FCORD2</scope>
+<scope>VARIANTS GLU-1376 AND VAL-2501</scope>
+<scope>VARIANTS FCORD2 SER-1459; PRO-1460; PHE-2215 AND TYR-2215</scope>
+<scope>VARIANTS SKS ARG-1490; ILE-1595; THR-1832; CYS-1888 AND ILE-2327</scope>
+</reference>
+<reference key="70">
+<citation type="journal article" date="2018" name="Sci. Adv." volume="4" first="EAAO5838" last="EAAO5838">
+<title>Mammalian EAK-7 activates alternative mTOR signaling to regulate cell proliferation and migration.</title>
+<authorList>
+<person name="Nguyen J.T."/>
+<person name="Ray C."/>
+<person name="Fox A.L."/>
+<person name="Mendonca D.B."/>
+<person name="Kim J.K."/>
+<person name="Krebsbach P.H."/>
+</authorList>
+<dbReference type="PubMed" id="29750193"/>
+<dbReference type="DOI" id="10.1126/sciadv.aao5838"/>
+</citation>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>INTERACTION WITH MEAK7</scope>
+</reference>
+<reference key="71">
+<citation type="journal article" date="2019" name="Cell Metab." volume="29" first="1306" last="1319">
+<title>Transmembrane 4 L six family member 5 senses arginine for mTORC1 signaling.</title>
+<authorList>
+<person name="Jung J.W."/>
+<person name="Macalino S.J.Y."/>
+<person name="Cui M."/>
+<person name="Kim J.E."/>
+<person name="Kim H.J."/>
+<person name="Song D.G."/>
+<person name="Nam S.H."/>
+<person name="Kim S."/>
+<person name="Choi S."/>
+<person name="Lee J.W."/>
+</authorList>
+<dbReference type="PubMed" id="30956113"/>
+<dbReference type="DOI" id="10.1016/j.cmet.2019.03.005"/>
+</citation>
+<scope>INTERACTION WITH TM4SF5</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MUTAGENESIS OF ASP-2357 AND VAL-2364</scope>
+</reference>
+<reference key="72">
+<citation type="journal article" date="2019" name="Mol. Cell" volume="73" first="1" last="15">
+<title>Pacer is a mediator of mTORC1 and GSK3-TIP60 signaling in regulation of autophagosome maturation and lipid metabolism.</title>
+<authorList>
+<person name="Cheng X."/>
+<person name="Ma X."/>
+<person name="Zhu Q."/>
+<person name="Song D."/>
+<person name="Ding X."/>
+<person name="Li L."/>
+<person name="Jiang X."/>
+<person name="Wang X."/>
+<person name="Tian R."/>
+<person name="Su H."/>
+<person name="Shen Z."/>
+<person name="Chen S."/>
+<person name="Liu T."/>
+<person name="Gong W."/>
+<person name="Liu W."/>
+<person name="Sun Q."/>
+</authorList>
+<dbReference type="PubMed" id="30704899"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2018.12.017"/>
+</citation>
+<scope>FUNCTION</scope>
+</reference>
+<reference key="73">
+<citation type="journal article" date="2019" name="Nat. Cell Biol." volume="21" first="614" last="626">
+<title>The lysosomal GPCR-like protein GPR137B regulates Rag and mTORC1 localization and activity.</title>
+<authorList>
+<person name="Gan L."/>
+<person name="Seki A."/>
+<person name="Shen K."/>
+<person name="Iyer H."/>
+<person name="Han K."/>
+<person name="Hayer A."/>
+<person name="Wollman R."/>
+<person name="Ge X."/>
+<person name="Lin J.R."/>
+<person name="Dey G."/>
+<person name="Talbot W.S."/>
+<person name="Meyer T."/>
+</authorList>
+<dbReference type="PubMed" id="31036939"/>
+<dbReference type="DOI" id="10.1038/s41556-019-0321-6"/>
+</citation>
+<scope>INTERACTION WITH GPR137B</scope>
+</reference>
+<reference key="74">
+<citation type="journal article" date="1996" name="Science" volume="273" first="239" last="242">
+<title>Structure of the FKBP12-rapamycin complex interacting with the binding domain of human FRAP.</title>
+<authorList>
+<person name="Choi J."/>
+<person name="Chen J."/>
+<person name="Schreiber S.L."/>
+<person name="Clardy J."/>
+</authorList>
+<dbReference type="PubMed" id="8662507"/>
+<dbReference type="DOI" id="10.1126/science.273.5272.239"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 2018-2112 IN COMPLEX WITH FKBP1A AND INHIBITOR RAPAMYCIN</scope>
+</reference>
+<reference key="75">
+<citation type="journal article" date="1999" name="Acta Crystallogr. D" volume="55" first="736" last="744">
+<title>Refined structure of the FKBP12-rapamycin-FRB ternary complex at 2.2 A resolution.</title>
+<authorList>
+<person name="Liang J."/>
+<person name="Choi J."/>
+<person name="Clardy J."/>
+</authorList>
+<dbReference type="PubMed" id="10089303"/>
+<dbReference type="DOI" id="10.1107/s0907444998014747"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 2018-2112 IN COMPLEX WITH FKBP1A AND INHIBITOR RAPAMYCIN</scope>
+</reference>
+<reference key="76">
+<citation type="journal article" date="2010" name="J. Struct. Biol." volume="170" first="354" last="363">
+<title>Insights into the domain and repeat architecture of target of rapamycin.</title>
+<authorList>
+<person name="Knutson B.A."/>
+</authorList>
+<dbReference type="PubMed" id="20060908"/>
+<dbReference type="DOI" id="10.1016/j.jsb.2010.01.002"/>
+</citation>
+<scope>3D-STRUCTURE MODELING</scope>
+<scope>HEAT-REPEATS</scope>
+<scope>TPR-REPEATS</scope>
+</reference>
+<reference key="77">
+<citation type="journal article" date="2010" name="Mol. Cell" volume="38" first="768" last="774">
+<title>Structure of the human mTOR complex I and its implications for rapamycin inhibition.</title>
+<authorList>
+<person name="Yip C.K."/>
+<person name="Murata K."/>
+<person name="Walz T."/>
+<person name="Sabatini D.M."/>
+<person name="Kang S.A."/>
+</authorList>
+<dbReference type="PubMed" id="20542007"/>
+<dbReference type="DOI" id="10.1016/j.molcel.2010.05.017"/>
+</citation>
+<scope>STRUCTURE BY ELECTRON MICROSCOPY (26 ANGSTROMS) OF MTORC1 COMPLEX</scope>
+<scope>SUBUNIT</scope>
+</reference>
+<reference key="78">
+<citation type="journal article" date="2013" name="Nature" volume="497" first="217" last="223">
+<title>mTOR kinase structure, mechanism and regulation.</title>
+<authorList>
+<person name="Yang H."/>
+<person name="Rudge D.G."/>
+<person name="Koos J.D."/>
+<person name="Vaidialingam B."/>
+<person name="Yang H.J."/>
+<person name="Pavletich N.P."/>
+</authorList>
+<dbReference type="PubMed" id="23636326"/>
+<dbReference type="DOI" id="10.1038/nature12122"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.2 ANGSTROMS) OF 1376-2549 IN COMPLEX WITH MLST8</scope>
+<scope>SUBUNIT</scope>
+<scope>TPR-REPEATS</scope>
+<scope>DOMAINS</scope>
+<scope>MUTAGENESIS OF HIS-2340</scope>
+</reference>
+<reference key="79">
+<citation type="journal article" date="2007" name="Nature" volume="446" first="153" last="158">
+<title>Patterns of somatic mutation in human cancer genomes.</title>
+<authorList>
+<person name="Greenman C."/>
+<person name="Stephens P."/>
+<person name="Smith R."/>
+<person name="Dalgliesh G.L."/>
+<person name="Hunter C."/>
+<person name="Bignell G."/>
+<person name="Davies H."/>
+<person name="Teague J."/>
+<person name="Butler A."/>
+<person name="Stevens C."/>
+<person name="Edkins S."/>
+<person name="O'Meara S."/>
+<person name="Vastrik I."/>
+<person name="Schmidt E.E."/>
+<person name="Avis T."/>
+<person name="Barthorpe S."/>
+<person name="Bhamra G."/>
+<person name="Buck G."/>
+<person name="Choudhury B."/>
+<person name="Clements J."/>
+<person name="Cole J."/>
+<person name="Dicks E."/>
+<person name="Forbes S."/>
+<person name="Gray K."/>
+<person name="Halliday K."/>
+<person name="Harrison R."/>
+<person name="Hills K."/>
+<person name="Hinton J."/>
+<person name="Jenkinson A."/>
+<person name="Jones D."/>
+<person name="Menzies A."/>
+<person name="Mironenko T."/>
+<person name="Perry J."/>
+<person name="Raine K."/>
+<person name="Richardson D."/>
+<person name="Shepherd R."/>
+<person name="Small A."/>
+<person name="Tofts C."/>
+<person name="Varian J."/>
+<person name="Webb T."/>
+<person name="West S."/>
+<person name="Widaa S."/>
+<person name="Yates A."/>
+<person name="Cahill D.P."/>
+<person name="Louis D.N."/>
+<person name="Goldstraw P."/>
+<person name="Nicholson A.G."/>
+<person name="Brasseur F."/>
+<person name="Looijenga L."/>
+<person name="Weber B.L."/>
+<person name="Chiew Y.-E."/>
+<person name="DeFazio A."/>
+<person name="Greaves M.F."/>
+<person name="Green A.R."/>
+<person name="Campbell P."/>
+<person name="Birney E."/>
+<person name="Easton D.F."/>
+<person name="Chenevix-Trench G."/>
+<person name="Tan M.-H."/>
+<person name="Khoo S.K."/>
+<person name="Teh B.T."/>
+<person name="Yuen S.T."/>
+<person name="Leung S.Y."/>
+<person name="Wooster R."/>
+<person name="Futreal P.A."/>
+<person name="Stratton M.R."/>
+</authorList>
+<dbReference type="PubMed" id="17344846"/>
+<dbReference type="DOI" id="10.1038/nature05610"/>
+</citation>
+<scope>VARIANTS [LARGE SCALE ANALYSIS] SER-8; THR-135; VAL-1083; VAL-1134; PHE-1178; VAL-2011; TYR-2215 AND LEU-2476</scope>
+</reference>
+<reference key="80">
+<citation type="journal article" date="2011" name="Nature" volume="469" first="539" last="542">
+<title>Exome sequencing identifies frequent mutation of the SWI/SNF complex gene PBRM1 in renal carcinoma.</title>
+<authorList>
+<person name="Varela I."/>
+<person name="Tarpey P."/>
+<person name="Raine K."/>
+<person name="Huang D."/>
+<person name="Ong C.K."/>
+<person name="Stephens P."/>
+<person name="Davies H."/>
+<person name="Jones D."/>
+<person name="Lin M.L."/>
+<person name="Teague J."/>
+<person name="Bignell G."/>
+<person name="Butler A."/>
+<person name="Cho J."/>
+<person name="Dalgliesh G.L."/>
+<person name="Galappaththige D."/>
+<person name="Greenman C."/>
+<person name="Hardy C."/>
+<person name="Jia M."/>
+<person name="Latimer C."/>
+<person name="Lau K.W."/>
+<person name="Marshall J."/>
+<person name="McLaren S."/>
+<person name="Menzies A."/>
+<person name="Mudie L."/>
+<person name="Stebbings L."/>
+<person name="Largaespada D.A."/>
+<person name="Wessels L.F.A."/>
+<person name="Richard S."/>
+<person name="Kahnoski R.J."/>
+<person name="Anema J."/>
+<person name="Tuveson D.A."/>
+<person name="Perez-Mancera P.A."/>
+<person name="Mustonen V."/>
+<person name="Fischer A."/>
+<person name="Adams D.J."/>
+<person name="Rust A."/>
+<person name="Chan-On W."/>
+<person name="Subimerb C."/>
+<person name="Dykema K."/>
+<person name="Furge K."/>
+<person name="Campbell P.J."/>
+<person name="Teh B.T."/>
+<person name="Stratton M.R."/>
+<person name="Futreal P.A."/>
+</authorList>
+<dbReference type="PubMed" id="21248752"/>
+<dbReference type="DOI" id="10.1038/nature09639"/>
+</citation>
+<scope>VARIANTS PHE-2220 AND ALA-2406</scope>
+</reference>
+<comment type="function">
+<text evidence="15 16 23 24 25 26 28 30 31 32 33 34 39 40 41 47 48 53 54 55 56 57 59 60 67 70 76">Serine/threonine protein kinase which is a central regulator of cellular metabolism, growth and survival in response to hormones, growth factors, nutrients, energy and stress signals (PubMed:12087098, PubMed:12150925, PubMed:12150926, PubMed:12231510, PubMed:12718876, PubMed:14651849, PubMed:15268862, PubMed:15467718, PubMed:15545625, PubMed:15718470, PubMed:18497260, PubMed:18762023, PubMed:18925875, PubMed:20516213, PubMed:20537536, PubMed:21659604, PubMed:23429703, PubMed:23429704, PubMed:25799227, PubMed:26018084). MTOR directly or indirectly regulates the phosphorylation of at least 800 proteins. Functions as part of 2 structurally and functionally distinct signaling complexes mTORC1 and mTORC2 (mTOR complex 1 and 2) (PubMed:15268862, PubMed:15467718, PubMed:18925875, PubMed:18497260, PubMed:20516213, PubMed:21576368, PubMed:21659604, PubMed:23429704). Activated mTORC1 up-regulates protein synthesis by phosphorylating key regulators of mRNA translation and ribosome synthesis (PubMed:12087098, PubMed:12150925, PubMed:12150926, PubMed:12231510, PubMed:12718876, PubMed:14651849, PubMed:15268862, PubMed:15467718, PubMed:15545625, PubMed:15718470, PubMed:18497260, PubMed:18762023, PubMed:18925875, PubMed:20516213, PubMed:20537536, PubMed:21659604, PubMed:23429703, PubMed:23429704, PubMed:25799227, PubMed:26018084). This includes phosphorylation of EIF4EBP1 and release of its inhibition toward the elongation initiation factor 4E (eiF4E) (By similarity). Moreover, phosphorylates and activates RPS6KB1 and RPS6KB2 that promote protein synthesis by modulating the activity of their downstream targets including ribosomal protein S6, eukaryotic translation initiation factor EIF4B, and the inhibitor of translation initiation PDCD4 (PubMed:12150925, PubMed:12087098, PubMed:18925875). This also includes mTORC1 signaling cascade controlling the MiT/TFE factors TFEB and TFE3: in the presence of nutrients, mediates phosphorylation of TFEB and TFE3, promoting their cytosolic retention and inactivation (PubMed:22576015, PubMed:22343943, PubMed:22692423). Upon starvation or lysosomal stress, inhibition of mTORC1 induces dephosphorylation and nuclear translocation of TFEB and TFE3, promoting their transcription factor activity (PubMed:22576015, PubMed:22343943, PubMed:22692423). Stimulates the pyrimidine biosynthesis pathway, both by acute regulation through RPS6KB1-mediated phosphorylation of the biosynthetic enzyme CAD, and delayed regulation, through transcriptional enhancement of the pentose phosphate pathway which produces 5-phosphoribosyl-1-pyrophosphate (PRPP), an allosteric activator of CAD at a later step in synthesis, this function is dependent on the mTORC1 complex (PubMed:23429704, PubMed:23429703). Regulates ribosome synthesis by activating RNA polymerase III-dependent transcription through phosphorylation and inhibition of MAF1 an RNA polymerase III-repressor (PubMed:20516213). In parallel to protein synthesis, also regulates lipid synthesis through SREBF1/SREBP1 and LPIN1 (By similarity). To maintain energy homeostasis mTORC1 may also regulate mitochondrial biogenesis through regulation of PPARGC1A (By similarity). mTORC1 also negatively regulates autophagy through phosphorylation of ULK1 (By similarity). Under nutrient sufficiency, phosphorylates ULK1 at 'Ser-758', disrupting the interaction with AMPK and preventing activation of ULK1 (By similarity). Also prevents autophagy through phosphorylation of the autophagy inhibitor DAP (PubMed:20537536). Also prevents autophagy by phosphorylating RUBCNL/Pacer under nutrient-rich conditions (PubMed:30704899). mTORC1 exerts a feedback control on upstream growth factor signaling that includes phosphorylation and activation of GRB10 a INSR-dependent signaling suppressor (PubMed:21659604). Among other potential targets mTORC1 may phosphorylate CLIP1 and regulate microtubules (PubMed:12231510). As part of the mTORC2 complex MTOR may regulate other cellular processes including survival and organization of the cytoskeleton (PubMed:15268862, PubMed:15467718). Plays a critical role in the phosphorylation at 'Ser-473' of AKT1, a pro-survival effector of phosphoinositide 3-kinase, facilitating its activation by PDK1 (PubMed:15718470). mTORC2 may regulate the actin cytoskeleton, through phosphorylation of PRKCA, PXN and activation of the Rho-type guanine nucleotide exchange factors RHOA and RAC1A or RAC1B (PubMed:15268862). mTORC2 also regulates the phosphorylation of SGK1 at 'Ser-422' (PubMed:18925875). Regulates osteoclastogenesis by adjusting the expression of CEBPB isoforms (By similarity). Plays an important regulatory role in the circadian clock function; regulates period length and rhythm amplitude of the suprachiasmatic nucleus (SCN) and liver clocks (By similarity). Phosphorylates SQSTM1, promoting interaction between SQSTM1 and KEAP1 and subsequent inactivation of the BCR(KEAP1) complex (By similarity).</text>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="23 24 26 31 32 34 41 47 48 54 55 56 57">
+<text>ATP + L-seryl-[protein] = ADP + H(+) + O-phospho-L-seryl-[protein]</text>
+<dbReference type="Rhea" id="RHEA:17989"/>
+<dbReference type="Rhea" id="RHEA-COMP:9863"/>
+<dbReference type="Rhea" id="RHEA-COMP:11604"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:29999"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:83421"/>
+<dbReference type="ChEBI" id="CHEBI:456216"/>
+<dbReference type="EC" id="2.7.11.1"/>
+</reaction>
+</comment>
+<comment type="catalytic activity">
+<reaction evidence="23 24 26 31 32 34 41 47 48 54">
+<text>ATP + L-threonyl-[protein] = ADP + H(+) + O-phospho-L-threonyl-[protein]</text>
+<dbReference type="Rhea" id="RHEA:46608"/>
+<dbReference type="Rhea" id="RHEA-COMP:11060"/>
+<dbReference type="Rhea" id="RHEA-COMP:11605"/>
+<dbReference type="ChEBI" id="CHEBI:15378"/>
+<dbReference type="ChEBI" id="CHEBI:30013"/>
+<dbReference type="ChEBI" id="CHEBI:30616"/>
+<dbReference type="ChEBI" id="CHEBI:61977"/>
+<dbReference type="ChEBI" id="CHEBI:456216"/>
+<dbReference type="EC" id="2.7.11.1"/>
+</reaction>
+</comment>
+<comment type="activity regulation">
+<text evidence="30 33 37 39 43 45 64 65">Activation of mTORC1 by growth factors such as insulin involves AKT1-mediated phosphorylation of TSC1-TSC2, which leads to the activation of the RHEB GTPase a potent activator of the protein kinase activity of mTORC1. Insulin-stimulated and amino acid-dependent phosphorylation at Ser-1261 promotes autophosphorylation and the activation of mTORC1. Activation by amino acids requires relocalization of the mTORC1 complex to lysosomes that is mediated by the Ragulator complex, SLC38A9, and the Rag GTPases RRAGA, RRAGB, RRAGC and RRAGD (PubMed:18497260, PubMed:20381137, PubMed:25561175, PubMed:25567906). On the other hand, low cellular energy levels can inhibit mTORC1 through activation of PRKAA1 while hypoxia inhibits mTORC1 through a REDD1-dependent mechanism which may also require PRKAA1. The kinase activity of MTOR within the mTORC1 complex is positively regulated by MLST8 and negatively regulated by DEPTOR and AKT1S1. MTOR phosphorylates RPTOR which in turn inhibits mTORC1. MTOR is the target of the immunosuppressive and anti-cancer drug rapamycin which acts in complex with FKBP1A/FKBP12, and specifically inhibits its kinase activity. mTORC2 is also activated by growth factors, but seems to be nutrient-insensitive. It may be regulated by RHEB but in an indirect manner through the PI3K signaling pathway.</text>
+</comment>
+<comment type="subunit">
+<text evidence="20 21 24 25 26 27 28 31 32 37 38 41 43 46 49 50 51 58 61 62 66 72 75 77 78 80">Part of the mammalian target of rapamycin complex 1 (mTORC1) which contains MTOR, MLST8, RPTOR, AKT1S1/PRAS40 and DEPTOR. The mTORC1 complex is a 1 Md obligate dimer of two stoichiometric heterotetramers with overall dimensions of 290 A x 210 A x 135 A. It has a rhomboid shape and a central cavity, the dimeric interfaces are formed by interlocking interactions between the two MTOR and the two RPTOR subunits. The MLST8 subunit forms distal foot-like protuberances, and contacts only one MTOR within the complex, while the small PRAS40 localizes to the midsection of the central core, in close proximity to RPTOR. Part of the mammalian target of rapamycin complex 2 (mTORC2) which contains MTOR, MLST8, PRR5, RICTOR, MAPKAP1 and DEPTOR. Interacts with PLPP7 and PML. Interacts with PRR5 and RICTOR; the interaction is direct within the mTORC2 complex. Interacts with WAC; WAC positively regulates MTOR activity by promoting the assembly of the TTT complex composed of TELO2, TTI1 and TTI2 and the RUVBL complex composed of RUVBL1 and RUVBL2 into the TTT-RUVBL complex which leads to the dimerization of the mTORC1 complex and its subsequent activation (PubMed:26812014). Interacts with UBQLN1. Interacts with TTI1 and TELO2. Interacts with CLIP1; phosphorylates and regulates CLIP1. Interacts with NBN. Interacts with HTR6 (PubMed:23027611). Interacts with BRAT1. Interacts with MEAK7 (via C-terminal domain); the interaction increases upon nutrient stimulation (PubMed:29750193). Interacts with TM4SF5; the interaction is positively regulated by arginine and is negatively regulated by leucine (PubMed:30956113). Interacts with GPR137B (PubMed:31036939).</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-296087">
+<id>P31749</id>
+<label>AKT1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-287195">
+<id>Q07817-1</id>
+<label>BCL2L1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-2359040">
+<id>Q8TB45</id>
+<label>DEPTOR</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-74090">
+<id>Q13541</id>
+<label>EIF4EBP1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-1027571">
+<id>P62942</id>
+<label>FKBP1A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-1237062">
+<id>Q8WUA4</id>
+<label>GTF3C2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-1387471">
+<id>Q9BVC4</id>
+<label>MLST8</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-16056342">
+<id>Q9BVC4-1</id>
+<label>MLST8</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-371938">
+<id>Q13615</id>
+<label>MTMR3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+<label>MTOR</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-1046542">
+<id>Q8TCU6</id>
+<label>PREX1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>11</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-716845">
+<id>P62820</id>
+<label>RAB1A</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-1055287">
+<id>Q15382</id>
+<label>RHEB</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-1387196">
+<id>Q6R327</id>
+<label>RICTOR</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>34</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-1567928">
+<id>Q8N122</id>
+<label>RPTOR</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>47</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-1802965">
+<id>Q96EB6</id>
+<label>SIRT1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-5239949">
+<id>Q8NHX9</id>
+<label>TPCN2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-359260">
+<id>P42345</id>
+</interactant>
+<interactant intactId="EBI-908831">
+<id>O75385</id>
+<label>ULK1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>7</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="29">Endoplasmic reticulum membrane</location>
+<topology evidence="29">Peripheral membrane protein</topology>
+<orientation evidence="29">Cytoplasmic side</orientation>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="29">Golgi apparatus membrane</location>
+<topology evidence="29">Peripheral membrane protein</topology>
+<orientation evidence="29">Cytoplasmic side</orientation>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="22 29">Mitochondrion outer membrane</location>
+<topology evidence="22 29">Peripheral membrane protein</topology>
+<orientation evidence="22 29">Cytoplasmic side</orientation>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="39 45 75">Lysosome</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="22 39">Cytoplasm</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="16">Nucleus</location>
+<location evidence="16">PML body</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="81">Microsome membrane</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="77">Lysosome membrane</location>
+</subcellularLocation>
+<subcellularLocation>
+<location evidence="73">Cytoplasmic vesicle</location>
+<location evidence="73">Phagosome</location>
+</subcellularLocation>
+<text evidence="16 39 45 75 77">Shuttles between cytoplasm and nucleus. Accumulates in the nucleus in response to hypoxia (By similarity). Targeting to lysosomes depends on amino acid availability and RRAGA and RRAGB (PubMed:18497260, PubMed:20381137). Lysosome targeting also depends on interaction with MEAK7. Translocates to the lysosome membrane in the presence of TM4SF5 (PubMed:30956113).</text>
+</comment>
+<comment type="tissue specificity">
+<text evidence="27 79">Expressed in numerous tissues, with highest levels in testis.</text>
+</comment>
+<comment type="domain">
+<text evidence="61">The kinase domain (PI3K/PI4K) is intrinsically active but has a highly restricted catalytic center.</text>
+</comment>
+<comment type="domain">
+<text evidence="61">The FAT domain forms three discontinuous subdomains of alpha-helical TPR repeats plus a single subdomain of HEAT repeats. The four domains pack sequentially to form a C-shaped a-solenoid that clamps onto the kinase domain (PubMed:23636326).</text>
+</comment>
+<comment type="PTM">
+<text evidence="35 42 44 53 59 60 63">Autophosphorylates when part of mTORC1 or mTORC2. Phosphorylation at Ser-1261, Ser-2159 and Thr-2164 promotes autophosphorylation. Phosphorylation in the kinase domain modulates the interactions of MTOR with RPTOR and PRAS40 and leads to increased intrinsic mTORC1 kinase activity. Phosphorylation at Thr-2173 in the ATP-binding region by AKT1 strongly reduces kinase activity.</text>
+</comment>
+<comment type="disease" evidence="68 71 74">
+<disease id="DI-04576">
+<name>Smith-Kingsmore syndrome</name>
+<acronym>SKS</acronym>
+<description>An autosomal dominant syndrome characterized by intellectual disability, macrocephaly, seizures, umbilical hernia, and facial dysmorphic features.</description>
+<dbReference type="MIM" id="616638"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="67 69 70 74">
+<disease id="DI-04980">
+<name>Focal cortical dysplasia 2</name>
+<acronym>FCORD2</acronym>
+<description>A form of focal cortical dysplasia, a malformation of cortical development that results in medically refractory epilepsy in the pediatric population and in adults. FCORD2 is a severe form, with onset usually in childhood, characterized by disrupted cortical lamination and specific cytological abnormalities. It is classified in 2 subtypes: type IIA characterized by dysmorphic neurons and lack of balloon cells; type IIB with dysmorphic neurons and balloon cells.</description>
+<dbReference type="MIM" id="607341"/>
+</disease>
+<text>The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="82">Belongs to the PI3/PI4-kinase family.</text>
+</comment>
+<comment type="sequence caution" evidence="82">
+<conflict type="frameshift">
+<sequence resource="EMBL-CDS" id="AAC39933" version="1"/>
+</conflict>
+</comment>
+<comment type="sequence caution" evidence="82">
+<conflict type="erroneous initiation">
+<sequence resource="EMBL-CDS" id="BAE06077" version="1"/>
+</conflict>
+<text>Extended N-terminus.</text>
+</comment>
+<comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+<link uri="http://atlasgeneticsoncology.org/Genes/FRAP1ID40639ch1p36.html"/>
+</comment>
+<comment type="online information" name="Wikipedia">
+<link uri="https://en.wikipedia.org/wiki/Mammalian_target_of_rapamycin"/>
+<text>Mammalian target of rapamycin entry</text>
+</comment>
+<dbReference type="EC" id="2.7.11.1" evidence="31 32 34 41 55 56 57"/>
+<dbReference type="EMBL" id="L34075">
+<property type="protein sequence ID" value="AAA58486.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="U88966">
+<property type="protein sequence ID" value="AAC39933.1"/>
+<property type="status" value="ALT_FRAME"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB209995">
+<property type="protein sequence ID" value="BAE06077.1"/>
+<property type="status" value="ALT_INIT"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL109811">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL391561">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AL049653">
+<property type="status" value="NOT_ANNOTATED_CDS"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="BC117166">
+<property type="protein sequence ID" value="AAI17167.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ300188">
+<property type="protein sequence ID" value="CAC15570.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="L35478">
+<property type="protein sequence ID" value="AAC41713.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS127.1"/>
+<dbReference type="PIR" id="S45340">
+<property type="entry name" value="S45340"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_004949.1">
+<property type="nucleotide sequence ID" value="NM_004958.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="XP_005263495.1">
+<property type="nucleotide sequence ID" value="XM_005263438.2"/>
+</dbReference>
+<dbReference type="PDB" id="1AUE">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.33"/>
+<property type="chains" value="A/B=2015-2114"/>
+</dbReference>
+<dbReference type="PDB" id="1FAP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="B=2018-2112"/>
+</dbReference>
+<dbReference type="PDB" id="1NSG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="B=2019-2112"/>
+</dbReference>
+<dbReference type="PDB" id="2FAP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="B=2019-2112"/>
+</dbReference>
+<dbReference type="PDB" id="2GAQ">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=2015-2114"/>
+</dbReference>
+<dbReference type="PDB" id="2NPU">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=2015-2114"/>
+</dbReference>
+<dbReference type="PDB" id="2RSE">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=2019-2112"/>
+</dbReference>
+<dbReference type="PDB" id="3FAP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="B=2019-2112"/>
+</dbReference>
+<dbReference type="PDB" id="3JBZ">
+<property type="method" value="EM"/>
+<property type="resolution" value="28.00"/>
+<property type="chains" value="A=1385-2549"/>
+</dbReference>
+<dbReference type="PDB" id="4DRH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="B/E=2025-2114"/>
+</dbReference>
+<dbReference type="PDB" id="4DRI">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.45"/>
+<property type="chains" value="B=2025-2114"/>
+</dbReference>
+<dbReference type="PDB" id="4DRJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.80"/>
+<property type="chains" value="B=2025-2114"/>
+</dbReference>
+<dbReference type="PDB" id="4FAP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="B=2019-2112"/>
+</dbReference>
+<dbReference type="PDB" id="4JSN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.20"/>
+<property type="chains" value="A/B=1376-2549"/>
+</dbReference>
+<dbReference type="PDB" id="4JSP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.30"/>
+<property type="chains" value="A/B=1376-2549"/>
+</dbReference>
+<dbReference type="PDB" id="4JSV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.50"/>
+<property type="chains" value="A/B=1376-2549"/>
+</dbReference>
+<dbReference type="PDB" id="4JSX">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.50"/>
+<property type="chains" value="A/B=1376-2549"/>
+</dbReference>
+<dbReference type="PDB" id="4JT5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.45"/>
+<property type="chains" value="A/B=1376-2549"/>
+</dbReference>
+<dbReference type="PDB" id="4JT6">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.60"/>
+<property type="chains" value="A/B=1376-2549"/>
+</dbReference>
+<dbReference type="PDB" id="5FLC">
+<property type="method" value="EM"/>
+<property type="resolution" value="5.90"/>
+<property type="chains" value="B/F=1382-2549"/>
+</dbReference>
+<dbReference type="PDB" id="5GPG">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.67"/>
+<property type="chains" value="B=2021-2112"/>
+</dbReference>
+<dbReference type="PDB" id="5H64">
+<property type="method" value="EM"/>
+<property type="resolution" value="4.40"/>
+<property type="chains" value="A/a=1-2549"/>
+</dbReference>
+<dbReference type="PDB" id="5WBH">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.75"/>
+<property type="chains" value="A/B/C/D/E=2018-2114"/>
+</dbReference>
+<dbReference type="PDB" id="5WBU">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.42"/>
+<property type="chains" value="A/B=1376-2549"/>
+</dbReference>
+<dbReference type="PDB" id="5WBY">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10"/>
+<property type="chains" value="A/B=1376-2549"/>
+</dbReference>
+<dbReference type="PDB" id="5ZCS">
+<property type="method" value="EM"/>
+<property type="resolution" value="4.90"/>
+<property type="chains" value="A/B=1-2549"/>
+</dbReference>
+<dbReference type="PDB" id="6BCU">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.43"/>
+<property type="chains" value="A/B=1-2549"/>
+</dbReference>
+<dbReference type="PDB" id="6BCX">
+<property type="method" value="EM"/>
+<property type="resolution" value="3.00"/>
+<property type="chains" value="A/B=1-2549"/>
+</dbReference>
+<dbReference type="PDB" id="6SB0">
+<property type="method" value="EM"/>
+<property type="resolution" value="5.50"/>
+<property type="chains" value="A/B=60-2549"/>
+</dbReference>
+<dbReference type="PDB" id="6SB2">
+<property type="method" value="EM"/>
+<property type="resolution" value="6.20"/>
+<property type="chains" value="A/B=54-2549"/>
+</dbReference>
+<dbReference type="PDBsum" id="1AUE"/>
+<dbReference type="PDBsum" id="1FAP"/>
+<dbReference type="PDBsum" id="1NSG"/>
+<dbReference type="PDBsum" id="2FAP"/>
+<dbReference type="PDBsum" id="2GAQ"/>
+<dbReference type="PDBsum" id="2NPU"/>
+<dbReference type="PDBsum" id="2RSE"/>
+<dbReference type="PDBsum" id="3FAP"/>
+<dbReference type="PDBsum" id="3JBZ"/>
+<dbReference type="PDBsum" id="4DRH"/>
+<dbReference type="PDBsum" id="4DRI"/>
+<dbReference type="PDBsum" id="4DRJ"/>
+<dbReference type="PDBsum" id="4FAP"/>
+<dbReference type="PDBsum" id="4JSN"/>
+<dbReference type="PDBsum" id="4JSP"/>
+<dbReference type="PDBsum" id="4JSV"/>
+<dbReference type="PDBsum" id="4JSX"/>
+<dbReference type="PDBsum" id="4JT5"/>
+<dbReference type="PDBsum" id="4JT6"/>
+<dbReference type="PDBsum" id="5FLC"/>
+<dbReference type="PDBsum" id="5GPG"/>
+<dbReference type="PDBsum" id="5H64"/>
+<dbReference type="PDBsum" id="5WBH"/>
+<dbReference type="PDBsum" id="5WBU"/>
+<dbReference type="PDBsum" id="5WBY"/>
+<dbReference type="PDBsum" id="5ZCS"/>
+<dbReference type="PDBsum" id="6BCU"/>
+<dbReference type="PDBsum" id="6BCX"/>
+<dbReference type="PDBsum" id="6SB0"/>
+<dbReference type="PDBsum" id="6SB2"/>
+<dbReference type="BMRB" id="P42345"/>
+<dbReference type="SMR" id="P42345"/>
+<dbReference type="BioGRID" id="108757">
+<property type="interactions" value="245"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-4402">
+<property type="entry name" value="mTORC2 complex"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-503">
+<property type="entry name" value="mTORC1 complex"/>
+</dbReference>
+<dbReference type="CORUM" id="P42345"/>
+<dbReference type="DIP" id="DIP-790N"/>
+<dbReference type="IntAct" id="P42345">
+<property type="interactions" value="102"/>
+</dbReference>
+<dbReference type="MINT" id="P42345"/>
+<dbReference type="STRING" id="9606.ENSP00000354558"/>
+<dbReference type="BindingDB" id="P42345"/>
+<dbReference type="ChEMBL" id="CHEMBL2842"/>
+<dbReference type="DrugBank" id="DB01590">
+<property type="generic name" value="Everolimus"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB12010">
+<property type="generic name" value="Fostamatinib"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00337">
+<property type="generic name" value="Pimecrolimus"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB06233">
+<property type="generic name" value="Ridaforolimus"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB04974">
+<property type="generic name" value="Rimiducid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB05210">
+<property type="generic name" value="SF1126"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB00877">
+<property type="generic name" value="Sirolimus"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB06287">
+<property type="generic name" value="Temsirolimus"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB05241">
+<property type="generic name" value="XL765"/>
+</dbReference>
+<dbReference type="DrugCentral" id="P42345"/>
+<dbReference type="GuidetoPHARMACOLOGY" id="2109"/>
+<dbReference type="iPTMnet" id="P42345"/>
+<dbReference type="MetOSite" id="P42345"/>
+<dbReference type="PhosphoSitePlus" id="P42345"/>
+<dbReference type="SwissPalm" id="P42345"/>
+<dbReference type="BioMuta" id="MTOR"/>
+<dbReference type="DMDM" id="1169735"/>
+<dbReference type="CPTAC" id="CPTAC-1360"/>
+<dbReference type="CPTAC" id="CPTAC-1361"/>
+<dbReference type="EPD" id="P42345"/>
+<dbReference type="jPOST" id="P42345"/>
+<dbReference type="MassIVE" id="P42345"/>
+<dbReference type="MaxQB" id="P42345"/>
+<dbReference type="PaxDb" id="P42345"/>
+<dbReference type="PeptideAtlas" id="P42345"/>
+<dbReference type="PRIDE" id="P42345"/>
+<dbReference type="ProteomicsDB" id="55511"/>
+<dbReference type="Antibodypedia" id="3566">
+<property type="antibodies" value="1707 antibodies"/>
+</dbReference>
+<dbReference type="CPTC" id="P42345">
+<property type="antibodies" value="9 antibodies"/>
+</dbReference>
+<dbReference type="Ensembl" id="ENST00000361445">
+<property type="protein sequence ID" value="ENSP00000354558"/>
+<property type="gene ID" value="ENSG00000198793"/>
+</dbReference>
+<dbReference type="GeneID" id="2475"/>
+<dbReference type="KEGG" id="hsa:2475"/>
+<dbReference type="UCSC" id="uc001asd.4">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="2475"/>
+<dbReference type="DisGeNET" id="2475"/>
+<dbReference type="EuPathDB" id="HostDB:ENSG00000198793.12"/>
+<dbReference type="GeneCards" id="MTOR"/>
+<dbReference type="HGNC" id="HGNC:3942">
+<property type="gene designation" value="MTOR"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000198793">
+<property type="expression patterns" value="Low tissue specificity"/>
+</dbReference>
+<dbReference type="MalaCards" id="MTOR"/>
+<dbReference type="MIM" id="601231">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="607341">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="616638">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_P42345"/>
+<dbReference type="OpenTargets" id="ENSG00000198793"/>
+<dbReference type="Orphanet" id="269001">
+<property type="disease" value="Isolated focal cortical dysplasia type IIa"/>
+</dbReference>
+<dbReference type="Orphanet" id="269008">
+<property type="disease" value="Isolated focal cortical dysplasia type IIb"/>
+</dbReference>
+<dbReference type="Orphanet" id="457485">
+<property type="disease" value="Macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA28360"/>
+<dbReference type="eggNOG" id="KOG0891">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT00930000151037"/>
+<dbReference type="HOGENOM" id="CLU_000178_7_1_1"/>
+<dbReference type="InParanoid" id="P42345"/>
+<dbReference type="KO" id="K07203"/>
+<dbReference type="OMA" id="LNIQRYP"/>
+<dbReference type="OrthoDB" id="26975at2759"/>
+<dbReference type="PhylomeDB" id="P42345"/>
+<dbReference type="TreeFam" id="TF105134"/>
+<dbReference type="PathwayCommons" id="P42345"/>
+<dbReference type="Reactome" id="R-HSA-1257604">
+<property type="pathway name" value="PIP3 activates AKT signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-1632852">
+<property type="pathway name" value="Macroautophagy"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-165159">
+<property type="pathway name" value="mTOR signalling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-166208">
+<property type="pathway name" value="mTORC1-mediated signalling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-3371571">
+<property type="pathway name" value="HSF1-dependent transactivation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-380972">
+<property type="pathway name" value="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-389357">
+<property type="pathway name" value="CD28 dependent PI3K/Akt signaling"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5218920">
+<property type="pathway name" value="VEGFR2 mediated vascular permeability"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5628897">
+<property type="pathway name" value="TP53 Regulates Metabolic Genes"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5674400">
+<property type="pathway name" value="Constitutive Signaling by AKT1 E17K in Cancer"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-6804757">
+<property type="pathway name" value="Regulation of TP53 Degradation"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-8943724">
+<property type="pathway name" value="Regulation of PTEN gene transcription"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-9639288">
+<property type="pathway name" value="Amino acids regulate mTORC1"/>
+</dbReference>
+<dbReference type="SABIO-RK" id="P42345"/>
+<dbReference type="SignaLink" id="P42345"/>
+<dbReference type="SIGNOR" id="P42345"/>
+<dbReference type="BioGRID-ORCS" id="2475">
+<property type="hits" value="726 hits in 913 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="MTOR">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P42345"/>
+<dbReference type="GeneWiki" id="Mammalian_target_of_rapamycin"/>
+<dbReference type="GenomeRNAi" id="2475"/>
+<dbReference type="Pharos" id="P42345">
+<property type="development level" value="Tclin"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P42345"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
+<dbReference type="RNAct" id="P42345">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000198793">
+<property type="expression patterns" value="Expressed in testis and 180 other tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="P42345">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="Genevisible" id="P42345">
+<property type="organism ID" value="HS"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005737">
+<property type="term" value="C:cytoplasm"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030425">
+<property type="term" value="C:dendrite"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0012505">
+<property type="term" value="C:endomembrane system"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005789">
+<property type="term" value="C:endoplasmic reticulum membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0098978">
+<property type="term" value="C:glutamatergic synapse"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000139">
+<property type="term" value="C:Golgi membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005765">
+<property type="term" value="C:lysosomal membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005764">
+<property type="term" value="C:lysosome"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016020">
+<property type="term" value="C:membrane"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005741">
+<property type="term" value="C:mitochondrial outer membrane"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043025">
+<property type="term" value="C:neuronal cell body"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005635">
+<property type="term" value="C:nuclear envelope"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CACAO"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005654">
+<property type="term" value="C:nucleoplasm"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045335">
+<property type="term" value="C:phagocytic vesicle"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016605">
+<property type="term" value="C:PML body"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0099524">
+<property type="term" value="C:postsynaptic cytosol"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031931">
+<property type="term" value="C:TORC1 complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031932">
+<property type="term" value="C:TORC2 complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005524">
+<property type="term" value="F:ATP binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016301">
+<property type="term" value="F:kinase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051219">
+<property type="term" value="F:phosphoprotein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019904">
+<property type="term" value="F:protein domain specific binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004672">
+<property type="term" value="F:protein kinase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="WormBase"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019901">
+<property type="term" value="F:protein kinase binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0004674">
+<property type="term" value="F:protein serine/threonine kinase activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043022">
+<property type="term" value="F:ribosome binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001002">
+<property type="term" value="F:RNA polymerase III type 1 promoter sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001003">
+<property type="term" value="F:RNA polymerase III type 2 promoter sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001006">
+<property type="term" value="F:RNA polymerase III type 3 promoter sequence-specific DNA binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001156">
+<property type="term" value="F:TFIIIC-class transcription factor complex binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006207">
+<property type="term" value="P:'de novo' pyrimidine nucleobase biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032148">
+<property type="term" value="P:activation of protein kinase B activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043276">
+<property type="term" value="P:anoikis"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="ParkinsonsUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007420">
+<property type="term" value="P:brain development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055013">
+<property type="term" value="P:cardiac muscle cell development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060048">
+<property type="term" value="P:cardiac muscle contraction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007569">
+<property type="term" value="P:cell aging"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007050">
+<property type="term" value="P:cell cycle arrest"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034198">
+<property type="term" value="P:cellular response to amino acid starvation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071230">
+<property type="term" value="P:cellular response to amino acid stimulus"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071456">
+<property type="term" value="P:cellular response to hypoxia"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071233">
+<property type="term" value="P:cellular response to leucine"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990253">
+<property type="term" value="P:cellular response to leucine starvation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031669">
+<property type="term" value="P:cellular response to nutrient levels"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009267">
+<property type="term" value="P:cellular response to starvation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006112">
+<property type="term" value="P:energy reserve metabolic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007281">
+<property type="term" value="P:germ cell development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003007">
+<property type="term" value="P:heart morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003179">
+<property type="term" value="P:heart valve morphogenesis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007616">
+<property type="term" value="P:long-term memory"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007040">
+<property type="term" value="P:lysosome organization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060135">
+<property type="term" value="P:maternal process involved in female pregnancy"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048255">
+<property type="term" value="P:mRNA stabilization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035264">
+<property type="term" value="P:multicellular organism growth"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010507">
+<property type="term" value="P:negative regulation of autophagy"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0070885">
+<property type="term" value="P:negative regulation of calcineurin-NFAT signaling cascade"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045792">
+<property type="term" value="P:negative regulation of cell size"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904193">
+<property type="term" value="P:negative regulation of cholangiocyte apoptotic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904213">
+<property type="term" value="P:negative regulation of iodide transmembrane transport"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016242">
+<property type="term" value="P:negative regulation of macroautophagy"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014736">
+<property type="term" value="P:negative regulation of muscle atrophy"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001933">
+<property type="term" value="P:negative regulation of protein phosphorylation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031397">
+<property type="term" value="P:negative regulation of protein ubiquitination"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051647">
+<property type="term" value="P:nucleus localization"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018105">
+<property type="term" value="P:peptidyl-serine phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0018107">
+<property type="term" value="P:peptidyl-threonine phosphorylation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016310">
+<property type="term" value="P:phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030838">
+<property type="term" value="P:positive regulation of actin filament polymerization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061051">
+<property type="term" value="P:positive regulation of cell growth involved in cardiac muscle cell development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904056">
+<property type="term" value="P:positive regulation of cholangiocyte proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904690">
+<property type="term" value="P:positive regulation of cytoplasmic translational initiation"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060999">
+<property type="term" value="P:positive regulation of dendritic spine development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904000">
+<property type="term" value="P:positive regulation of eating behavior"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001938">
+<property type="term" value="P:positive regulation of endothelial cell proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010718">
+<property type="term" value="P:positive regulation of epithelial to mesenchymal transition"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010628">
+<property type="term" value="P:positive regulation of gene expression"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060252">
+<property type="term" value="P:positive regulation of glial cell proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904197">
+<property type="term" value="P:positive regulation of granulosa cell proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051549">
+<property type="term" value="P:positive regulation of keratinocyte migration"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010592">
+<property type="term" value="P:positive regulation of lamellipodium assembly"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046889">
+<property type="term" value="P:positive regulation of lipid biosynthetic process"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010831">
+<property type="term" value="P:positive regulation of myotube differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901216">
+<property type="term" value="P:positive regulation of neuron death"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014042">
+<property type="term" value="P:positive regulation of neuron maturation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045429">
+<property type="term" value="P:positive regulation of nitric oxide biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048714">
+<property type="term" value="P:positive regulation of oligodendrocyte differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050731">
+<property type="term" value="P:positive regulation of peptidyl-tyrosine phosphorylation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032516">
+<property type="term" value="P:positive regulation of phosphoprotein phosphatase activity"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="ARUK-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051897">
+<property type="term" value="P:positive regulation of protein kinase B signaling"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001934">
+<property type="term" value="P:positive regulation of protein phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904058">
+<property type="term" value="P:positive regulation of sensory perception of pain"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904206">
+<property type="term" value="P:positive regulation of skeletal muscle hypertrophy"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048661">
+<property type="term" value="P:positive regulation of smooth muscle cell proliferation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051496">
+<property type="term" value="P:positive regulation of stress fiber assembly"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045945">
+<property type="term" value="P:positive regulation of transcription by RNA polymerase III"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1901838">
+<property type="term" value="P:positive regulation of transcription of nucleolar large rRNA by RNA polymerase I"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045727">
+<property type="term" value="P:positive regulation of translation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:1903691">
+<property type="term" value="P:positive regulation of wound healing, spreading of epidermal cells"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009791">
+<property type="term" value="P:post-embryonic development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046777">
+<property type="term" value="P:protein autophosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030163">
+<property type="term" value="P:protein catabolic process"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006468">
+<property type="term" value="P:protein phosphorylation"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032956">
+<property type="term" value="P:regulation of actin cytoskeleton organization"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090335">
+<property type="term" value="P:regulation of brown fat cell differentiation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043610">
+<property type="term" value="P:regulation of carbohydrate utilization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001558">
+<property type="term" value="P:regulation of cell growth"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008361">
+<property type="term" value="P:regulation of cell size"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900034">
+<property type="term" value="P:regulation of cellular response to heat"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042752">
+<property type="term" value="P:regulation of circadian rhythm"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031998">
+<property type="term" value="P:regulation of fatty acid beta-oxidation"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005979">
+<property type="term" value="P:regulation of glycogen biosynthetic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043087">
+<property type="term" value="P:regulation of GTPase activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1904059">
+<property type="term" value="P:regulation of locomotor rhythm"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016241">
+<property type="term" value="P:regulation of macroautophagy"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090559">
+<property type="term" value="P:regulation of membrane permeability"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031641">
+<property type="term" value="P:regulation of myelination"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045670">
+<property type="term" value="P:regulation of osteoclast differentiation"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032095">
+<property type="term" value="P:regulation of response to food"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014823">
+<property type="term" value="P:response to activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043200">
+<property type="term" value="P:response to amino acid"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042220">
+<property type="term" value="P:response to cocaine"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032868">
+<property type="term" value="P:response to insulin"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043278">
+<property type="term" value="P:response to morphine"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007584">
+<property type="term" value="P:response to nutrient"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031667">
+<property type="term" value="P:response to nutrient levels"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048511">
+<property type="term" value="P:rhythmic process"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031529">
+<property type="term" value="P:ruffle organization"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035176">
+<property type="term" value="P:social behavior"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021510">
+<property type="term" value="P:spinal cord development"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031929">
+<property type="term" value="P:TOR signaling"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0038202">
+<property type="term" value="P:TORC1 signaling"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008542">
+<property type="term" value="P:visual learning"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050882">
+<property type="term" value="P:voluntary musculoskeletal movement"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042060">
+<property type="term" value="P:wound healing"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.10.1070.11">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.120.150">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.25.10.10">
+<property type="match status" value="4"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.25.40.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="IDEAL" id="IID00598"/>
+<dbReference type="InterPro" id="IPR011989">
+<property type="entry name" value="ARM-like"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016024">
+<property type="entry name" value="ARM-type_fold"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR024585">
+<property type="entry name" value="DUF3385_TOR"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003152">
+<property type="entry name" value="FATC_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009076">
+<property type="entry name" value="FRB_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036738">
+<property type="entry name" value="FRB_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011009">
+<property type="entry name" value="Kinase-like_dom_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000403">
+<property type="entry name" value="PI3/4_kinase_cat_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036940">
+<property type="entry name" value="PI3/4_kinase_cat_sf"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR018936">
+<property type="entry name" value="PI3/4_kinase_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003151">
+<property type="entry name" value="PIK-rel_kinase_FAT"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR014009">
+<property type="entry name" value="PIK_FAT"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR026683">
+<property type="entry name" value="TOR"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR011990">
+<property type="entry name" value="TPR-like_helical_dom_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR11139:SF9">
+<property type="entry name" value="PTHR11139:SF9"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF11865">
+<property type="entry name" value="DUF3385"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02259">
+<property type="entry name" value="FAT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02260">
+<property type="entry name" value="FATC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF08771">
+<property type="entry name" value="FRB_dom"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00454">
+<property type="entry name" value="PI3_PI4_kinase"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01346">
+<property type="entry name" value="DUF3385"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM01343">
+<property type="entry name" value="FATC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00146">
+<property type="entry name" value="PI3Kc"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF47212">
+<property type="entry name" value="SSF47212"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF48371">
+<property type="entry name" value="SSF48371"/>
+<property type="match status" value="2"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56112">
+<property type="entry name" value="SSF56112"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51189">
+<property type="entry name" value="FAT"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS51190">
+<property type="entry name" value="FATC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00915">
+<property type="entry name" value="PI3_4_KINASE_1"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00916">
+<property type="entry name" value="PI3_4_KINASE_2"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50290">
+<property type="entry name" value="PI3_4_KINASE_3"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0067">ATP-binding</keyword>
+<keyword id="KW-0090">Biological rhythms</keyword>
+<keyword id="KW-0963">Cytoplasm</keyword>
+<keyword id="KW-0968">Cytoplasmic vesicle</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0256">Endoplasmic reticulum</keyword>
+<keyword id="KW-0887">Epilepsy</keyword>
+<keyword id="KW-0333">Golgi apparatus</keyword>
+<keyword id="KW-0418">Kinase</keyword>
+<keyword id="KW-0458">Lysosome</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0991">Mental retardation</keyword>
+<keyword id="KW-0492">Microsome</keyword>
+<keyword id="KW-0496">Mitochondrion</keyword>
+<keyword id="KW-1000">Mitochondrion outer membrane</keyword>
+<keyword id="KW-0547">Nucleotide-binding</keyword>
+<keyword id="KW-0539">Nucleus</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-0621">Polymorphism</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0677">Repeat</keyword>
+<keyword id="KW-0723">Serine/threonine-protein kinase</keyword>
+<keyword id="KW-0802">TPR repeat</keyword>
+<keyword id="KW-0808">Transferase</keyword>
+<feature type="chain" description="Serine/threonine-protein kinase mTOR" id="PRO_0000088808">
+<location>
+<begin position="1"/>
+<end position="2549"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 1">
+<location>
+<begin position="16"/>
+<end position="53"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 2">
+<location>
+<begin position="55"/>
+<end position="99"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 3">
+<location>
+<begin position="100"/>
+<end position="137"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 4">
+<location>
+<begin position="138"/>
+<end position="179"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 5">
+<location>
+<begin position="180"/>
+<end position="220"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 6">
+<location>
+<begin position="222"/>
+<end position="276"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 7">
+<location>
+<begin position="277"/>
+<end position="313"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 8">
+<location>
+<begin position="314"/>
+<end position="364"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 9">
+<location>
+<begin position="365"/>
+<end position="409"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 10">
+<location>
+<begin position="410"/>
+<end position="445"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 11">
+<location>
+<begin position="446"/>
+<end position="494"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 12">
+<location>
+<begin position="495"/>
+<end position="529"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 13">
+<location>
+<begin position="530"/>
+<end position="563"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 14">
+<location>
+<begin position="564"/>
+<end position="596"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 15">
+<location>
+<begin position="597"/>
+<end position="636"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 16">
+<location>
+<begin position="637"/>
+<end position="683"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 17">
+<location>
+<begin position="686"/>
+<end position="724"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 18">
+<location>
+<begin position="727"/>
+<end position="766"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 19">
+<location>
+<begin position="769"/>
+<end position="811"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 20">
+<location>
+<begin position="814"/>
+<end position="853"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 21">
+<location>
+<begin position="857"/>
+<end position="893"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 22">
+<location>
+<begin position="894"/>
+<end position="942"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 23">
+<location>
+<begin position="943"/>
+<end position="988"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 24">
+<location>
+<begin position="989"/>
+<end position="1027"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 25">
+<location>
+<begin position="1029"/>
+<end position="1068"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 26">
+<location>
+<begin position="1069"/>
+<end position="1105"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 27">
+<location>
+<begin position="1106"/>
+<end position="1144"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 28">
+<location>
+<begin position="1145"/>
+<end position="1188"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 29">
+<location>
+<begin position="1189"/>
+<end position="1225"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 30">
+<location>
+<begin position="1226"/>
+<end position="1273"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 31">
+<location>
+<begin position="1274"/>
+<end position="1311"/>
+</location>
+</feature>
+<feature type="repeat" description="HEAT 32">
+<location>
+<begin position="1312"/>
+<end position="1345"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 1">
+<location>
+<begin position="1346"/>
+<end position="1382"/>
+</location>
+</feature>
+<feature type="domain" description="FAT" evidence="18">
+<location>
+<begin position="1382"/>
+<end position="1982"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 2">
+<location>
+<begin position="1383"/>
+<end position="1408"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 3">
+<location>
+<begin position="1409"/>
+<end position="1442"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 4">
+<location>
+<begin position="1443"/>
+<end position="1473"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 5">
+<location>
+<begin position="1474"/>
+<end position="1507"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 6">
+<location>
+<begin position="1508"/>
+<end position="1541"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 7">
+<location>
+<begin position="1542"/>
+<end position="1574"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 8">
+<location>
+<begin position="1575"/>
+<end position="1614"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 9">
+<location>
+<begin position="1615"/>
+<end position="1649"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 10">
+<location>
+<begin position="1650"/>
+<end position="1693"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 11">
+<location>
+<begin position="1694"/>
+<end position="1731"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 12">
+<location>
+<begin position="1732"/>
+<end position="1786"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 13">
+<location>
+<begin position="1787"/>
+<end position="1846"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 14">
+<location>
+<begin position="1898"/>
+<end position="1930"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 15">
+<location>
+<begin position="1931"/>
+<end position="1970"/>
+</location>
+</feature>
+<feature type="repeat" description="TPR 16">
+<location>
+<begin position="1971"/>
+<end position="2005"/>
+</location>
+</feature>
+<feature type="domain" description="PI3K/PI4K" evidence="17">
+<location>
+<begin position="2182"/>
+<end position="2516"/>
+</location>
+</feature>
+<feature type="domain" description="FATC" evidence="18 19">
+<location>
+<begin position="2517"/>
+<end position="2549"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with NBN" evidence="62">
+<location>
+<begin position="1"/>
+<end position="651"/>
+</location>
+</feature>
+<feature type="region of interest" description="Sufficient for interaction with the FKBP1A/rapamycin complex" evidence="14">
+<location>
+<begin position="2012"/>
+<end position="2144"/>
+</location>
+</feature>
+<feature type="region of interest" description="Interaction with MLST8">
+<location>
+<begin position="2258"/>
+<end position="2296"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylmethionine" evidence="11">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="7 8 10">
+<location>
+<position position="567"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="10">
+<location>
+<position position="1162"/>
+</location>
+</feature>
+<feature type="modified residue" description="N6-acetyllysine" evidence="9">
+<location>
+<position position="1218"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="12 44">
+<location>
+<position position="1261"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="53">
+<location>
+<position position="2159"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="53">
+<location>
+<position position="2164"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by PKB/AKT1" evidence="63">
+<location>
+<position position="2173"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by RPS6KB1" evidence="35">
+<location>
+<position position="2446"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by RPS6KB1" evidence="13 35 42">
+<location>
+<position position="2448"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="6">
+<location>
+<position position="2478"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by autocatalysis" evidence="6 53">
+<location>
+<position position="2481"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a lung large cell carcinoma sample; somatic mutation." id="VAR_041537" evidence="36">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="8"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a metastatic melanoma sample; somatic mutation." id="VAR_041538" evidence="36">
+<original>M</original>
+<variation>T</variation>
+<location>
+<position position="135"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FCORD2; somatic mutation; unknown pathological significance; dbSNP:rs913197212." id="VAR_078824" evidence="67">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="624"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs56164650." id="VAR_041539" evidence="36">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="1083"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs28730685." id="VAR_041540" evidence="36">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="1134"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In dbSNP:rs55975118." id="VAR_041541" evidence="36">
+<original>S</original>
+<variation>F</variation>
+<location>
+<position position="1178"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in a patient with focal epilepsy; unknown pathological significance; dbSNP:rs975577894." id="VAR_078825" evidence="74">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="1376"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FCORD2; somatic mutation." id="VAR_078826" evidence="67">
+<original>Y</original>
+<variation>D</variation>
+<location>
+<position position="1450"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FCORD2; somatic mutation; dbSNP:rs1085307114." id="VAR_078827" evidence="69">
+<original>W</original>
+<variation>G</variation>
+<location>
+<position position="1456"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FCORD2; somatic mutation; increased TOR signaling." id="VAR_078828" evidence="70">
+<original>A</original>
+<variation>D</variation>
+<location>
+<position position="1459"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FCORD2; somatic mutation." id="VAR_078829" evidence="74">
+<original>A</original>
+<variation>S</variation>
+<location>
+<position position="1459"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FCORD2; somatic mutation; increased TOR signaling; dbSNP:rs1057519779." id="VAR_078830" evidence="70 74">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="1460"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FCORD2; somatic mutation; increased TOR signaling; increased kinase activity; dbSNP:rs1057519914." id="VAR_078831" evidence="67">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="1483"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In SKS." id="VAR_078832" evidence="74">
+<original>W</original>
+<variation>R</variation>
+<location>
+<position position="1490"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In SKS; dbSNP:rs869312671." id="VAR_078833" evidence="74">
+<original>M</original>
+<variation>I</variation>
+<location>
+<position position="1595"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FCORD2; somatic mutation; unknown pathological significance; dbSNP:rs587777895." id="VAR_078834" evidence="67">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="1709"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In SKS; results in increased mTOR signaling; dbSNP:rs863225264." id="VAR_075072" evidence="68 71">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="1799"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In SKS; dbSNP:rs369088781." id="VAR_078835" evidence="74">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="1832"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In SKS; dbSNP:rs869312666." id="VAR_078836" evidence="74">
+<original>F</original>
+<variation>C</variation>
+<location>
+<position position="1888"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FCORD2; somatic mutation; dbSNP:rs587777893." id="VAR_078837" evidence="67">
+<original>T</original>
+<variation>K</variation>
+<location>
+<position position="1977"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In an ovarian mucinous carcinoma sample; somatic mutation." id="VAR_041542" evidence="36">
+<original>M</original>
+<variation>V</variation>
+<location>
+<position position="2011"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FCORD2; somatic mutation." id="VAR_078838" evidence="67">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="2193"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FCORD2; somatic mutation; increased TOR signaling; dbSNP:rs587777894." id="VAR_078839" evidence="67 70 74">
+<original>S</original>
+<variation>F</variation>
+<location>
+<position position="2215"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FCORD2; also found in a colorectal adenocarcinoma sample; somatic mutation; increased TOR signaling; dbSNP:rs587777894." id="VAR_041543" evidence="36 70 74">
+<original>S</original>
+<variation>Y</variation>
+<location>
+<position position="2215"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in a renal cell carcinoma sample; somatic mutation." id="VAR_064733" evidence="52">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="2220"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In SKS; dbSNP:rs878855328." id="VAR_078840" evidence="74">
+<original>M</original>
+<variation>I</variation>
+<location>
+<position position="2327"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in a renal cell carcinoma sample; somatic mutation." id="VAR_064734" evidence="52">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="2406"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FCORD2; somatic mutation; increased TOR signaling; increased kinase activity; dbSNP:rs1085307113." id="VAR_078841" evidence="67">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="2427"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In FCORD2; somatic mutation; increased TOR signaling; increased kinase activity; dbSNP:rs1085307113." id="VAR_078842" evidence="67">
+<original>L</original>
+<variation>Q</variation>
+<location>
+<position position="2427"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In a glioblastoma multiforme sample; somatic mutation." id="VAR_041544" evidence="36">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="2476"/>
+</location>
+</feature>
+<feature type="sequence variant" description="Found in a patient with non-lesional nocturnal frontal epilepsy; unknown pathological significance; dbSNP:rs968817513." id="VAR_078843" evidence="74">
+<original>I</original>
+<variation>V</variation>
+<location>
+<position position="2501"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces mTORC1-associated S-2481 autophosphorylation; when associated with A-2164." evidence="53">
+<original>S</original>
+<variation>A</variation>
+<location>
+<position position="2159"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Stronger phosphorylation of RPS6KB1; when associated with E-2164." evidence="53">
+<original>S</original>
+<variation>D</variation>
+<location>
+<position position="2159"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Reduces mTORC1-associated S-2481 autophosphorylation; when associated with A-2159." evidence="53">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="2164"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Stronger phosphorylation of RPS6KB1; when associated with D-2159." evidence="53">
+<original>T</original>
+<variation>E</variation>
+<location>
+<position position="2164"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Increased mTOR kinase activity." evidence="63">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="2173"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Barely detectable kinase activity." evidence="61">
+<original>H</original>
+<variation>A</variation>
+<location>
+<position position="2340"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Kinase-dead mutant, loss of interaction with TM4SF5 and loss of lysosome membrane localization; when associated with I-2364." evidence="77">
+<original>D</original>
+<variation>E</variation>
+<location>
+<position position="2357"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Kinase-dead mutant, loss of interaction with TM4SF5 and loss of lysosome membrane localization; when associated with E-2357." evidence="77">
+<original>V</original>
+<variation>I</variation>
+<location>
+<position position="2364"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC39933." ref="2" evidence="82">
+<original>K</original>
+<variation>N</variation>
+<location>
+<position position="353"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC39933." ref="2" evidence="82">
+<original>S</original>
+<variation>N</variation>
+<location>
+<position position="359"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC39933." ref="2" evidence="82">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="364"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC39933." ref="2" evidence="82">
+<original>M</original>
+<variation>L</variation>
+<location>
+<position position="390"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC39933." ref="2" evidence="82">
+<original>R</original>
+<variation>L</variation>
+<location>
+<position position="430"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC39933." ref="2" evidence="82">
+<original>VLD</original>
+<variation>GVE</variation>
+<location>
+<begin position="455"/>
+<end position="457"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC39933." ref="2" evidence="82">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="461"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC39933." ref="2" evidence="82">
+<original>VFT</original>
+<variation>FFN</variation>
+<location>
+<begin position="482"/>
+<end position="484"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC39933." ref="2" evidence="82">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="489"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC39933." ref="2" evidence="82">
+<original>L</original>
+<variation>I</variation>
+<location>
+<position position="513"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC39933." ref="2" evidence="82">
+<original>L</original>
+<variation>V</variation>
+<location>
+<position position="539"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC39933." ref="2" evidence="82">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="553"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 3; BAE06077." ref="3" evidence="82">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="857"/>
+</location>
+</feature>
+<feature type="sequence conflict" description="In Ref. 2; AAC39933." ref="2" evidence="82">
+<original>I</original>
+<variation>S</variation>
+<location>
+<position position="1075"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1386"/>
+<end position="1406"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1410"/>
+<end position="1421"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="1422"/>
+<end position="1424"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1426"/>
+<end position="1439"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1446"/>
+<end position="1452"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1456"/>
+<end position="1469"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1474"/>
+<end position="1487"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1490"/>
+<end position="1498"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="1501"/>
+<end position="1503"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1506"/>
+<end position="1523"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1526"/>
+<end position="1535"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="1538"/>
+<end position="1540"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1541"/>
+<end position="1553"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1557"/>
+<end position="1577"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="1584"/>
+<end position="1586"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1587"/>
+<end position="1605"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="1606"/>
+<end position="1608"/>
+</location>
+</feature>
+<feature type="helix" evidence="3">
+<location>
+<begin position="1609"/>
+<end position="1611"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1613"/>
+<end position="1624"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1630"/>
+<end position="1640"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="1641"/>
+<end position="1643"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="1646"/>
+<end position="1648"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1650"/>
+<end position="1663"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1666"/>
+<end position="1677"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="1681"/>
+<end position="1684"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1694"/>
+<end position="1706"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1710"/>
+<end position="1729"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1738"/>
+<end position="1761"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1768"/>
+<end position="1782"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="1783"/>
+<end position="1785"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1787"/>
+<end position="1813"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1868"/>
+<end position="1893"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="1896"/>
+<end position="1898"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1900"/>
+<end position="1913"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1917"/>
+<end position="1929"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1932"/>
+<end position="1938"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1939"/>
+<end position="1943"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="1944"/>
+<end position="1947"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1951"/>
+<end position="1966"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1969"/>
+<end position="1971"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1973"/>
+<end position="1980"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="1985"/>
+<end position="2020"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="2025"/>
+<end position="2039"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="2044"/>
+<end position="2058"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="2065"/>
+<end position="2091"/>
+</location>
+</feature>
+<feature type="helix" evidence="1">
+<location>
+<begin position="2094"/>
+<end position="2111"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="2115"/>
+<end position="2117"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2119"/>
+<end position="2122"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2123"/>
+<end position="2126"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2128"/>
+<end position="2132"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2137"/>
+<end position="2139"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="2141"/>
+<end position="2143"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2146"/>
+<end position="2148"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2152"/>
+<end position="2156"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2158"/>
+<end position="2162"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2165"/>
+<end position="2167"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2170"/>
+<end position="2176"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2181"/>
+<end position="2189"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2193"/>
+<end position="2211"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2213"/>
+<end position="2217"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2227"/>
+<end position="2229"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2231"/>
+<end position="2233"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2235"/>
+<end position="2238"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2243"/>
+<end position="2245"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2246"/>
+<end position="2256"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2263"/>
+<end position="2271"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2275"/>
+<end position="2277"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2280"/>
+<end position="2292"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2298"/>
+<end position="2306"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2310"/>
+<end position="2334"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="2341"/>
+<end position="2343"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2344"/>
+<end position="2347"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="2348"/>
+<end position="2350"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2353"/>
+<end position="2355"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2364"/>
+<end position="2367"/>
+</location>
+</feature>
+<feature type="strand" evidence="5">
+<location>
+<begin position="2369"/>
+<end position="2371"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2381"/>
+<end position="2386"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="2389"/>
+<end position="2394"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2395"/>
+<end position="2409"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2411"/>
+<end position="2422"/>
+</location>
+</feature>
+<feature type="turn" evidence="5">
+<location>
+<begin position="2425"/>
+<end position="2428"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2429"/>
+<end position="2432"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2433"/>
+<end position="2435"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2493"/>
+<end position="2509"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="2512"/>
+<end position="2516"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2521"/>
+<end position="2533"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2535"/>
+<end position="2540"/>
+</location>
+</feature>
+<feature type="helix" evidence="5">
+<location>
+<begin position="2543"/>
+<end position="2545"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4DRI"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4JSP"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4JSX"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4JT5"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5WBY"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="18669648"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="18691976"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19369195"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="19608861"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="20068231"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="22814378"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="23186163"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000244">
+<source>
+<dbReference type="PubMed" id="24275569"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000250"/>
+<evidence key="15" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="P42346"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000250">
+<source>
+<dbReference type="UniProtKB" id="Q9JLN9"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00269"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00534"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000255">
+<source>
+<dbReference type="PROSITE-ProRule" id="PRU00535"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10089303"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11853878"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11930000"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12087098"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12150925"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12150926"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12231510"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12408816"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12718876"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14578359"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="14651849"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15268862"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15467718"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15545625"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15718470"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15905173"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17344846"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17386266"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17599906"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18497260"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18762023"/>
+</source>
+</evidence>
+<evidence key="41" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18925875"/>
+</source>
+</evidence>
+<evidence key="42" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19145465"/>
+</source>
+</evidence>
+<evidence key="43" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19446321"/>
+</source>
+</evidence>
+<evidence key="44" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19487463"/>
+</source>
+</evidence>
+<evidence key="45" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20381137"/>
+</source>
+</evidence>
+<evidence key="46" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20427287"/>
+</source>
+</evidence>
+<evidence key="47" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20516213"/>
+</source>
+</evidence>
+<evidence key="48" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20537536"/>
+</source>
+</evidence>
+<evidence key="49" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20542007"/>
+</source>
+</evidence>
+<evidence key="50" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20801936"/>
+</source>
+</evidence>
+<evidence key="51" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20810650"/>
+</source>
+</evidence>
+<evidence key="52" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21248752"/>
+</source>
+</evidence>
+<evidence key="53" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21576368"/>
+</source>
+</evidence>
+<evidence key="54" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="21659604"/>
+</source>
+</evidence>
+<evidence key="55" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22343943"/>
+</source>
+</evidence>
+<evidence key="56" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22576015"/>
+</source>
+</evidence>
+<evidence key="57" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="22692423"/>
+</source>
+</evidence>
+<evidence key="58" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23027611"/>
+</source>
+</evidence>
+<evidence key="59" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23429703"/>
+</source>
+</evidence>
+<evidence key="60" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23429704"/>
+</source>
+</evidence>
+<evidence key="61" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23636326"/>
+</source>
+</evidence>
+<evidence key="62" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23762398"/>
+</source>
+</evidence>
+<evidence key="63" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="24247430"/>
+</source>
+</evidence>
+<evidence key="64" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25561175"/>
+</source>
+</evidence>
+<evidence key="65" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25567906"/>
+</source>
+</evidence>
+<evidence key="66" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25657994"/>
+</source>
+</evidence>
+<evidence key="67" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25799227"/>
+</source>
+</evidence>
+<evidence key="68" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25851998"/>
+</source>
+</evidence>
+<evidence key="69" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="25878179"/>
+</source>
+</evidence>
+<evidence key="70" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26018084"/>
+</source>
+</evidence>
+<evidence key="71" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26542245"/>
+</source>
+</evidence>
+<evidence key="72" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="26812014"/>
+</source>
+</evidence>
+<evidence key="73" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27623384"/>
+</source>
+</evidence>
+<evidence key="74" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="27830187"/>
+</source>
+</evidence>
+<evidence key="75" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="29750193"/>
+</source>
+</evidence>
+<evidence key="76" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30704899"/>
+</source>
+</evidence>
+<evidence key="77" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="30956113"/>
+</source>
+</evidence>
+<evidence key="78" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="31036939"/>
+</source>
+</evidence>
+<evidence key="79" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="7809080"/>
+</source>
+</evidence>
+<evidence key="80" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8662507"/>
+</source>
+</evidence>
+<evidence key="81" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9434772"/>
+</source>
+</evidence>
+<evidence key="82" type="ECO:0000305"/>
+<sequence length="2549" mass="288892" checksum="7D9AD6E784882AB4" modified="1995-11-01" version="1">MLGTGPAAATTAATTSSNVSVLQQFASGLKSRNEETRAKAAKELQHYVTMELREMSQEESTRFYDQLNHHIFELVSSSDANERKGGILAIASLIGVEGGNATRIGRFANYLRNLLPSNDPVVMEMASKAIGRLAMAGDTFTAEYVEFEVKRALEWLGADRNEGRRHAAVLVLRELAISVPTFFFQQVQPFFDNIFVAVWDPKQAIREGAVAALRACLILTTQREPKEMQKPQWYRHTFEEAEKGFDETLAKEKGMNRDDRIHGALLILNELVRISSMEGERLREEMEEITQQQLVHDKYCKDLMGFGTKPRHITPFTSFQAVQPQQSNALVGLLGYSSHQGLMGFGTSPSPAKSTLVESRCCRDLMEEKFDQVCQWVLKCRNSKNSLIQMTILNLLPRLAAFRPSAFTDTQYLQDTMNHVLSCVKKEKERTAAFQALGLLSVAVRSEFKVYLPRVLDIIRAALPPKDFAHKRQKAMQVDATVFTCISMLARAMGPGIQQDIKELLEPMLAVGLSPALTAVLYDLSRQIPQLKKDIQDGLLKMLSLVLMHKPLRHPGMPKGLAHQLASPGLTTLPEASDVGSITLALRTLGSFEFEGHSLTQFVRHCADHFLNSEHKEIRMEAARTCSRLLTPSIHLISGHAHVVSQTAVQVVADVLSKLLVVGITDPDPDIRYCVLASLDERFDAHLAQAENLQALFVALNDQVFEIRELAICTVGRLSSMNPAFVMPFLRKMLIQILTELEHSGIGRIKEQSARMLGHLVSNAPRLIRPYMEPILKALILKLKDPDPDPNPGVINNVLATIGELAQVSGLEMRKWVDELFIIIMDMLQDSSLLAKRQVALWTLGQLVASTGYVVEPYRKYPTLLEVLLNFLKTEQNQGTRREAIRVLGLLGALDPYKHKVNIGMIDQSRDASAVSLSESKSSQDSSDYSTSEMLVNMGNLPLDEFYPAVSMVALMRIFRDQSLSHHHTMVVQAITFIFKSLGLKCVQFLPQVMPTFLNVIRVCDGAIREFLFQQLGMLVSFVKSHIRPYMDEIVTLMREFWVMNTSIQSTIILLIEQIVVALGGEFKLYLPQLIPHMLRVFMHDNSPGRIVSIKLLAAIQLFGANLDDYLHLLLPPIVKLFDAPEAPLPSRKAALETVDRLTESLDFTDYASRIIHPIVRTLDQSPELRSTAMDTLSSLVFQLGKKYQIFIPMVNKVLVRHRINHQRYDVLICRIVKGYTLADEEEDPLIYQHRMLRSGQGDALASGPVETGPMKKLHVSTINLQKAWGAARRVSKDDWLEWLRRLSLELLKDSSSPSLRSCWALAQAYNPMARDLFNAAFVSCWSELNEDQQDELIRSIELALTSQDIAEVTQTLLNLAEFMEHSDKGPLPLRDDNGIVLLGERAAKCRAYAKALHYKELEFQKGPTPAILESLISINNKLQQPEAAAGVLEYAMKHFGELEIQATWYEKLHEWEDALVAYDKKMDTNKDDPELMLGRMRCLEALGEWGQLHQQCCEKWTLVNDETQAKMARMAAAAAWGLGQWDSMEEYTCMIPRDTHDGAFYRAVLALHQDLFSLAQQCIDKARDLLDAELTAMAGESYSRAYGAMVSCHMLSELEEVIQYKLVPERREIIRQIWWERLQGCQRIVEDWQKILMVRSLVVSPHEDMRTWLKYASLCGKSGRLALAHKTLVLLLGVDPSRQLDHPLPTVHPQVTYAYMKNMWKSARKIDAFQHMQHFVQTMQQQAQHAIATEDQQHKQELHKLMARCFLKLGEWQLNLQGINESTIPKVLQYYSAATEHDRSWYKAWHAWAVMNFEAVLHYKHQNQARDEKKKLRHASGANITNATTAATTAATATTTASTEGSNSESEAESTENSPTPSPLQKKVTEDLSKTLLMYTVPAVQGFFRSISLSRGNNLQDTLRVLTLWFDYGHWPDVNEALVEGVKAIQIDTWLQVIPQLIARIDTPRPLVGRLIHQLLTDIGRYHPQALIYPLTVASKSTTTARHNAANKILKNMCEHSNTLVQQAMMVSEELIRVAILWHEMWHEGLEEASRLYFGERNVKGMFEVLEPLHAMMERGPQTLKETSFNQAYGRDLMEAQEWCRKYMKSGNVKDLTQAWDLYYHVFRRISKQLPQLTSLELQYVSPKLLMCRDLELAVPGTYDPNQPIIRIQSIAPSLQVITSKQRPRKLTLMGSNGHEFVFLLKGHEDLRQDERVMQLFGLVNTLLANDPTSLRKNLSIQRYAVIPLSTNSGLIGWVPHCDTLHALIRDYREKKKILLNIEHRIMLRMAPDYDHLTLMQKVEVFEHAVNNTAGDDLAKLLWLKSPSSEVWFDRRTNYTRSLAVMSMVGYILGLGDRHPSNLMLDRLSGKILHIDFGDCFEVAMTREKFPEKIPFRLTRMLTNAMEVTGLDGNYRITCHTVMEVLREHKDSVMAVLEAFVYDPLLNWRLMDTNTKGNKRSRTRTDSYSAGQSVEILDGVELGEPAHKKTGTTVPESIHSFIGDGLVKPEALNKKAIQIINRVRDKLTGRDFSHDDTLDVPTQVELLIKQATSHENLCQCYIGWCPFW</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
+

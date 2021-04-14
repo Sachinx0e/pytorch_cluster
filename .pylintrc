@@ -1,0 +1,14 @@
+[MASTER]
+disable=all
+jobs=8
+init-hook='import sys; sys.path.append("src")'
+enable=import-error,
+       import-self,
+       missing-member-hint,
+       no-value-for-parameter,
+       undefined-variable,
+       used-before-assignment,
+       no-name-in-module,
+       possibly-unused-variable,
+       redefined-outer-name,
+       unused-variable
