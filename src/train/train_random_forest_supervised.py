@@ -1,3 +1,4 @@
+from random import seed
 from loguru import logger
 import networkx as nx
 import pandas as pd
@@ -43,6 +44,7 @@ def train(
           show_progress=False,
           save=False,
           predict=False,
+          perform_testing=False,
           idg_predictions_file="results/predictions/idg_predictions_test.csv",
           iptmnet_predictions_file="results/predictions/iptmnet_understudied_predictions_test.csv" 
         ):
@@ -55,10 +57,13 @@ def train(
 
     # positive edges
     positive_edges = list(iptmnet_graph.edges())
+
+    positive_edges, val_edges = train_test_split(positive_edges,random_state=20,shuffle=True)
     
     # filter experimental edges
     if experimental_edges is None:
         experimental_edges = du.get_experimental_edges()
+        print(len(experimental_edges))
     logger.info(f"Before filtering : {len(positive_edges)}")
     positive_edges = gu.filter_edges(positive_edges,experimental_edges)
     logger.info(f"After filtering : {len(positive_edges)}")
@@ -177,7 +182,45 @@ def train(
         # predict idg
         predictions_pd = _predict(grid,iptmnet_graph,embeddings_pd,edge_operator,show_progress,"idg")
         predictions_pd.to_csv(idg_predictions_file,index=False)
-        logger.info(f"Predictions saved to {idg_predictions_file}")              
+        logger.info(f"Predictions saved to {idg_predictions_file}")
+
+    if perform_testing == True:
+       
+       # get negatives for experimental edges
+       positive_val_edges = experimental_edges
+       negative_val_edges = gu.sample_negative_edges(positive_val_edges,num_negative=1)
+
+       # get labels
+       positive_val_labels = np.ones((len(positive_val_edges),))
+       negative_val_labels = np.zeros((len(negative_val_edges),))
+
+       # combine both positive and negative
+       val_edges = positive_val_edges + negative_val_edges
+
+       # combine labels
+       val_labels = np.concatenate([positive_val_labels, negative_val_labels],axis=0)
+
+       # shuffle them
+       val_edges, val_labels = shuffle(val_edges,val_labels,random_state=20)
+
+        # get edge embeddings
+       val_edge_embeddings = utils.get_embeddings_vector(val_edges,embeddings_pd,operator=edge_operator,show_progress=show_progress)
+
+       # predict
+       val_labels_predicted = grid.predict(val_edge_embeddings)
+       val_labels_predicted_proba = grid.predict_proba(val_edge_embeddings)
+
+       # calculate scores
+       scores = {
+            "f1" : f1_score(val_labels,val_labels_predicted,average="binary",pos_label=1),
+            "recall" : recall_score(val_labels,val_labels_predicted,average="binary",pos_label=1),
+            "precision" : precision_score(val_labels,val_labels_predicted,average="binary",pos_label=1),
+            "au_roc": roc_auc_score(val_labels,val_labels_predicted_proba[:,1]),
+            "au_pr": average_precision_score(val_labels,val_labels_predicted_proba[:,1])
+        }
+
+       logger.info(scores)  
+
 
     return scores
 

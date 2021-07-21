@@ -27,6 +27,9 @@ def embed(iptmnet_graph=None,
         iptmnet_graph_file = "data/input/iptmnet_graph_cleaned_directed.gml"
         logger.info(f"Loading data from {iptmnet_graph_file}")
         iptmnet_graph = nx.read_gml(iptmnet_graph_file)
+
+    # remove experimentally validated edges
+    
         
     # print summary
     logger.info(f"Number of nodes : {len(iptmnet_graph.nodes())}")

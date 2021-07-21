@@ -55,12 +55,13 @@ elif command == "build_features_only_go_mp":
     feature_builder.build_features_only_go_term_type(None,"mp")
 elif command == "train_supervised_rf":
     from train import train_random_forest_supervised
-    train_random_forest_supervised.train(max_depth=10,
-                                         criterion="gini",
-                                         max_features="auto",
-                                         min_samples_split=100,
-                                         min_samples_leaf=10,
-                                         predict=True
+    train_random_forest_supervised.train(max_depth=0.8,
+                                         criterion="entropy",
+                                         max_features="log2",
+                                         min_samples_split=52,
+                                         min_samples_leaf=9,
+                                         predict=False,
+                                         perform_testing=True
                                         )
                                         
 # ************* EXPERIMENTS *********** #
