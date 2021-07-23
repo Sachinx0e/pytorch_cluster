@@ -94,6 +94,7 @@ def get_embedding_vector_for_edge(edge,embeddings_pd,operator="l1"):
     source_node = edge[0]
     target_node = edge[1]
     source_embedding = embeddings_pd[embeddings_pd["protein"] == source_node].drop(columns=["protein"]).to_numpy()
+
     target_embedding = embeddings_pd[embeddings_pd["protein"] == target_node].drop(columns=["protein"]).to_numpy()
     
     # if we get empty vectors then zero arrs

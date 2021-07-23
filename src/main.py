@@ -61,6 +61,7 @@ elif command == "train_supervised_rf":
                                          min_samples_split=52,
                                          min_samples_leaf=9,
                                          predict=False,
+                                         plots=True,
                                          perform_testing=True
                                         )
                                         

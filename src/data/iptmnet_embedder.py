@@ -4,6 +4,7 @@ import torch
 from torch_geometric.nn import Node2Vec
 from tqdm import tqdm
 import pandas as pd
+from sklearn.model_selection import train_test_split
 
 def embed(iptmnet_graph=None,
           embedding_dim=128,
@@ -28,13 +29,23 @@ def embed(iptmnet_graph=None,
         logger.info(f"Loading data from {iptmnet_graph_file}")
         iptmnet_graph = nx.read_gml(iptmnet_graph_file)
 
-    # remove experimentally validated edges
-    
-        
     # print summary
     logger.info(f"Number of nodes : {len(iptmnet_graph.nodes())}")
     logger.info(f"Number of edges : {len(iptmnet_graph.edges())}")
 
+    # remove experimentally validated edges
+    import data.data_utils as du
+    experimental_edges = du.get_experimental_edges()
+    positive_edges = list(iptmnet_graph.edges())
+    _, val_edges = train_test_split(positive_edges,random_state=20,shuffle=True,test_size=0.10)
+    edges_to_remove = experimental_edges + val_edges
+
+    iptmnet_graph.remove_edges_from(edges_to_remove)
+
+    # print summary
+    logger.info(f"Number of nodes after removing experimental : {len(iptmnet_graph.nodes())}")
+    logger.info(f"Number of edges after removing experimental: {len(iptmnet_graph.edges())}")       
+    
     # convert to pytorch-geomtric dataset
     from torch_geometric.utils import from_networkx
     logger.info("Converting to torch_geomtric data")

@@ -57,23 +57,23 @@ def train(
 
     # positive edges
     positive_edges = list(iptmnet_graph.edges())
-
-    positive_edges, val_edges = train_test_split(positive_edges,random_state=20,shuffle=True)
-    
+        
     # filter experimental edges
     if experimental_edges is None:
         experimental_edges = du.get_experimental_edges()
-        print(len(experimental_edges))
+
     logger.info(f"Before filtering : {len(positive_edges)}")
     positive_edges = gu.filter_edges(positive_edges,experimental_edges)
     logger.info(f"After filtering : {len(positive_edges)}")
+
+    positive_edges, val_edges = train_test_split(positive_edges,random_state=20,shuffle=True)
 
     # split into train and test
     positive_edges_train, positive_edges_test = train_test_split(positive_edges,random_state=20,shuffle=True)
 
     # sample negative edges for both train and test sets
-    negative_edges_train = gu.sample_negative_edges(positive_edges_train,seed=20,show_progress=show_progress)
-    negative_edges_test = gu.sample_negative_edges(positive_edges_test,seed=20,show_progress=show_progress)
+    negative_edges_train = gu.sample_negative_edges(positive_edges_train,seed=20,show_progress=show_progress,num_negative=1)
+    negative_edges_test = gu.sample_negative_edges(positive_edges_test,seed=20,show_progress=show_progress,num_negative=1)
 
     # create labels
     positive_train_labels = np.ones((len(positive_edges_train),))
@@ -187,8 +187,8 @@ def train(
     if perform_testing == True:
        
        # get negatives for experimental edges
-       positive_val_edges = experimental_edges
-       negative_val_edges = gu.sample_negative_edges(positive_val_edges,num_negative=1)
+       positive_val_edges = experimental_edges + val_edges
+       negative_val_edges = gu.sample_negative_edges_for_testing(positive_val_edges,positive_edges+positive_val_edges,num_negative=1)
 
        # get labels
        positive_val_labels = np.ones((len(positive_val_edges),))

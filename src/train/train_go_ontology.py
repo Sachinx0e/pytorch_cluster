@@ -43,7 +43,7 @@ def train():
     np.random.seed(seed)
 
     # data
-    data_folder="/home/sachin/Projects/kinome_explore/data"
+    data_folder="/home/sachin/Projects/kinome-explore/data"
     go_file = f"{data_folder}/input/ontology/go.obo"
     iptmnet_graph_file = f"{data_folder}/input/iptmnet_graph_cleaned_directed.gml"
     experimental_edges_file = f"{data_folder}/input/dark_kinase_substrates.txt"
@@ -118,7 +118,8 @@ def train():
         edge_operator=config["rf_edge_operator"],
         plots=True,
         show_progress=True,
-        save=True
+        save=True,
+        perform_testing=True
     )
 
     print(scores)
