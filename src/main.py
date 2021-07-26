@@ -91,6 +91,11 @@ elif command == "ptm_event_report":
     from report import ptm_event_report
     ptm_event_report.report()
 
+# ********** TEST **************** 
+elif command == "go_embedding_test":
+    from data import go_embedding_torch
+    go_embedding_torch.test()
+
 # *********** TRAIN ************** #
 elif command == "train_go_ontology":
     from train import train_go_ontology

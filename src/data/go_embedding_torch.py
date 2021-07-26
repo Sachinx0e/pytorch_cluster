@@ -21,7 +21,8 @@ def build(seed=10,
           patience=10,
           early_stopping_delta=0.0001,
           show_progress=True,
-          device=None
+          device=None,
+          subsample=False,
         ):
 
     torch.manual_seed(seed)
@@ -41,6 +42,13 @@ def build(seed=10,
 
     # reverse the direction of edges so that root nodes have highest degree
     go_graph = go_graph.reverse()
+
+    if subsample:
+        import random
+        random.seed(seed)
+        sampled_nodes = random.sample(list(go_graph.nodes()),10000)
+        go_graph = go_graph.subgraph(sampled_nodes)
+
     
     # print summary
     logger.info(f"Number of nodes : {len(go_graph.nodes())}")
@@ -155,8 +163,11 @@ def build(seed=10,
 
     return embeddings_df
 
-if __name__ == "__main__":
-    build()
+
+def test():
+    build(
+        save=False
+    )
 
     
 
